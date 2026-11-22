@@ -1,0 +1,2496 @@
+text_source,text_translation,alignment,score,preds,response
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+a soccer ball,a ball,SPE1,4,2, 2: Related but Different
+chasing,chasing,EQUI,5,5, 5: Completely Equivalent.
+in a blue and white team uniform,in a blue soccer uniform,SPE2,3,2, 2: Related but Different
+A child,A young boy,SPE2,4,2, 2: Related but Different.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A man,A man and a woman,SPE1,3,1, 1: Slightly Related.
+in a gray suit,-not aligned-,NOALI,0,0, 0: No Relation.
+a bicycle,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,on a city street,NOALI,0,0, 0: No Relation.
+-not aligned-,standing,NOALI,0,0, 0: No Relation.
+locking up,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+in in a car,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,is biting,NOALI,0,0, 0: No Relation.
+A dog,A dog,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,a mop,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+walking,is walking,EQUI,5,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+beside a pool,along the side of a pool,EQUI,5,2, 2: Related but Different.
+A black dog,A black dog,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+is looking up,watch,SPE1,4,1, 1: Slightly Related.
+-not aligned-,the pool,NOALI,0,0, 0: No Relation.
+The boy,the boy,EQUI,5,5, 5: Completely Equivalent.
+them,-not aligned-,NOALI,0,0, 0: No Relation.
+ignores,-not aligned-,NOALI,0,0, 0: No Relation.
+at the girl as another girl,as the couple,SPE1,3,1, 1: Slightly Related.
+-not aligned-,is diving into,NOALI,0,0, 0: No Relation.
+holding,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+Two women,Two ladies,SPE2,4,3, 3: Some Similarity.
+checkered flags,-not aligned-,NOALI,0,0, 0: No Relation.
+near an orange car,next to an old fashioned car,SIMI,3,2, 2: Related but Different
+-not aligned-,pose,NOALI,0,0, 0: No Relation.
+-not aligned-,in skimpy clothes,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+with a backpack,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+on a misty mountain top,a rocky hill with fog surrounding him,EQUI,5,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+is up,climbing,SPE2,4,2, 2: Related but Different.
+A hiker,A hiker,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+in running,runs,EQUI,5,2, 2: Related but Different
+A brown dog,A brown dog,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+on grass,through the grass,EQUI,5,2, 2: Related but Different
+returns,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+the play toy,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,in the snow,NOALI,0,0, 0: No Relation.
+The dog,Three dogs,SPE1,2,1, 1: Slightly Related.
+-not aligned-,together,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,race,NOALI,0,0, 0: No Relation.
+to its master,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+across a grassy path,in a grassy area,EQUI,5,3, 3: Some Similarity.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+two dogs,Two dogs,EQUI,5,5, 5: Completely Equivalent.
+are running,are,SPE1,3,1, 1: Slightly Related.
+with her arms,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,holding,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A woman,A man,SIMI,3,0, 0: No Relation.
+takes,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,in a crowd,NOALI,0,0, 0: No Relation.
+a picture,-not aligned-,NOALI,0,0, 0: No Relation.
+while another,-not aligned-,NOALI,0,0, 0: No Relation.
+at her sides,-not aligned-,NOALI,0,0, 0: No Relation.
+stands,stands,EQUI,5,5, 5: Completely Equivalent.
+out,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,a white object,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+an orange Frisbee,a red Frisbee,SIMI,4,1, 1: Slightly Related
+is jumping,jumping,EQUI,5,4, 4: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+to catch,to catch,EQUI,5,5, 5: Completely Equivalent.
+in the air,in the air,EQUI,5,5, 5: Completely Equivalent.
+A dog,a white dog,SPE2,4,2, 2: Related but Different
+are posing,posing,EQUI,5,3, 3: Some Similarity.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+with a blue shirt,-not aligned-,NOALI,0,0, 0: No Relation.
+A woman and a man,a man and a woman,EQUI,5,3, 3: Some Similarity.
+for a photograph,for a picture,EQUI,5,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+Three people,Three people,EQUI,5,3, 3: Some Similarity.
+in an outdoor glass structure,in a glass structure,SPE1,4,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+stand,-not aligned-,NOALI,0,0, 0: No Relation.
+wearing,wearing,EQUI,5,4, 4: Completely Equivalent.
+a denim shirt,a denim jacket,SIMI,4,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+sticks out,sticks out,EQUI,5,3, 3: Some Similarity.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+his tongue,his tongue,EQUI,5,5, 5: Completely Equivalent.
+Young boy,A young boy,EQUI,5,4, 4: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+is walking,-not aligned-,NOALI,0,0, 0: No Relation.
+A brown dog,A dog,SPE1,4,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+on the grass,by a tree,REL,3,1, 1: Slightly Related.
+-not aligned-,chases,NOALI,0,0, 0: No Relation.
+-not aligned-,another,NOALI,0,0, 0: No Relation.
+playing,playing,EQUI,5,5, 5: Completely Equivalent.
+Three boys,Three boys,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+soccer,soccer,EQUI,5,5, 5: Completely Equivalent.
+in a field,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,with a wooded area,NOALI,0,1, 1: Slightly Related.
+a skateboard,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+in the air,-not aligned-,NOALI,0,0, 0: No Relation.
+above a ramp,along a track element,SPE1,3,2, 2: Related but Different
+is riding,is riding,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+A person,A biker,SPE2,3,1, 1: Slightly Related.
+-not aligned-,located,NOALI,0,0, 0: No Relation.
+playing,leaping,SPE2,3,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+Brown and white dog,Black and white dog,SIMI,4,2, 2: Related but Different
+in the grass,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,for Frisbee,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+is jumping,swimming,SIMI,2,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A boy,A little boy,SPE2,4,2, 2: Related but Different
+in his hand,in his hand,EQUI,5,3, 3: Some Similarity.
+with a ball,with a toy,SPE1,4,1, 1: Slightly Related.
+into the water,underwater,EQUI,5,2, 2: Related but Different.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+jumps,jumping over,EQUI,5,1, 1: Slightly Related.
+a fence,a fence,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+A deer,A deer,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+to two boys,two boys,EQUI,5,3, 3: Some Similarity.
+-not aligned-,and,NOALI,0,0, 0: No Relation.
+-not aligned-,standing,NOALI,0,0, 0: No Relation.
+in black,-not aligned-,NOALI,0,0," Label=0: No Relation.
+
+Chunk 1: ""The cat sat on the mat.""
+Chunk 2: ""The dog ran through the park.""
+
+Explanation: The two sentences do not share any common subject, predicate, or context, making them unrelated in meaning, structure, or relevance."
+Two young girls,two girls,SPE1,4,3, 3: Some Similarity.
+with dyed hair,with pink streaked hair,SPE2,3,2, 2: Related but Different
+-not aligned-,next to a concrete building,NOALI,0,0, 0: No Relation.
+-not aligned-,with black hair,NOALI,0,0, 0: No Relation.
+talk,-not aligned-,NOALI,1,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+at the beach,in the grass,SIMI,2,1, 1: Slightly Related.
+Light brown dog,A brown dog,SPE1,4,3, 3: Some Similarity.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+towards something,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,a blond one,NOALI,0,0, 0: No Relation.
+running,chases,SPE2,3,1," 1: Slightly Related. Both chunks are related to movement, but ""running"" is a more general term that can include various activities, while ""chases"" implies pursuit, which is a specific type of movement."
+with a messenger bag,-not aligned-,NOALI,0,0, 0: No Relation.
+in front of a gray tile wall,in front of lighthouse,REL,2,0, 0: No Relation.
+-not aligned-,standing,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,in red jacket,NOALI,0,0, 0: No Relation.
+A man,Man,EQUI,5,3, 3: Some Similarity.
+and,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+a camera,a large camera,SPE2,4,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+holding,is holding,EQUI,5,1, 1: Slightly Related.
+A man crouching,The crouching man,EQUI,5,3, 3: Some Similarity.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+wearing,-not aligned-,NOALI,0,0, 0: No Relation.
+a pink coat,in a pink jacket,SIMI,4,2, 2: Related but Different
+in rain puddles,through a large puddle,SPE2,3,2, 2: Related but Different
+splashes,is walking,SPE1,2,0, 0: No Relation.
+A girl,A girl,EQUI,5,5, 5: Completely Equivalent.
+rollerblading,sliding,EQUI,5,1," 1: Slightly Related. Both activities involve movement, but rollerblading is a specific form of sliding that involves wheels and skates."
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+on a metal bar,on a railing,EQUI,5,1, 1: Slightly Related.
+A man,Roller blades,SPE1,4,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A small dog,a brown dog,SIMI,3,2, 2: Related but Different
+with a ball,with a tennis ball,SPE2,5,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,outside,NOALI,0,0, 0: No Relation.
+-not aligned-,is,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,There,NOALI,0,0, 0: No Relation.
+jumping,swimming,SIMI,2,0, 0: No Relation.
+in its mouth,in its mouth,EQUI,5,5, 5: Completely Equivalent.
+Kids,Two dogs,SPE2,2,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+in the park,by the shore,SIMI,2,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+playing ball,playing,SPE1,4,1, 1: Slightly Related.
+in a black dress,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,watches,NOALI,0,0, 0: No Relation.
+on the street,down the stairs,REL,2,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,a dog,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+Woman,A woman,EQUI,5,3, 3: Some Similarity.
+-not aligned-,jump,NOALI,0,0, 0: No Relation.
+walking,-not aligned-,NOALI,0,0, 0: No Relation.
+Five men,Five men,EQUI,5,5, 5: Completely Equivalent.
+standing on,are walking down,OPPO,4,1," 1: Slightly Related. Both chunks refer to actions, but they describe different actions (standing vs walking)."
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+in tuxedos,in tuxedos,EQUI,5,5, 5: Completely Equivalent.
+dressed,-not aligned-,NOALI,0,0, 0: No Relation.
+a set of stairs,steps,EQUI,5,2, 2: Related but Different
+A dog,A brown and white dog,SPE2,4,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+is running,running,EQUI,5,4, 4: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,on grass,NOALI,0,0, 0: No Relation.
+toward the camera,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+a dog,A small dog,SPE2,4,2, 2: Related but Different
+jumps,leaps,EQUI,5,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+into the water,in the water,EQUI,5,3, 3: Some Similarity.
+Two large dogs,Two brindle dogs,SIMI,4,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+running,running,EQUI,5,5, 5: Completely Equivalent.
+in some grass,in the grass,SPE2,4,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+in the pool,into a pool,EQUI,5,2, 2: Related but Different
+at the bottom,-not aligned-,NOALI,0,0, 0: No Relation.
+A boy,A boy,EQUI,5,5, 5: Completely Equivalent.
+stands,splashes,SPE2,2,1, 1: Slightly Related.
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,ejected,NOALI,0,0, 0: No Relation.
+of a blue water slide,from a water slide,SPE1,4,2, 2: Related but Different
+down a snowy hill,sledding,REL,4,3, 3: Some Similarity.
+-not aligned-,go,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+ride,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+saucers,-not aligned-,NOALI,0,0, 0: No Relation.
+Two children,Two children,EQUI,5,5, 5: Completely Equivalent.
+a snowy hill,a snowy hill,EQUI,5,5, 5: Completely Equivalent.
+A person,A person,EQUI,5,3, 3: Some Similarity.
+while their dog,while a black dog,SPE2,4,2, 2: Related but Different
+follows,follows,EQUI,5,3, 3: Some Similarity.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+climbs up,climbs,SPE1,4,1, 1: Slightly Related.
+is jumping,jumping,EQUI,5,4, 4: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+A child,A dog,SIMI,3,0, 0: No Relation.
+into a swimming pool,into a swimming pool,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+sit,sit,EQUI,5,5, 5: Completely Equivalent.
+on tall stools,on tall bar stools,SPE2,4,2, 2: Related but Different
+at a resturaunt bar,at a yellow and grey bar,SIMI,3,1, 1: Slightly Related.
+Four small children,Four children,SPE1,4,3, 3: Some Similarity.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+The black and white dog,A black and white dog,EQUI,5,4, 4: Completely Equivalent.
+runs,is running,EQUI,5,2, 2: Related but Different
+through the grass,through grass,EQUI,5,3, 3: Some Similarity.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,is climbing up,NOALI,0,0, 0: No Relation.
+-not aligned-,dressed,NOALI,0,0, 0: No Relation.
+out,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,in a Santa suit,NOALI,0,0, 0: No Relation.
+in midair,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,a large concrete building,NOALI,0,0, 0: No Relation.
+A girl,A man,SIMI,3,0, 0: No Relation.
+her limbs,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+is sprawling,-not aligned-,NOALI,0,0, 0: No Relation.
+in a pink shirt,-not aligned-,NOALI,0,0, 0: No Relation.
+A tan and white dog,A large dog,SIMI,3,2, 2: Related but Different
+on a gravel path,along a gravel path,EQUI,5,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+a ball,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,walks,NOALI,0,0, 0: No Relation.
+-not aligned-,in the woods,NOALI,0,0, 0: No Relation.
+retrieving,-not aligned-,NOALI,0,0, 0: No Relation.
+is carrying,is carrying,EQUI,5,4, 4: Completely Equivalent.
+by a reddish colored wall,-not aligned-,NOALI,0,0, 0: No Relation.
+in a grey hat,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+a boy,A small boy,SPE2,4,2, 2: Related but Different
+a soccer ball,a soccer ball,EQUI,5,5, 5: Completely Equivalent.
+wearing,-not aligned-,NOALI,0,0, 0: No Relation.
+underwater water,in very clear blue water,SPE2,4,2, 2: Related but Different
+A person,A person,EQUI,5,3, 3: Some Similarity.
+scuba gear,is scuba diving,REL,4,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+is swimming,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+walking,walking,EQUI,5,5, 5: Completely Equivalent.
+A white dog,A black and tan dog,SIMI,3,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+in the snow,through the snow,EQUI,5,2, 2: Related but Different
+a baby,a small baby,SPE2,4,3, 3: Some Similarity.
+on the beach,at the beach,EQUI,5,3, 3: Some Similarity.
+placing,holds,SIMI,4,1," 1: Slightly Related. Both chunks relate to the concept of placement or positioning, but they are not directly synonymous or identical in meaning. Chunk 1 refers to the act of placing something, while Chunk 2 refers to the state of holding something."
+A woman,a woman,EQUI,5,4, 4: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+on a skateboard,on a skateboard,EQUI,5,5, 5: Completely Equivalent.
+into a lake,into a lake,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A young boy,The boy,SPE1,4,3, 3: Some Similarity.
+jumping,is jumping,EQUI,5,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,a wave,NOALI,0,0, 0: No Relation.
+while attached,-not aligned-,NOALI,0,0, 0: No Relation.
+A man,A man,EQUI,5,5, 5: Completely Equivalent.
+to a parachute,-not aligned-,NOALI,0,0, 0: No Relation.
+water skis,kite surfing,SIMI,3,1, 1: Slightly Related
+-not aligned-,creates,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,sit,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+in the snow,in the snow,EQUI,5,5, 5: Completely Equivalent.
+looks,-not aligned-,NOALI,0,0, 0: No Relation.
+at a black puppy,-not aligned-,NOALI,0,0, 0: No Relation.
+A white dog,A big white dog and a small black dog,SPE1,3,1, 1: Slightly Related.
+A blue and white soccer team,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,is covered,NOALI,0,0, 0: No Relation.
+against each other,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,in mud,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,with her face,NOALI,0,0, 0: No Relation.
+-not aligned-,painted,NOALI,0,0, 0: No Relation.
+-not aligned-,A topless woman,NOALI,0,0, 0: No Relation.
+playing,-not aligned-,NOALI,0,0, 0: No Relation.
+running,are running,EQUI,5,1, 1: Slightly Related.
+a white dog,The dogs,SPE1,3,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+in the snow,in the snow,EQUI,5,5, 5: Completely Equivalent.
+a bat,with his bat,EQUI,5,2, 2: Related but Different
+A young boy,A young boy,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+swings,plays ball,EQUI,5,1, 1: Slightly Related.
+wearing,on,EQUI,5,1," 1: Slightly Related. Both chunks relate to the concept of being in a state of attachment or association, but they are not directly synonymous. Chunk 1 refers to the act of wearing something, while Chunk 2 refers to the location of something on another object."
+-not aligned-,in the street,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+a blue visor,with a visor,EQUI,5,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+of people,of people,EQUI,5,3, 3: Some Similarity.
+a group,A group,EQUI,5,1," 1: Slightly Related. Both chunks refer to a collection of items (a group, A group), but the specific context or details might vary."
+white water rafting,down the rapids,REL,4,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+in a blue raft,their blue inflatable raft,SPE1,4,2, 2: Related but Different
+-not aligned-,paddle,NOALI,0,0, 0: No Relation.
+with a purple ball,with purple football,SPE2,4,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+playing,play,EQUI,5,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+A pair of dogs,Two dogs,EQUI,5,3, 3: Some Similarity.
+A dog,A dog,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,his head,NOALI,0,0, 0: No Relation.
+shakes,shakes,EQUI,5,4, 4: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+off water,-not aligned-,NOALI,0,0, 0: No Relation.
+A boy,A sports fan,SPE2,2,1, 1: Slightly Related.
+a red shirt,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,in the stands,NOALI,0,0, 0: No Relation.
+-not aligned-,face paint,NOALI,0,0, 0: No Relation.
+wearing,is wearing,EQUI,5,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+with a furry dog,-not aligned-,NOALI,0,0, 0: No Relation.
+runs,-not aligned-,NOALI,0,0, 0: No Relation.
+across the grass,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+Two young children,Two small children,SIMI,4,3, 3: Some Similarity.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+are walking,walking,EQUI,5,3, 3: Some Similarity.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+across an open field,in a field,SPE1,4,2, 2: Related but Different
+The brown dog,The skinny brown dog,SPE2,4,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+on the grass,through the tall green grass,SPE2,4,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+is running,is running,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A man,A person,SPE1,4,1, 1: Slightly Related.
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+of a mountain,of a mountain,EQUI,5,4, 4: Completely Equivalent.
+-not aligned-,is standing,NOALI,0,0, 0: No Relation.
+with his arms,with arms,EQUI,5,2, 2: Related but Different
+-not aligned-,in a red shirt,NOALI,0,0, 0: No Relation.
+raised,raised,EQUI,5,5, 5: Completely Equivalent.
+at the top,at the top,EQUI,5,1," LABEL=1: Slightly Related.
+
+Explanation: Both chunks refer to a location (at the top), but the specific context or meaning is different. Chunk 1 might be referring to a physical location, while Chunk 2 could be referring to a position in a document or list."
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+on or near a fence,on and by a fence,EQUI,5,2, 2: Related but Different.
+stand,are standing,EQUI,5,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+Three children,The three children,EQUI,5,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,on colored mats,NOALI,0,0, 0: No Relation.
+dancing,do stretches,REL,2,1, 1: Slightly Related.
+A group,A group,EQUI,5,3, 3: Some Similarity.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+in a backyard,-not aligned-,NOALI,0,0, 0: No Relation.
+of four children,of children,SPE1,4,2, 2: Related but Different
+-not aligned-,near an elevator,NOALI,0,0, 0: No Relation.
+Two constructions workers,The man,SPE2,2,1, 1: Slightly Related.
+sit,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+taking a break,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,is putting on,NOALI,0,0, 0: No Relation.
+-not aligned-,his shirt,NOALI,0,0, 0: No Relation.
+on a beam,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+is smelling,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,to it,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+attached,attached,EQUI,5,2," LABEL=2: Related but Different.
+
+Chunk 1: ""The cat sat on the mat and purred contentedly.""
+Chunk 2: ""The dog lay on the rug and barked happily.""
+
+Both sentences describe a pet animal in a happy state, but they differ in the type of animal, the object they are on, and the action they are performing."
+to a very large dog,with a large gray dog,SIMI,3,2, 2: Related but Different
+is holding,holds,EQUI,5,2, 2: Related but Different
+who,with a large gray dog,SIMI,3,1, 1: Slightly Related.
+the grass,-not aligned-,NOALI,0,0, 0: No Relation.
+A man,A man,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+a very long leash,a long leash,SPE1,4,2, 2: Related but Different
+a boat,A white boat,SPE2,4,2, 2: Related but Different
+in the background,in the background,EQUI,5,3, 3: Some Similarity.
+with mountains,with mountains,EQUI,5,5, 5: Completely Equivalent.
+is,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+on the water,on glassy water,SPE2,4,2, 2: Related but Different
+This,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,in midair,NOALI,0,0, 0: No Relation.
+are jumping,are jumping,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+into a pool,into an inground pool,SPE2,4,2, 2: Related but Different
+Two boys,Two boys,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+submerged in water,is underwater,EQUI,5,3, 3: Some Similarity.
+Scuba diver,The scuba diver,EQUI,5,3, 3: Some Similarity.
+sprints,is running quickly,SPE1,4,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+The brown and black dog,A black dog,SPE1,4,2, 2: Related but Different
+across the snow,along the ground,SPE1,2,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+A black dog,A dog,SPE1,4,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+jumps,walks,SIMI,2,1, 1: Slightly Related.
+through the water,through the snow,SIMI,2,1, 1: Slightly Related.
+hanging out,hanging out,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A brown dog,A grey dog,SIMI,4,1, 1: Slightly Related.
+with it's tongue,tongue,EQUI,5,3, 3: Some Similarity.
+in the grass,in the green grass,SPE2,4,2, 2: Related but Different
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+walks,walks,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+clips,attaches,SIMI,3,1," 1: Slightly Related. Both chunks, ""clips"" and ""attaches,"" refer to the act of connecting or joining, but they are not specific to the same context or object."
+a carabiner,a pulley,SIMI,3,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+onto a metal line,to a cable,SIMI,4,1, 1: Slightly Related.
+-not aligned-,in a helmet,NOALI,0,0, 0: No Relation.
+A person,A young woman,SPE2,3,1, 1: Slightly Related.
+in a striped fleece,-not aligned-,NOALI,0,0, 0: No Relation.
+runs,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+A lean dog,A brown dog and two black dogs,SPE1,2,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+through green grass,in an overgrown grassy field,SPE2,3,2, 2: Related but Different
+parked,parked,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+on a mountain,on a hill,SPE2,4,1, 1: Slightly Related.
+Many cars,A group of cars,EQUI,5,2, 2: Related but Different
+A light brown dog,A brown and white dog,SIMI,4,1, 1: Slightly Related.
+in the water,into the water,EQUI,5,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+is running,running,EQUI,5,4, 4: Completely Equivalent.
+on a beach,on a beach,EQUI,5,5, 5: Completely Equivalent.
+three dogs,A boy,SPE2,2,0, 0: No Relation.
+playing,standing,SPE1,2,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+a dog,the skateboarder,SPE2,2,0, 0: No Relation.
+into the pond,into the air,SIMI,2,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+jumps,jumps,EQUI,5,5, 5: Completely Equivalent.
+is jumping,is standing,SPE1,2,0, 0: No Relation.
+-not aligned-,in front of a mirror,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+into a pool,-not aligned-,NOALI,0,0, 0: No Relation.
+A white and black dog,A woman,SIMI,3,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,in a black apron,NOALI,0,0, 0: No Relation.
+A brown dog,A brown dog,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+is running,is running,EQUI,5,5, 5: Completely Equivalent.
+through green grass,though a river,SIMI,2,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+on rocks,-not aligned-,NOALI,0,0, 0: No Relation.
+Three children,Three men,SIMI,3,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+playing,playing,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,baseball,NOALI,0,0, 0: No Relation.
+near a lake,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,has,NOALI,0,0, 0: No Relation.
+a ice sculpture,a block of ice,SPE1,4,1, 1: Slightly Related.
+A man,A man,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,a chainsaw,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,and,NOALI,0,0, 0: No Relation.
+shaving,is carving,SIMI,4,0, 0: No Relation.
+in black,-not aligned-,NOALI,0,0," Label=0: No Relation.
+
+Chunk 1: ""The cat sat on the mat.""
+Chunk 2: ""The dog ran through the park.""
+
+Explanation: The two sentences do not share any common subject, predicate, or context, making them unrelated in meaning, structure, or relevance."
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+at a brown dog,at the dog,SPE1,4,1, 1: Slightly Related.
+with a pink collar,with the red collar,SIMI,4,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+is barking,is bearing it's teeth,SIMI,3,2, 2: Related but Different
+with a blue collar,with the blue collar,EQUI,5,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+A brown and white dog,The dog,SPE1,4,2, 2: Related but Different.
+in the snow,-not aligned-,NOALI,0,0, 0: No Relation.
+in snow,in the snow,EQUI,5,2, 2: Related but Different
+A dog,A dog,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+looking,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,is walking,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+at the camera,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,in a tire track,NOALI,0,0, 0: No Relation.
+on a breaking wave,a wave,SPE1,4,1, 1: Slightly Related.
+A surfer,A surfer,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+is riding,is riding,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+The # 2 greyhound dog,a muzzled greyhound dog,SPE2,3,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+around a track,around a track,EQUI,5,5, 5: Completely Equivalent.
+is running,is running,EQUI,5,5, 5: Completely Equivalent.
+A black dog,Black dog,EQUI,5,4, 4: Completely Equivalent.
+in the snow,through snow,EQUI,5,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+is running after,chasing,EQUI,5,2, 2: Related but Different.
+a white dog,brown dog,SIMI,4,0, 0: No Relation.
+-not aligned-,old fashion clothing,NOALI,0,0, 0: No Relation.
+A man to another,A man and woman,SIMI,4,1, 1: Slightly Related.
+-not aligned-,sit,NOALI,0,0, 0: No Relation.
+an orange coat,-not aligned-,NOALI,0,0, 0: No Relation.
+as they,-not aligned-,NOALI,0,0, 0: No Relation.
+in the snow,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,outside,NOALI,0,0, 0: No Relation.
+-not aligned-,at a table,NOALI,0,0, 0: No Relation.
+walk,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,dressedin,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+speaks,-not aligned-,NOALI,0,0, 0: No Relation.
+wearing,-not aligned-,NOALI,0,0, 0: No Relation.
+on shore,along the sandy shoreline,SPE2,4,3, 3: Some Similarity.
+beside two geese,while two ducks,SIMI,4,1, 1: Slightly Related.
+-not aligned-,nearby,NOALI,0,0, 0: No Relation.
+Dog,A black dog,SPE2,4,2, 2: Related but Different
+-not aligned-,of a body,NOALI,0,0, 0: No Relation.
+running,running,EQUI,5,5, 5: Completely Equivalent.
+in water,of water,EQUI,5,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,swim,NOALI,0,0, 0: No Relation.
+A group,A group,EQUI,5,3, 3: Some Similarity.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+racing,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,and,NOALI,0,0, 0: No Relation.
+-not aligned-,in front of a house,NOALI,0,0, 0: No Relation.
+-not aligned-,together,NOALI,0,0, 0: No Relation.
+-not aligned-,pose,NOALI,0,0, 0: No Relation.
+-not aligned-,stand,NOALI,0,0, 0: No Relation.
+of people,of people,EQUI,5,3, 3: Some Similarity.
+in boats,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+towards the shore,-not aligned-,NOALI,0,0, 0: No Relation.
+on the beach,into the air,SIMI,2,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+is playing,being thrown,SPE2,3,1, 1: Slightly Related.
+A family,A naked little girl,REL,3,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+with their dog,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+A man,A dog,SIMI,3,0, 0: No Relation.
+in the ocean,through the ocean,EQUI,5,2, 2: Related but Different
+is wind sailing,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,is running,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+runs,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,bound,NOALI,0,0, 0: No Relation.
+A small dog,Two dogs,SPE1,3,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+through a grassy field,across the grass,SPE1,4,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+blows,is blowing,EQUI,5,1, 1: Slightly Related.
+on an orange wand,from an orange bubble hoop,EQUI,5,1, 1: Slightly Related.
+to make,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+a bubble,bubbles,SPE1,4,3, 3: Some Similarity.
+A young child,An Asian child,SPE2,4,1, 1: Slightly Related.
+two woman,Two women,EQUI,5,3, 3: Some Similarity.
+sit,sitting,EQUI,5,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,by the water,NOALI,0,0, 0: No Relation.
+on a park bench,on a bench,SPE1,4,2, 2: Related but Different
+a bird,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+lands,floats,REL,3,1, 1: Slightly Related.
+in the water,in the water,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,a boat,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+watching,stand on a balcony,SPE2,3,1," 1: Slightly Related. Both chunks involve a sense of observation or viewing, but they describe different actions in different contexts."
+Two young men,Two men,SPE1,4,1, 1: Slightly Related.
+multi-colored blocks,colored boxes,SIMI,4,2, 2: Related but Different
+with people,while other men,SPE2,4,1, 1: Slightly Related.
+are juggling,stand juggling,EQUI,5,2, 2: Related but Different
+A person,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+is skijoring,is playing,SPE1,3,1," 1: Slightly Related. Both chunks involve an action, but Chunk 1 is more specific to a particular sport (skijoring), while Chunk 2 is more general (playing)."
+with a dog,A brown dog,SPE2,4,2, 2: Related but Different
+in the mountains,in the water,SIMI,2,0, 0: No Relation.
+-not aligned-,with a ball,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+A black dog,A lean dog,SIMI,4,1, 1: Slightly Related.
+through a muddy bank,through a wooded area,REL,2,1, 1: Slightly Related.
+runs,runs,EQUI,5,5, 5: Completely Equivalent.
+is playing,is playing,EQUI,5,5, 5: Completely Equivalent.
+The brown dog,A black dog,SIMI,4,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+in the snow,in the snow,EQUI,5,5, 5: Completely Equivalent.
+is doing,is doing,EQUI,5,3, 3: Some Similarity.
+a handstand,a hand-stand,EQUI,5,3, 3: Some Similarity.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+on the beach,on the beach,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+The person,A kid,SPE2,4,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+is swimming,runs,SIMI,2,0, 0: No Relation.
+in dark blue waters,at the beach,REL,3,1, 1: Slightly Related.
+A tan girl,a little girl,SIMI,3,1, 1: Slightly Related.
+-not aligned-,through the sand,NOALI,0,0, 0: No Relation.
+in a floral bikini,in a flowered bathingsuit,SPE1,4,3, 3: Some Similarity.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+is running,is running,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A black dog,The German shepherd dog,SPE2,3,2, 2: Related but Different
+through the snow,through the snow,EQUI,5,5, 5: Completely Equivalent.
+wading,swimming,SIMI,4,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+shaking,-not aligned-,NOALI,0,0, 0: No Relation.
+and,and,EQUI,5,1, 1: Slightly Related.
+in the water,-not aligned-,NOALI,0,0, 0: No Relation.
+The large dog,Three dark dogs,SPE1,3,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,has,NOALI,0,0, 0: No Relation.
+-not aligned-,a ball,NOALI,0,0, 0: No Relation.
+-not aligned-,one of them,NOALI,0,0, 0: No Relation.
+-not aligned-,in a red and white dress,NOALI,0,0, 0: No Relation.
+in the dirt,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,posing,NOALI,0,0, 0: No Relation.
+are playing around,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,for the camera,NOALI,0,0, 0: No Relation.
+-not aligned-,A dancer,NOALI,0,0, 0: No Relation.
+Two dogs,-not aligned-,NOALI,0,0, 0: No Relation.
+running,running,EQUI,5,5, 5: Completely Equivalent.
+across the sand,through the water,SIMI,2,1, 1: Slightly Related.
+A dog,A dog,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+runs,is running,EQUI,5,2, 2: Related but Different
+A white and tan dog,A medium sized brown and white streaked dog,SPE2,3,2, 2: Related but Different
+through the tall green grass,through tall grass,SPE1,4,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+of four,of people,SPE1,4,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+A group,A group,EQUI,5,3, 3: Some Similarity.
+hiking,hike,EQUI,5,2, 2: Related but Different
+through a snowy forest,through a snowy wooded area,EQUI,5,3, 3: Some Similarity.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+in plaid shirt,in a plaid shirt,EQUI,5,3, 3: Some Similarity.
+hits,uses,SIMI,2,1," 1: Slightly Related. Both chunks refer to actions, but they are different actions: ""hits"" and ""uses""."
+A man,A man,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+a tree,by a tree,EQUI,5,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+with an Axe,a tool,SPE1,3,1, 1: Slightly Related.
+-not aligned-,holds,NOALI,0,0, 0: No Relation.
+-not aligned-,wearing,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+posing,-not aligned-,NOALI,0,0, 0: No Relation.
+A smiling man and a baby girl,A smiling man a small child,SPE1,4,3, 3: Some Similarity
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,pink and red,NOALI,0,0, 0: No Relation.
+for photo,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+with two people,Little boy smiling woman,SPE2,3,2, 2: Related but Different
+-not aligned-,down blue slide,NOALI,0,0, 0: No Relation.
+-not aligned-,at camera,NOALI,0,0, 0: No Relation.
+in background,in background,EQUI,5,0, 0: No Relation. (There is no common topic or connection between the two chunks.)
+-not aligned-,coming,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+outside,-not aligned-,NOALI,0,0, 0: No Relation.
+White dog,-not aligned-,NOALI,0,0, 0: No Relation.
+in the water,in the snow,SIMI,2,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+Three dogs,Three dogs,EQUI,5,5, 5: Completely Equivalent.
+are playing,run,SPE2,3,1, 1: Slightly Related.
+jumping,jumps up,SPE2,4,2, 2: Related but Different
+on a sand dune,with the sand,SPE1,4,1, 1: Slightly Related.
+-not aligned-,beneath her,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+at the ocean,into the air,SIMI,2,0, 0: No Relation.
+A girl,The little girl,SPE2,4,2, 2: Related but Different
+rock climbs,rock climbing,EQUI,5,3, 3: Some Similarity.
+A shirtless man,A man,SPE1,4,1," 1: Slightly Related. The second chunk is more general and does not specify the state of the man (shirtless). However, it is possible that the man in the second chunk could be the same as the man in the first chunk, but without additional context, it is not certain."
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+walks,-not aligned-,NOALI,0,0, 0: No Relation.
+wearing,wearing,EQUI,5,4, 4: Completely Equivalent.
+and,-not aligned-,NOALI,0,0, 0: No Relation.
+An adult male,A man,EQUI,5,3, 3: Some Similarity.
+to the left,to the side,SPE1,5,2, LABEL=2: Related but Different.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+looks,looking,EQUI,5,1, 1: Slightly Related.
+a backpack,a backpack,EQUI,5,5, 5: Completely Equivalent.
+to catch,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,across a green field,NOALI,0,0, 0: No Relation.
+A black and white dog,Two black and white dogs,SPE1,4,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+jumping,run,SIMI,2,1, 1: Slightly Related.
+a ball,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+high,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+a ramp,a ramp,EQUI,5,5, 5: Completely Equivalent.
+A snowboarder,A snowboarder,EQUI,5,5, 5: Completely Equivalent.
+goes down,going over,SIMI,4,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A young man and woman,The man and woman,SPE1,4,2, 2: Related but Different
+on a bench,on a bench,EQUI,5,5, 5: Completely Equivalent.
+are kissing,are kissing,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+outside,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+sitting,sitting,EQUI,5,5, 5: Completely Equivalent.
+is holding,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,and,NOALI,0,0, 0: No Relation.
+-not aligned-,is,NOALI,0,0, 0: No Relation.
+-not aligned-,are looking,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+the harness,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,to a fencing wall,NOALI,0,0, 0: No Relation.
+-not aligned-,clipped,NOALI,0,0, 0: No Relation.
+-not aligned-,that,NOALI,0,0, 0: No Relation.
+The woman,A man and woman,SPE1,3,1, 1: Slightly Related.
+is wearing,-not aligned-,NOALI,0,0, 0: No Relation.
+the brown and white dog,-not aligned-,NOALI,0,0, 0: No Relation.
+that,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,on easels,NOALI,0,0, 0: No Relation.
+-not aligned-,at artwork,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+shivers,is shivering,EQUI,5,2, 2: Related but Different
+A wet child,A wet child,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+at a pool,in front of a pool,EQUI,5,2, 2: Related but Different
+under a towel,in a towel,EQUI,5,2, 2: Related but Different
+on it's back,on its back,EQUI,5,3, 3: Some Similarity.
+in the sand,in the sand,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+rolls,lying,SIMI,2,0, 0: No Relation.
+A white and brown dog,A dog,SPE1,4,1, 1: Slightly Related.
+A large brown dog,A brown dog,SPE1,4,3, 3: Some Similarity.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+along side a river,near a river,EQUI,5,2, 2: Related but Different
+is walking,walks,EQUI,5,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,on the rocks,NOALI,0,0, 0: No Relation.
+wearing a blue shirt,-not aligned-,NOALI,0,0, 0: No Relation.
+crouches,sits,SIMI,3,1," 1: Slightly Related. Both verbs describe a position of the body, but ""crouches"" is a more specific and often a lower position than ""sits""."
+on a rocky cliff,on a rock,SIMI,3,1, 1: Slightly Related.
+A man,a man,EQUI,5,4, 4: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,a sparkler,NOALI,0,0, 0: No Relation.
+A boy,A young boy,SPE2,4,3, 3: Some Similarity.
+waves around,is twisting,SIMI,4,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,around,NOALI,0,0, 0: No Relation.
+-not aligned-,in the air,NOALI,0,0, 0: No Relation.
+a sparkler,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+from a dock,-not aligned-,NOALI,0,0, 0: No Relation.
+leaping,leaps,EQUI,5,3, 3: Some Similarity.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A brown dog,A tan dog,EQUI,5,2, 2: Related but Different
+into the water,into the water,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+are,are,EQUI,5,1, 1: Slightly Related.
+on a fairground ride,on a giant inflatable slide,SIMI,3,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+Two children,Two children,EQUI,5,5, 5: Completely Equivalent.
+A boy,A boy,EQUI,5,5, 5: Completely Equivalent.
+with a broken arm,with a broken arm,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+is resting,is sleeping,SIMI,4,2, 2: Related but Different
+in a bed,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+lunges,chasing,SIMI,4,1," 1: Slightly Related. Both chunks could potentially be used in a context involving action or movement, but they are not directly related in terms of meaning or structure."
+for a yellow toy,a yellow toy,EQUI,5,4, 4: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+A brown dog,A brown dog,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,by a pool,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+themselves,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,standing,NOALI,0,0, 0: No Relation.
+with bubbles,in foam bubbles,SPE2,4,1, 1: Slightly Related
+cover,are covered,EQUI,5,1, 1: Slightly Related.
+three little boys,Three children,SPE1,4,2, 2: Related but Different
+ankle-deep,play,SPE1,2,1," 1: Slightly Related. The words ""ankle-deep"" and ""play"" are not semantically related, but in a metaphorical context, one might play in water that is ankle-deep. However, this connection is not strong enough to warrant a higher score."
+in water,in the water,EQUI,5,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+Two dogs,Two brown dogs,SPE2,4,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,on an ATV,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+in front of a building,in front of a bridge,SIMI,3,1, 1: Slightly Related.
+are standing,are sitting,SIMI,3,1, 1: Slightly Related.
+A man and a woman,Two girls,SIMI,3,1, 1: Slightly Related.
+-not aligned-,on the sand,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+through water,through the snow,SIMI,2,1, 1: Slightly Related.
+walking,walking,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A black dog,Two black dogs,SPE1,4,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,together,NOALI,0,0, 0: No Relation.
+-not aligned-,on the bed,NOALI,0,0, 0: No Relation.
+Two kids,Two dogs,SIMI,3,0, 0: No Relation.
+splashing,play,SPE1,3,1, 1: Slightly Related.
+in the water,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+on white carpet,on beige carpet,SIMI,4,2, 2: Related but Different
+with a gemmed collar,with a blue collar,SIMI,4,1, 1: Slightly Related.
+A black dog,A black dog,EQUI,5,5, 5: Completely Equivalent.
+is sitting,is sitting,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+on grass,through a large grassy area,SPE2,4,3, 3: Some Similarity.
+Three dogs,Several large dogs,SPE1,3,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+towards the camera,-not aligned-,NOALI,0,0, 0: No Relation.
+running,are running,EQUI,5,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+wearing,-not aligned-,NOALI,0,0, 0: No Relation.
+A person,The girl,SPE2,4,1, 1: Slightly Related.
+jeans,-not aligned-,NOALI,0,0, 0: No Relation.
+of a horse saddle,of a saddle,SPE1,4,2, 2: Related but Different
+sits,is sitting,EQUI,5,2, 2: Related but Different
+on top,on top,EQUI,5,1," To provide an accurate assessment, I would need the specific chunks of text to analyze. Here's an example of how I would approach it:
+
+For instance, if Chunk 1 is: ""The cat sat on the mat.""
+And Chunk 2 is: ""The feline perched on the rug.""
+
+Label: 2: Related but Different.
+
+This is because both chunks describe a similar action (sitting or perching) of a similar entity (cat or feline) on a similar object (mat or rug), but the words used to describe the action and the objects are slightly different."
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A white dog,A large white dog,SPE2,4,2, 2: Related but Different
+through snow,through a snowy field,SPE2,4,2, 2: Related but Different
+bounding,is bounding,EQUI,5,1, 1: Slightly Related.
+run,running,EQUI,5,2, 2: Related but Different
+in a race,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+on a street,along a street,EQUI,5,2, 2: Related but Different.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+Many people,A puppy,SPE2,2,1, 1: Slightly Related.
+has,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,while carrying,NOALI,0,0, 0: No Relation.
+in a lake,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,a stick,NOALI,0,0, 0: No Relation.
+shining,-not aligned-,NOALI,0,0, 0: No Relation.
+swimming,swims,EQUI,5,2, 2: Related but Different
+sunshine,-not aligned-,NOALI,0,0, 0: No Relation.
+A dog,A dog,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+on him,in its mouth,REL,3,0, 0: No Relation.
+-not aligned-,of water,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+in a pink jacket,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+A girl,A young boy,SIMI,3,1, 1: Slightly Related.
+is walking,is splashing,SIMI,2,1, 1: Slightly Related.
+through a large puddle,through a puddle,SPE1,4,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A girl,A little girl,SPE2,4,2, 2: Related but Different
+on a red play structure,on a red jungle gym,SIMI,4,2, 2: Related but Different
+sits,-not aligned-,NOALI,0,0, 0: No Relation.
+A group,A group,EQUI,5,3, 3: Some Similarity.
+of people,of people,EQUI,5,3, 3: Some Similarity.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+in front of a red fire truck,around a red fire truck,SIMI,4,2, 2: Related but Different.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,are standing,NOALI,0,0, 0: No Relation.
+through the grass,through a watery field,SPE2,3,1, 1: Slightly Related.
+The black and white dog,three black and white dogs,SPE1,3,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+runs,running,EQUI,5,2, 2: Related but Different
+jumping,swimming,SIMI,2,0, 0: No Relation.
+A boy,A dog,SIMI,3,0, 0: No Relation.
+in red,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+into a sandbox,in a pond,SIMI,2,1, 1: Slightly Related.
+a bat,a bat,EQUI,5,5, 5: Completely Equivalent.
+a blue jacket,in a blue jacket,EQUI,5,2, 2: Related but Different
+swings,swings,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+at a white ball,at a ball,SPE1,4,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+A boy,A young boy,SPE2,4,3, 3: Some Similarity.
+wearing,-not aligned-,NOALI,0,0, 0: No Relation.
+are playing,play,EQUI,5,1, 1: Slightly Related.
+-not aligned-,with a Frisbee,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+Three dogs,Three dogs,EQUI,5,5, 5: Completely Equivalent.
+in the white snow,in a snowy field,SPE2,4,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+A man,A surfer,SPE1,4,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+in the waves,on a medium wave,SPE2,4,2, 2: Related but Different.
+in a black wetsuit,in a black wet suit,EQUI,5,2, 2: Related but Different
+is surfung,surfs,EQUI,5,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,in a park,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+a lake,in a field,SIMI,2,1, 1: Slightly Related.
+A black dog,A black dog,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,very fast,NOALI,0,0, 0: No Relation.
+jumping into,runs,SIMI,2,1," 1: Slightly Related. While ""jumping into"" and ""runs"" are not the same, they could be related in a context where one is describing an action sequence, such as ""He runs and then jumps into the pool."" However, without a specific context, the relationship is slight."
+Two dogs,Two black dogs,SPE2,4,2, 2: Related but Different
+in the snow,in the snow,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+playing,-not aligned-,NOALI,0,0, 0: No Relation.
+on the grass,on the grass,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+run,running,EQUI,5,2, 2: Related but Different
+Two dogs,A dog,SPE2,4,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,in the surf,NOALI,0,0, 0: No Relation.
+-not aligned-,splashing,NOALI,0,0, 0: No Relation.
+A tennis player,Two boys,SPE1,2,1, 1: Slightly Related.
+the ball,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+hitting,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,his hands,NOALI,0,0, 0: No Relation.
+in the blue water,in the sand,SIMI,2,0, 0: No Relation.
+is canoeing,-not aligned-,NOALI,0,0, 0: No Relation.
+A man,A man,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,raising,NOALI,0,0, 0: No Relation.
+-not aligned-,to the sky,NOALI,0,0, 0: No Relation.
+wearing a orange vest,in an orange jacket,SIMI,4,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+in a car,in the car,EQUI,5,2, 2: Related but Different
+A black dog,A black and tan dog,SPE2,4,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+asleep,sleeps,EQUI,5,2, 2: Related but Different
+play rugby,are playing ball,SPE1,4,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+A group,A group,EQUI,5,3, 3: Some Similarity.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+of men,of men,EQUI,5,4, 4: Completely Equivalent.
+-not aligned-,together,NOALI,0,0, 0: No Relation.
+A man,A man,EQUI,5,5, 5: Completely Equivalent.
+through water,in rough water,EQUI,5,2, 2: Related but Different.
+is riding a kayak,kayaks,EQUI,5,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+to catch in it's mouth,to bite,EQUI,5,1," 1: Slightly Related. Both chunks refer to actions involving the mouth, but they are not the same action. Catching something is not the same as biting it."
+A brown dog,A grey dog,SIMI,4,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+is jumping up,jumps,SPE1,4,2, 2: Related but Different
+a green strap,a green leash,EQUI,5,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+is lying,lying,EQUI,5,4, 4: Completely Equivalent.
+a white dog,another dog,SPE1,4,1, 1: Slightly Related.
+A brown dog,Dog,SPE1,4,2, 2: Related but Different
+is sniffing,sniffing,EQUI,5,4, 4: Completely Equivalent.
+that,another dog,SPE1,4,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+on the floor,under furniture,SPE2,4,2, 2: Related but Different
+A black and grey dog,A black dog,SPE1,4,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+runs,walks,SIMI,3,1, 1: Slightly Related.
+-not aligned-,with a red collar,NOALI,0,0, 0: No Relation.
+with it's tongue,tongue,EQUI,5,3, 3: Some Similarity.
+-not aligned-,and,NOALI,0,0, 0: No Relation.
+hanging out,hanging out,EQUI,5,5, 5: Completely Equivalent.
+in a field,through the grass,SPE1,4,2, 2: Related but Different
+-not aligned-,with his mouth,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,open,NOALI,0,0, 0: No Relation.
+on the beach,of a beach,EQUI,5,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,at on the shore,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+A young girl,A little girl,EQUI,5,3, 3: Some Similarity.
+running,running,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,in it's mouth,NOALI,0,0, 0: No Relation.
+is carrying,while carrying,EQUI,5,2, 2: Related but Different
+with arm outstretched,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+a light colored rugby ball,a ball,SPE1,3,1, 1: Slightly Related.
+in dark gear,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,in the water,NOALI,0,0, 0: No Relation.
+A rugby player,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,A brown dog,NOALI,0,0, 0: No Relation.
+-not aligned-,splashes,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+each other,each other,EQUI,5,4, 4: Completely Equivalent.
+Two dogs,Two dogs,EQUI,5,5, 5: Completely Equivalent.
+groom,jumping on,SIMI,3,1," 1: Slightly Related. The two chunks do not have a direct relationship, but the term ""groom"" could potentially be associated with a scenario where he is preparing for a wedding, and in some cultures, the groom might be involved in jumping over a broom during the ceremony. However, this is a stretch and not a common association."
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+Two dogs,Two dogs,EQUI,5,5, 5: Completely Equivalent.
+standing,-not aligned-,NOALI,0,0, 0: No Relation.
+on grass,on the grass,EQUI,5,2, 2: Related but Different
+together,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+the white one,-not aligned-,NOALI,0,0, 0: No Relation.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+on a Frisbee,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+playing,play,EQUI,5,1, 1: Slightly Related.
+for Christmas,in front of a Christmas tree,REL,4,1, 1: Slightly Related.
+receives,holds,SIMI,3,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+A boy,A boy,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+a light saber,a light saber,EQUI,5,5, 5: Completely Equivalent.
+under the bridge,under an expressway ledge,SPE2,2,2, 2: Related but Different
+around him,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+on a sofa,on a couch,EQUI,5,3, 3: Some Similarity.
+litter,-not aligned-,NOALI,0,0, 0: No Relation.
+is,-not aligned-,NOALI,0,0, 0: No Relation.
+The man,A man,EQUI,5,3, 3: Some Similarity.
+all,-not aligned-,NOALI,0,0, 0: No Relation.
+and,-not aligned-,NOALI,0,0, 0: No Relation.
+sits,is sitting,EQUI,5,1, 1: Slightly Related.
+The white and brown dog,A brown and white dog,EQUI,5,3, 3: Some Similarity.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+runs,runs,EQUI,5,5, 5: Completely Equivalent.
+across the grass,across the grass,EQUI,5,5, 5: Completely Equivalent.
+'s leg,at the leg,EQUI,5,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+a horse,of a horse,EQUI,5,1, 1: Slightly Related.
+A brown dog,A dog,SPE1,4,2, 2: Related but Different
+biting,nips,SPE2,4,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+wearing,wearing,EQUI,5,4, 4: Completely Equivalent.
+a white outfit,a black and red swimsuit,SPE2,3,1," 1: Slightly Related. Both chunks describe different types of outfits, but they do not share the same color scheme or context (one is a white outfit, the other is a black and red swimsuit)."
+swinging,swinging,EQUI,5,5, 5: Completely Equivalent.
+in a baby swing,on a swing,SPE1,4,2, 2: Related but Different
+a young baby girl,a young girl,SPE1,4,3, 3: Some Similarity.
+in the snow,through snow,EQUI,5,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,runs,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A white dog,A white dog,EQUI,5,5, 5: Completely Equivalent.
+with light brown markings,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,while it,NOALI,0,0, 0: No Relation.
+has,holds,EQUI,5,1, 1: Slightly Related.
+his paws,-not aligned-,NOALI,0,0, 0: No Relation.
+a stick,a stick,EQUI,5,5, 5: Completely Equivalent.
+and,-not aligned-,NOALI,0,0, 0: No Relation.
+in his mouth,in its mouth,EQUI,5,2, 2: Related but Different
+in the ocean,as a wave,REL,4,1, 1: Slightly Related.
+through the water,through the water,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,comes,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+runs,runs,EQUI,5,5, 5: Completely Equivalent.
+A brown dog,A brown dog,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+in the grass,in the grass,EQUI,5,5, 5: Completely Equivalent.
+play,are playing,EQUI,5,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+Two dogs,Two dogs,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+Two men,A man,SPE2,4,1, 1: Slightly Related.
+-not aligned-,is lying,NOALI,0,0, 0: No Relation.
+-not aligned-,with long hair and beard,NOALI,0,0, 0: No Relation.
+on the side,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,the grass,NOALI,0,0, 0: No Relation.
+of a barge,-not aligned-,NOALI,0,0, 0: No Relation.
+A man,A man,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,in swim trunks,NOALI,0,0, 0: No Relation.
+at the beach,on the beach,EQUI,5,2, 2: Related but Different
+juggles,is juggling,EQUI,5,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+Two people and a dog,Two people,SPE2,4,1, 1: Slightly Related.
+in the snow,on a snowy hill,SPE2,4,2, 2: Related but Different
+are,playing,SPE2,3,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+hitting,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,listening to,NOALI,0,0, 0: No Relation.
+is standing,are standing,EQUI,5,2, 2: Related but Different
+on the shore,on beside the beach,SIMI,3,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+with a paddle,-not aligned-,NOALI,0,0, 0: No Relation.
+a ball,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,ipods,NOALI,0,0, 0: No Relation.
+The man,Two teenage girls,SPE2,3,0, 0: No Relation.
+Two girls,two girls,EQUI,5,5, 5: Completely Equivalent.
+in the ocean,in the street,SIMI,1,0, 0: No Relation.
+walking,walking,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+of one rooftop,from one balcony,SIMI,3,2, 2: Related but Different
+onto another,to another,EQUI,5,1, 1: Slightly Related.
+A man,A young man,SPE2,4,2, 2: Related but Different
+jumps off,jumps,SPE1,4,1," 1: Slightly Related. Both chunks involve the action of jumping, but Chunk 1 includes the additional action of jumping off from something."
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+a woman with two young boys,A woman and three kids,SPE1,3,2, 2: Related but Different
+at a park,at a park,EQUI,5,5, 5: Completely Equivalent.
+playing,play,EQUI,5,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+stands,is standing,EQUI,5,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+in front of a snowy mountain,in front of a snow covered mountain,EQUI,5,3, 3: Some Similarity.
+glasses,-not aligned-,NOALI,0,0, 0: No Relation.
+A man,A man,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,black shorts,NOALI,0,0, 0: No Relation.
+wearing,wearing,EQUI,5,4, 4: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+Three boys,Three boys,EQUI,5,5, 5: Completely Equivalent.
+playing,playing,EQUI,5,5, 5: Completely Equivalent.
+in a field,-not aligned-,NOALI,0,0, 0: No Relation.
+soccer,soccer,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A black dog,A black pit bull dog,SPE2,4,2, 2: Related but Different
+through the snow,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,through the dirt,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+is running,is running,EQUI,5,5, 5: Completely Equivalent.
+of themselves,of themselves,EQUI,5,3, 3: Some Similarity.
+taking,are taking,EQUI,5,1," 1: Slightly Related. The first chunk ""taking"" is a present participle, while the second chunk ""are taking"" is a present continuous tense. Both refer to the action of taking, but the second one includes the auxiliary verb ""are"" to indicate the ongoing nature of the action."
+Two girls,Two blonde girls,SPE2,4,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+a picture,a picture,EQUI,5,1," 1: Slightly Related. (Both chunks are describing the same type of entity, but the specific content or context might be different.)"
+wearing,wearing,EQUI,5,4, 4: Completely Equivalent.
+a man,A boy,SIMI,4,1, 1: Slightly Related.
+a grey jacket,a blue life jacket,SPE2,4,0, 0: No Relation.
+of a street,-not aligned-,NOALI,0,0, 0: No Relation.
+on the side,onto the side,EQUI,5,2, 2: Related but Different
+standing,is holding,SIMI,4,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,of a green boat,NOALI,0,0, 0: No Relation.
+-not aligned-,over tire tracks,NOALI,0,0, 0: No Relation.
+in the snow,in the snow,EQUI,5,5, 5: Completely Equivalent.
+A black dog,A black dog,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+jumps,jumping,EQUI,5,3, 3: Some Similarity.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+upside down,upside-down,EQUI,5,0," 0: No Relation. (The terms ""upside down"" are the same, but the context or meaning is not provided, so it's impossible to determine any relationship between the two chunks.)"
+-not aligned-,is,NOALI,0,0, 0: No Relation.
+child,A girl,SPE2,4,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+hanging,hanging,EQUI,5,5, 5: Completely Equivalent.
+from a tree swing,by a tree from a swing,EQUI,5,2, 2: Related but Different
+A black and white dog,"A black , brown and white dog",SIMI,4,1, 1: Slightly Related.
+is running,running,EQUI,5,4, 4: Completely Equivalent.
+through a snowy field,through a field,SPE1,4,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+by the ocean,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,the side,NOALI,0,0, 0: No Relation.
+on the beach,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,of the road,NOALI,0,0, 0: No Relation.
+-not aligned-,down,NOALI,0,0, 0: No Relation.
+-not aligned-,his cow,NOALI,0,0, 0: No Relation.
+his bike,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,walking,NOALI,0,0, 0: No Relation.
+A man,A man,EQUI,5,5, 5: Completely Equivalent.
+riding,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,on a snowboard,NOALI,0,0, 0: No Relation.
+A boy,A man,SIMI,4,1, 1: Slightly Related.
+-not aligned-,while,NOALI,0,0, 0: No Relation.
+jumps,jumps,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+into a not-so-crowded public pool,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+in the grass,in the sand,SIMI,2,1, 1: Slightly Related.
+-not aligned-,digs,NOALI,0,0, 0: No Relation.
+jumps,-not aligned-,NOALI,0,0, 0: No Relation.
+A brown dog,A brown dog,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+high,-not aligned-,NOALI,0,0, 0: No Relation.
+the street,the street,EQUI,5,5, 5: Completely Equivalent.
+walking down,walking down,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+of old men,-not aligned-,NOALI,0,0, 0: No Relation.
+a group,A couple,SPE2,4,1, 1: Slightly Related.
+-not aligned-,are standing,NOALI,0,0, 0: No Relation.
+A group,A group,EQUI,5,3, 3: Some Similarity.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,beside a fire truck,NOALI,0,0, 0: No Relation.
+on some rocks,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+are camping,-not aligned-,NOALI,0,0, 0: No Relation.
+of people,of people,EQUI,5,3, 3: Some Similarity.
+out,-not aligned-,NOALI,0,0, 0: No Relation.
+The two dogs,The dogs,SPE1,4,3, 3: Some Similarity.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+are playing fetch,play,SPE1,4,1, 1: Slightly Related.
+in the snow,in the snow,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+down a ramp,in the sand,SIMI,1,1, 1: Slightly Related.
+is jumping,is jumping,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+Dog,A girls,SIMI,3,0, 0: No Relation.
+racing,are racing,EQUI,5,1, 1: Slightly Related.
+Three greyhounds,Five greyhounds,SIMI,3,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+on a track,on a sand track,SPE2,4,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+on the grass,in a grassy plain,SPE2,4,2, 2: Related but Different
+Two black dogs,Two black dogs,EQUI,5,5, 5: Completely Equivalent.
+are playing,are playing,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+is running,is running,EQUI,5,5, 5: Completely Equivalent.
+on the grass,on the grass,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A little brown dog,The brown dog,SPE1,4,3, 3: Some Similarity.
+A boy,A boy,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+in a hilly area,in a grassy field,SIMI,4,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+wearing,wearing,EQUI,5,4, 4: Completely Equivalent.
+a tree,on a tree branch,SPE2,4,2, 2: Related but Different
+is climbing,is climbing,EQUI,5,5, 5: Completely Equivalent.
+a yellow shirt and blue pants,a yellow shirt and blue pants,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+leaps,is leaping,EQUI,5,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+behind,behind,EQUI,5,4, 4: Completely Equivalent.
+over a log,over a log,EQUI,5,3, 3: Some Similarity.
+as another dog,while another dog,EQUI,5,1, 1: Slightly Related.
+follows,follows,EQUI,5,3, 3: Some Similarity.
+-not aligned-,it,NOALI,0,0, 0: No Relation.
+-not aligned-,in a field,NOALI,0,0, 0: No Relation.
+A harnessed dog,A brown and white dog,SIMI,3,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+A small brown dog,a wet dog,SIMI,4,2, 2: Related but Different
+to catch,chasing,EQUI,5,1, 1: Slightly Related.
+jumping up,-not aligned-,NOALI,0,0, 0: No Relation.
+a tennis ball,a white ball,SPE1,4,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+runs,runs,EQUI,5,5, 5: Completely Equivalent.
+through the water,through the grass,SIMI,2,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+a dog,A dog,EQUI,5,3, 3: Some Similarity.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+a trick,a handstand,SPE2,3,1, 1: Slightly Related.
+is doing,does,EQUI,5,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+A girl,A girl,EQUI,5,5, 5: Completely Equivalent.
+on her trampoline,on a trampoline,EQUI,5,3, 3: Some Similarity.
+in a pack,a race,SIMI,4,1," 1: Slightly Related. Both chunks refer to groups or collections, but they are different concepts. The first one, ""in a pack,"" suggests a group of items or animals, while the second one, ""a race,"" refers to a competition or a group of people. However, they are not directly related in meaning or structure."
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+are running,are running,EQUI,5,5, 5: Completely Equivalent.
+on their chests,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,A group,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+People,of people,EQUI,5,2, 2: Related but Different
+with numbers,-not aligned-,NOALI,0,0," Label=0: No Relation.
+
+Chunk 1: [with numbers]
+Chunk 2: [-not aligned-]
+
+The two chunks do not share any common meaning, structure, or relevance. They are not related in any way."
+in a rocky creek,through greenish water,SPE1,4,2, 2: Related but Different
+A black dog,A black dog,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+through splashing water,splashes,REL,4,2, 2: Related but Different.
+walking,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,sleeping,NOALI,0,0, 0: No Relation.
+sliding,-not aligned-,NOALI,0,0, 0: No Relation.
+Child,Man,SIMI,3,0, 0: No Relation.
+-not aligned-,on the street,NOALI,0,0, 0: No Relation.
+in the snow,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+runs,running,EQUI,5,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+through a very wooded area,through a creek,SIMI,3,1," 1: Slightly Related. Both chunks describe a location or path, but Chunk 1 refers to a wooded area while Chunk 2 refers to a creek, which are different environments."
+A dog,A dog,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,with a red ball,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+are playing,plays,EQUI,5,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+in tall grass,in the grass,SPE1,4,2, 2: Related but Different
+A brown dog and a tan dog,A black and brown dog,SPE2,4,1, 1: Slightly Related.
+-not aligned-,overhead,NOALI,0,0, 0: No Relation.
+through an opening,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,is running,NOALI,0,0, 0: No Relation.
+is squeezing,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A person,A medium sized brown dog,SIMI,3,0, 0: No Relation.
+-not aligned-,through an open white wooded area,NOALI,0,0, 0: No Relation.
+in the rock face,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+running,walking,SIMI,4,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+Six dogs,Six dogs,EQUI,5,5, 5: Completely Equivalent.
+on the sandy beach,beside the beach,SPE1,4,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,in front of a brick building,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+are walking,are walking,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+Two people,Two girls,SPE2,4,1, 1: Slightly Related.
+through some water,by a tree,SIMI,2,0, 0: No Relation.
+rowing,in rowboat,REL,4,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A woman and a dog,Woman and dog,EQUI,5,3, 3: Some Similarity.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+down a wide river,on the water,SPE1,4,2, 2: Related but Different.
+Three dogs,Three dogs,EQUI,5,5, 5: Completely Equivalent.
+in the water,in the water,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+are playing,swim,SPE2,3,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+in a blue jacket,wearing a blue visor,SIMI,2,1, 1: Slightly Related.
+a bat,a bat,EQUI,5,5, 5: Completely Equivalent.
+A young boy,A young boy,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+at a ball,-not aligned-,NOALI,0,0, 0: No Relation.
+swings,swings,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+Three individuals,Three people,EQUI,5,3, 3: Some Similarity.
+"behind a ""no skiing"" sign",behind a no skiing sign,EQUI,5,3, 3: Some Similarity.
+on skis,on skis,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+are posing,are standing,SPE1,4,1," 1: Slightly Related. Both chunks describe a state of being, but Chunk 1 implies a more dynamic or active position than Chunk 2."
+holds up,holding,SPE1,4,2, 2: Related but Different
+A female DJ,a girl,SPE1,4,1, 1: Slightly Related.
+a Michael Jackson album,a picture of Michael Jackson,SIMI,3,1, 1: Slightly Related.
+-not aligned-,smiling,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+is running,swims,SIMI,2,0, 0: No Relation.
+on the grass,in blue water,SIMI,2,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+The black and white dog,A black and white dog,EQUI,5,4, 4: Completely Equivalent.
+one,A little girl,SIMI,4,1, 1: Slightly Related.
+Two teenage girls,-not aligned-,NOALI,0,0, 0: No Relation.
+is smiling,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,on a kid swing,NOALI,0,0, 0: No Relation.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+walks,walks,EQUI,5,4, 4: Completely Equivalent.
+-not aligned-,with it's tongue,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,hanging out,NOALI,0,0, 0: No Relation.
+in the white snow,in the snow,EQUI,5,2, 2: Related but Different
+A brown and black dog,A brown and black dog,EQUI,5,5, 5: Completely Equivalent.
+Two teenagers,Two people,SPE1,4,1, 1: Slightly Related.
+in a doorway,on a doorstep,SIMI,4,2, 2: Related but Different
+-not aligned-,wearing,NOALI,0,0, 0: No Relation.
+-not aligned-,in the rain,NOALI,5,0, 0: No Relation.
+-not aligned-,hoodies,NOALI,0,0, 0: No Relation.
+in the rain,-not aligned-,NOALI,5,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+huddle,huddle,EQUI,5,5, 5: Completely Equivalent.
+on a swing,on a swing,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+swinging,is,SPE1,4,1," 1: Slightly Related. The words ""swinging"" and ""is"" are not semantically related, but ""swinging"" could potentially be used as a verb describing an action, which could be associated with the verb ""is"" in a sentence. However, the context is not provided, so the relationship is slight."
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+a boy,The girl,SIMI,4,0, 0: No Relation.
+-not aligned-,wearing,NOALI,0,0, 0: No Relation.
+-not aligned-,purple,NOALI,0,0, 0: No Relation.
+A young girl,a young girl,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+in the water,through water,EQUI,5,2, 2: Related but Different
+doing a back flip,running,SIMI,2,1," 1: Slightly Related. Both activities involve physical movement, but they are distinct actions. Running is a locomotion activity, while doing a back flip is an acrobatic maneuver."
+is riding a bicycle,running,SIMI,2,1, 1: Slightly Related.
+A man,Two dogs,SPE1,2,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+on a dirt path,along dirt path,EQUI,5,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+down a path,down a path,EQUI,5,4, 4: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+happily,-not aligned-,NOALI,0,0, 0: No Relation.
+A light brown dog,A pale dog,SIMI,4,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+runs,runs,EQUI,5,5, 5: Completely Equivalent.
+a back bend,a back bend,EQUI,5,5, 5: Completely Equivalent.
+does,doing,EQUI,5,1, 1: Slightly Related.
+A girl,A girl,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+on the beach,at the beach,EQUI,5,3, 3: Some Similarity.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,step off,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+Two older men,Two men,SPE1,4,1, 1: Slightly Related.
+in front of a bus,the bus,EQUI,5,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,together,NOALI,0,0, 0: No Relation.
+A little girl,A man,SIMI,3,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,going over,NOALI,0,0, 0: No Relation.
+a boardwalk,-not aligned-,NOALI,0,0, 0: No Relation.
+in the background,in the background,EQUI,5,3, 3: Some Similarity.
+-not aligned-,with a river,NOALI,0,0, 0: No Relation.
+-not aligned-,a jump,NOALI,0,0, 0: No Relation.
+with blue domes,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,on his bike,NOALI,0,0, 0: No Relation.
+walks on,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,a very high jump,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+nest to a river,-not aligned-,NOALI,0,0, 0: No Relation.
+A man,A man,EQUI,5,5, 5: Completely Equivalent.
+on a bike,on a bike,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,does,NOALI,0,0, 0: No Relation.
+through water,through grass,SIMI,2,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+running,is running,EQUI,5,2, 2: Related but Different
+Black and white dog,A black and white dog,EQUI,5,4, 4: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A dalmation,A white dog,SPE1,4,2, 2: Related but Different
+is running,is running,EQUI,5,5, 5: Completely Equivalent.
+along the beach,on sand,SPE1,4,2, 2: Related but Different.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+out of the water,through the water,EQUI,5,2, 2: Related but Different.
+towards shore,towards the shore,EQUI,5,3, 3: Some Similarity.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+leaps,jumping,EQUI,5,2, 2: Related but Different
+A dog,a tan dog,SPE2,4,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+in the grass,in the water,SIMI,2,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+play,play,EQUI,5,5, 5: Completely Equivalent.
+two dogs,Two dogs,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+in the water,the water,EQUI,5,2, 2: Related but Different
+is splashing,treads,SIMI,4,1," 1: Slightly Related. Both chunks could be related to actions, but Chunk 1 refers to an action of making a splash, while Chunk 2 refers to treading, which is a different action."
+with a stick,with sticks,SPE1,4,2, 2: Related but Different
+A wet white dog,A white dogs,SPE1,4,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+in it's mouth,in its mouth,EQUI,5,3, 3: Some Similarity.
+-not aligned-,is sitting,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+in its mouth,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,on a green chair,NOALI,0,0, 0: No Relation.
+is catching,-not aligned-,NOALI,0,0, 0: No Relation.
+a ball,-not aligned-,NOALI,0,0, 0: No Relation.
+in the snow,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+A blonde dog,A little blonde girl,SIMI,3,1, 1: Slightly Related.
+in the grass,in the grass,EQUI,5,5, 5: Completely Equivalent.
+playing around,play,EQUI,5,1, 1: Slightly Related.
+two puppies,Two puppies,EQUI,5,4, 4: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+run,run,EQUI,5,5, 5: Completely Equivalent.
+Two dogs,Two dogs,EQUI,5,5, 5: Completely Equivalent.
+near a forest,in the forest,EQUI,5,3, 3: Some Similarity.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+on a dirt area,down a dirt path,SPE2,4,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+is running,is running,EQUI,5,5, 5: Completely Equivalent.
+in his mouth,in its mouth,EQUI,5,2, 2: Related but Different
+The brown and white dog,A dog,SPE1,4,2, 2: Related but Different
+across the sand,along a beach,SPE2,4,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+with a red object,with a red object,EQUI,5,5, 5: Completely Equivalent.
+in the snow,in the snow,EQUI,5,5, 5: Completely Equivalent.
+are playing,are running,SPE2,3,1, 1: Slightly Related.
+Two dogs,The dogs,EQUI,5,3, 3: Some Similarity.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+on a field,in field,EQUI,5,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+of grass,of long green grass,SPE2,4,2, 2: Related but Different
+A brown dog,A brown dog,EQUI,5,5, 5: Completely Equivalent.
+jumps high,running,SIMI,2,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+sails,is kayaking,SIMI,3,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,A man,NOALI,0,0, 0: No Relation.
+in rough water,in rough waters,EQUI,5,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+Boat,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,holding,NOALI,0,0, 0: No Relation.
+-not aligned-,with their backs,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+on the big screen,-not aligned-,NOALI,0,0, 0: No Relation.
+is playing along,-not aligned-,NOALI,0,0, 0: No Relation.
+with the images,to the camera,REL,4,1, 1: Slightly Related.
+The girl,Three girls,SPE1,3,1, 1: Slightly Related.
+-not aligned-,umbrellas,NOALI,0,0, 0: No Relation.
+A dog,A dog,EQUI,5,5, 5: Completely Equivalent.
+with its two front paws,-not aligned-,NOALI,0,0, 0: No Relation.
+on a rock,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,is running,NOALI,0,0, 0: No Relation.
+in a field,in a field,EQUI,5,2, 2: Related but Different
+is rock climbing,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,at an outdoor event,NOALI,0,1, 1: Slightly Related.
+on a natural rock,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A man,A woman,SIMI,3,1, 1: Slightly Related.
+-not aligned-,with glowing shoes,NOALI,0,0, 0: No Relation.
+in their mouths,in their mouths,EQUI,5,5, 5: Completely Equivalent.
+Two dogs,Two dogs,EQUI,5,5, 5: Completely Equivalent.
+one Frisbee,a single black Frisbee,SPE2,4,2, 2: Related but Different
+holding,holding,EQUI,5,4, 4: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+in bed,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,in the ring,NOALI,0,0, 0: No Relation.
+are,are,EQUI,5,1, 1: Slightly Related.
+Two people,Two boxers,SIMI,3,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+on grass,in a fenced yard,SPE2,4,1," 1: Slightly Related. Both chunks refer to outdoor locations, but Chunk 1 is more general and Chunk 2 provides additional details about the location being fenced."
+A brown and white dog,A brown and white dog,EQUI,5,5, 5: Completely Equivalent.
+running,running,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,fast,NOALI,0,0, 0: No Relation.
+tongue,-not aligned-,NOALI,0,0, 0: No Relation.
+A dog,A dog,EQUI,5,5, 5: Completely Equivalent.
+and,-not aligned-,NOALI,0,0, 0: No Relation.
+flying,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,in the woods,NOALI,0,0, 0: No Relation.
+over a log,over a log,EQUI,5,3, 3: Some Similarity.
+out,-not aligned-,NOALI,0,0, 0: No Relation.
+with ears,-not aligned-,NOALI,0,1," 1: Slightly Related. The first chunk mentions ""ears"" while the second does not, but both could potentially be used in a discussion about physical features. However, they are not directly related in the provided context."
+is jumping,leaps,EQUI,5,2, 2: Related but Different
+A man,A hiker,SPE1,4,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+a snowy mountain,a snowy mountain,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+climbs,moves up,EQUI,5,2, 2: Related but Different.
+two dogs,two dogs,EQUI,5,5, 5: Completely Equivalent.
+a man,A man,EQUI,5,1, 1: Slightly Related.
+walks,walks,EQUI,5,4, 4: Completely Equivalent.
+down the street,in the city,REL,4,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+on leashes,-not aligned-,NOALI,0,0, 0: No Relation.
+The beagle,A beagle,EQUI,5,4, 4: Completely Equivalent.
+is walking,walks,EQUI,5,2, 2: Related but Different
+on the beach,-not aligned-,NOALI,0,0, 0: No Relation.
+at the waterline,along the calm shore,SPE2,4,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+in black massage chairs,in massage chairs,SPE1,4,3, 3: Some Similarity.
+sit,are relaxing,SPE2,4,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+Two Asian men and Asian woman,Two Asian men and a woman,SPE1,4,2, 2: Related but Different
+Two dogs,Two dogs,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+in the snow,in the snow,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+fighting,playing,SIMI,3,1, 1: Slightly Related.
+a white dog,A little white dog,SPE2,4,2, 2: Related but Different
+through the snow,through the sand,SIMI,2,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+is running,running,EQUI,5,4, 4: Completely Equivalent.
+runs,runs,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+A boy,A boy,EQUI,5,5, 5: Completely Equivalent.
+along a beach,along a colorful beach,SPE2,4,2, 2: Related but Different
+a red shirt,a red sweater,SIMI,4,3, 3: Some Similarity.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+wearing,wearing,EQUI,5,4, 4: Completely Equivalent.
+Two large black dogs,Two white dogs,SIMI,4,0, 0: No Relation.
+-not aligned-,together,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+are playing,are running,SPE2,3,1, 1: Slightly Related.
+in a grassy field,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+next to a man,-not aligned-,NOALI,0,0, 0: No Relation.
+on a skateboard,down a ramp,REL,4,2, 2: Related but Different
+A brown and white dog,A brown and white dog,EQUI,5,5, 5: Completely Equivalent.
+is walking,is running,SIMI,4,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+two puppies,Two dogs,SPE1,4,2, 2: Related but Different
+playing around,are wrestling,SIMI,4,1," 1: Slightly Related. Both chunks refer to some form of physical activity, but they are different activities (playing around could mean various activities, while wrestling is a specific sport)."
+in the grass,in the grass,EQUI,5,5, 5: Completely Equivalent.
+is running,run,EQUI,5,1, 1: Slightly Related.
+The tan and white dog,The brown and white dogs,SPE1,4,2, 2: Related but Different
+in the field,through the field,EQUI,5,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+a handstand,a handstand,EQUI,5,5, 5: Completely Equivalent.
+on the beach,on a beach,EQUI,5,3, 3: Some Similarity.
+A woman,a blond girl,SPE2,4,1, 1: Slightly Related.
+does,doing,EQUI,5,1, 1: Slightly Related.
+A black and white dog,A black dog,SPE2,4,2, 2: Related but Different.
+-not aligned-,fast,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+is swimming,runs,SIMI,2,0, 0: No Relation.
+in a large green lake,into shallow water,SPE1,3,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+through the snow,through the field,SIMI,2,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+is running,is running,EQUI,5,5, 5: Completely Equivalent.
+A dog,A brown dog,SPE2,4,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+over grass,across the grass,EQUI,5,2, 2: Related but Different
+is running,is running,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A white and brown dog,A brown and white dog,EQUI,5,2, 2: Related but Different.
+on a ramp,to a slope,SIMI,4,2, 2: Related but Different
+doing a trick,riding up,SIMI,4,1," 1: Slightly Related. Both chunks involve some form of action, but they are not directly related in meaning or structure. One is about performing a trick, while the other is about riding a vehicle upwards."
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+a skateboarder,A skateboarder,EQUI,5,4, 4: Completely Equivalent.
+in a batman suit,in a batman costume,EQUI,5,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+A man,A man,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,a race,NOALI,0,0, 0: No Relation.
+running,is running,EQUI,5,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A brown dog,A dog,SPE1,4,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+chews,has in its mouth,EQUI,5,1, 1: Slightly Related.
+on an orange ball,an orange ball,EQUI,5,4, 4: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+Two dogs,Two black dogs,SPE2,4,2, 2: Related but Different
+together,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+on the beach,in a grass,SIMI,2,1, 1: Slightly Related.
+are playing,are playing,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+on a trampoline,on a trampoline,EQUI,5,5, 5: Completely Equivalent.
+are playing,are playing,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+outdoors,-not aligned-,NOALI,0,0, 0: No Relation.
+These children,four children,SPE2,4,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+is running,running,EQUI,5,4, 4: Completely Equivalent.
+The large brown and white dog,St. Bernard dog,SPE2,4,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+through the snow,in the snowy field,SPE2,4,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+jumping,jumping,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,over an obstacle,NOALI,0,0, 0: No Relation.
+A black and white dog,A black and white dog,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+into the air,-not aligned-,NOALI,0,0, 0: No Relation.
+in an orange dress,in a dress,SPE1,4,2, 2: Related but Different
+a tennis racket,a tennis racket,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+A young girl,A girl,SPE1,4,3, 3: Some Similarity.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+holding,holds,EQUI,5,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A white dog,The white dog,EQUI,5,4, 4: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+on a beach,along the beach,EQUI,5,2, 2: Related but Different.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+runs,is running,EQUI,5,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,standing,NOALI,0,0, 0: No Relation.
+A man and dog,Man and dog,EQUI,5,4, 4: Completely Equivalent.
+on a rocky seashore,on rocks next to water,EQUI,5,2, 2: Related but Different
+huddle,keeping warm,REL,4,1, 1: Slightly Related.
+Four hooded children,Four children,SPE1,4,1, 1: Slightly Related.
+outdoors,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+under a blanket,under a blanket,EQUI,5,5, 5: Completely Equivalent.
+are playing on,are standing,SPE1,3,1, 1: Slightly Related.
+A young laughing girl and a boy,A baby girl and little boy,SPE1,4,2, 2: Related but Different
+a big drum,next to a guitar and a drum,SPE1,3,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+takes a picture,takes a picture,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+while mom,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,in pajamas,NOALI,0,0, 0: No Relation.
+A little girl,A little girl,EQUI,5,5, 5: Completely Equivalent.
+in boredom,-not aligned-,NOALI,0,0, 0: No Relation.
+watches,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,with a camera,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+over a barrier,over a fence,SPE2,4,2, 2: Related but Different
+leaps,leaps,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A dog,A dog,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+plays,is playing,EQUI,5,2, 2: Related but Different
+A boy,A man,SIMI,3,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+baseball,baseball,EQUI,5,5, 5: Completely Equivalent.
+sitting,sitting,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+People laugh,Four happy people,SPE2,4,1, 1: Slightly Related.
+on a couch,on a red couch,SPE2,4,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+says,-not aligned-,NOALI,0,0, 0: No Relation.
+into a pool,into a not-so-crowded public pool,SPE2,4,2, 2: Related but Different
+jumping,jumps,EQUI,5,2, 2: Related but Different
+that,into a not-so-crowded public pool,SPE2,4,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+"""no diving""",-not aligned-,NOALI,0,0, 0: No Relation.
+A young boy,A boy,SPE1,4,3, 3: Some Similarity.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+to another,to another,EQUI,5,1," 1: Slightly Related. Both chunks use the same structure (""[to another]""), but the content is not specific enough to determine a stronger relationship in meaning or relevance."
+A young boy,A young boy,EQUI,5,5, 5: Completely Equivalent.
+leaps,is leaping,EQUI,5,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+from one couch,from one chair,SIMI,4,1, 1: Slightly Related.
+wearing,wearing,EQUI,5,4, 4: Completely Equivalent.
+holding up,-not aligned-,NOALI,0,0, 0: No Relation.
+a candy bar,a chocolate bar,SIMI,4,3, 3: Some Similarity.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+is eating,eats,EQUI,5,2, 2: Related but Different
+a red winter coat,a red coat,SPE1,4,3, 3: Some Similarity.
+and,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A young boy,A young boy,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+running,running,EQUI,5,5, 5: Completely Equivalent.
+on grass,on grass,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+Two dogs,"Two black , wet dogs",SPE2,4,2, 2: Related but Different
+a game,-not aligned-,NOALI,0,0, 0: No Relation.
+Two boys,Two boys,EQUI,5,5, 5: Completely Equivalent.
+playing,are playing,EQUI,5,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+of flag football,flag football,EQUI,5,4, 4: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+is jumping off,jumping off,EQUI,5,5, 5: Completely Equivalent.
+a wooden porch,a wooden porch,EQUI,5,5, 5: Completely Equivalent.
+A golden retriever,A gold dog,EQUI,5,2, 2: Related but Different
+of a wicker chair,in a chair,SPE1,4,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,to it's mouth,NOALI,0,0, 0: No Relation.
+is holding,while sitting,EQUI,5,1," 1: Slightly Related. Both chunks refer to actions, but they describe different actions (holding and sitting)."
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,a spoon,NOALI,0,0, 0: No Relation.
+A young child,A young child,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,holds,NOALI,0,0, 0: No Relation.
+onto the back,-not aligned-,NOALI,0,0, 0: No Relation.
+on the grass,in the grass,EQUI,5,2, 2: Related but Different
+are running,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+Two dogs,Two birds,SIMI,2,1, 1: Slightly Related.
+-not aligned-,interacting,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+Two surfers,Two surfers,EQUI,5,5, 5: Completely Equivalent.
+on riding,perform tricks,SPE2,3,1," 1: Slightly Related. Both chunks are related to activities, but Chunk 1 is more general (riding), while Chunk 2 is more specific (performing tricks)."
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+a small wave,in the waves,SPE1,4,2, 2: Related but Different.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+behind some plants,in the woods,SIMI,3,2, 2: Related but Different
+A brown furry animal,A dog,SPE2,3,2, 2: Related but Different
+-not aligned-,pants,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+stands,while standing,EQUI,5,1, 1: Slightly Related.
+jumps,runs,SIMI,3,1, 1: Slightly Related.
+A dog,A dog,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+high,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+in the snow,in the snow,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+in the snow,in snow,EQUI,5,3, 3: Some Similarity.
+A dog,Two dogs,SPE1,3,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A dog,A collie,SPE2,4,2, 2: Related but Different
+running,running,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+through snow,through the snow,EQUI,5,2, 2: Related but Different
+Two dogs,Two brownish dogs,SPE2,4,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+are fighting,are fighting,EQUI,5,5, 5: Completely Equivalent.
+on brick pavement,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+on the grass,through the snow,SIMI,2,1, 1: Slightly Related.
+The black dog,The German shepherd dog,SPE2,4,2, 2: Related but Different
+is running,is running,EQUI,5,5, 5: Completely Equivalent.
+A dog,A dog,EQUI,5,5, 5: Completely Equivalent.
+a ball,a Frisbee,SIMI,3,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+catching,catching,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+in the snow,in the snow,EQUI,5,5, 5: Completely Equivalent.
+playing,play,EQUI,5,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+Two black dogs,Two dogs,SPE1,4,2, 2: Related but Different.
+with a purple and white helmet,wearing a helmet,SPE1,4,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+on a scooter,a scooter,EQUI,5,3, 3: Some Similarity.
+A girl,A girl,EQUI,5,5, 5: Completely Equivalent.
+is riding,rides,EQUI,5,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+a trick,a trick,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+a skateboard,A skateboarder,EQUI,5,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+performs,to do,EQUI,5,1, 1: Slightly Related.
+-not aligned-,attempts,NOALI,0,0, 0: No Relation.
+off a quarter pipe,over a homemade ramp,SIMI,4,2, 2: Related but Different
+-not aligned-,wait,NOALI,0,0, 0: No Relation.
+of people,of people,EQUI,5,3, 3: Some Similarity.
+-not aligned-,and,NOALI,0,0, 0: No Relation.
+something,something,EQUI,5,1," To accurately evaluate the alignment of the two provided chunks, I would need the actual text content for Chunk 1 and Chunk 2. Once I have that, I can analyze their degree of similarity in meaning, structure, or relevance to each other and provide a score from the given scale.
+
+For example, if Chunk 1 is ""The cat is on the mat"" and Chunk 2 is ""The feline is on the rug,"" the score would be ""2: Related but Different."" If Chunk 1 is ""The cat is on the mat"" and Chunk 2 is ""The cat is on the mat,"" the score would be ""5: Completely Equivalent.""
+
+Please provide the text for Chunk 1 and Chunk 2 so I can help you with the labeling."
+A group,A group,EQUI,5,3, 3: Some Similarity.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+by a window,-not aligned-,NOALI,0,0, 0: No Relation.
+watching,to see,EQUI,5,1, 1: Slightly Related.
+are standing,stand,EQUI,5,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+swinging at a pitch,hitting the ball,REL,4,2, 2: Related but Different
+A softball player,A baseball player,EQUI,5,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+on the grassy field,in the grass,SPE1,4,2, 2: Related but Different
+Three sheep,a small group of goats,SIMI,4,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+with a dog,with a black and white dog,SPE2,4,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+behind them,in the backgroud,EQUI,5,1, 1: Slightly Related.
+graze,-not aligned-,NOALI,0,0, 0: No Relation.
+walking,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+wears,-not aligned-,NOALI,0,0, 0: No Relation.
+in the snow,in the snow,EQUI,5,5, 5: Completely Equivalent.
+playing,playing,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,in the background,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,with a city,NOALI,0,0, 0: No Relation.
+while one dog,-not aligned-,NOALI,0,0, 0: No Relation.
+a jacket,-not aligned-,NOALI,0,0, 0: No Relation.
+Three dogs,Three dogs,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+with a white Frisbee,a white Frisbee,EQUI,5,5, 5: Completely Equivalent.
+running along,-not aligned-,NOALI,0,0, 0: No Relation.
+in his mouth,carries,REL,4,1," 1: Slightly Related. Both chunks refer to a location or action involving an object, but they are not directly related in the context provided."
+-not aligned-,over the grass,NOALI,0,0, 0: No Relation.
+"a black , brown and white dog",A black and white dog,SPE2,4,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+A dog,A dog,EQUI,5,5, 5: Completely Equivalent.
+runs,swimming,SIMI,2,0, 0: No Relation.
+with a yellow toy,with a stick,SIMI,3,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+in its mouth,in it's mouth,EQUI,5,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+The dog,A dog,EQUI,5,3, 3: Some Similarity.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+in the water,in the water,EQUI,5,5, 5: Completely Equivalent.
+is playing,is wading,SIMI,3,1," 1: Slightly Related. Both chunks involve some form of action, but they refer to different activities (playing and wading)."
+-not aligned-,laying,NOALI,0,0, 0: No Relation.
+is riding,-not aligned-,NOALI,0,0, 0: No Relation.
+a bike,on a blue inflatable toy,SIMI,2,0, 0: No Relation.
+A young boy,A young girl,SIMI,3,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+is running,is running,EQUI,5,5, 5: Completely Equivalent.
+through the grass,in the grass,EQUI,5,2, 2: Related but Different
+quickly,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+The white and brown dog,The big white dog,SPE2,4,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+through an obstacle course,through pole obstacles,SPE2,4,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+running,runs,EQUI,5,2, 2: Related but Different
+A black and white dog,A black and white dog,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,of equipment,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+The child,The toddler,SPE2,4,2, 2: Related but Different
+laid,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,ready,NOALI,0,0, 0: No Relation.
+in the red mat,-not aligned-,NOALI,3,0, 0: No Relation.
+-not aligned-,is,NOALI,0,0, 0: No Relation.
+-not aligned-,the red piece,NOALI,0,0, 0: No Relation.
+in the red coat,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,to climb,NOALI,0,0, 0: No Relation.
+through the snow,a sled,REL,4,1, 1: Slightly Related.
+is running,pulling,SIMI,2,1," 1: Slightly Related. Both chunks involve some form of action, but they are not directly related in terms of meaning or structure."
+-not aligned-,through a town,NOALI,0,0, 0: No Relation.
+A golden dog,of sled dogs,SPE1,4,1, 1: Slightly Related.
+-not aligned-,A pack,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+and,-not aligned-,NOALI,0,0, 0: No Relation.
+playing,playing,EQUI,5,5, 5: Completely Equivalent.
+Three children,Three children,EQUI,5,5, 5: Completely Equivalent.
+and,-not aligned-,NOALI,0,0, 0: No Relation.
+laughing,-not aligned-,NOALI,0,0, 0: No Relation.
+on the floor,on the floor,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,digging,NOALI,0,0, 0: No Relation.
+a black dog,a black dog,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+swimming,-not aligned-,NOALI,0,0, 0: No Relation.
+through a river,through the snow,SIMI,2,1, 1: Slightly Related.
+through a grassy park,-not aligned-,NOALI,0,0, 0: No Relation.
+is running,is running,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+in the background,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,to splash,NOALI,0,0, 0: No Relation.
+A bulldog,A dog,SPE1,4,1, 1: Slightly Related.
+while people,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,of water,NOALI,0,0, 0: No Relation.
+-not aligned-,in a large body,NOALI,0,0, 0: No Relation.
+-not aligned-,causing,NOALI,0,0, 0: No Relation.
+-not aligned-,it,NOALI,0,0, 0: No Relation.
+stand,-not aligned-,NOALI,0,0, 0: No Relation.
+in its mouth,in mouth,EQUI,5,3, 3: Some Similarity.
+with a baseball,holding a baseball,EQUI,5,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+brown and white dog,Black and white dog,SIMI,4,2, 2: Related but Different
+through the snow,through the snow,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A golden dog,A black dog,SPE1,4,1, 1: Slightly Related.
+is running,is running,EQUI,5,5, 5: Completely Equivalent.
+dressed,dressed,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,dance along,NOALI,0,0, 0: No Relation.
+in red and black costumes,like waitresses,REL,2,1," 1: Slightly Related. The two chunks both refer to costumes, but the specific types of costumes (red and black, waitress-like) are different."
+a wrestling pose,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,dressed,NOALI,0,0, 0: No Relation.
+Girls,Two girls,SPE2,4,2, 2: Related but Different
+hold,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,with a man,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,as a chef,NOALI,0,0, 0: No Relation.
+to climb out of,to climb out of,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+attempting,is trying,EQUI,5,2, 2: Related but Different
+Baby,A female toddler,SPE2,4,1, 1: Slightly Related.
+in yellow room,-not aligned-,NOALI,0,0, 0: No Relation.
+green playpen,a green and white playpen,SPE1,4,2, 2: Related but Different
+with blonde pigtails,in pigtails,SPE1,4,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+in the snow,in the grass,SIMI,2,0, 0: No Relation.
+The two dogs,Two dogs,EQUI,5,3, 3: Some Similarity.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,together,NOALI,0,0, 0: No Relation.
+are playing fetch,are playing,SPE1,4,1, 1: Slightly Related.
+an apple,an apple,EQUI,5,5, 5: Completely Equivalent.
+eating,eating,EQUI,5,5, 5: Completely Equivalent.
+A man,A man,EQUI,5,5, 5: Completely Equivalent.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+sitting,sits,EQUI,5,3, 3: Some Similarity.
+in public,in a public place,EQUI,5,3, 3: Some Similarity.
+A man,A man,EQUI,5,5, 5: Completely Equivalent.
+wearing a red bicycle helmet,in a bicycle helmet,SPE1,4,2, 2: Related but Different
+in the background,behind him,EQUI,5,1," 1: Slightly Related. Both chunks refer to a location or position, but they are not exactly the same. Chunk 1 refers to a general location or context, while Chunk 2 specifies a location in relation to a specific person."
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+with other people,with other people,EQUI,5,3, 3: Some Similarity.
+talking,is talking,EQUI,5,1," 1: Slightly Related. Both chunks refer to the act of speaking, but the first uses the verb in present participle form (""talking""), while the second uses the present tense of the verb (""is talking"")."
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+on a cell phone,on a cell phone,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,jumps over,NOALI,0,0, 0: No Relation.
+is punching,-not aligned-,NOALI,0,0, 0: No Relation.
+A young boy,A small dog,SIMI,3,1, 1: Slightly Related.
+-not aligned-,a yellow beam,NOALI,0,0, 0: No Relation.
+a yellow ball,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+leans,leans,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,overlooking,NOALI,0,0, 0: No Relation.
+wearing,wearing,EQUI,5,4, 4: Completely Equivalent.
+-not aligned-,water,NOALI,0,0, 0: No Relation.
+a pink Tinker Bell jacket,a pink Tinkerbell sweatshirt,SIMI,4,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+against a railing,on a railing,EQUI,5,2, 2: Related but Different
+A woman,A woman,EQUI,5,5, 5: Completely Equivalent.
+in a crosswalk,in a crosswalk,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+walks,-not aligned-,NOALI,0,0, 0: No Relation.
+A man,-not aligned-,NOALI,0,0, 0: No Relation.
+on a city street,in a city,SPE1,4,2, 2: Related but Different
+standing,stands,EQUI,5,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+toward a policeman,A policeman,EQUI,5,1, 1: Slightly Related.
+plays,-not aligned-,NOALI,0,0, 0: No Relation.
+A young boy,A laughing boy,SIMI,4,2, 2: Related but Different
+in a red ball pit,on a pit of blue balls,SIMI,4,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,lies,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+in the snow,in the river,SIMI,2,0, 0: No Relation.
+is running,is,SPE1,3,1," 1: Slightly Related. Both chunks contain verbs related to actions, but Chunk 1 is more specific as it implies movement or progress, while Chunk 2 is a more general auxiliary verb."
+with red ears,-not aligned-,NOALI,0,0, 0: No Relation.
+A white dog,a wet black dog,SPE2,3,1, 1: Slightly Related.
+-not aligned-,with a red collar,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+clowns,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+on his head,on his head,EQUI,5,4, 4: Completely Equivalent.
+with a colander,with a metal colander,SPE2,4,1," 1: Slightly Related. Both chunks refer to using a colander, but one specifies it as a metal colander."
+A little boy,A boy,SPE1,4,3, 3: Some Similarity.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+on a track,by a tree,REL,2,1, 1: Slightly Related.
+-not aligned-,another,NOALI,0,0, 0: No Relation.
+A dog,A dog,EQUI,5,5, 5: Completely Equivalent.
+racing,chases,SIMI,4,2, 2: Related but Different
+in a subway car,on public transportation,SPE1,4,2, 2: Related but Different
+A man,A man,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+is sleeping,falls asleep,SPE2,4,2, 2: Related but Different
+in a black leather jacket,in a black leather jacket,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+jumps,jumps,EQUI,5,5, 5: Completely Equivalent.
+A dog,A dog,EQUI,5,5, 5: Completely Equivalent.
+on a lawn,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,of a surfboard,NOALI,0,0, 0: No Relation.
+through shallow water,through the shallow water,EQUI,5,3, 3: Some Similarity.
+Two dogs,Two grey dogs,SPE2,4,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+run,running,EQUI,5,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+towards shore,of a lake,REL,4,1, 1: Slightly Related.
+-not aligned-,in the air,NOALI,0,0, 0: No Relation.
+with it's wings spread,flying,SIMI,4,2, 2: Related but Different
+A bird,A bird,EQUI,5,5, 5: Completely Equivalent.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,is,NOALI,0,0, 0: No Relation.
+in front of a long blue wall,next to a blue wall,SPE1,4,2, 2: Related but Different.
+his eyebrow,-not aligned-,NOALI,0,0, 0: No Relation.
+at the camera,-not aligned-,NOALI,0,0, 0: No Relation.
+raises,-not aligned-,NOALI,0,0, 0: No Relation.
+in a red shirt,in the red shirt,EQUI,5,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+a boy,The boy,EQUI,5,3, 3: Some Similarity.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+A woman,A woman,EQUI,5,5, 5: Completely Equivalent.
+beside a tall concrete wall,beside a concrete wall,SPE1,4,3, 3: Some Similarity.
+jogs,runs,EQUI,5,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,of people,NOALI,0,0, 0: No Relation.
+A brown dog,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,walking,NOALI,0,0, 0: No Relation.
+-not aligned-,on the side,NOALI,0,0, 0: No Relation.
+in front of a plant,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,A group,NOALI,0,0, 0: No Relation.
+a hole,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,of a railroad track,NOALI,0,0, 0: No Relation.
+digging,-not aligned-,NOALI,0,0, 0: No Relation.
+in a red coat and hat,wearing a red coat,SPE2,4,2, 2: Related but Different
+to another man,at another man,EQUI,5,1," 1: Slightly Related. Both chunks refer to a relationship between two individuals, but the prepositions used (""to"" and ""at"") suggest slightly different contexts or actions."
+talks,looks,REL,3,1, 1: Slightly Related.
+in red,-not aligned-,NOALI,0,0, 0: No Relation.
+A man,A man,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,with glass,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+play,play,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+in the grass,in the snow,SIMI,2,1, 1: Slightly Related.
+Two dogs,Two tan dogs,SPE2,4,2, 2: Related but Different
+into a swimming pool,into a swimming pool,EQUI,5,5, 5: Completely Equivalent.
+A boy,A boy,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+doing a back flip,jumping head first,EQUI,5,2, 2: Related but Different.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,wearing,NOALI,0,0, 0: No Relation.
+-not aligned-,red and blue swim trunks,NOALI,0,1," 1: Slightly Related. The two chunks are not directly related, but they could potentially be connected in a broader context, such as discussing different types of swimwear."
+over a hurdle,-not aligned-,NOALI,0,0, 0: No Relation.
+A black and white dog,A white dog,SPE2,4,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+is jumping,running,SIMI,2,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,over a bridge,NOALI,0,0, 0: No Relation.
+on a trampoline,on a trampoline,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+upside down,-not aligned-,NOALI,0,0, 0: No Relation.
+on her head,on her head,EQUI,5,4, 4: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+bounces,is bouncing,EQUI,5,2, 2: Related but Different
+A girl,A girl,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+on a trampoline,-not aligned-,NOALI,0,0, 0: No Relation.
+Children,A man,SIMI,2,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,on an orange slide,NOALI,0,0, 0: No Relation.
+jumping,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,is sledding,NOALI,0,0, 0: No Relation.
+-not aligned-,outside,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,over a barricade,NOALI,0,0, 0: No Relation.
+over a construction sign,-not aligned-,NOALI,0,0, 0: No Relation.
+snowboarding and jumping,jumping,SIMI,4,2, 2: Related but Different.
+-not aligned-,in the snow,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A person,a long snowboarder,SPE2,4,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+The skateboarder,The skateboarder,EQUI,5,5, 5: Completely Equivalent.
+to the top,the pipe wall,EQUI,5,1, 1: Slightly Related.
+gets,rides,SIMI,3,1, 1: Slightly Related.
+of the ramp,at a skater park,REL,4,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,into each other,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+Two boys,Two football players,SPE2,4,2, 2: Related but Different
+a soccer ball,during a football game,REL,4,1, 1: Slightly Related.
+kicking,bang,SIMI,4,1, 1: Slightly Related.
+in a field,-not aligned-,NOALI,0,0, 0: No Relation.
+behind them,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+a field,-not aligned-,NOALI,0,0, 0: No Relation.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+stand,standing,EQUI,5,3, 3: Some Similarity.
+of people,of people,EQUI,5,3, 3: Some Similarity.
+A crowd,A bunch,EQUI,5,1, 1: Slightly Related.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+a forest,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,with it's trunk,NOALI,0,0, 0: No Relation.
+in front,-not aligned-,NOALI,0,0, Label=0: No Relation.
+-not aligned-,open,NOALI,0,0, 0: No Relation.
+on a rural road,next to a car,REL,4,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+through the deep snow,through the snow,SPE1,4,2, 2: Related but Different
+runs,is running,EQUI,5,2, 2: Related but Different
+A dog,A white dog,SPE2,4,2, 2: Related but Different
+A boy,A young boy,SPE2,4,3, 3: Some Similarity.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+riding,riding,EQUI,5,5, 5: Completely Equivalent.
+on a swing,in a swing,EQUI,5,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+A woman,Women,SPE1,4,1, 1: Slightly Related.
+a geyser,a geyser,EQUI,5,5, 5: Completely Equivalent.
+pointing at,pointing at,EQUI,5,1," 1: Slightly Related. Both chunks refer to the action of pointing, but they do not specify at what or to whom."
+in the white snow,in the grass,SIMI,2,0, 0: No Relation.
+are playing,are playing,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+Three dogs,Two dogs,SIMI,4,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+along a city street,crossing the street,SPE1,4,2, 2: Related but Different
+An elderly woman,An elderly woman,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+rides a bicycle,walking,SIMI,2,1, 1: Slightly Related.
+-not aligned-,uphill,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,lean,NOALI,0,0, 0: No Relation.
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+next to a mossy tree,around a tree,SPE1,4,2, 2: Related but Different
+-not aligned-,laughing,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+Two girls,Two girls,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,wearing,NOALI,0,0, 0: No Relation.
+is building,stacks,SPE1,3,1, 1: Slightly Related.
+A small boy,A small boy,EQUI,5,5, 5: Completely Equivalent.
+with some wooden blocks,wooden blocks,EQUI,5,3, 3: Some Similarity.
+-not aligned-,a blue shirt,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+a brown dog,A brown dog,EQUI,5,4, 4: Completely Equivalent.
+in the middle,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+of ahuge field,in a field,SPE1,4,2, 2: Related but Different
+standing,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+on the snow,in the snow,EQUI,5,2, 2: Related but Different
+runs,play,SPE1,3,1, 1: Slightly Related.
+in his mouth,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,behind them,NOALI,0,0, 0: No Relation.
+The brown dog,Four dogs,SPE1,2,1, 1: Slightly Related.
+with a white ball,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,with the city skyline,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+is running,running,EQUI,5,4, 4: Completely Equivalent.
+-not aligned-,crazily,NOALI,0,0, 0: No Relation.
+a brown and white dog,a brown and white dog,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+on the grass,through the grass,EQUI,5,2, 2: Related but Different.
+-not aligned-,to come down,NOALI,0,0, 0: No Relation.
+A brown dog,A brown dog,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,waits for,NOALI,0,0, 0: No Relation.
+about to catch,before catching,EQUI,5,2, 2: Related but Different.
+-not aligned-,it,NOALI,0,0, 0: No Relation.
+a green Frisbee,the Frisbee,SPE1,4,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+with a pink hat on,in a pink dress,SIMI,3,1, 1: Slightly Related.
+in the background,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,in her hand,NOALI,0,0, 0: No Relation.
+with a yellow building,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,with something,NOALI,0,0, 0: No Relation.
+A young girl,A young girl,EQUI,5,5, 5: Completely Equivalent.
+A man,A man,EQUI,5,5, 5: Completely Equivalent.
+of a rock or mountain,in the mountains,SPE2,3,2, 2: Related but Different
+on top,-not aligned-,NOALI,0,0, 0: No Relation.
+the sun set,a sunset,EQUI,5,3, 3: Some Similarity.
+watching,watching,EQUI,5,4, 4: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+is standing,standing,EQUI,5,4, 4: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,hops,NOALI,0,0, 0: No Relation.
+-not aligned-,in the park,NOALI,0,0, 0: No Relation.
+The couple,The boy,SPE2,2,1, 1: Slightly Related.
+-not aligned-,to the other,NOALI,0,0, 0: No Relation.
+near the water,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+is sitting,-not aligned-,NOALI,0,0, 0: No Relation.
+in lawn chairs,from one picnic table,REL,4,1," 1: Slightly Related. Both chunks refer to outdoor seating, but one is located in lawn chairs and the other is from a picnic table."
+-not aligned-,at night,NOALI,0,0, 0: No Relation.
+is swinging,swinging,EQUI,5,4, 4: Completely Equivalent.
+above the water,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,in warm clothes,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+on a rope,on monkey bars,SIMI,3,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A man,A man,EQUI,5,5, 5: Completely Equivalent.
+through deep snow pack,through the deep snow,EQUI,5,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+running,runs,EQUI,5,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A dog,A dog,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+is running,pounces,SIMI,3,0, 0: No Relation.
+in the grass,on the grass,EQUI,5,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+The dog,a dog,EQUI,5,3, 3: Some Similarity.
+jumping,is jumping,EQUI,5,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+A Golden Retriever,A golden retriever,EQUI,5,4, 4: Completely Equivalent.
+off a wood porch,off a wooden porch,EQUI,5,3, 3: Some Similarity.
+is running,is running,EQUI,5,5, 5: Completely Equivalent.
+with food,-not aligned-,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+The dog,The dog,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,with a yellow ball,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+in his mouth,in his mouth,EQUI,5,4, 4: Completely Equivalent.
+A reddish brown dog,The beautiful reddish dog,SPE2,4,3, 3: Some Similarity.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+runs,lopes,SIMI,4,1, 1: Slightly Related.
+across the snow,around the flat snowy street,SPE2,3,2, 2: Related but Different
+with a snowball,with a snowball,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+in its mouth,in its mouth,EQUI,5,5, 5: Completely Equivalent.
+is running,-not aligned-,NOALI,0,0, 0: No Relation.
+A white dog,A white dog,EQUI,5,5, 5: Completely Equivalent.
+a ball,an orange ball,SPE2,4,2, 2: Related but Different
+in a yard,in a grassy field,SPE2,4,2, 2: Related but Different
+chasing,chases,EQUI,5,2, 2: Related but Different
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+with brown spots,with brown markings,EQUI,5,3, 3: Some Similarity.
+-not aligned-,runs,NOALI,0,0, 0: No Relation.
+-not aligned-,in a paisley dress,NOALI,0,0, 0: No Relation.
+A little girl and a little boy,A little girl,SPE2,3,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+on a shiny slide,across a sandy playground,REL,3,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+hold hands,-not aligned-,NOALI,0,0, 0: No Relation.
+in a rubber bin,-not aligned-,NOALI,0,0, 0: No Relation.
+Three little boys,Three well-dressed children,SIMI,3,2, 2: Related but Different
+take,-not aligned-,NOALI,0,0, 0: No Relation.
+a bath,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,and,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+on the grass,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,smiling,NOALI,0,0, 0: No Relation.
+-not aligned-,on a bench,NOALI,0,0, 0: No Relation.
+-not aligned-,are sitting,NOALI,0,0, 0: No Relation.
+a dog,A brown dog,SPE2,4,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+looks on,-not aligned-,NOALI,0,0, 0: No Relation.
+sniffing,sniffing,EQUI,5,5, 5: Completely Equivalent.
+the brushes,at the fence,SIMI,3,1, 1: Slightly Related.
+while a bull,of a brown bull,SPE2,4,2, 2: Related but Different
+in the snow,in the snow,EQUI,5,5, 5: Completely Equivalent.
+A black dog,Two kids and a dog,SPE1,3,1, 1: Slightly Related.
+bounds,play,SIMI,4,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+through a path,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+sliding on his knees,is riding a red sledge,SIMI,3,1," 1: Slightly Related. Both chunks describe a person moving in an unusual way, but they are different actions (sliding on knees vs riding a sledge)."
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+down a snowy hill,down a snowy hill,EQUI,5,5, 5: Completely Equivalent.
+A boy,A boy,EQUI,5,5, 5: Completely Equivalent.
+in a red jacket and balck hat,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+in a field,in a field,EQUI,5,2, 2: Related but Different
+of grass,of tall grass,SPE2,4,2, 2: Related but Different
+Three dogs,Two dogs,SIMI,4,1, 1: Slightly Related.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+running,run,EQUI,5,1, 1: Slightly Related.
+playing,play,EQUI,5,1, 1: Slightly Related.
+brass instruments,instruments,SPE1,4,2, 2: Related but Different.
+A group,A group,EQUI,5,3, 3: Some Similarity.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,outside,NOALI,0,0, 0: No Relation.
+of men,of guys,EQUI,5,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+A black and tan dog,A white dog,SIMI,4,0, 0: No Relation.
+standing,is standing,EQUI,5,1, 1: Slightly Related.
+-not aligned-,dry,NOALI,0,0, 0: No Relation.
+-not aligned-,himself,NOALI,0,0, 0: No Relation.
+in a field,by a river,SIMI,2,1, 1: Slightly Related.
+-not aligned-,shaking,NOALI,0,0, 0: No Relation.
+near trees,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+Three people,Three people,EQUI,5,3, 3: Some Similarity.
+painted,painted,EQUI,5,5, 5: Completely Equivalent.
+outside of a building,in front of a building,EQUI,5,2, 2: Related but Different
+at a picnic table,at an outdoor table,SIMI,4,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+like a union jack,like the Union Jack,EQUI,5,3, 3: Some Similarity.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+sit,sit,EQUI,5,5, 5: Completely Equivalent.
+runs,jumping,SIMI,3,1, 1: Slightly Related.
+through an obstacle course,over an obstacle,SPE2,4,1, 1: Slightly Related.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+A small dog,A small dog,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+-not aligned-,A white dog,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,is carrying,NOALI,0,0, 0: No Relation.
+-not aligned-,a stick,NOALI,0,0, 0: No Relation.
+A tent and a campsite,-not aligned-,NOALI,0,0, 0: No Relation.
+in a sunlit forest,on a beach,SIMI,2,1, 1: Slightly Related.
+-not aligned-,in its mouth,NOALI,0,0, 0: No Relation.
+is chasing,is running,SIMI,4,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A black dog,A dog,SPE1,4,2, 2: Related but Different
+of the ocean,beside the ocean,EQUI,5,2, 2: Related but Different
+on the shore,along the beach,SIMI,4,2, 2: Related but Different
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+two birds,-not aligned-,NOALI,0,0, 0: No Relation.
+on their chins,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+are standing,is standing,EQUI,5,2, 2: Related but Different
+with their hands,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,of a workshop,NOALI,0,0, 0: No Relation.
+-not aligned-,with a white beard and blue cap,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+next to a Christmas tree,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,in the doorway,NOALI,0,0, 0: No Relation.
+A man and woman,The man,SPE2,3,1, 1: Slightly Related.
+are running,are running,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+Two dogs,Two dogs,EQUI,5,5, 5: Completely Equivalent.
+near a house and trees,-not aligned-,NOALI,0,0, 0: No Relation.
+through the grass,through a green yard,SPE2,4,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+of brown and white dogs,Two dogs,SPE1,3,1, 1: Slightly Related.
+Two different breeds,-not aligned-,NOALI,0,0, 0: No Relation.
+play,playing,EQUI,5,2, 2: Related but Different
+-not aligned-,in the sand,NOALI,0,0, 0: No Relation.
+on the beach,at the beach,EQUI,5,3, 3: Some Similarity.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+is running,runs,EQUI,5,2, 2: Related but Different
+through the water,through the ocean,SPE2,4,2, 2: Related but Different
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A white dog,The white dog,EQUI,5,4, 4: Completely Equivalent.
+onto the shore,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+A dog,A dog,EQUI,5,5, 5: Completely Equivalent.
+.,-not aligned-,NOALI,0,0, 0: No Relation.
+leaping,leaps,EQUI,5,2, 2: Related but Different
+over a hurdle,over the hurdle,EQUI,5,3, 3: Some Similarity.

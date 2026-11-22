@@ -1,0 +1,1841 @@
+text_source,text_translation,alignment,score,preds,response
+both,Bulbs A and C,EQUI,5,NOALI,NOALI
+have,are,EQUI,5,OPPO,OPPO
+still,still,EQUI,5,EQUI,EQUI
+bulbs a and c,Bulbs A and C,EQUI,5,SIMI,SIMI
+a closed path,in closed paths,SPE1,4,REL,REL
+are connected.,are separated,OPPO,4,OPPO,OPPO
+-not aligned-,by the gap,NOALI,0,NOALI,NOALI
+terminal 1 and the positive terminal,Terminal 1 and the positive terminal,EQUI,5,EQUI,EQUI
+positive battery from terminal 2,Terminal 2 and the positive terminal,EQUI,5,EQUI,EQUI
+by a gap,by the gap,EQUI,5,SPE1,SPE1
+is seperated,are separated,EQUI,5,OPPO,OPPO
+There,-not aligned-,NOALI,0,NOALI,NOALI
+no difference,in the same state.,SIMI,3,SIMI,SIMI
+is,are,EQUI,5,NOALI,NOALI
+between the two terminals.,The terminals,SPE1,4,SPE1,SPE1
+in the same path,in the same path,EQUI,5,EQUI,EQUI
+has to be contained,have to be,EQUI,5,SIMI,SIMI
+the switch the bulb and the battery,The switch and the bulb,SPE2,4,SPE1,SPE1
+as,-not aligned-,NOALI,0,NOALI,NOALI
+in terminal 1,Terminals 1 and 2,SPE1,4,SPE1,SPE1
+there,-not aligned-,NOALI,0,NOALI,NOALI
+a gap,in the same electrical state,REL,2,NOALI,NOALI
+is,are,SIMI,3,SIMI,SIMI
+uses,uses,EQUI,5,EQUI,EQUI
+to create,to maintain,SIMI,2,OPPO,OPPO
+the chemical reation,a chemical reaction,EQUI,5,EQUI,EQUI
+voltage,different electrical states,REL,3,REL,REL
+-not aligned-,at the terminals,NOALI,0,NOALI,NOALI
+The battery,A battery,EQUI,5,EQUI,EQUI
+uses,uses,EQUI,5,EQUI,EQUI
+to create,to maintain,SIMI,2,OPPO,OPPO
+voltage,different electrical states,REL,3,NOALI,NOALI
+a chemical reaction,a chemical reaction,EQUI,5,EQUI,EQUI
+a batter,A battery,EQUI,5,EQUI,EQUI
+-not aligned-,at the terminals,NOALI,0,NOALI,NOALI
+the battery,The battery,EQUI,5,EQUI,EQUI
+is,is contained,EQUI,5,SIMI,SIMI
+in a closed path,in a path,EQUI,5,REL,REL
+alone,does not contain any other components,EQUI,5,EQUI,EQUI
+in a closed path,which,EQUI,5,NOALI,NOALI
+there,there,EQUI,5,EQUI,EQUI
+a gap,a gap,EQUI,5,EQUI,EQUI
+Because,-not aligned-,NOALI,0,NOALI,NOALI
+in the circuit.,in the circuit,EQUI,5,EQUI,EQUI
+is,is,EQUI,5,SIMI,SIMI
+within the same path,in a separate path,REL,4,OPPO,OPPO
+are not,is,OPPO,4,OPPO,OPPO
+as,-not aligned-,NOALI,0,NOALI,NOALI
+Bulbs A and B,-not aligned-,NOALI,0,NOALI,NOALI
+bulb C.,Bulb C,EQUI,5,EQUI,EQUI
+-not aligned-,Terminals 1 and 2,NOALI,0,NOALI,NOALI
+because,-not aligned-,NOALI,0,NOALI,NOALI
+was,-not aligned-,NOALI,0,NOALI,NOALI
+there,-not aligned-,NOALI,0,NOALI,NOALI
+two negative connections,are connected,REL,2,OPPO,OPPO
+-not aligned-,B and C,NOALI,0,NOALI,NOALI
+with the battery,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+-not aligned-,a different path,NOALI,0,NOALI,NOALI
+-not aligned-,containing,NOALI,0,NOALI,NOALI
+-not aligned-,there,NOALI,0,NOALI,NOALI
+is,containing,SIMI,3,SIMI,SIMI
+-not aligned-,and,NOALI,0,NOALI,NOALI
+on a closed path,a path,EQUI,5,REL,REL
+bulb a,A,EQUI,5,NOALI,NOALI
+to the positive terminal.,to the positive battery terminal,EQUI,5,EQUI,EQUI
+the other terminals,"Terminals 4, 5 and 6",SPE2,3,SPE1,SPE1
+are connected,are connected,EQUI,5,EQUI,EQUI
+the path.,an open path,OPPO,4,OPPO,OPPO
+takes away,-not aligned-,NOALI,0,NOALI,NOALI
+The bulb,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+-not aligned-,there,NOALI,0,NOALI,NOALI
+no gap,by the gap,OPPO,4,OPPO,OPPO
+is,are not separated,OPPO,4,OPPO,OPPO
+between the positive terminal and terminal 4,Terminal 4 and the positive terminal,EQUI,5,EQUI,EQUI
+There,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,"burns out,",NOALI,0,NOALI,NOALI
+-not aligned-,neither B nor C,NOALI,0,NOALI,NOALI
+Bulb a,bulb A,EQUI,5,EQUI,EQUI
+a gap,in a closed path,REL,4,OPPO,OPPO
+-not aligned-,If,NOALI,0,NOALI,NOALI
+created,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+terminal 6 to the positive terminal,Terminal 6 and the positive terminal,EQUI,5,EQUI,EQUI
+of the battery,-not aligned-,NOALI,0,NOALI,NOALI
+is connected,are connected,EQUI,5,OPPO,OPPO
+the bulb,the battery,REL,4,REL,REL
+is,is,EQUI,5,SIMI,SIMI
+in a closed circuit,in an open path,REL,4,OPPO,OPPO
+is not closed,-not aligned-,NOALI,0,NOALI,NOALI
+around the battery.,The battery,EQUI,5,REL,REL
+-not aligned-,is not,NOALI,0,NOALI,NOALI
+-not aligned-,in 2,NOALI,0,NOALI,NOALI
+The circuit,in a closed path,REL,4,REL,REL
+in a closed path.,which,EQUI,5,NOALI,NOALI
+the bulb,The battery,REL,4,NOALI,NOALI
+-not aligned-,any other components,NOALI,0,NOALI,NOALI
+in a closed path.,in a path,EQUI,5,EQUI,EQUI
+-not aligned-,does not contain,NOALI,0,NOALI,NOALI
+is not contained,is contained,OPPO,4,OPPO,OPPO
+There,there,EQUI,5,NOALI,NOALI
+in the circuit.,in a circuit,EQUI,5,EQUI,EQUI
+a gap,a gap,EQUI,5,EQUI,EQUI
+is,is,EQUI,5,EQUI,EQUI
+Bulb B and bulb C,bulbs A and B,SIMI,4,SPE2,SPE2
+are,are,EQUI,5,SIMI,SIMI
+with the battery.,with the battery,EQUI,5,EQUI,EQUI
+on closed paths,in closed paths,EQUI,5,EQUI,EQUI
+still,still,EQUI,5,EQUI,EQUI
+has,was contained,SIMI,4,OPPO,OPPO
+Bulb A,Bulb A,EQUI,5,EQUI,EQUI
+-not aligned-,with the battery.,NOALI,0,NOALI,NOALI
+-not aligned-,still,NOALI,0,NOALI,NOALI
+a closed pathway,in the same closed path,SPE2,4,REL,REL
+as,-not aligned-,NOALI,0,NOALI,NOALI
+in the same closed path,in a separate path,REL,4,OPPO,OPPO
+are not,is,OPPO,4,OPPO,OPPO
+bulbs a and c,-not aligned-,NOALI,0,NOALI,NOALI
+bulb b,Bulb B,EQUI,5,EQUI,EQUI
+-not aligned-,in 2,NOALI,0,NOALI,NOALI
+in the circuit.,in a closed path,REL,4,REL,REL
+is involved,is not,OPPO,4,OPPO,OPPO
+Only one terminal,The battery,REL,3,NOALI,NOALI
+-not aligned-,still,NOALI,0,NOALI,NOALI
+-not aligned-,was,NOALI,0,NOALI,NOALI
+between the battery,with the battery.,SIMI,4,NOALI,NOALI
+-not aligned-,Bulb A,NOALI,0,NOALI,NOALI
+was,-not aligned-,NOALI,0,NOALI,NOALI
+there,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,contained,NOALI,0,NOALI,NOALI
+closed paths,in the same closed path,SPE2,3,REL,REL
+separates,are separated,EQUI,5,OPPO,OPPO
+the positive battery terminal from terminal 2,Terminal 2 and the positive terminal,EQUI,5,SPE2,SPE2
+the gap,by the gap,EQUI,5,SIMI,SIMI
+in differentclosed paths.,in different paths,EQUI,5,EQUI,EQUI
+"bulb a, bulb b, and bulb c",A and C,SPE2,3,SPE1,SPE1
+-not aligned-,with the battery,NOALI,0,NOALI,NOALI
+are contained,are,EQUI,5,SIMI,SIMI
+any bulb,each bulb,SPE2,3,SPE1,SPE1
+If,-not aligned-,NOALI,0,NOALI,NOALI
+is blocked,-not aligned-,NOALI,0,NOALI,NOALI
+everything,-not aligned-,NOALI,0,NOALI,NOALI
+the whole system,-not aligned-,NOALI,0,NOALI,NOALI
+from the battery.,-not aligned-,NOALI,0,NOALI,NOALI
+affects,-not aligned-,NOALI,0,NOALI,NOALI
+"out,",in its own path,OPPO,4,SPE2,SPE2
+is,is,EQUI,5,EQUI,EQUI
+and,-not aligned-,NOALI,0,NOALI,NOALI
+it,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,still,NOALI,0,NOALI,NOALI
+in the same path.,in a closed path,SPE1,4,SPE2,SPE2
+-not aligned-,with the battery,NOALI,0,NOALI,NOALI
+is not,is,OPPO,4,OPPO,OPPO
+-not aligned-,Bulb A,NOALI,0,NOALI,NOALI
+it,-not aligned-,NOALI,0,NOALI,NOALI
+a gap in the path,in a closed path,OPPO,4,OPPO,OPPO
+-not aligned-,neither B nor C,NOALI,0,NOALI,NOALI
+-not aligned-,If,NOALI,0,NOALI,NOALI
+-not aligned-,"burns out,",NOALI,0,NOALI,NOALI
+There,-not aligned-,NOALI,0,NOALI,NOALI
+will be,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,bulb A,NOALI,0,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+Bulb B and C,bulbs B and C,EQUI,5,EQUI,EQUI
+still,still,EQUI,5,EQUI,EQUI
+are contained,are,EQUI,5,SIMI,SIMI
+in a path,in closed paths,SPE1,4,OPPO,OPPO
+with the battery,with the battery,EQUI,5,EQUI,EQUI
+with the battery.,with the battery,EQUI,5,EQUI,EQUI
+are contained,are,EQUI,5,SIMI,SIMI
+bulbs a and c,Bulbs A and C,EQUI,5,SIMI,SIMI
+still,still,EQUI,5,SIMI,SIMI
+in a closed path,in closed paths,EQUI,5,SPE1,SPE1
+Terminal one to the positive battery terminal,Terminal 1 and the positive terminal,EQUI,5,SPE1,SPE1
+is not connected,are not connected,EQUI,5,EQUI,EQUI
+bulb A and switch Z,Bulb A with the battery and switch Z.,SPE1,3,SIMI,SIMI
+-not aligned-,still,NOALI,0,NOALI,NOALI
+are,is contained,EQUI,5,OPPO,OPPO
+in a closed path,in a closed path,EQUI,5,EQUI,EQUI
+is connected,are connected,EQUI,5,OPPO,OPPO
+Terminal 5 to the postitive battery terminal,Terminal 5 and the positive terminal,EQUI,5,EQUI,EQUI
+is connected,are connected,EQUI,5,EQUI,EQUI
+Terminal 6 to the positive battery terminal,Terminal 6 and the positive terminal,EQUI,5,EQUI,EQUI
+that,-not aligned-,NOALI,0,NOALI,NOALI
+the circuit,a short circuit,REL,4,OPPO,OPPO
+the red x,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,there,NOALI,0,NOALI,NOALI
+safe.,-not aligned-,NOALI,0,NOALI,NOALI
+means,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+is not,-not aligned-,NOALI,0,NOALI,NOALI
+bulb A,bulb A,EQUI,5,EQUI,EQUI
+-not aligned-,"burns out,",NOALI,0,NOALI,NOALI
+are,is,EQUI,5,OPPO,OPPO
+both,neither B nor C,OPPO,4,OPPO,OPPO
+in the same path,in a closed path,SPE1,4,REL,REL
+as,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,If,NOALI,0,NOALI,NOALI
+bulbs B and C,neither B nor C,OPPO,4,OPPO,OPPO
+you,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,means,NOALI,0,NOALI,NOALI
+the electrical state non-zero,A non-zero voltage,REL,4,SIMI,SIMI
+in the circuit,-not aligned-,NOALI,0,NOALI,NOALI
+can find,is,REL,3,NOALI,NOALI
+-not aligned-,there,NOALI,0,NOALI,NOALI
+-not aligned-,that,NOALI,0,NOALI,NOALI
+the gap,a gap,EQUI,5,EQUI,EQUI
+is,-not aligned-,NOALI,0,NOALI,NOALI
+if,-not aligned-,NOALI,0,NOALI,NOALI
+is,does not contain,OPPO,4,OPPO,OPPO
+and,-not aligned-,NOALI,0,NOALI,NOALI
+is contained,is contained,EQUI,5,SIMI,SIMI
+there,-not aligned-,NOALI,0,NOALI,NOALI
+in its pathway,which,EQUI,5,NOALI,NOALI
+in a closed circuit,in a closed path,REL,4,REL,REL
+nothing,any other components,EQUI,5,SPE1,SPE1
+The battery,The battery,EQUI,5,EQUI,EQUI
+is not connected,are connected,OPPO,4,OPPO,OPPO
+A terminal to the positive battery terminal.,Terminals 1 and 4,SPE2,2,NOALI,NOALI
+a gap,are connected,OPPO,4,OPPO,OPPO
+is,-not aligned-,NOALI,0,NOALI,NOALI
+in the circuit,Terminals 1 and 4,REL,3,NOALI,NOALI
+there,-not aligned-,NOALI,0,NOALI,NOALI
+is not seperated,are not separated,EQUI,5,EQUI,EQUI
+the positive terminal from terminal 5,Terminal 5 and the positive terminal,EQUI,5,SPE1,SPE1
+by a gap,by the gap,EQUI,5,EQUI,EQUI
+-not aligned-,whether,NOALI,0,NOALI,NOALI
+-not aligned-,Measuring,NOALI,0,NOALI,NOALI
+-not aligned-,voltage,NOALI,0,NOALI,NOALI
+can,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,two terminals,NOALI,0,NOALI,NOALI
+there,-not aligned-,NOALI,0,NOALI,NOALI
+is,are separated,SPE2,2,OPPO,OPPO
+find,-not aligned-,NOALI,0,NOALI,NOALI
+a gap,by a gap.,EQUI,5,SPE2,SPE2
+-not aligned-,indicates,NOALI,0,NOALI,NOALI
+You,-not aligned-,NOALI,0,NOALI,NOALI
+where,-not aligned-,NOALI,0,NOALI,NOALI
+with a gap,by the gap,EQUI,5,OPPO,OPPO
+has to do,-not aligned-,NOALI,0,NOALI,NOALI
+something,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Terminal 2 and the positive terminal,NOALI,0,NOALI,NOALI
+-not aligned-,are separated,NOALI,0,NOALI,NOALI
+Because,-not aligned-,NOALI,0,NOALI,NOALI
+has,-not aligned-,NOALI,0,NOALI,NOALI
+a voltage,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,by the gap,NOALI,0,NOALI,NOALI
+-not aligned-,are separated,NOALI,0,NOALI,NOALI
+of 1.5 volts.,-not aligned-,NOALI,0,NOALI,NOALI
+the positive circuit,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Terminal 1 and the positive terminal,NOALI,0,NOALI,NOALI
+-not aligned-,to maintain,NOALI,0,NOALI,NOALI
+is,-not aligned-,NOALI,0,NOALI,NOALI
+a chemical reaction.,a chemical reaction,EQUI,5,EQUI,EQUI
+-not aligned-,uses,NOALI,0,NOALI,NOALI
+-not aligned-,A battery,NOALI,0,NOALI,NOALI
+-not aligned-,at the terminals,NOALI,0,NOALI,NOALI
+-not aligned-,different electrical states,NOALI,0,NOALI,NOALI
+There,-not aligned-,NOALI,0,NOALI,NOALI
+the,-not aligned-,NOALI,0,NOALI,NOALI
+in a closed path,in the same path,SPE2,4,SPE1,SPE1
+when,When,EQUI,5,EQUI,EQUI
+the switch with the bulb,the switch and the bulb,EQUI,5,EQUI,EQUI
+is,are contained,EQUI,5,EQUI,EQUI
+are,are,EQUI,5,EQUI,EQUI
+bulb b and c,B and C,EQUI,5,EQUI,EQUI
+in a closed path,in the same path,SPE2,4,REL,REL
+There,-not aligned-,NOALI,0,NOALI,NOALI
+is,-not aligned-,NOALI,0,NOALI,NOALI
+a difference,-not aligned-,NOALI,0,NOALI,NOALI
+in electrical states.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,are not connected,NOALI,0,NOALI,NOALI
+-not aligned-,the terminals,NOALI,0,NOALI,NOALI
+-not aligned-,there,NOALI,0,NOALI,NOALI
+-not aligned-,between the terminals,NOALI,0,NOALI,NOALI
+-not aligned-,no gap,NOALI,0,NOALI,NOALI
+will not light,-not aligned-,NOALI,0,NOALI,NOALI
+the bulb,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+bulb a and c,A and C,EQUI,5,SIMI,SIMI
+with the battery,with the battery,EQUI,5,EQUI,EQUI
+on the same path,in the same path,EQUI,5,EQUI,EQUI
+are contained,are not,OPPO,4,OPPO,OPPO
+The path does not close,in an open path,EQUI,5,SIMI,SIMI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+-not aligned-,the battery,NOALI,0,NOALI,NOALI
+The difference,-not aligned-,NOALI,0,NOALI,NOALI
+between the electrical states,Terminal 1 and the positive terminal,REL,3,SPE1,SPE1
+-not aligned-,by the gap,NOALI,0,NOALI,NOALI
+-not aligned-,are separated,NOALI,0,NOALI,NOALI
+1.5 volts,-not aligned-,NOALI,0,NOALI,NOALI
+is,-not aligned-,NOALI,0,NOALI,NOALI
+is,are,SIMI,4,NOALI,NOALI
+there,-not aligned-,NOALI,0,NOALI,NOALI
+still,still,EQUI,5,EQUI,EQUI
+-not aligned-,"burns out,",NOALI,0,NOALI,NOALI
+-not aligned-,If,NOALI,0,NOALI,NOALI
+-not aligned-,bulbs B and C,NOALI,0,NOALI,NOALI
+a closed path,in a closed path,EQUI,5,EQUI,EQUI
+-not aligned-,bulb A,NOALI,0,NOALI,NOALI
+a lost connection,are not connected.,EQUI,5,SIMI,SIMI
+-not aligned-,that,NOALI,0,NOALI,NOALI
+-not aligned-,the terminals,NOALI,0,NOALI,NOALI
+causes,-not aligned-,NOALI,0,NOALI,NOALI
+a gap,A non-zero voltage,REL,4,NOALI,NOALI
+-not aligned-,means,NOALI,0,NOALI,NOALI
+are connected,are connected,EQUI,5,EQUI,EQUI
+the positive terminal and terminal 6,Terminal 6 and the positive terminal,EQUI,5,SPE1,SPE1
+is connected,are connected,EQUI,5,SIMI,SIMI
+the positive terminal to terminal 6,Terminal 6 and the positive terminal,EQUI,5,EQUI,EQUI
+there,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,to the negative battery terminal,NOALI,0,NOALI,NOALI
+at terminal 1,terminal 1,EQUI,5,EQUI,EQUI
+is no gap,is connected,EQUI,5,OPPO,OPPO
+Because,-not aligned-,NOALI,0,NOALI,NOALI
+terminal 6 to the positive terminal,Terminal 6 and the positive terminal,EQUI,5,EQUI,EQUI
+is conncted,are connected,EQUI,5,EQUI,EQUI
+the switch the bulb.,the switch and the bulb,EQUI,5,EQUI,EQUI
+When,When,EQUI,5,SIMI,SIMI
+in the same papth,in the same path,EQUI,5,SIMI,SIMI
+as,-not aligned-,NOALI,0,NOALI,NOALI
+is,are contained,EQUI,5,OPPO,OPPO
+Bulbs A and C,A and C,EQUI,5,SPE1,SPE1
+are,are,EQUI,5,SIMI,SIMI
+in separate paths.,in different paths,EQUI,5,EQUI,EQUI
+are,are,EQUI,5,SIMI,SIMI
+with the battery.,with the battery,EQUI,5,EQUI,EQUI
+in a closed path,in closed paths,SPE1,4,SPE1,SPE1
+bulb a and bulb b,bulbs A and B,EQUI,5,EQUI,EQUI
+still,still,EQUI,5,EQUI,EQUI
+The positive battery terminal from terminal 6,Terminal 6 and the positive terminal,EQUI,5,SPE1,SPE1
+by a gap,by the gap,EQUI,5,EQUI,EQUI
+was not separted,are not separated,SIMI,4,OPPO,OPPO
+-not aligned-,is,NOALI,0,NOALI,NOALI
+-not aligned-,in a closed path,NOALI,0,NOALI,NOALI
+WIL BE CREATED,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,bulb A,NOALI,0,NOALI,NOALI
+-not aligned-,neither B nor C,NOALI,0,NOALI,NOALI
+-not aligned-,"burns out,",NOALI,0,NOALI,NOALI
+A GAP,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,If,NOALI,0,NOALI,NOALI
+with the battery,with the battery,EQUI,5,EQUI,EQUI
+in different paths,in different paths,EQUI,5,EQUI,EQUI
+are contained,are,EQUI,5,SIMI,SIMI
+bulb a and c,A and C,EQUI,5,SPE1,SPE1
+is connected,are connected,EQUI,5,EQUI,EQUI
+The positive terminal to terminal 4.,Terminal 4 and the positive terminal,EQUI,5,EQUI,EQUI
+-not aligned-,"burns out,",NOALI,0,NOALI,NOALI
+inthe same path,in a closed path.,SPE1,4,SPE1,SPE1
+-not aligned-,If,NOALI,0,NOALI,NOALI
+-not aligned-,A and B,NOALI,0,NOALI,NOALI
+-not aligned-,then,NOALI,0,NOALI,NOALI
+-not aligned-,C,NOALI,0,NOALI,NOALI
+not contained,are,OPPO,4,OPPO,OPPO
+-not aligned-,still,NOALI,0,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+-not aligned-,If,NOALI,0,NOALI,NOALI
+a gap in the path,in a closed path,OPPO,4,OPPO,OPPO
+-not aligned-,still,NOALI,0,NOALI,NOALI
+does not create,-not aligned-,NOALI,0,NOALI,NOALI
+bulb c,C,EQUI,5,EQUI,EQUI
+for bulb b and a,A and B,SPE1,4,SPE2,SPE2
+-not aligned-,are,NOALI,0,NOALI,NOALI
+-not aligned-,"damaged,",NOALI,0,NOALI,NOALI
+the other terminals to the positive battery terminal,"Terminals 4, 5 and 6 to the positive battery terminal",SPE2,2,SPE1,SPE1
+becuase,-not aligned-,NOALI,0,NOALI,NOALI
+are connected,are connected,EQUI,5,EQUI,EQUI
+terminal one and the positive battery terminal,terminal 1 to the negative battery terminal,SIMI,4,NOALI,NOALI
+are on a closed path,is connected,SIMI,4,SIMI,SIMI
+because,-not aligned-,NOALI,0,NOALI,NOALI
+will,-not aligned-,NOALI,0,NOALI,NOALI
+have,-not aligned-,NOALI,0,NOALI,NOALI
+Battery,A battery,EQUI,5,EQUI,EQUI
+-not aligned-,uses,NOALI,0,NOALI,NOALI
+-not aligned-,to maintain,NOALI,0,NOALI,NOALI
+-not aligned-,a chemical reaction,NOALI,0,NOALI,NOALI
+-not aligned-,at the terminals,NOALI,0,NOALI,NOALI
+voltage.,different electrical states,REL,4,REL,REL
+always,-not aligned-,NOALI,0,NOALI,NOALI
+the terminals,Terminal 1 and the positive terminal,SPE2,3,SPE1,SPE1
+are not connected,are not connected,EQUI,5,EQUI,EQUI
+the positive battery terminal to terminal 6,Terminal 6 and the positive terminal,EQUI,5,EQUI,EQUI
+is connected,are connected,EQUI,5,SIMI,SIMI
+-not aligned-,still,NOALI,0,NOALI,NOALI
+-not aligned-,with the battery.,NOALI,0,NOALI,NOALI
+bulb a,Bulb A,EQUI,5,EQUI,EQUI
+on a closed path,in a closed path,EQUI,5,REL,REL
+was,is contained,SIMI,4,NOALI,NOALI
+terminal 4 to the negative terminal,Terminal 4 and the positive battery terminal,SIMI,4,OPPO,OPPO
+is connected,are in the same electrical state,REL,3,NOALI,NOALI
+Because,-not aligned-,NOALI,0,NOALI,NOALI
+bulb c,Bulb C,EQUI,5,EQUI,EQUI
+is,is,EQUI,5,SIMI,SIMI
+in its own pathway,in a separate path,REL,3,REL,REL
+-not aligned-,indicates,NOALI,0,NOALI,NOALI
+-not aligned-,Measuring,NOALI,0,NOALI,NOALI
+nearest the burnt out bulb,a damaged bulb.,SPE1,3,NOALI,NOALI
+-not aligned-,due to,NOALI,0,NOALI,NOALI
+the voltage,voltage,EQUI,5,EQUI,EQUI
+-not aligned-,the electrical state,NOALI,0,NOALI,NOALI
+-not aligned-,the place,NOALI,0,NOALI,NOALI
+is,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,where,NOALI,0,NOALI,NOALI
+-not aligned-,changes,NOALI,0,NOALI,NOALI
+You,-not aligned-,NOALI,0,NOALI,NOALI
+and,-not aligned-,NOALI,0,NOALI,NOALI
+must be,-not aligned-,NOALI,0,NOALI,NOALI
+both,both,EQUI,5,EQUI,EQUI
+"with the same path,",a closed path,SPE1,4,SPE1,SPE1
+-not aligned-,is,NOALI,0,NOALI,NOALI
+needed,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,containing,NOALI,0,NOALI,NOALI
+a battery and a blub,the bulb and a battery,EQUI,5,EQUI,EQUI
+"with the same path,",-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,there,NOALI,0,NOALI,NOALI
+the path closed,a closed path,EQUI,5,EQUI,EQUI
+Because,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+the battery,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,there,NOALI,0,NOALI,NOALI
+runs,-not aligned-,NOALI,0,NOALI,NOALI
+in a closed circuit.,an incomplete circuit,SIMI,3,OPPO,OPPO
+"damaged,",-not aligned-,NOALI,0,NOALI,NOALI
+closed.,-not aligned-,NOALI,0,NOALI,NOALI
+bulb B,-not aligned-,NOALI,0,NOALI,NOALI
+If,-not aligned-,NOALI,0,NOALI,NOALI
+is,-not aligned-,NOALI,0,NOALI,NOALI
+then,-not aligned-,NOALI,0,NOALI,NOALI
+no longer,-not aligned-,NOALI,0,NOALI,NOALI
+is,is,EQUI,5,SIMI,SIMI
+the circut,no closed path,REL,2,OPPO,OPPO
+-not aligned-,there,NOALI,0,NOALI,NOALI
+"terminal 1, terminal 2, and terminal 3","Terminals 1, 2 and 3",EQUI,5,EQUI,EQUI
+o the negative battery,to the negative battery terminal,EQUI,5,EQUI,EQUI
+are connected,are connected,EQUI,5,EQUI,EQUI
+it,-not aligned-,NOALI,0,NOALI,NOALI
+"didn""""t cause",-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,in its own path,NOALI,0,NOALI,NOALI
+"a gap.""",-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,each bulb,NOALI,0,NOALI,NOALI
+"""Because",-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+because,-not aligned-,NOALI,0,NOALI,NOALI
+a gap,a gap,EQUI,5,EQUI,EQUI
+is,is,EQUI,5,EQUI,EQUI
+there,There,EQUI,5,EQUI,EQUI
+between terminal 1 and terminal 6.,between terminals 1 and 6,EQUI,5,EQUI,EQUI
+-not aligned-,still,NOALI,0,NOALI,NOALI
+bulbs b and c,Bulb B and Bulb C,EQUI,5,EQUI,EQUI
+on a closed path,in the same closed path,SPE2,4,REL,REL
+because,-not aligned-,NOALI,0,NOALI,NOALI
+with the battery,with the battery.,EQUI,5,EQUI,EQUI
+are,were contained,SIMI,4,OPPO,OPPO
+determines,affects,SIMI,2,OPPO,OPPO
+The switch,the switch,EQUI,5,EQUI,EQUI
+the path,in the same path,SPE2,4,SPE2,SPE2
+whether,-not aligned-,NOALI,0,NOALI,NOALI
+is,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,a bulb and a switch,NOALI,0,NOALI,NOALI
+open or closed.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,If,NOALI,0,NOALI,NOALI
+-not aligned-,are,NOALI,0,NOALI,NOALI
+-not aligned-,the bulb,NOALI,0,NOALI,NOALI
+by a gap,in the same electrical state,REL,3,NOALI,NOALI
+the positive battery terminal from terminal 4,Terminal 4 and the positive battery terminal,EQUI,5,EQUI,EQUI
+is separated,are,REL,2,SIMI,SIMI
+-not aligned-,A battery,NOALI,0,NOALI,NOALI
+between the terminals.,at the terminals,EQUI,5,SPE1,SPE1
+-not aligned-,uses,NOALI,0,NOALI,NOALI
+an incomplete circuit,a chemical reaction,REL,3,NOALI,NOALI
+would not effect,to maintain,SIMI,2,NOALI,NOALI
+the the electrical state,different electrical states,SPE1,4,REL,REL
+to the positive battery terminal,to the positive battery terminal,EQUI,5,EQUI,EQUI
+"terminals 4, 5, and 6","Terminals 4, 5 and 6",EQUI,5,EQUI,EQUI
+are connected,are connected,EQUI,5,EQUI,EQUI
+-not aligned-,there,NOALI,0,NOALI,NOALI
+was,-not aligned-,NOALI,0,NOALI,NOALI
+The path,a path,EQUI,5,EQUI,EQUI
+-not aligned-,containing,NOALI,0,NOALI,NOALI
+on,-not aligned-,NOALI,0,NOALI,NOALI
+it,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,both,NOALI,0,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+-not aligned-,Z and C,NOALI,0,NOALI,NOALI
+on the same closed path,in the same path,SPE1,3,EQUI,EQUI
+the bulb,The damaged bulb and the other bulb,SPE1,3,SPE2,SPE2
+If,-not aligned-,NOALI,0,NOALI,NOALI
+is,must be contained,SIMI,3,SIMI,SIMI
+in a closed path,in the same closed path,SPE2,4,EQUI,EQUI
+bulb a,Bulb A,EQUI,5,EQUI,EQUI
+still,still,EQUI,5,EQUI,EQUI
+with the battery.,with the battery.,EQUI,5,EQUI,EQUI
+was,was,EQUI,5,EQUI,EQUI
+contained,contained,EQUI,5,EQUI,EQUI
+one bulb,A and C,SPE2,2,SPE1,SPE1
+-not aligned-,in the same closed path,NOALI,0,NOALI,NOALI
+the others,-not aligned-,NOALI,0,NOALI,NOALI
+"is removed,",-not aligned-,NOALI,0,NOALI,NOALI
+stop,-not aligned-,NOALI,0,NOALI,NOALI
+working,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,are,NOALI,0,NOALI,NOALI
+If,-not aligned-,NOALI,0,NOALI,NOALI
+an open switch,the open switch,EQUI,5,EQUI,EQUI
+are connected,-not aligned-,NOALI,0,NOALI,NOALI
+all the terminals,-not aligned-,NOALI,0,NOALI,NOALI
+"to other terminals,",-not aligned-,NOALI,0,NOALI,NOALI
+disrupts that.,creates a gap,SPE2,3,OPPO,OPPO
+because,-not aligned-,NOALI,0,NOALI,NOALI
+is a gap,are separated by a gap,EQUI,5,SPE2,SPE2
+There,-not aligned-,NOALI,0,NOALI,NOALI
+between the two bulb terminals,the terminals,SPE1,2,SPE1,SPE1
+has occured,is,SIMI,4,NOALI,NOALI
+a short circuit,a short circuit,EQUI,5,EQUI,EQUI
+-not aligned-,there,NOALI,0,NOALI,NOALI
+thus,-not aligned-,NOALI,0,NOALI,NOALI
+of the circuit,-not aligned-,NOALI,0,NOALI,NOALI
+will be,creates,SIMI,2,NOALI,NOALI
+"at bulb b,",bulb B,EQUI,5,EQUI,EQUI
+the rest,-not aligned-,NOALI,0,NOALI,NOALI
+there,-not aligned-,NOALI,0,NOALI,NOALI
+a gap,a gap,EQUI,5,EQUI,EQUI
+affecting,-not aligned-,NOALI,0,NOALI,NOALI
+terminal 3 and the positie terminal,Terminal 3 and the positive terminal,EQUI,5,EQUI,EQUI
+are not connected.,are not connected,EQUI,5,EQUI,EQUI
+by a gap,by the gap,EQUI,5,EQUI,EQUI
+The positive battery terminal from terminal 4.,Terminal 4 and the positive terminal,EQUI,5,EQUI,EQUI
+was not seperated,are not separated,SIMI,4,OPPO,OPPO
+to the negative terminal.,to the negative battery terminal,EQUI,5,REL,REL
+is connected,is connected,EQUI,5,EQUI,EQUI
+Terminal 1,terminal 1,EQUI,5,EQUI,EQUI
+A terminal to the positive battery terminal.,Terminals 1 and 2,SIMI,2,SPE1,SPE1
+is not connected,are connected,OPPO,4,OPPO,OPPO
+are seperated,are separated,EQUI,5,EQUI,EQUI
+the positive terminal and terminal 2,Terminal 2 and the positive terminal,EQUI,5,EQUI,EQUI
+by a gap,by the gap,EQUI,5,EQUI,EQUI
+there,-not aligned-,NOALI,0,NOALI,NOALI
+between the terminals,terminal 1 to the negative battery terminal,SPE2,3,OPPO,OPPO
+is not gap,is connected,EQUI,5,OPPO,OPPO
+a gap,in the same electrical state,REL,3,OPPO,OPPO
+is,-not aligned-,NOALI,0,NOALI,NOALI
+there,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,are,NOALI,0,NOALI,NOALI
+between teh positive battery terminal and terminal 4.,Terminal 4 and the positive battery terminal,EQUI,5,EQUI,EQUI
+The positive battery to terminal one.,Terminal 1 and the positive terminal,EQUI,5,EQUI,EQUI
+was not connected,are not connected,SIMI,4,OPPO,OPPO
+Bulbs A and B,bulbs A and B,EQUI,5,EQUI,EQUI
+to the battery.,with the battery,EQUI,5,EQUI,EQUI
+still,still,EQUI,5,EQUI,EQUI
+will be contained,are,SIMI,4,SIMI,SIMI
+in a closed path,in closed paths,SPE1,4,SPE1,SPE1
+the two components,Terminal 1 and the positive terminal,SPE2,2,SPE2,SPE2
+are seperated.,are separated,EQUI,5,OPPO,OPPO
+-not aligned-,by the gap,NOALI,0,NOALI,NOALI
+because,-not aligned-,NOALI,0,NOALI,NOALI
+directly,-not aligned-,NOALI,0,NOALI,NOALI
+is connected,are connected,EQUI,5,EQUI,EQUI
+terminal 1 to terminal 4,Terminals 1 and 4,EQUI,5,EQUI,EQUI
+the positive battery terminal and terminal 4,Terminal 4 and the positive terminal,EQUI,5,EQUI,EQUI
+are connected,are connected,EQUI,5,EQUI,EQUI
+Terminal 1 and terminal 2,Terminals 1 and 2,EQUI,5,SPE1,SPE1
+are on the same side.,are connected,REL,3,NOALI,NOALI
+to positive battery,Terminal 2 and the positive terminal,SPE1,3,SPE2,SPE2
+not connected,are not connected,EQUI,5,EQUI,EQUI
+to maintain,to maintain,EQUI,5,EQUI,EQUI
+a chemical reaction,a chemical reaction,EQUI,5,EQUI,EQUI
+"the voltage,",different electrical states,REL,4,NOALI,NOALI
+-not aligned-,at the terminals,NOALI,0,NOALI,NOALI
+The battery,A battery,EQUI,5,SIMI,SIMI
+uses,uses,EQUI,5,EQUI,EQUI
+does not have,is not,SIMI,4,SIMI,SIMI
+the bulb,The bulb,EQUI,5,EQUI,EQUI
+-not aligned-,containing,NOALI,0,NOALI,NOALI
+a closed path.,in the closed path,EQUI,5,SPE1,SPE1
+Because,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,the battery,NOALI,0,NOALI,NOALI
+-not aligned-,the terminals,NOALI,0,NOALI,NOALI
+a difference,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,are separated,NOALI,0,NOALI,NOALI
+-not aligned-,by a gap,NOALI,0,NOALI,NOALI
+in electrical states,-not aligned-,NOALI,0,NOALI,NOALI
+is,-not aligned-,NOALI,0,NOALI,NOALI
+there,-not aligned-,NOALI,0,NOALI,NOALI
+is connected,are connected,EQUI,5,EQUI,EQUI
+terminal to postive terminal of the battery,Terminal 6 and the positive terminal,SPE2,3,SPE2,SPE2
+is seperated,are separated,EQUI,5,OPPO,OPPO
+Terminal 1 from the positive terminal,Terminal 1 and the positive terminal,EQUI,5,SPE1,SPE1
+-not aligned-,by the gap,NOALI,0,NOALI,NOALI
+is not contained,is not,EQUI,5,OPPO,OPPO
+Battery,The battery,EQUI,5,EQUI,EQUI
+i a closed path.,in a closed path,EQUI,5,EQUI,EQUI
+-not aligned-,in 4,NOALI,0,NOALI,NOALI
+-not aligned-,by the gap,NOALI,0,NOALI,NOALI
+terminal 1 to the positive battery terminal,Terminal 1 and the positive terminal,EQUI,5,SPE1,SPE1
+was connected,are separated,OPPO,4,OPPO,OPPO
+-not aligned-,containing,NOALI,0,NOALI,NOALI
+2 paths,a path,SPE2,2,OPPO,OPPO
+-not aligned-,containing,NOALI,0,NOALI,NOALI
+-not aligned-,A,NOALI,0,NOALI,NOALI
+-not aligned-,and,NOALI,0,NOALI,NOALI
+are,is,EQUI,5,OPPO,OPPO
+-not aligned-,B and C,NOALI,0,NOALI,NOALI
+-not aligned-,a different path,NOALI,0,NOALI,NOALI
+There,there,EQUI,5,EQUI,EQUI
+in this diagram,-not aligned-,NOALI,0,NOALI,NOALI
+the switch,switch Y and bulb A,SPE1,2,SPE2,SPE2
+Because,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,containing,NOALI,0,NOALI,NOALI
+was connected,-not aligned-,NOALI,0,NOALI,NOALI
+the switch,both,SPE1,2,NOALI,NOALI
+-not aligned-,there,NOALI,0,NOALI,NOALI
+to the closed circuit,no path,REL,2,OPPO,OPPO
+-not aligned-,is,NOALI,0,NOALI,NOALI
+creates,creates,EQUI,5,EQUI,EQUI
+a gap.,a gap,EQUI,5,EQUI,EQUI
+damaged bulb,a damaged bulb,EQUI,5,EQUI,EQUI
+that,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,there,NOALI,0,NOALI,NOALI
+the battery connection does not work,a short circuit,REL,3,OPPO,OPPO
+-not aligned-,is,NOALI,0,NOALI,NOALI
+-not aligned-,to maintain,NOALI,0,NOALI,NOALI
+because,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,different electrical states,NOALI,0,NOALI,NOALI
+-not aligned-,A battery,NOALI,0,NOALI,NOALI
+the terminals,at the terminals,EQUI,5,SPE1,SPE1
+are not connected,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,a chemical reaction,NOALI,0,NOALI,NOALI
+-not aligned-,uses,NOALI,0,NOALI,NOALI
+Terminal 5 to teh positive battery terminal,Terminal 5 and the positive terminal,EQUI,5,SPE1,SPE1
+is connected,are connected,EQUI,5,EQUI,EQUI
+was connected,are separated,OPPO,4,OPPO,OPPO
+terminal 1 to the positive terminal,Terminal 1 and the positive terminal,EQUI,5,EQUI,EQUI
+-not aligned-,by the gap,NOALI,0,NOALI,NOALI
+between terminal one and two and the positive battery terminal,Terminals 1 and 2,SPE2,3,SPE1,SPE1
+is,-not aligned-,NOALI,0,NOALI,NOALI
+a gap,in the same electrical state,REL,2,REL,REL
+there,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,are,NOALI,0,NOALI,NOALI
+with the battery,with the battery,EQUI,5,EQUI,EQUI
+are contained,are,EQUI,5,SIMI,SIMI
+bulbs b and c,B and C,EQUI,5,SPE1,SPE1
+on the same path,in the same path,EQUI,5,EQUI,EQUI
+there,-not aligned-,NOALI,0,NOALI,NOALI
+is no closed path,the path is not closed,EQUI,5,EQUI,EQUI
+to the battery,-not aligned-,NOALI,0,NOALI,NOALI
+because,-not aligned-,NOALI,0,NOALI,NOALI
+terminal 1 to the positive battery terminal,Terminal 1 and the positive terminal,EQUI,5,SPE1,SPE1
+is not connected,are not connected,EQUI,5,EQUI,EQUI
+-not aligned-,in 2,NOALI,0,NOALI,NOALI
+alone,-not aligned-,NOALI,0,NOALI,NOALI
+is not,is not,EQUI,5,EQUI,EQUI
+the battery,The battery,EQUI,5,EQUI,EQUI
+in a closed bath,in a closed path,EQUI,5,REL,REL
+is connected,are connected,EQUI,5,SIMI,SIMI
+terminal 5 to postive terminal of the battery,Terminal 5 and the positive terminal,EQUI,5,SPE1,SPE1
+are closed,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,there,NOALI,0,NOALI,NOALI
+x and z,"A, C, Z and X",SPE1,2,SPE1,SPE1
+then,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,containing,NOALI,0,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+a closed path,a path,EQUI,5,REL,REL
+it,-not aligned-,NOALI,0,NOALI,NOALI
+will create,-not aligned-,NOALI,0,NOALI,NOALI
+if,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,by the gap,NOALI,0,NOALI,NOALI
+positive terminal from terminal 2,Terminal 2 and the positive terminal,EQUI,5,SPE1,SPE1
+is serperated,are separated,EQUI,5,SIMI,SIMI
+-not aligned-,in 2,NOALI,0,NOALI,NOALI
+is not closed,in a closed path,REL,3,OPPO,OPPO
+the bulb,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,is not,NOALI,0,NOALI,NOALI
+is.,-not aligned-,NOALI,0,NOALI,NOALI
+the battery,The battery,EQUI,5,EQUI,EQUI
+there,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,the terminals,NOALI,0,NOALI,NOALI
+is not,are not separated,SIMI,4,OPPO,OPPO
+a gap,by a gap,EQUI,5,EQUI,EQUI
+in the connection,-not aligned-,NOALI,0,NOALI,NOALI
+will affect,-not aligned-,NOALI,0,NOALI,NOALI
+the bulb.,-not aligned-,NOALI,0,NOALI,NOALI
+if,When,SIMI,3,SIMI,SIMI
+is,are contained,EQUI,5,SIMI,SIMI
+a bulb with a battery and a switch,the switch and the bulb,SPE2,3,SPE1,SPE1
+the switch,-not aligned-,NOALI,0,NOALI,NOALI
+in a closed circuit,in the same path,REL,4,REL,REL
+with the battery.,with the battery.,EQUI,5,EQUI,EQUI
+in a closed path,in the same closed path,SPE2,4,EQUI,EQUI
+were contained,were contained,EQUI,5,EQUI,EQUI
+bulbs b and c,Bulb B and Bulb C,EQUI,5,EQUI,EQUI
+-not aligned-,still,NOALI,0,NOALI,NOALI
+are,has,SIMI,2,NOALI,NOALI
+in closed paths.,no closed paths,OPPO,4,OPPO,OPPO
+Because,-not aligned-,NOALI,0,NOALI,NOALI
+neither components,Circuit 4,REL,3,NOALI,NOALI
+-not aligned-,the electrical state,NOALI,0,NOALI,NOALI
+-not aligned-,indicates,NOALI,0,NOALI,NOALI
+-not aligned-,voltage,NOALI,0,NOALI,NOALI
+-not aligned-,due to,NOALI,0,NOALI,NOALI
+the gap,a gap.,EQUI,5,EQUI,EQUI
+-not aligned-,changes,NOALI,0,NOALI,NOALI
+you,-not aligned-,NOALI,0,NOALI,NOALI
+can,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,the place,NOALI,0,NOALI,NOALI
+-not aligned-,Measuring,NOALI,0,NOALI,NOALI
+where,where,EQUI,5,EQUI,EQUI
+is,-not aligned-,NOALI,0,NOALI,NOALI
+see,-not aligned-,NOALI,0,NOALI,NOALI
+there,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,that,NOALI,0,NOALI,NOALI
+in the circuit,-not aligned-,NOALI,0,NOALI,NOALI
+if,-not aligned-,NOALI,0,NOALI,NOALI
+a gap,are not connected.,REL,4,SIMI,SIMI
+-not aligned-,A non-zero voltage,NOALI,0,NOALI,NOALI
+will not light up.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,means,NOALI,0,NOALI,NOALI
+there,-not aligned-,NOALI,0,NOALI,NOALI
+the bulb,-not aligned-,NOALI,0,NOALI,NOALI
+is,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,the terminals,NOALI,0,NOALI,NOALI
+-not aligned-,then,NOALI,0,NOALI,NOALI
+Bulb A and Bulb B and the battery,A and B with the battery.,EQUI,5,EQUI,EQUI
+in a closed path.,in a closed path,EQUI,5,EQUI,EQUI
+-not aligned-,"burns out,",NOALI,0,NOALI,NOALI
+are,are still,SPE2,4,SIMI,SIMI
+-not aligned-,C,NOALI,0,NOALI,NOALI
+-not aligned-,If,NOALI,0,NOALI,NOALI
+-not aligned-,between the terminals,NOALI,0,NOALI,NOALI
+a gap,no gap,OPPO,4,OPPO,OPPO
+is,is,EQUI,5,EQUI,EQUI
+That,-not aligned-,NOALI,0,NOALI,NOALI
+there,there,EQUI,5,EQUI,EQUI
+the bulb.,-not aligned-,NOALI,0,NOALI,NOALI
+are contained,are contained,EQUI,5,EQUI,EQUI
+"in the same path,",in the same path,EQUI,5,EQUI,EQUI
+will affect,-not aligned-,NOALI,0,NOALI,NOALI
+if,When,SIMI,3,NOALI,NOALI
+the switch,-not aligned-,NOALI,0,NOALI,NOALI
+the switch and bulb,the switch and the bulb,EQUI,5,EQUI,EQUI
+Voltage,terminal 1,REL,2,NOALI,NOALI
+the difference,-not aligned-,NOALI,0,NOALI,NOALI
+between a positive and negative end on a battery.,to the negative battery terminal,SPE2,2,SPE1,SPE1
+-not aligned-,is connected,NOALI,0,NOALI,NOALI
+is,-not aligned-,NOALI,0,NOALI,NOALI
+passes,-not aligned-,NOALI,0,NOALI,NOALI
+through the switch,the switch,EQUI,5,SPE1,SPE1
+the path,in the same path,SPE2,4,REL,REL
+-not aligned-,a bulb and a switch,NOALI,0,NOALI,NOALI
+-not aligned-,are,NOALI,0,NOALI,NOALI
+the energy,the bulb,REL,2,NOALI,NOALI
+-not aligned-,affects,NOALI,0,NOALI,NOALI
+-not aligned-,If,NOALI,0,NOALI,NOALI
+that,-not aligned-,NOALI,0,NOALI,NOALI
+are,are,EQUI,5,SIMI,SIMI
+the bulb terminal and battery terminal,The terminals,SPE1,3,EQUI,EQUI
+on the same side of a disconnected circut,in the same state.,REL,2,SIMI,SIMI
+the battery,The battery,EQUI,5,EQUI,EQUI
+in a closed path.,in a closed path,EQUI,5,EQUI,EQUI
+-not aligned-,in 4,NOALI,0,NOALI,NOALI
+is not,is not,EQUI,5,EQUI,EQUI
+Because,-not aligned-,NOALI,0,NOALI,NOALI
+switch x with bulb a,Bulb A with the battery and switch X.,SPE1,3,SIMI,SIMI
+-not aligned-,still,NOALI,0,NOALI,NOALI
+in the closed path,in a closed path,EQUI,5,REL,REL
+is,is contained,EQUI,5,EQUI,EQUI
+-not aligned-,still,NOALI,0,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+a closed circuit,in a closed path,REL,4,REL,REL
+There,-not aligned-,NOALI,0,NOALI,NOALI
+was,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,with the battery.,NOALI,0,NOALI,NOALI
+-not aligned-,Bulb A,NOALI,0,NOALI,NOALI
+-not aligned-,contained,NOALI,0,NOALI,NOALI
+"switch z in bulb c""""s",both,EQUI,5,NOALI,NOALI
+"closed path""",a path,EQUI,5,REL,REL
+is,containing,SIMI,3,SIMI,SIMI
+"switch z in bulb c""""s",Z and C,EQUI,5,SPE1,SPE1
+"""because",-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+-not aligned-,there,NOALI,0,NOALI,NOALI
+-not aligned-,with the battery and switch X.,NOALI,0,NOALI,NOALI
+Bulb A,Bulb A,EQUI,5,EQUI,EQUI
+in a closed path,in a closed path,EQUI,5,EQUI,EQUI
+was,is contained,SIMI,4,NOALI,NOALI
+still,still,EQUI,5,EQUI,EQUI
+-not aligned-,from the positive battery terminal,NOALI,0,NOALI,NOALI
+due to,-not aligned-,NOALI,0,NOALI,NOALI
+Because,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,"Terminals 1, 2 and 3",NOALI,0,NOALI,NOALI
+a gap,by a gap,EQUI,5,OPPO,OPPO
+-not aligned-,are separated,NOALI,0,NOALI,NOALI
+a damaged bulb.,-not aligned-,NOALI,0,NOALI,NOALI
+there,-not aligned-,NOALI,0,NOALI,NOALI
+is,-not aligned-,NOALI,0,NOALI,NOALI
+was,was contained,EQUI,5,OPPO,OPPO
+in a closed path,in the same closed path,SPE2,4,REL,REL
+still,still,EQUI,5,EQUI,EQUI
+Bulb A,Bulb A,EQUI,5,EQUI,EQUI
+with the battery,with the battery.,EQUI,5,EQUI,EQUI
+-not aligned-,in 4,NOALI,0,NOALI,NOALI
+The battery and light bulb,The battery,SPE2,3,SPE1,SPE1
+in a close path,in a closed path,EQUI,5,EQUI,EQUI
+are not contained,is not,EQUI,5,EQUI,EQUI
+and,-not aligned-,NOALI,0,NOALI,NOALI
+is closed,-not aligned-,NOALI,0,NOALI,NOALI
+the circut,in the same closed path,REL,4,SPE2,SPE2
+-not aligned-,are,NOALI,0,NOALI,NOALI
+-not aligned-,A and C,NOALI,0,NOALI,NOALI
+is,is,EQUI,5,EQUI,EQUI
+"on it""""s own pathway.""",in a separate path,REL,4,SPE1,SPE1
+bulb C,Bulb C,EQUI,5,EQUI,EQUI
+"""becuase",-not aligned-,NOALI,0,NOALI,NOALI
+bulb A,bulb A,EQUI,5,EQUI,EQUI
+in a closed path.,in a closed path,EQUI,5,REL,REL
+bulbs B and C,neither B nor C,EQUI,5,OPPO,OPPO
+burns out,"burns out,",EQUI,5,EQUI,EQUI
+then,-not aligned-,NOALI,0,NOALI,NOALI
+if,If,EQUI,5,SIMI,SIMI
+will no longer be,is,SPE1,4,OPPO,OPPO
+is not connected,are not connected,EQUI,5,SIMI,SIMI
+Terminal 1 to the positive terminal.,Terminal 1 and the positive terminal,EQUI,5,EQUI,EQUI
+because,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,in 2,NOALI,0,NOALI,NOALI
+is not,is not,EQUI,5,EQUI,EQUI
+in a closed circuit,in a closed path,REL,4,EQUI,EQUI
+the battery,The battery,EQUI,5,EQUI,EQUI
+the terminal,between the terminals,SPE1,4,REL,REL
+is not working,-not aligned-,NOALI,0,NOALI,NOALI
+is connected,is no gap,REL,4,OPPO,OPPO
+it,between the terminals,SPE1,4,NOALI,NOALI
+-not aligned-,there,NOALI,0,NOALI,NOALI
+to,-not aligned-,NOALI,0,NOALI,NOALI
+a closed path and a battery.,a closed path containing both the bulb and a battery,SPE1,3,EQUI,EQUI
+There,there,EQUI,5,SIMI,SIMI
+must be,is,SIMI,4,OPPO,OPPO
+is connected,are not connected,OPPO,4,OPPO,OPPO
+terminal to terminal 6,Terminals 1 and 6,SPE2,4,SPE1,SPE1
+is,is contained,EQUI,5,EQUI,EQUI
+with the battery and switch x,with the battery and switch X.,EQUI,5,EQUI,EQUI
+because,-not aligned-,NOALI,0,NOALI,NOALI
+bulb a,Bulb A,EQUI,5,EQUI,EQUI
+in a closed circuit,in a closed path,REL,4,SPE2,SPE2
+-not aligned-,still,NOALI,0,NOALI,NOALI
+-not aligned-,a bulb and a switch,NOALI,0,NOALI,NOALI
+If,If,EQUI,5,SIMI,SIMI
+the bbulb,the bulb,EQUI,5,EQUI,EQUI
+the switch,the switch,EQUI,5,EQUI,EQUI
+-not aligned-,are,NOALI,0,NOALI,NOALI
+is not,-not aligned-,NOALI,0,NOALI,NOALI
+the path,in the same path,SPE2,4,SPE2,SPE2
+will not affect,affects,OPPO,4,OPPO,OPPO
+"closed,",-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,If,NOALI,0,NOALI,NOALI
+are,are,EQUI,5,EQUI,EQUI
+-not aligned-,bulb A,NOALI,0,NOALI,NOALI
+on a closed path,in a closed path,EQUI,5,EQUI,EQUI
+-not aligned-,still,NOALI,0,NOALI,NOALI
+bulb b and c,bulbs B and C,EQUI,5,SPE1,SPE1
+to the battery,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,"burns out,",NOALI,0,NOALI,NOALI
+-not aligned-,"Terminals 1, 2 and 3",NOALI,0,NOALI,NOALI
+a a gap,by a gap,EQUI,5,EQUI,EQUI
+does not affect,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,are separated,NOALI,0,NOALI,NOALI
+the voltage of a battery,from the positive battery terminal,REL,3,NOALI,NOALI
+since,-not aligned-,NOALI,0,NOALI,NOALI
+Because,-not aligned-,NOALI,0,NOALI,NOALI
+is,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,in a closed path,NOALI,0,NOALI,NOALI
+a light bulb,The battery,REL,3,NOALI,NOALI
+there,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,is not,NOALI,0,NOALI,NOALI
+-not aligned-,in 2,NOALI,0,NOALI,NOALI
+-not aligned-,must be contained,NOALI,0,NOALI,NOALI
+because,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,in the same path,NOALI,0,NOALI,NOALI
+will be burned out,-not aligned-,NOALI,0,NOALI,NOALI
+the bulb,The damaged bulb and the other bulb,SPE1,3,SPE1,SPE1
+the terminals,-not aligned-,NOALI,0,NOALI,NOALI
+the positive batter terminal and terminal 6,Terminal 6 and the positive terminal,EQUI,5,EQUI,EQUI
+Because,-not aligned-,NOALI,0,NOALI,NOALI
+were connected.,are connected,SIMI,4,SIMI,SIMI
+the the circuit,the path,REL,4,REL,REL
+is complete.,is not closed,REL,3,OPPO,OPPO
+because,-not aligned-,NOALI,0,NOALI,NOALI
+still,still,EQUI,5,EQUI,EQUI
+with the battery,with the battery,EQUI,5,EQUI,EQUI
+on closed paths,in closed paths,EQUI,5,SPE1,SPE1
+will be,are,SIMI,4,NOALI,NOALI
+Bulbs B and C,bulbs B and C,EQUI,5,EQUI,EQUI
+the bulb,a bulb and a switch,SPE1,3,SPE1,SPE1
+in an closed circuit,in the same path,SPE2,4,REL,REL
+-not aligned-,If,NOALI,0,NOALI,NOALI
+-not aligned-,the bulb,NOALI,0,NOALI,NOALI
+-not aligned-,the switch,NOALI,0,NOALI,NOALI
+-not aligned-,affects,NOALI,0,NOALI,NOALI
+is contained,are,EQUI,5,SIMI,SIMI
+THE,-not aligned-,NOALI,0,NOALI,NOALI
+ARE,are,EQUI,5,SIMI,SIMI
+-not aligned-,A and C,NOALI,0,NOALI,NOALI
+ON THE SAME PATH,in the same path,EQUI,5,REL,REL
+Bulb a and switch Y,Switch Y and bulb A,EQUI,5,EQUI,EQUI
+are not,are not,EQUI,5,EQUI,EQUI
+in the same path.,in the same closed path,EQUI,5,REL,REL
+the electrical states different,different electrical states,EQUI,5,SIMI,SIMI
+of the positive and negative terminals,at the terminals,SPE1,3,SPE1,SPE1
+inside the battery,A battery,EQUI,5,REL,REL
+-not aligned-,uses,NOALI,0,NOALI,NOALI
+makes,-not aligned-,NOALI,0,NOALI,NOALI
+A chemical reaction,a chemical reaction,EQUI,5,EQUI,EQUI
+-not aligned-,to maintain,NOALI,0,NOALI,NOALI
+at all times.,-not aligned-,NOALI,0,NOALI,NOALI
+"the terminals 4,5, and 6","Terminals 4, 5 and 6",EQUI,5,EQUI,EQUI
+are connected,are connected,EQUI,5,EQUI,EQUI
+becasue,-not aligned-,NOALI,0,NOALI,NOALI
+to the positive terminal of the battery,to the positive battery terminal,EQUI,5,EQUI,EQUI
+does not effect,are not,SIMI,2,NOALI,NOALI
+switch Y bulb A,Switch Y and bulb A,EQUI,5,SPE1,SPE1
+-not aligned-,in the same closed path,NOALI,0,NOALI,NOALI
+bulb c,C,EQUI,5,SPE1,SPE1
+-not aligned-,then,NOALI,0,NOALI,NOALI
+creates,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,are,NOALI,0,NOALI,NOALI
+-not aligned-,A and B,NOALI,0,NOALI,NOALI
+-not aligned-,still,NOALI,0,NOALI,NOALI
+-not aligned-,If,NOALI,0,NOALI,NOALI
+-not aligned-,with the battery.,NOALI,0,NOALI,NOALI
+a gap,"burns out,",REL,3,NOALI,NOALI
+-not aligned-,in a closed path,NOALI,0,NOALI,NOALI
+are not contained,was no longer,SPE2,4,NOALI,NOALI
+in a closed pathway,in a closed path,EQUI,5,EQUI,EQUI
+Bulb C and the battery,Bulb C with the battery,EQUI,5,EQUI,EQUI
+both,The terminals,EQUI,4,SPE1,SPE1
+the two terminals,The terminals,SPE1,4,EQUI,EQUI
+will be,are,SIMI,4,SIMI,SIMI
+0,in the same state.,SPE1,3,NOALI,NOALI
+is not,is,OPPO,4,OPPO,OPPO
+with bulbs a and c.,-not aligned-,NOALI,0,NOALI,NOALI
+in the same path,in a separate path,REL,4,OPPO,OPPO
+bulb b,Bulb B,EQUI,5,EQUI,EQUI
+-not aligned-,the terminals,NOALI,0,NOALI,NOALI
+with.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,are not connected.,NOALI,0,NOALI,NOALI
+-not aligned-,means,NOALI,0,NOALI,NOALI
+-not aligned-,that,NOALI,0,NOALI,NOALI
+is interferred,-not aligned-,NOALI,0,NOALI,NOALI
+The electrical state,A non-zero voltage,REL,3,NOALI,NOALI
+the battery and the bulb,The battery,SPE2,3,SPE1,SPE1
+Because,-not aligned-,NOALI,0,NOALI,NOALI
+in a closed path.,in a closed path,EQUI,5,EQUI,EQUI
+-not aligned-,in 4,NOALI,0,NOALI,NOALI
+are not,is not,EQUI,5,EQUI,EQUI
+by measuring,Measuring,EQUI,5,EQUI,EQUI
+"in electrical states.""",the electrical state,SPE2,4,SPE1,SPE1
+the gap,due to a gap.,EQUI,5,SPE2,SPE2
+-not aligned-,the place,NOALI,0,NOALI,NOALI
+you,-not aligned-,NOALI,0,NOALI,NOALI
+"there""""s a difference",changes,SIMI,3,SIMI,SIMI
+where,where,EQUI,5,EQUI,EQUI
+"""because",-not aligned-,NOALI,0,NOALI,NOALI
+find,indicates,SIMI,3,NOALI,NOALI
+"voltage,",voltage,EQUI,5,EQUI,EQUI
+"again,",-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,then,NOALI,0,NOALI,NOALI
+-not aligned-,"burns out,",NOALI,0,NOALI,NOALI
+will be contained,are still,SPE2,4,NOALI,NOALI
+-not aligned-,If,NOALI,0,NOALI,NOALI
+on a closed path,in a closed path.,EQUI,5,REL,REL
+-not aligned-,C,NOALI,0,NOALI,NOALI
+bulbs a and b,A and B,SPE1,4,SPE1,SPE1
+in the the same path,in the same path,EQUI,5,EQUI,EQUI
+with the battery.,with the battery,EQUI,5,EQUI,EQUI
+are contiained,are not,OPPO,4,OPPO,OPPO
+bulbs b and c,A and C,EQUI,5,SPE1,SPE1
+There,-not aligned-,NOALI,0,NOALI,NOALI
+is,-not aligned-,NOALI,0,NOALI,NOALI
+a gap,in the same electrical state,REL,2,NOALI,NOALI
+in the path.,Terminals 1 and 2,REL,2,REL,REL
+-not aligned-,are,NOALI,0,NOALI,NOALI
+is,is,EQUI,5,EQUI,EQUI
+with a battery,with the battery,EQUI,5,EQUI,EQUI
+bulb a,Bulb A,EQUI,5,SIMI,SIMI
+-not aligned-,still,NOALI,0,NOALI,NOALI
+in a closed path,in a closed path,EQUI,5,EQUI,EQUI
+Bulb A and bulb C,A and C,EQUI,5,SPE1,SPE1
+-not aligned-,in the same closed path,NOALI,0,NOALI,NOALI
+each other.,-not aligned-,NOALI,0,NOALI,NOALI
+affect,are,SIMI,2,NOALI,NOALI
+in a closed path,a path,EQUI,5,SPE1,SPE1
+-not aligned-,is,NOALI,0,NOALI,NOALI
+is contained,containing,EQUI,5,SIMI,SIMI
+switch z,Z and C,SPE1,3,SPE1,SPE1
+-not aligned-,there,NOALI,0,NOALI,NOALI
+switch z,both,SPE1,3,NOALI,NOALI
+the bulb terminal and the negative battery terminal,between the terminals,SPE1,3,REL,REL
+-not aligned-,there,NOALI,0,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+by a gap,no gap,OPPO,4,OPPO,OPPO
+are separated,-not aligned-,NOALI,0,NOALI,NOALI
+are,are contained,EQUI,5,SIMI,SIMI
+with the battery.,with the battery,EQUI,5,EQUI,EQUI
+Bulb A and C,Bulbs A and C,EQUI,5,EQUI,EQUI
+still,still,EQUI,5,EQUI,EQUI
+in a closed path,in closed paths,SPE1,4,SPE1,SPE1
+switch and bulb,the switch and the bulb,EQUI,5,SPE1,SPE1
+are contained,are contained,EQUI,5,EQUI,EQUI
+in the same closed path,in the same path,EQUI,5,SPE2,SPE2
+if,When,SIMI,3,SIMI,SIMI
+between the positive battery connection and the bulb terminal.,between the terminals,SPE1,3,SPE1,SPE1
+a gap,no gap,OPPO,4,OPPO,OPPO
+is,is,EQUI,5,EQUI,EQUI
+there,there,EQUI,5,EQUI,EQUI
+on the same path,a different path,SIMI,4,OPPO,OPPO
+that,a different path,SIMI,4,NOALI,NOALI
+on the same path,a path,REL,3,SPE1,SPE1
+-not aligned-,there,NOALI,0,NOALI,NOALI
+Bulb A,A,EQUI,5,SPE1,SPE1
+are.,containing,SIMI,4,NOALI,NOALI
+-not aligned-,and,NOALI,0,NOALI,NOALI
+Bulb B and bulb C,B and C,EQUI,5,SPE2,SPE2
+is not,containing,SIMI,2,OPPO,OPPO
+-not aligned-,is,NOALI,0,NOALI,NOALI
+it,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,then,NOALI,0,NOALI,NOALI
+-not aligned-,with the battery.,NOALI,0,NOALI,NOALI
+on a different current,in a closed path,REL,4,OPPO,OPPO
+runs,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,C,NOALI,0,NOALI,NOALI
+-not aligned-,A and B,NOALI,0,NOALI,NOALI
+-not aligned-,are,NOALI,0,NOALI,NOALI
+-not aligned-,still,NOALI,0,NOALI,NOALI
+-not aligned-,"burns out,",NOALI,0,NOALI,NOALI
+-not aligned-,If,NOALI,0,NOALI,NOALI
+to the difference,-not aligned-,NOALI,0,NOALI,NOALI
+is connected,are connected,EQUI,5,SIMI,SIMI
+terminal 6,Terminal 6 and the positive terminal,SPE2,3,SPE1,SPE1
+the batteries terminals,Circuit 4,REL,4,NOALI,NOALI
+are not connected,has no closed paths,REL,4,OPPO,OPPO
+-not aligned-,Measuring,NOALI,0,NOALI,NOALI
+there,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,the place,NOALI,0,NOALI,NOALI
+a gap,a gap.,EQUI,5,EQUI,EQUI
+-not aligned-,changes,NOALI,0,NOALI,NOALI
+is,-not aligned-,NOALI,0,NOALI,NOALI
+a voltage,voltage,EQUI,5,EQUI,EQUI
+because,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,the electrical state,NOALI,0,NOALI,NOALI
+there,-not aligned-,NOALI,0,NOALI,NOALI
+if,-not aligned-,NOALI,0,NOALI,NOALI
+is,-not aligned-,NOALI,0,NOALI,NOALI
+that,-not aligned-,NOALI,0,NOALI,NOALI
+means,indicates,SIMI,4,SIMI,SIMI
+-not aligned-,due to,NOALI,0,NOALI,NOALI
+-not aligned-,where,NOALI,0,NOALI,NOALI
+-not aligned-,due to a gap.,NOALI,0,NOALI,NOALI
+-not aligned-,voltage,NOALI,0,NOALI,NOALI
+there,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,the place,NOALI,0,NOALI,NOALI
+different electrical states,the electrical state changes,SIMI,4,SIMI,SIMI
+Find,indicates,REL,2,NOALI,NOALI
+are,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Measuring,NOALI,0,NOALI,NOALI
+where,where,EQUI,5,EQUI,EQUI
+-not aligned-,there,NOALI,0,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+-not aligned-,containing,NOALI,0,NOALI,NOALI
+to the battery,the battery,EQUI,5,EQUI,EQUI
+is connected,-not aligned-,NOALI,0,NOALI,NOALI
+circuit 2,no closed path,REL,3,OPPO,OPPO
+to be,-not aligned-,NOALI,0,NOALI,NOALI
+an open circuit,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+causes,-not aligned-,NOALI,0,NOALI,NOALI
+the circuit,-not aligned-,NOALI,0,NOALI,NOALI
+in the circuit,in a circuit,EQUI,5,EQUI,EQUI
+-not aligned-,there,NOALI,0,NOALI,NOALI
+the gap,a gap,EQUI,5,EQUI,EQUI
+is,-not aligned-,NOALI,0,NOALI,NOALI
+a gap,by the gap,EQUI,5,EQUI,EQUI
+there,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,are separated,NOALI,0,NOALI,NOALI
+in the circuit,Terminal 1 and the positive terminal,REL,3,SPE1,SPE1
+-not aligned-,affects,NOALI,0,NOALI,NOALI
+to light up,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,are,NOALI,0,NOALI,NOALI
+-not aligned-,a bulb and a switch,NOALI,0,NOALI,NOALI
+-not aligned-,the switch,NOALI,0,NOALI,NOALI
+-not aligned-,If,NOALI,0,NOALI,NOALI
+the path,in the same path,SPE2,4,SPE2,SPE2
+has to be closed,-not aligned-,NOALI,0,NOALI,NOALI
+for the bulb,the bulb,EQUI,5,EQUI,EQUI
+in voltage,between the terminals,REL,4,SIMI,SIMI
+is,is,EQUI,5,EQUI,EQUI
+no gap,no gap,EQUI,5,EQUI,EQUI
+so,-not aligned-,NOALI,0,NOALI,NOALI
+there,-not aligned-,NOALI,0,NOALI,NOALI
+no difference,-not aligned-,NOALI,0,NOALI,NOALI
+is,-not aligned-,NOALI,0,NOALI,NOALI
+There,there,EQUI,5,EQUI,EQUI
+the difference,-not aligned-,NOALI,0,NOALI,NOALI
+between a positive and negative end on the battery.,Terminal 1 and the positive terminal,SIMI,2,NOALI,NOALI
+is,-not aligned-,NOALI,0,NOALI,NOALI
+Voltage,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,are separated,NOALI,0,NOALI,NOALI
+-not aligned-,by the gap,NOALI,0,NOALI,NOALI
+a short circuit,a complete circuit,OPPO,4,OPPO,OPPO
+-not aligned-,there,NOALI,0,NOALI,NOALI
+had,-not aligned-,NOALI,0,NOALI,NOALI
+bulb,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+Bulb A and bulb C,Bulb B and Bulb C,EQUI,5,OPPO,OPPO
+are,were still contained,SPE2,4,OPPO,OPPO
+with the battery.,with the battery.,EQUI,5,EQUI,EQUI
+in a closed path,in the same closed path,SPE2,4,SPE2,SPE2
+are connected,are connected,EQUI,5,EQUI,EQUI
+"Terminals 4, 5, and 6","Terminals 4, 5 and 6",EQUI,5,EQUI,EQUI
+only,-not aligned-,NOALI,0,NOALI,NOALI
+to the positive battery terminal.,to the positive battery terminal,EQUI,5,EQUI,EQUI
+a terminal to the positive battery terminal,the terminals,SPE1,3,SPE1,SPE1
+is connected,are not connected,OPPO,4,OPPO,OPPO
+because,-not aligned-,NOALI,0,NOALI,NOALI
+in the same state,-not aligned-,NOALI,0,NOALI,NOALI
+the terminals,terminal 1 to the negative battery terminal,SPE2,3,SPE2,SPE2
+are,is connected,SIMI,2,EQUI,EQUI
+"isn""""t included",are not,EQUI,5,EQUI,EQUI
+"""because",-not aligned-,NOALI,0,NOALI,NOALI
+"switch y in bulb A""""s",Switch Y and bulb A,EQUI,5,SPE1,SPE1
+"closed path""",in the same closed path,EQUI,5,REL,REL
+the negative battery terminal,from the negative battery terminal,EQUI,5,SPE1,SPE1
+by a gap,by a gap,EQUI,5,EQUI,EQUI
+is seperated,is separated,EQUI,5,EQUI,EQUI
+from terminal 6,terminal 6,EQUI,5,EQUI,EQUI
+the bulb terminal to one of the battery terminals,between the terminals,SPE1,3,SPE1,SPE1
+-not aligned-,there,NOALI,0,NOALI,NOALI
+only,-not aligned-,NOALI,0,NOALI,NOALI
+that,-not aligned-,NOALI,0,NOALI,NOALI
+is connected,is no gap,REL,4,OPPO,OPPO
+-not aligned-,terminal 4,NOALI,0,NOALI,NOALI
+there,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,from the negative battery terminal,NOALI,0,NOALI,NOALI
+-not aligned-,is separated,NOALI,0,NOALI,NOALI
+was,-not aligned-,NOALI,0,NOALI,NOALI
+a negavtive gap,by a gap,SPE1,4,SIMI,SIMI
+is connected,are connected,EQUI,5,EQUI,EQUI
+terminal,"Terminals 4, 5 and 6",SPE1,2,SPE1,SPE1
+to postive end of battery,to the positive battery terminal,EQUI,5,EQUI,EQUI
+is connected,is connected,EQUI,5,EQUI,EQUI
+to the 1.5 volt battery.,to the negative battery terminal,REL,4,OPPO,OPPO
+terminal 1,terminal 1,EQUI,5,EQUI,EQUI
+-not aligned-,the switch,NOALI,0,NOALI,NOALI
+-not aligned-,the bulb,NOALI,0,NOALI,NOALI
+must be,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,a bulb and a switch,NOALI,0,NOALI,NOALI
+-not aligned-,If,NOALI,0,NOALI,NOALI
+closed,-not aligned-,NOALI,0,NOALI,NOALI
+The path,in the same path,SPE2,4,SPE2,SPE2
+-not aligned-,are,NOALI,0,NOALI,NOALI
+-not aligned-,affects,NOALI,0,NOALI,NOALI
+on the same path,in the same path,EQUI,5,EQUI,EQUI
+are contained,are,EQUI,5,OPPO,OPPO
+with the battery.,with the battery,EQUI,5,EQUI,EQUI
+Bulbs B and C,B and C,EQUI,5,SPE1,SPE1
+of the battery,-not aligned-,NOALI,0,NOALI,NOALI
+is connected,are connected,EQUI,5,SIMI,SIMI
+a terminal to the positive terminal,Terminal 6 and the positive terminal,SPE2,4,EQUI,EQUI
+are,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,then,NOALI,0,NOALI,NOALI
+in parallel,in a closed path.,REL,3,OPPO,OPPO
+-not aligned-,"burns out,",NOALI,0,NOALI,NOALI
+-not aligned-,If,NOALI,0,NOALI,NOALI
+-not aligned-,still,NOALI,0,NOALI,NOALI
+in series,in a closed path.,REL,3,NOALI,NOALI
+a and b,A and B,EQUI,5,EQUI,EQUI
+because,-not aligned-,NOALI,0,NOALI,NOALI
+are,are,EQUI,5,EQUI,EQUI
+and,-not aligned-,NOALI,0,NOALI,NOALI
+a and c,C,SPE2,3,SPE2,SPE2
+is connected,are connected,EQUI,5,EQUI,EQUI
+of the battery,-not aligned-,NOALI,0,NOALI,NOALI
+a terminal to the positive terminal,Terminal 5 and the positive terminal,SPE2,4,SPE1,SPE1
+the bulb,The bulb,EQUI,5,EQUI,EQUI
+is not contained,is not,EQUI,5,EQUI,EQUI
+in the path,in the closed path,EQUI,5,SPE1,SPE1
+-not aligned-,containing,NOALI,0,NOALI,NOALI
+-not aligned-,the battery,NOALI,0,NOALI,NOALI
+because,-not aligned-,NOALI,0,NOALI,NOALI
+gap,by the gap,EQUI,5,REL,REL
+positive charge,Terminal 1 and the positive terminal,REL,3,SPE1,SPE1
+-not aligned-,are separated,NOALI,0,NOALI,NOALI
+is,-not aligned-,NOALI,0,NOALI,NOALI
+before,-not aligned-,NOALI,0,NOALI,NOALI
+Because,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,still,NOALI,0,NOALI,NOALI
+-not aligned-,If,NOALI,0,NOALI,NOALI
+-not aligned-,bulb A,NOALI,0,NOALI,NOALI
+on the same path,in a closed path,SPE1,4,NOALI,NOALI
+-not aligned-,"burns out,",NOALI,0,NOALI,NOALI
+-not aligned-,bulbs B and C,NOALI,0,NOALI,NOALI
+it,-not aligned-,NOALI,0,NOALI,NOALI
+is not,are,OPPO,4,SPE2,SPE2
+-not aligned-,no longer,NOALI,0,NOALI,NOALI
+connected,-not aligned-,NOALI,0,NOALI,NOALI
+Seperate paths,in a closed path,REL,4,OPPO,OPPO
+-not aligned-,bulb A,NOALI,0,NOALI,NOALI
+-not aligned-,"burns out,",NOALI,0,NOALI,NOALI
+-not aligned-,B and C,NOALI,0,NOALI,NOALI
+-not aligned-,are,NOALI,0,NOALI,NOALI
+to the battery,with the battery,EQUI,5,EQUI,EQUI
+-not aligned-,If,NOALI,0,NOALI,NOALI
+means,-not aligned-,NOALI,0,NOALI,NOALI
+the battery,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,there,NOALI,0,NOALI,NOALI
+A red X,-not aligned-,NOALI,0,NOALI,NOALI
+is,is,EQUI,5,SIMI,SIMI
+in a short circuit.,a short circuit,EQUI,5,EQUI,EQUI
+in a closed path.,no closed paths,REL,4,OPPO,OPPO
+The battery,Circuit 4,REL,3,NOALI,NOALI
+is not closed,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,has,NOALI,0,NOALI,NOALI
+to the battery,to the negative battery terminal,SPE2,4,SPE1,SPE1
+is connected,are connected,EQUI,5,EQUI,EQUI
+terminal,"Terminals 1, 2 and 3",SPE1,2,SPE1,SPE1
+in the same closed path,in the same path,EQUI,5,REL,REL
+Bulb A and Bulb C,A and C,EQUI,5,SPE1,SPE1
+are not contained,are not,EQUI,5,SIMI,SIMI
+on the same closed path.,in the same path,EQUI,5,REL,REL
+are not,are not,EQUI,5,EQUI,EQUI
+bulbs A and C,A and C,EQUI,5,EQUI,EQUI
+-not aligned-,When,NOALI,0,NOALI,NOALI
+"bulb, battery, and switch",the switch and the bulb,SPE2,3,SPE1,SPE1
+are,are contained,EQUI,5,SIMI,SIMI
+in closed path,in the same path,SPE2,4,SPE2,SPE2
+are no longer,is,OPPO,4,OPPO,OPPO
+-not aligned-,there,NOALI,0,NOALI,NOALI
+the paths of the circuit complete,an incomplete circuit,REL,4,OPPO,OPPO
+is,has,SIMI,3,SIMI,SIMI
+no closed path,no closed paths,SPE1,4,EQUI,EQUI
+in circuit 4.,Circuit 4,EQUI,5,EQUI,EQUI
+there,-not aligned-,NOALI,0,NOALI,NOALI
+a chemical reaction reaction.,a chemical reaction,EQUI,5,EQUI,EQUI
+-not aligned-,at the terminals,NOALI,0,NOALI,NOALI
+-not aligned-,to maintain,NOALI,0,NOALI,NOALI
+keeps,uses,SIMI,4,NOALI,NOALI
+The battery,A battery,EQUI,5,EQUI,EQUI
+-not aligned-,different electrical states,NOALI,0,NOALI,NOALI
+-not aligned-,to maintain,NOALI,0,NOALI,NOALI
+-not aligned-,uses,NOALI,0,NOALI,NOALI
+is,-not aligned-,NOALI,0,NOALI,NOALI
+between two battery terminals.,at the terminals,SPE1,3,SPE1,SPE1
+a difference in voltage,different electrical states,SIMI,3,SIMI,SIMI
+-not aligned-,a chemical reaction,NOALI,0,NOALI,NOALI
+always,-not aligned-,NOALI,0,NOALI,NOALI
+There,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,A battery,NOALI,0,NOALI,NOALI
+terminal 1is to terminal 4,Terminals 1 and 4,EQUI,5,EQUI,EQUI
+connected,are connected,EQUI,5,EQUI,EQUI
+-not aligned-,then,NOALI,0,NOALI,NOALI
+-not aligned-,"burns out,",NOALI,0,NOALI,NOALI
+-not aligned-,C,NOALI,0,NOALI,NOALI
+will be,are,SIMI,4,OPPO,OPPO
+Bulb A and B,A and B,EQUI,5,SIMI,SIMI
+-not aligned-,If,NOALI,0,NOALI,NOALI
+still,still,EQUI,5,EQUI,EQUI
+in a contained path.,in a closed path.,EQUI,5,REL,REL
+bulb a,Bulb A,EQUI,5,EQUI,EQUI
+-not aligned-,still,NOALI,0,NOALI,NOALI
+with the battery,with the battery,EQUI,5,EQUI,EQUI
+is,is,EQUI,5,EQUI,EQUI
+in a closed circuit,in a closed path,REL,4,REL,REL
+without the y switch.,-not aligned-,NOALI,0,NOALI,NOALI
+different paths,in the same path,REL,4,OPPO,OPPO
+-not aligned-,B and C,NOALI,0,NOALI,NOALI
+-not aligned-,are,NOALI,0,NOALI,NOALI
+with the battery,with the battery,EQUI,5,EQUI,EQUI
+matches,-not aligned-,NOALI,0,NOALI,NOALI
+at the terminal,terminal 1,SPE2,4,SPE1,SPE1
+-not aligned-,is connected,NOALI,0,NOALI,NOALI
+"electrical state""",-not aligned-,NOALI,0,NOALI,NOALI
+"""The electrical state",-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,to the negative battery terminal,NOALI,0,NOALI,NOALI
+"the battery""""s",-not aligned-,NOALI,0,NOALI,NOALI
+the battery,The battery,EQUI,5,EQUI,EQUI
+is not,-not aligned-,NOALI,0,NOALI,NOALI
+in a closed path,in a closed path,EQUI,5,EQUI,EQUI
+a short circuit,-not aligned-,NOALI,0,NOALI,NOALI
+Circuit 2,in 2,EQUI,5,EQUI,EQUI
+is not,is not,EQUI,5,EQUI,EQUI
+because,-not aligned-,NOALI,0,NOALI,NOALI
+with itself.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,still,NOALI,0,NOALI,NOALI
+is,was contained,SIMI,4,NOALI,NOALI
+on a closed circut path,in the same closed path,SPE2,4,SPE2,SPE2
+-not aligned-,with the battery.,NOALI,0,NOALI,NOALI
+Bulb A,Bulb A,EQUI,5,SIMI,SIMI
+Bulb B and bulb C,B and C,EQUI,5,EQUI,EQUI
+are contained,are,EQUI,5,SIMI,SIMI
+in different paths,in the same path,REL,4,OPPO,OPPO
+with the battery,with the battery,EQUI,5,EQUI,EQUI
+-not aligned-,to maintain,NOALI,0,NOALI,NOALI
+-not aligned-,a chemical reaction,NOALI,0,NOALI,NOALI
+the battery,A battery,EQUI,5,EQUI,EQUI
+because,-not aligned-,NOALI,0,NOALI,NOALI
+and,-not aligned-,NOALI,0,NOALI,NOALI
+a positive terminal a negative terminal.,at the terminals,SPE1,3,SPE1,SPE1
+there,-not aligned-,NOALI,0,NOALI,NOALI
+is,-not aligned-,NOALI,0,NOALI,NOALI
+is,-not aligned-,NOALI,0,NOALI,NOALI
+always,-not aligned-,NOALI,0,NOALI,NOALI
+a voltage,different electrical states,REL,3,SPE2,SPE2
+has,uses,SIMI,2,NOALI,NOALI
+there,-not aligned-,NOALI,0,NOALI,NOALI
+between 3 and positive battery,Terminal 3 and the positive terminal,EQUI,5,EQUI,EQUI
+gap,by the gap,EQUI,5,SPE1,SPE1
+-not aligned-,are separated,NOALI,0,NOALI,NOALI
+because,-not aligned-,NOALI,0,NOALI,NOALI
+bulbs A and C,A and C,EQUI,5,EQUI,EQUI
+in different paths,in different paths,EQUI,5,EQUI,EQUI
+with the battery,with the battery,EQUI,5,EQUI,EQUI
+are contained,are,EQUI,5,SIMI,SIMI
+because of the gap,by a gap,EQUI,5,OPPO,OPPO
+at bulb b,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,"Terminals 1, 2 and 3",NOALI,0,NOALI,NOALI
+-not aligned-,from the positive battery terminal,NOALI,0,NOALI,NOALI
+-not aligned-,are separated,NOALI,0,NOALI,NOALI
+in an open path,in a closed path,OPPO,4,OPPO,OPPO
+because,-not aligned-,NOALI,0,NOALI,NOALI
+bulb c,Bulb C,EQUI,5,EQUI,EQUI
+was,was not,OPPO,4,OPPO,OPPO
+-not aligned-,is,NOALI,0,NOALI,NOALI
+in the closed path,in a closed path,EQUI,5,EQUI,EQUI
+because,-not aligned-,NOALI,0,NOALI,NOALI
+switch y,-not aligned-,NOALI,0,NOALI,NOALI
+is not conatined,-not aligned-,NOALI,0,NOALI,NOALI
+of bulb a and the battery.,Bulb A with the battery,EQUI,5,EQUI,EQUI
+-not aligned-,still,NOALI,0,NOALI,NOALI
+is not connected,are not connected,EQUI,5,EQUI,EQUI
+A terminal to the negative battery terminal.,Terminals 1 and 6,SPE2,2,NOALI,NOALI
+bulb B and C,bulbs B and C,EQUI,5,EQUI,EQUI
+both,bulbs B and C,EQUI,5,NOALI,NOALI
+with the battery,with the battery,EQUI,5,EQUI,EQUI
+are,are,EQUI,5,EQUI,EQUI
+still,still,EQUI,5,EQUI,EQUI
+on a closed path,in closed paths,SPE1,4,SPE1,SPE1
+terminal 1 and terminal 6,Terminals 1 and 6,EQUI,5,EQUI,EQUI
+by a gap,by the gap,EQUI,5,EQUI,EQUI
+are seperated,are separated,EQUI,5,SIMI,SIMI
+-not aligned-,there,NOALI,0,NOALI,NOALI
+in a closed path.,in a closed path,EQUI,5,EQUI,EQUI
+in a closed path.,in which,EQUI,5,SPE1,SPE1
+because,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,no bulb,NOALI,0,NOALI,NOALI
+is,is contained,EQUI,5,OPPO,OPPO
+the battery,the battery,EQUI,5,EQUI,EQUI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+a battery and a bulb,the bulb and a battery,EQUI,5,EQUI,EQUI
+including,containing,EQUI,5,SIMI,SIMI
+complete path,a closed path,EQUI,5,EQUI,EQUI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+a battery and a bulb,both,EQUI,5,NOALI,NOALI
+-not aligned-,there,NOALI,0,NOALI,NOALI
+creat,-not aligned-,NOALI,0,NOALI,NOALI
+bulbs b and c,Bulb B,SPE2,3,SPE2,SPE2
+-not aligned-,is,NOALI,0,NOALI,NOALI
+a gap,-not aligned-,NOALI,0,NOALI,NOALI
+in the path,in a separate path,REL,4,OPPO,OPPO
+are connected,are connected,EQUI,5,EQUI,EQUI
+the positive battery terminal and terminal 5,Terminal 5 and the positive terminal,EQUI,5,EQUI,EQUI
+the the bulb terminal from the battery terminal,the terminals,SPE1,4,SPE1,SPE1
+disconnected,are not connected,EQUI,5,EQUI,EQUI
+the battery,the battery,EQUI,5,EQUI,EQUI
+and,-not aligned-,NOALI,0,NOALI,NOALI
+the light bulb,no bulb,OPPO,4,OPPO,OPPO
+in the circuit,in a path,REL,4,EQUI,EQUI
+in the circuit,in which,REL,4,REL,REL
+is contained,is contained,EQUI,5,EQUI,EQUI
+is not,is,OPPO,4,OPPO,OPPO
+-not aligned-,there,NOALI,0,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+do not connect,in an open path,REL,4,OPPO,OPPO
+of the battery,the battery,EQUI,5,SPE1,SPE1
+to one another,-not aligned-,NOALI,0,NOALI,NOALI
+because,-not aligned-,NOALI,0,NOALI,NOALI
+the two ends,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,there,NOALI,0,NOALI,NOALI
+open,-not aligned-,NOALI,0,NOALI,NOALI
+the circuit is no longer complete,an incomplete circuit,EQUI,5,EQUI,EQUI
+When,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+is,-not aligned-,NOALI,0,NOALI,NOALI
+a switch,-not aligned-,NOALI,0,NOALI,NOALI
+if,-not aligned-,NOALI,0,NOALI,NOALI
+both bulbs,The damaged bulb and the other bulb,SPE2,3,SPE2,SPE2
+are contained,must be contained,SIMI,4,EQUI,EQUI
+within a closed path,in the same path,SPE2,4,REL,REL
+-not aligned-,in 2,NOALI,0,NOALI,NOALI
+and,-not aligned-,NOALI,0,NOALI,NOALI
+in that circuit,in a closed path,REL,4,REL,REL
+in a closed circuit,in a closed path,REL,4,REL,REL
+the battery,The battery,EQUI,5,EQUI,EQUI
+The bulb,-not aligned-,NOALI,0,NOALI,NOALI
+exists,is not,REL,3,OPPO,OPPO
+is,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,still,NOALI,0,NOALI,NOALI
+to the light bulb,Bulb A,SPE2,4,SPE2,SPE2
+is connected,was contained,SIMI,3,SIMI,SIMI
+-not aligned-,with the battery.,NOALI,0,NOALI,NOALI
+the closed path,in the same closed path,SPE2,4,EQUI,EQUI
+"the electrical states the same,",in the same state.,EQUI,5,SIMI,SIMI
+resulting,-not aligned-,NOALI,0,NOALI,NOALI
+is,are,EQUI,5,OPPO,OPPO
+in 0,-not aligned-,NOALI,0,NOALI,NOALI
+between the terminals,The terminals,EQUI,5,SPE1,SPE1
+bulb b and bulb c,B and C,EQUI,5,EQUI,EQUI
+are contained,are,EQUI,5,SIMI,SIMI
+-not aligned-,with the battery,NOALI,0,NOALI,NOALI
+within a closed path,in the same path,SPE2,4,SPE1,SPE1
+circuit 5,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,there,NOALI,0,NOALI,NOALI
+in a closed path.,in a closed path,EQUI,5,EQUI,EQUI
+in a closed path.,in which,EQUI,5,NOALI,NOALI
+is,is contained,EQUI,5,NOALI,NOALI
+-not aligned-,the battery,NOALI,0,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+-not aligned-,no bulb,NOALI,0,NOALI,NOALI
+-not aligned-,by the gap,NOALI,0,NOALI,NOALI
+is connected,are separated,OPPO,4,OPPO,OPPO
+terminal 6 to terminal 1,Terminals 1 and 6,EQUI,5,EQUI,EQUI
+in the circuit,in a circuit,EQUI,5,EQUI,EQUI
+is,is,EQUI,5,EQUI,EQUI
+bulb B,-not aligned-,NOALI,0,NOALI,NOALI
+is damaged,-not aligned-,NOALI,0,NOALI,NOALI
+there,there,EQUI,5,EQUI,EQUI
+If,-not aligned-,NOALI,0,NOALI,NOALI
+a gap,a gap,EQUI,5,EQUI,EQUI
+when,-not aligned-,NOALI,0,NOALI,NOALI
+in a complete circuit,in a closed path,REL,4,REL,REL
+-not aligned-,still,NOALI,0,NOALI,NOALI
+is closed.,-not aligned-,NOALI,0,NOALI,NOALI
+is,is contained,EQUI,5,NOALI,NOALI
+with the battery switch z,with the battery and switch Z.,EQUI,5,EQUI,EQUI
+bulb a,Bulb A,EQUI,5,EQUI,EQUI
+-not aligned-,still,NOALI,0,NOALI,NOALI
+is,is,EQUI,5,EQUI,EQUI
+bulb a,Bulb A,EQUI,5,EQUI,EQUI
+with the battery,with the battery,EQUI,5,EQUI,EQUI
+on a closed path,in a closed path,EQUI,5,EQUI,EQUI
+those terminals,"Terminals 4, 5 and 6",SPE2,2,EQUI,EQUI
+to the positive terminal of the battery.,to the positive battery terminal,EQUI,5,EQUI,EQUI
+because,-not aligned-,NOALI,0,NOALI,NOALI
+are connected,are connected,EQUI,5,EQUI,EQUI
+-not aligned-,Bulb C,NOALI,0,NOALI,NOALI
+in a closed path,in a closed path,EQUI,5,EQUI,EQUI
+Not contained,was not,EQUI,5,OPPO,OPPO
+to positive charge,to the positive battery terminal,REL,4,REL,REL
+terminal,"Terminals 4, 5 and 6",SPE2,2,SPE1,SPE1
+connected,are connected,EQUI,5,SIMI,SIMI
+voltage,-not aligned-,NOALI,0,NOALI,NOALI
+measures,-not aligned-,NOALI,0,NOALI,NOALI
+because,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,are separated,NOALI,0,NOALI,NOALI
+-not aligned-,by the gap,NOALI,0,NOALI,NOALI
+-not aligned-,Terminal 1 and the positive terminal,NOALI,0,NOALI,NOALI
+the difference between two points,-not aligned-,NOALI,0,NOALI,NOALI
+Bulbs a and c,"A, B and C",SPE1,3,REL,REL
+are,are,EQUI,5,EQUI,EQUI
+in separate paths.,in different paths,EQUI,5,REL,REL
+of battery,-not aligned-,NOALI,0,NOALI,NOALI
+terminal 6 to postive terminal,Terminals 1 and 6,SIMI,2,SPE1,SPE1
+is connected,are not connected,OPPO,4,OPPO,OPPO
+a terminal to the negative battery terminal,the terminals,SPE1,3,SPE1,SPE1
+is connected,are not connected,OPPO,4,OPPO,OPPO
+is,is contained,EQUI,5,EQUI,EQUI
+bulb A,Bulb A,EQUI,5,EQUI,EQUI
+in the same path,in a closed path,SPE1,4,SPE1,SPE1
+as,-not aligned-,NOALI,0,NOALI,NOALI
+Switch Z,with the battery and switch Z.,SPE1,3,SPE1,SPE1
+-not aligned-,still,NOALI,0,NOALI,NOALI
+-not aligned-,If,NOALI,0,NOALI,NOALI
+-not aligned-,neither B nor C,NOALI,0,NOALI,NOALI
+-not aligned-,"burns out,",NOALI,0,NOALI,NOALI
+there,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+will be,-not aligned-,NOALI,0,NOALI,NOALI
+a gap,in a closed path,REL,4,OPPO,OPPO
+-not aligned-,bulb A,NOALI,0,NOALI,NOALI
+each bulb,each bulb,EQUI,5,EQUI,EQUI
+its own complete path,in its own path,EQUI,5,EQUI,EQUI
+because,-not aligned-,NOALI,0,NOALI,NOALI
+has,is,SIMI,4,NOALI,NOALI
+have,-not aligned-,NOALI,0,NOALI,NOALI
+separate paths,in a closed path,REL,4,OPPO,OPPO
+-not aligned-,"burns out,",NOALI,0,NOALI,NOALI
+within the closed circuit,with the battery,REL,3,NOALI,NOALI
+-not aligned-,If,NOALI,0,NOALI,NOALI
+-not aligned-,bulb A,NOALI,0,NOALI,NOALI
+bulbs b and c,B and C,EQUI,5,SIMI,SIMI
+-not aligned-,are,NOALI,0,NOALI,NOALI
+-not aligned-,no longer,NOALI,0,NOALI,NOALI
+-not aligned-,by a gap,NOALI,0,NOALI,NOALI
+A terminal,"Terminals 1, 2 and 3",SPE2,2,SPE2,SPE2
+-not aligned-,from the positive battery terminal,NOALI,0,NOALI,NOALI
+is connected,are separated,OPPO,4,OPPO,OPPO
+to a bulb.,-not aligned-,NOALI,0,NOALI,NOALI
+the positive battery terminal from terminal 4,Terminal 4 and the positive terminal,EQUI,5,EQUI,EQUI
+are,are contained,EQUI,5,SIMI,SIMI
+a switch and bulb,the switch and the bulb,EQUI,5,EQUI,EQUI
+when,When,EQUI,5,EQUI,EQUI
+whithin a closed path,in the same path,SPE2,4,SPE2,SPE2
+because,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,is not closed,NOALI,0,NOALI,NOALI
+short,-not aligned-,NOALI,0,NOALI,NOALI
+is,-not aligned-,NOALI,0,NOALI,NOALI
+the path,the path,EQUI,5,EQUI,EQUI
+Bulb A,bulb A,EQUI,5,EQUI,EQUI
+-not aligned-,"burns out,",NOALI,0,NOALI,NOALI
+-not aligned-,neither B nor C,NOALI,0,NOALI,NOALI
+will,-not aligned-,NOALI,0,NOALI,NOALI
+be completing,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,If,NOALI,0,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+the circuts.,in a closed path,REL,4,NOALI,NOALI
+no longer,-not aligned-,NOALI,0,NOALI,NOALI
+a gap,-not aligned-,NOALI,0,NOALI,NOALI
+Bulb C,each bulb,SPE1,3,SPE1,SPE1
+will create,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+in the path,in its own path,SPE2,4,SPE2,SPE2
+was contained,was contained,EQUI,5,EQUI,EQUI
+with the battery,with the battery.,EQUI,5,EQUI,EQUI
+-not aligned-,still,NOALI,0,NOALI,NOALI
+on a closed path,in the same closed path,SPE2,4,SPE2,SPE2
+bulb a,Bulb A,EQUI,5,SIMI,SIMI
+Terminal 1 to terminl 4.,Terminals 1 and 4,EQUI,5,EQUI,EQUI
+is connected,are connected,EQUI,5,SIMI,SIMI
+on the same path,in a separate path,REL,4,OPPO,OPPO
+Bulb C.,Bulb C,EQUI,5,EQUI,EQUI
+Bulbs A and B,-not aligned-,NOALI,0,NOALI,NOALI
+are not,is,OPPO,4,OPPO,OPPO
+as,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,there,NOALI,0,NOALI,NOALI
+Each circuit,a complete circuit,SPE2,3,EQUI,EQUI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+a connection.,-not aligned-,NOALI,0,NOALI,NOALI
+must have,-not aligned-,NOALI,0,NOALI,NOALI
+with a bulb and a battery,a bulb and a switch,SIMI,3,SIMI,SIMI
+in a closed path,in the same path,SPE2,4,EQUI,EQUI
+contained,are,SIMI,4,SIMI,SIMI
+A switch,the switch,EQUI,5,EQUI,EQUI
+will affect,affects,SIMI,4,SIMI,SIMI
+-not aligned-,If,NOALI,0,NOALI,NOALI
+the bulb.,the bulb,EQUI,5,EQUI,EQUI
+-not aligned-,are separated,NOALI,0,NOALI,NOALI
+is,-not aligned-,NOALI,0,NOALI,NOALI
+the difference,-not aligned-,NOALI,0,NOALI,NOALI
+between a positive and negative terminal,Terminal 1 and the positive terminal,SIMI,3,SPE2,SPE2
+Voltage,-not aligned-,NOALI,0,NOALI,NOALI
+on the battery.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,by the gap,NOALI,0,NOALI,NOALI
+with the battery.,with the battery.,EQUI,5,EQUI,EQUI
+in a closed paty,in the same closed path,SPE2,4,REL,REL
+bulbs b and c,Bulb B and Bulb C,EQUI,5,EQUI,EQUI
+-not aligned-,still,NOALI,0,NOALI,NOALI
+were,were contained,EQUI,5,SIMI,SIMI
+z,"A, C, Z and X",SPE1,2,NOALI,NOALI
+complete,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,there,NOALI,0,NOALI,NOALI
+the path,a path,EQUI,5,EQUI,EQUI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+be closed,-not aligned-,NOALI,0,NOALI,NOALI
+can,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,containing,NOALI,0,NOALI,NOALI
+by having,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,When,NOALI,0,NOALI,NOALI
+the bulb and the switch,the switch and the bulb,EQUI,5,EQUI,EQUI
+as,-not aligned-,NOALI,0,NOALI,NOALI
+A switch,-not aligned-,NOALI,0,NOALI,NOALI
+are,are contained,EQUI,5,SIMI,SIMI
+it,-not aligned-,NOALI,0,NOALI,NOALI
+will affect,-not aligned-,NOALI,0,NOALI,NOALI
+in the path,in the same path,SPE2,4,SPE2,SPE2
+the battery,-not aligned-,NOALI,0,NOALI,NOALI
+a bulb,-not aligned-,NOALI,0,NOALI,NOALI
+the positive battery terminal,between terminal 6 and the positive terminal,SPE1,3,SPE2,SPE2
+is not connected,is no gap,OPPO,4,OPPO,OPPO
+-not aligned-,There,NOALI,0,NOALI,NOALI
+are,are,EQUI,5,EQUI,EQUI
+on a closed path,in closed paths,SPE1,4,SPE1,SPE1
+contains the battery.,with the battery,EQUI,5,EQUI,EQUI
+still,still,EQUI,5,EQUI,EQUI
+that,in closed paths,SPE1,4,NOALI,NOALI
+Bulb A and bulb C,Bulbs A and C,EQUI,5,EQUI,EQUI
+on their own completed circuts.,in a closed path,REL,3,OPPO,OPPO
+still,-not aligned-,NOALI,0,NOALI,NOALI
+will be,are,SIMI,4,SIMI,SIMI
+Bulbs A and C,Bulbs A and C,EQUI,5,EQUI,EQUI
+in the path,-not aligned-,NOALI,0,NOALI,NOALI
+it,-not aligned-,NOALI,0,NOALI,NOALI
+the charge,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,by a gap,NOALI,0,NOALI,NOALI
+-not aligned-,are separated,NOALI,0,NOALI,NOALI
+The damaged bulb B,-not aligned-,NOALI,0,NOALI,NOALI
+so,-not aligned-,NOALI,0,NOALI,NOALI
+can not reach,-not aligned-,NOALI,0,NOALI,NOALI
+a gap,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,"Terminals 1, 2 and 3",NOALI,0,NOALI,NOALI
+-not aligned-,from the positive battery terminal,NOALI,0,NOALI,NOALI
+has left,-not aligned-,NOALI,0,NOALI,NOALI
+is separated,are separated,EQUI,5,OPPO,OPPO
+-not aligned-,by a gap,NOALI,0,NOALI,NOALI
+the terminal from the battery terminal,the terminals,SPE1,3,SPE2,SPE2
+a terminal to another terminal,"Terminals 4, 5 and 6 to the positive battery terminal",SPE2,2,SPE1,SPE1
+is connected,are connected,EQUI,5,SIMI,SIMI
+is connected,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,There,NOALI,0,NOALI,NOALI
+bulb A to switch Z,both,SIMI,3,NOALI,NOALI
+-not aligned-,containing,NOALI,0,NOALI,NOALI
+-not aligned-,no path,NOALI,0,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+bulb A to switch Z,switch Y and bulb A,SIMI,3,SPE1,SPE1
+"a closed path,",a path,EQUI,5,EQUI,EQUI
+is,is,EQUI,5,EQUI,EQUI
+there,there,EQUI,5,EQUI,EQUI
+contains,containing,EQUI,5,SIMI,SIMI
+"with switch z, bulb a and the battery","A, C, Z and the battery",SPE1,3,EQUI,EQUI
+that,a path,EQUI,5,NOALI,NOALI
+to the positive terminal,to the positive battery terminal,EQUI,5,EQUI,EQUI
+are connected,are connected,EQUI,5,EQUI,EQUI
+"Terminal 4, terminal 5, and terminal 6","Terminals 4, 5 and 6",EQUI,5,EQUI,EQUI
+is not connected,is not,SPE1,3,EQUI,EQUI
+is not,-not aligned-,NOALI,0,NOALI,NOALI
+Circuit 2,in 2,EQUI,5,EQUI,EQUI
+to itself.,-not aligned-,NOALI,0,NOALI,NOALI
+the battery,The battery,EQUI,5,EQUI,EQUI
+because,-not aligned-,NOALI,0,NOALI,NOALI
+a short circuit,in a closed path,REL,4,OPPO,OPPO
+terminal 1 from the positive battery terminal.,Terminal 1 and the positive terminal,EQUI,5,SPE1,SPE1
+Because,-not aligned-,NOALI,0,NOALI,NOALI
+is seperated,are separated,EQUI,5,OPPO,OPPO
+-not aligned-,by the gap,NOALI,0,NOALI,NOALI
+bulb a and bulb c,A and C,EQUI,5,EQUI,EQUI
+in different paths,in different paths,EQUI,5,NOALI,NOALI
+are contained,are,EQUI,5,OPPO,OPPO
+with the bttery.,with the battery,EQUI,5,EQUI,EQUI
+with the battery.,with the battery,EQUI,5,EQUI,EQUI
+because,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,still,NOALI,0,NOALI,NOALI
+in a closed path,in a closed path,EQUI,5,EQUI,EQUI
+bulb a,Bulb A,EQUI,5,EQUI,EQUI
+is,is,EQUI,5,SIMI,SIMI
+is connected,are separated,OPPO,4,OPPO,OPPO
+the positive terminal,Terminal 1 and the positive terminal,SPE1,3,SPE1,SPE1
+to the bulb,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,by the gap,NOALI,0,NOALI,NOALI
+bulb a and bulb c,Bulbs A and C,EQUI,5,SPE1,SPE1
+-not aligned-,still,NOALI,0,NOALI,NOALI
+because,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,are separated,NOALI,0,NOALI,NOALI
+-not aligned-,by the gap,NOALI,0,NOALI,NOALI
+The positive terminal,Terminal 1 and the positive terminal,SPE1,3,SPE2,SPE2
+has,-not aligned-,NOALI,0,NOALI,NOALI
+1.5 V,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,different electrical states,NOALI,0,NOALI,NOALI
+in the battery,A battery,EQUI,5,SPE1,SPE1
+-not aligned-,uses,NOALI,0,NOALI,NOALI
+-not aligned-,at the terminals,NOALI,0,NOALI,NOALI
+-not aligned-,to maintain,NOALI,0,NOALI,NOALI
+because of the chemical,a chemical reaction,SIMI,4,SIMI,SIMI
+in closed paths.,in a closed path,SPE2,4,REL,REL
+need to be,are,SIMI,4,EQUI,EQUI
+Both components,the bulb and the battery,SPE2,4,SPE2,SPE2
+bulb a and bulb c,A and C,EQUI,5,SPE2,SPE2
+in parallel,-not aligned-,NOALI,0,NOALI,NOALI
+are wired,in different paths,REL,3,REL,REL
+-not aligned-,are,NOALI,0,NOALI,NOALI
+Bulb terminals 3 and 4,Terminal 1 and the positive terminal,SIMI,2,SPE1,SPE1
+-not aligned-,by the gap,NOALI,0,NOALI,NOALI
+-not aligned-,are separated,NOALI,0,NOALI,NOALI
+-not aligned-,in the same path,NOALI,0,NOALI,NOALI
+the other bulb,The damaged bulb and the other bulb,SPE1,3,SPE1,SPE1
+-not aligned-,must be contained,NOALI,0,NOALI,NOALI
+will not light.,-not aligned-,NOALI,0,NOALI,NOALI
+there,-not aligned-,NOALI,0,NOALI,NOALI
+in the terminals,both,REL,4,NOALI,NOALI
+in the terminals,switch Y and bulb A,REL,4,NOALI,NOALI
+-not aligned-,containing,NOALI,0,NOALI,NOALI
+was,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+-not aligned-,no path,NOALI,0,NOALI,NOALI
+a gap,-not aligned-,NOALI,0,NOALI,NOALI
+because,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,there,NOALI,0,NOALI,NOALI
+is,-not aligned-,NOALI,0,NOALI,NOALI
+the switch with the battery and bulb.,the switch and the bulb,SPE2,3,SPE1,SPE1
+open,-not aligned-,NOALI,0,NOALI,NOALI
+if,When,SIMI,3,SIMI,SIMI
+in a path,in the same path,SPE2,4,SIMI,SIMI
+-not aligned-,are contained,NOALI,0,NOALI,NOALI
+to the positive side,to the positive battery terminal,SPE2,4,EQUI,EQUI
+"4, 5, and 6","Terminals 4, 5 and 6",EQUI,5,SPE1,SPE1
+are connected,are connected,EQUI,5,EQUI,EQUI
+in the circuit.,-not aligned-,NOALI,0,NOALI,NOALI
+indicates,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,between the terminals,NOALI,0,NOALI,NOALI
+of 0 volts,-not aligned-,NOALI,0,NOALI,NOALI
+a gap,no gap,OPPO,4,OPPO,OPPO
+a voltage reading,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,there,NOALI,0,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+are not connected,are not connected,EQUI,5,EQUI,EQUI
+4 5 and 6,"Terminals 4, 5 and 6",EQUI,5,EQUI,EQUI
+to negative battery terminal,to the negative battery terminal,EQUI,5,EQUI,EQUI
+on a closed path,in a closed path,EQUI,5,EQUI,EQUI
+bulbs a and b,A and B,EQUI,5,EQUI,EQUI
+-not aligned-,burns out,NOALI,0,NOALI,NOALI
+-not aligned-,then,NOALI,0,NOALI,NOALI
+still,still,EQUI,5,EQUI,EQUI
+with the battery,with the battery,EQUI,5,EQUI,EQUI
+are contained,are,EQUI,5,SIMI,SIMI
+-not aligned-,C,NOALI,0,NOALI,NOALI
+-not aligned-,If,NOALI,0,NOALI,NOALI
+are,are,EQUI,5,EQUI,EQUI
+"bulbs a, b, and c",A and C,SPE2,3,EQUI,EQUI
+in the same path.,in the same path,EQUI,5,EQUI,EQUI
+all,A and C,SPE2,3,NOALI,NOALI
+are,are,EQUI,5,SIMI,SIMI
+with the battery,-not aligned-,NOALI,0,NOALI,NOALI
+a and c,A and C,EQUI,5,EQUI,EQUI
+on the same closed path,in the same closed path,EQUI,5,EQUI,EQUI
+open,-not aligned-,NOALI,0,NOALI,NOALI
+then,-not aligned-,NOALI,0,NOALI,NOALI
+is included,are,EQUI,5,NOALI,NOALI
+"closed path,",in the same path,SIMI,4,SPE2,SPE2
+"the bulb""",the bulb,EQUI,5,EQUI,EQUI
+being,-not aligned-,NOALI,0,NOALI,NOALI
+"""if",If,EQUI,5,SIMI,SIMI
+will affect,affects,SIMI,4,SIMI,SIMI
+the switch,the switch,EQUI,5,EQUI,EQUI
+"the switch in the bulb""""s",a bulb and a switch,EQUI,5,REL,REL
+will not affect,-not aligned-,NOALI,0,NOALI,NOALI
+each other,-not aligned-,NOALI,0,NOALI,NOALI
+because,-not aligned-,NOALI,0,NOALI,NOALI
+the outcome,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,are not,NOALI,0,NOALI,NOALI
+-not aligned-,with the battery,NOALI,0,NOALI,NOALI
+-not aligned-,in the same path,NOALI,0,NOALI,NOALI
+-not aligned-,A and C,NOALI,0,NOALI,NOALI
+of the bulb,-not aligned-,NOALI,0,NOALI,NOALI
+by a gap,by the gap,EQUI,5,EQUI,EQUI
+not seperated,are not separated,EQUI,5,EQUI,EQUI
+-not aligned-,Terminal 6 and the positive terminal,NOALI,0,NOALI,NOALI
+-not aligned-,by the gap,NOALI,0,NOALI,NOALI
+are seperated.,are separated,EQUI,5,SIMI,SIMI
+because,-not aligned-,NOALI,0,NOALI,NOALI
+terminal 1 and the neavtive terminal,Terminal 1 and the positive terminal,SIMI,4,OPPO,OPPO
+a gap,an incomplete circuit,REL,4,NOALI,NOALI
+is,is,EQUI,5,SIMI,SIMI
+now.,-not aligned-,NOALI,0,NOALI,NOALI
+between A and C,-not aligned-,NOALI,0,NOALI,NOALI
+their,there,EQUI,5,NOALI,NOALI
+Because,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,then,NOALI,0,NOALI,NOALI
+Bulb A and bulb b,A and B,EQUI,5,SPE2,SPE2
+-not aligned-,burns out,NOALI,0,NOALI,NOALI
+-not aligned-,C,NOALI,0,NOALI,NOALI
+still,still,EQUI,5,EQUI,EQUI
+with the battery,with the battery,EQUI,5,EQUI,EQUI
+-not aligned-,If,NOALI,0,NOALI,NOALI
+in closed paths,in a closed path,SPE2,4,REL,REL
+are contained,are,EQUI,5,EQUI,EQUI
+as,-not aligned-,NOALI,0,NOALI,NOALI
+in the same circuit,in its own path,REL,3,NOALI,NOALI
+B and C,each bulb,SPE1,3,SPE1,SPE1
+are not,is,OPPO,4,OPPO,OPPO
+A.,-not aligned-,NOALI,0,NOALI,NOALI
+to 1.5.,-not aligned-,NOALI,0,NOALI,NOALI
+from 0,-not aligned-,NOALI,0,NOALI,NOALI
+there terminals,the terminals,EQUI,5,EQUI,EQUI
+are separated,are separated,EQUI,5,EQUI,EQUI
+the voltage,-not aligned-,NOALI,0,NOALI,NOALI
+jumps,-not aligned-,NOALI,0,NOALI,NOALI
+when,-not aligned-,NOALI,0,NOALI,NOALI
+by a gap,by a gap,EQUI,5,EQUI,EQUI
+bulbs a b and c,A and C,SPE2,3,EQUI,EQUI
+on a closed path,in the same closed path,SPE2,4,SPE1,SPE1
+are,are,EQUI,5,SIMI,SIMI
+think,-not aligned-,NOALI,0,NOALI,NOALI
+means,-not aligned-,NOALI,0,NOALI,NOALI
+this,-not aligned-,NOALI,0,NOALI,NOALI
+I,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+that,-not aligned-,NOALI,0,NOALI,NOALI
+is,-not aligned-,NOALI,0,NOALI,NOALI
+should,-not aligned-,NOALI,0,NOALI,NOALI
+and,-not aligned-,NOALI,0,NOALI,NOALI
+something,-not aligned-,NOALI,0,NOALI,NOALI
+dangerous,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,a short circuit,NOALI,0,NOALI,NOALI
+is,-not aligned-,NOALI,0,NOALI,NOALI
+the red X,-not aligned-,NOALI,0,NOALI,NOALI
+never,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,there,NOALI,0,NOALI,NOALI
+happen,-not aligned-,NOALI,0,NOALI,NOALI
+unless,-not aligned-,NOALI,0,NOALI,NOALI
+seriously,-not aligned-,NOALI,0,NOALI,NOALI
+wrong.,-not aligned-,NOALI,0,NOALI,NOALI
+there,-not aligned-,NOALI,0,NOALI,NOALI
+no gap,by the gap,OPPO,4,OPPO,OPPO
+from the positive terminal,Terminal 1 and the positive terminal,SPE1,3,SPE1,SPE1
+because,-not aligned-,NOALI,0,NOALI,NOALI
+was,are separated,SIMI,2,NOALI,NOALI
+of the battery,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,then,NOALI,0,NOALI,NOALI
+bulbs A and B,A and B,EQUI,5,SPE1,SPE1
+still,still,EQUI,5,EQUI,EQUI
+-not aligned-,C,NOALI,0,NOALI,NOALI
+-not aligned-,burns out,NOALI,0,NOALI,NOALI
+to the closed path,in a closed path,EQUI,5,EQUI,EQUI
+containing the battery,with the battery,EQUI,5,EQUI,EQUI
+are connected,are,SIMI,4,SIMI,SIMI
+-not aligned-,If,NOALI,0,NOALI,NOALI
+if,When,SIMI,3,NOALI,NOALI
+are,are contained,EQUI,5,SIMI,SIMI
+the switch and the bulb,the switch and the bulb,EQUI,5,EQUI,EQUI
+in the same path,in the same path,EQUI,5,EQUI,EQUI
+bulb c and switch z,both,EQUI,5,SPE1,SPE1
+bulb c and switch z,Z and C,EQUI,5,SPE1,SPE1
+in the same closed path,a path,SPE1,4,SPE1,SPE1
+are,containing,SIMI,4,NOALI,NOALI
+-not aligned-,there,NOALI,0,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+-not aligned-,is contained,NOALI,0,NOALI,NOALI
+only,-not aligned-,NOALI,0,NOALI,NOALI
+the bulb,-not aligned-,NOALI,0,NOALI,NOALI
+connected,-not aligned-,NOALI,0,NOALI,NOALI
+one terminal,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,The battery,NOALI,0,NOALI,NOALI
+has,does not contain,OPPO,4,OPPO,OPPO
+-not aligned-,which,NOALI,0,NOALI,NOALI
+-not aligned-,in a path,NOALI,0,NOALI,NOALI
+-not aligned-,any other components,NOALI,0,NOALI,NOALI

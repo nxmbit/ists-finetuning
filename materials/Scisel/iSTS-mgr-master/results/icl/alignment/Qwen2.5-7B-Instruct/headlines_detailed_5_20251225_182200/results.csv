@@ -1,0 +1,2041 @@
+text_source,text_translation,alignment,score,preds,response
+for the Philippines,to Philippines,EQUI,5,SIMI,SIMI
+departs,sends,SIMI,3,REL,REL
+Thursday,-not aligned-,NOALI,0,NOALI,NOALI
+China,China,EQUI,5,EQUI,EQUI
+'s Peace Ark,aid team,REL,4,SIMI,SIMI
+Conservatives,Conservative opposition,SPE2,4,SPE1,SPE1
+to Australia election victory,wins Australian election,EQUI,5,SPE1,SPE1
+sweep,-not aligned-,NOALI,0,NOALI,NOALI
+"draws wide condemnation , criticism",angers,SIMI,4,OPPO,OPPO
+'s shrine visit,'s war shrine visit,SPE2,4,SIMI,SIMI
+-not aligned-,neighbours,NOALI,0,NOALI,NOALI
+Abe,Japanese PM Shinzo Abe,SPE2,4,SPE2,SPE2
+revokes,to repeal,EQUI,5,SIMI,SIMI
+resigns,-not aligned-,NOALI,0,NOALI,NOALI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+PM,-not aligned-,NOALI,0,NOALI,NOALI
+anti-protest law,anti-protest laws,SPE1,4,SPE2,SPE2
+Ukraine,Ukraine,EQUI,5,EQUI,EQUI
+detects,-not aligned-,NOALI,0,NOALI,NOALI
+says,says,EQUI,5,EQUI,EQUI
+from Mediterranean Sea,in Mediterranean,SPE1,4,SIMI,SIMI
+fired,fired,EQUI,5,EQUI,EQUI
+missiles,ballistic missiles,SPE2,4,SPE1,SPE1
+Russia,Russia,EQUI,5,EQUI,EQUI
+-not aligned-,as Kiev,NOALI,0,NOALI,NOALI
+new police station,Police Station,SPE1,4,EQUI,EQUI
+Pro-Russian protesters,Pro-Russian Protesters,EQUI,5,EQUI,EQUI
+-not aligned-,U.N.,NOALI,0,NOALI,NOALI
+in east Ukraine,in Ukraine,SPE1,4,SIMI,SIMI
+-not aligned-,over unrest,NOALI,0,NOALI,NOALI
+-not aligned-,Urges,NOALI,0,NOALI,NOALI
+storm,Storm,EQUI,5,EQUI,EQUI
+in India,Indian villagers,REL,3,SIMI,SIMI
+Cyclone,Cyclone Phailin evacuation,REL,3,SPE1,SPE1
+of destruction,alive,REL,3,OPPO,OPPO
+-not aligned-,kept,NOALI,0,NOALI,NOALI
+leaves,-not aligned-,NOALI,0,NOALI,NOALI
+trail,-not aligned-,NOALI,0,NOALI,NOALI
+among 9 killed,among dead,SPE1,4,SIMI,SIMI
+in Kabul hotel attack,in Kabul hotel attack,EQUI,5,EQUI,EQUI
+4 foreigners,Foreigners,SPE1,4,SPE1,SPE1
+-not aligned-,Mandela,NOALI,0,NOALI,NOALI
+as asylum boat,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,third day,NOALI,0,NOALI,NOALI
+off Australia,-not aligned-,NOALI,0,NOALI,NOALI
+Many dead,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,in hospital,NOALI,0,NOALI,NOALI
+sinks,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,spends,NOALI,0,NOALI,NOALI
+Palestinian captives,Palestinian prisoner release,REL,4,SIMI,SIMI
+Israeli calls,Israel,REL,4,REL,REL
+to execute,-not aligned-,NOALI,0,NOALI,NOALI
+instead of releasing them,Palestinian prisoner release,OPPO,4,OPPO,OPPO
+-not aligned-,allows,NOALI,0,NOALI,NOALI
+for better ties,-not aligned-,NOALI,0,NOALI,NOALI
+DPRK leader,North Korea,REL,3,EQUI,EQUI
+-not aligned-,to leave,NOALI,0,NOALI,NOALI
+calls,-not aligned-,NOALI,0,NOALI,NOALI
+with S.Korea,South Korea,EQUI,5,EQUI,EQUI
+-not aligned-,foreigners,NOALI,0,NOALI,NOALI
+-not aligned-,urges,NOALI,0,NOALI,NOALI
+"'s oldest person , and oldest man",'s Oldest Man,SPE1,4,SPE1,SPE1
+",",-not aligned-,NOALI,0,NOALI,NOALI
+at 116,Aged 116,EQUI,5,SIMI,SIMI
+ever,Ever,EQUI,5,EQUI,EQUI
+World,World,EQUI,5,EQUI,EQUI
+dies,Dies,EQUI,5,EQUI,EQUI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+-not aligned-,Japan,NOALI,0,NOALI,NOALI
+expert nuclear talks,talks,SPE1,4,SPE2,SPE2
+to resume,to resume,EQUI,5,EQUI,EQUI
+on Dec. 30,next week,SPE1,3,SIMI,SIMI
+World powers and Iran,"Iran nuclear experts , world powers",SPE2,4,SIMI,SIMI
+-not aligned-,',NOALI,0,NOALI,NOALI
+to stop,to stop,EQUI,5,EQUI,EQUI
+it's,-not aligned-,NOALI,0,NOALI,NOALI
+for Russia,for Russia,EQUI,5,EQUI,EQUI
+-not aligned-,',NOALI,0,NOALI,NOALI
+acting,acting,EQUI,5,EQUI,EQUI
+and,and,EQUI,5,EQUI,EQUI
+warns,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,tension,NOALI,0,NOALI,NOALI
+-not aligned-,to reduce,NOALI,0,NOALI,NOALI
+start,start,EQUI,5,EQUI,EQUI
+',-not aligned-,NOALI,0,NOALI,NOALI
+time,Time,EQUI,5,EQUI,EQUI
+in Ukraine,in Ukraine,EQUI,5,EQUI,EQUI
+Biden,Biden,EQUI,5,EQUI,EQUI
+talking,talking,EQUI,5,EQUI,EQUI
+',-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+:,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+:,-not aligned-,NOALI,0,NOALI,NOALI
+Image,Image,EQUI,5,EQUI,EQUI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+of the Day,of the Day,EQUI,5,EQUI,EQUI
+February 25,April 21,SIMI,3,SIMI,SIMI
+India Ink,India Ink,EQUI,5,EQUI,EQUI
+on Taiwan fisher attack,in Kenya mall attack,SIMI,1,NOALI,NOALI
+-not aligned-,Bin Laden,NOALI,0,NOALI,NOALI
+-not aligned-,shown,NOALI,0,NOALI,NOALI
+-not aligned-,'s continuing sway,NOALI,0,NOALI,NOALI
+comment,-not aligned-,NOALI,0,NOALI,NOALI
+Philippines,-not aligned-,NOALI,0,NOALI,NOALI
+defers,-not aligned-,NOALI,0,NOALI,NOALI
+set,votes,SIMI,4,NOALI,NOALI
+to legalise,to legalise,EQUI,5,EQUI,EQUI
+New Zealand,New Zealand,EQUI,5,EQUI,EQUI
+gay marriage,same-sex marriage,EQUI,5,EQUI,EQUI
+Israel 's ex-PM Ariel Sharon,Former Israeli Prime Minister Sharon,EQUI,5,EQUI,EQUI
+dies,dies,EQUI,5,EQUI,EQUI
+Peace talks,killed,REL,3,NOALI,NOALI
+:,-not aligned-,NOALI,0,NOALI,NOALI
+months,-not aligned-,NOALI,0,NOALI,NOALI
+Israel official,in Israeli raid,REL,3,SIMI,SIMI
+with Palestinians,Palestinian girl,SPE2,2,SPE1,SPE1
+-not aligned-,3yo,NOALI,0,NOALI,NOALI
+would take,-not aligned-,NOALI,0,NOALI,NOALI
+Portugal,Portugal,EQUI,5,EQUI,EQUI
+sends,fires,SIMI,4,OPPO,OPPO
+Ronaldo 's hat trick,Ronaldo hat-trick,EQUI,5,EQUI,EQUI
+to World Cup,to World Cup,EQUI,5,EQUI,EQUI
+After China Earthquake,in China earthquakes,SPE1,4,SIMI,SIMI
+At Least,At least,EQUI,5,EQUI,EQUI
+22 Dead,89 dead,SIMI,3,SIMI,SIMI
+to rise,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Canadian government,NOALI,0,NOALI,NOALI
+hits,monitoring,REL,2,REL,REL
+-not aligned-,',NOALI,0,NOALI,NOALI
+-not aligned-,',NOALI,0,NOALI,NOALI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+Canadian freight train blast death toll,train blast situation,REL,3,SIMI,SIMI
+three,-not aligned-,NOALI,0,NOALI,NOALI
+in Bohol landslide,-not aligned-,NOALI,0,NOALI,NOALI
+buried,die,REL,4,OPPO,OPPO
+-not aligned-,in Afghanistan attack,NOALI,0,NOALI,NOALI
+-not aligned-,in attack,NOALI,0,NOALI,NOALI
+Five children,Nine children,SIMI,3,SIMI,SIMI
+alive,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,stays,NOALI,0,NOALI,NOALI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+-not aligned-,FORMULA 1,NOALI,0,NOALI,NOALI
+-not aligned-,modest,NOALI,0,NOALI,NOALI
+father,-not aligned-,NOALI,0,NOALI,NOALI
+emulates,-not aligned-,NOALI,0,NOALI,NOALI
+with Monaco win,despite Monaco win,EQUI,5,SIMI,SIMI
+Rosberg,Rosberg,EQUI,5,EQUI,EQUI
+in northern Iraq,in northern Iraq,EQUI,5,EQUI,EQUI
+11,12,SIMI,4,SIMI,SIMI
+kills,kills,EQUI,5,EQUI,EQUI
+Suicide truck bomber,Suicide car bomb,SIMI,4,SIMI,SIMI
+heads,-not aligned-,NOALI,0,NOALI,NOALI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+off Mexico,on Mexico,EQUI,5,OPPO,OPPO
+bringing,dumps,SIMI,4,NOALI,NOALI
+toward Veracruz,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+'s coast,-not aligned-,NOALI,0,NOALI,NOALI
+forms,weakens,REL,2,OPPO,OPPO
+Tropical Storm Barry,Tropical Storm Barry,EQUI,5,EQUI,EQUI
+as it,-not aligned-,NOALI,0,NOALI,NOALI
+heavy rain,rain,SPE2,4,SIMI,SIMI
+military airports,in military airport,SPE2,4,SPE2,SPE2
+-not aligned-,Syrian troops,NOALI,0,NOALI,NOALI
+Syrian rebels,by rebels,SPE1,4,SPE1,SPE1
+target,confront,REL,4,REL,REL
+-not aligned-,fierce attacks,NOALI,0,NOALI,NOALI
+South Atlantic Ocean,-not aligned-,NOALI,0,NOALI,NOALI
+6.6-magnitude quake,Magnitude-5.1 quake,SIMI,4,SIMI,SIMI
+USGS,USGS,EQUI,5,EQUI,EQUI
+-not aligned-,southern Iran,NOALI,0,NOALI,NOALI
+hits,hits,EQUI,5,EQUI,EQUI
+--,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,--,NOALI,0,NOALI,NOALI
+Poverty stats,-not aligned-,NOALI,0,NOALI,NOALI
+doubt,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Aug 1,NOALI,0,NOALI,NOALI
+-not aligned-,recall compensation claims,NOALI,0,NOALI,NOALI
+Modi,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,GM,NOALI,0,NOALI,NOALI
+'s development claims,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,to start,NOALI,0,NOALI,NOALI
+-not aligned-,taking,NOALI,0,NOALI,NOALI
+access,Access,EQUI,5,EQUI,EQUI
+blocks,Blocks,EQUI,5,EQUI,EQUI
+North Korea,North Korea,EQUI,5,EQUI,EQUI
+to joint industrial zone,to Key Industrial Zone,SIMI,4,SIMI,SIMI
+over Bhutto murder,In Bhutto Death,EQUI,5,SIMI,SIMI
+charged,Charged,EQUI,5,EQUI,EQUI
+Pakistan,Pakistan,EQUI,5,EQUI,EQUI
+'s Musharraf,'s Musharraf,EQUI,5,EQUI,EQUI
+in streets,in Kiev,REL,2,SIMI,SIMI
+-not aligned-,Lenin statue,NOALI,0,NOALI,NOALI
+back,-not aligned-,NOALI,0,NOALI,NOALI
+Ukrainian protesters,Ukraine protesters,EQUI,5,EQUI,EQUI
+for anti-government rally,topple,REL,2,REL,REL
+'s win,Landslide Win,SPE2,4,SIMI,SIMI
+Jamaican connection,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+in Liverpool,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Shinzo Abe,NOALI,0,NOALI,NOALI
+-not aligned-,Japan Election,NOALI,0,NOALI,NOALI
+-not aligned-,Hails,NOALI,0,NOALI,NOALI
+debris,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,images,NOALI,0,NOALI,NOALI
+after India buildings collapse,from Bangladesh building collapse,SIMI,3,SIMI,SIMI
+scour,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Select,NOALI,0,NOALI,NOALI
+Rescuers,-not aligned-,NOALI,0,NOALI,NOALI
+makes,Makes,EQUI,5,EQUI,EQUI
+Rock bands,Rock Bands,EQUI,5,EQUI,EQUI
+emergency landing,Emergency Landing,EQUI,5,EQUI,EQUI
+in Ill.,in Ill.,EQUI,5,EQUI,EQUI
+' plane,' Plane,EQUI,5,EQUI,EQUI
+in hospital,in hospital bed,SPE2,4,SPE1,SPE1
+-not aligned-,charged,NOALI,0,NOALI,NOALI
+remains,-not aligned-,NOALI,0,NOALI,NOALI
+Boston bombing suspect,Boston bombing suspect,EQUI,5,EQUI,EQUI
+elected,takes oath,REL,4,REL,REL
+'s Shehla Raza,Shehla Raza,EQUI,5,EQUI,EQUI
+PPP,-not aligned-,NOALI,0,NOALI,NOALI
+Deputy Speaker of SA,as Sindh Assembly deputy speaker,EQUI,5,SPE1,SPE1
+'s last child,'s youngest child Lady Soames,SPE2,4,SPE2,SPE2
+Churchill,Churchill,EQUI,5,EQUI,EQUI
+dies,dies,EQUI,5,EQUI,EQUI
+11:42,-not aligned-,NOALI,0,NOALI,NOALI
+aged 91,aged 91,EQUI,5,EQUI,EQUI
+-not aligned-,it,NOALI,0,NOALI,NOALI
+30 short-range missiles,new land-to-sea missile,SIMI,2,SIMI,SIMI
+N. Korea,Iran,SIMI,3,NOALI,NOALI
+test-fires,test-fires,EQUI,5,EQUI,EQUI
+:,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,says,NOALI,0,NOALI,NOALI
+into sea,in Gulf,SPE2,3,REL,REL
+Yonhap,-not aligned-,NOALI,0,NOALI,NOALI
+higher,lower,OPPO,4,OPPO,OPPO
+Chinese shares,Chinese shares,EQUI,5,EQUI,EQUI
+close,close,EQUI,5,EQUI,EQUI
+Tuesday,on Wednesday,SIMI,3,SIMI,SIMI
+offer,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,shoots,NOALI,0,NOALI,NOALI
+shuns,-not aligned-,NOALI,0,NOALI,NOALI
+North Korea,North Korea,EQUI,5,EQUI,EQUI
+of talks,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,2 rockets,NOALI,0,NOALI,NOALI
+Obama,Obama,EQUI,5,EQUI,EQUI
+me,-not aligned-,NOALI,0,NOALI,NOALI
+troops,-not aligned-,NOALI,0,NOALI,NOALI
+In surprise visit,Surprise Visit,EQUI,5,EQUI,EQUI
+to Afghanistan,To Afghanistan,EQUI,5,EQUI,EQUI
+-not aligned-,Makes,NOALI,0,NOALI,NOALI
+',-not aligned-,NOALI,0,NOALI,NOALI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+tells,-not aligned-,NOALI,0,NOALI,NOALI
+inspire,-not aligned-,NOALI,0,NOALI,NOALI
+you,-not aligned-,NOALI,0,NOALI,NOALI
+',-not aligned-,NOALI,0,NOALI,NOALI
+awaits,-not aligned-,NOALI,0,NOALI,NOALI
+high court judgment,Ark. high court,REL,3,SPE1,SPE1
+-not aligned-,suspends,NOALI,0,NOALI,NOALI
+on gay marriage,gay marriage,EQUI,5,SIMI,SIMI
+US,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,again,NOALI,0,NOALI,NOALI
+from West,-not aligned-,NOALI,0,NOALI,NOALI
+Sisi,'s Sisi,EQUI,5,SPE1,SPE1
+cool reception,-not aligned-,NOALI,0,NOALI,NOALI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+'s president,as president,EQUI,5,SPE1,SPE1
+sworn in,sworn in,EQUI,5,EQUI,EQUI
+as Egypt,Egypt,EQUI,5,SIMI,SIMI
+-not aligned-,heats up,NOALI,0,NOALI,NOALI
+China,-not aligned-,NOALI,0,NOALI,NOALI
+to investigate,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Christie investigation,NOALI,0,NOALI,NOALI
+EU wine exports,-not aligned-,NOALI,0,NOALI,NOALI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+to 12.1%,12.2%,SIMI,4,SIMI,SIMI
+Eurozone 's unemployment,Eurozone unemployment,EQUI,5,EQUI,EQUI
+a fresh record high,record,SPE1,4,SIMI,SIMI
+-not aligned-,in September,NOALI,0,NOALI,NOALI
+climbs,hit,SIMI,3,OPPO,OPPO
+Sorry,sorry,EQUI,5,EQUI,EQUI
+South Korean President,S. Korean president,EQUI,5,EQUI,EQUI
+For Ferry Response,for ferry disaster,EQUI,5,SIMI,SIMI
+-not aligned-,',NOALI,0,NOALI,NOALI
+-not aligned-,',NOALI,0,NOALI,NOALI
+49,49,EQUI,5,EQUI,EQUI
+killed,carrying,SPE1,2,NOALI,NOALI
+Pro-Russian rebels,Ukraine Rebels,SIMI,3,SIMI,SIMI
+shoot down,shoot down,EQUI,5,EQUI,EQUI
+Ukrainian plane,plane,SPE1,4,EQUI,EQUI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+on Syria abuse,on Syrian chemical arms,SPE2,3,REL,REL
+Saudi,Cameron,REL,3,NOALI,NOALI
+pushes,pushes,EQUI,5,EQUI,EQUI
+UN resolution,U.N. resolution,EQUI,5,EQUI,EQUI
+At least,-not aligned-,NOALI,0,NOALI,NOALI
+45,78,SIMI,2,SIMI,SIMI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+killed,killed,EQUI,5,EQUI,EQUI
+-not aligned-,Update 2,NOALI,0,NOALI,NOALI
+in Spain train crash,in Spanish train disaster,SPE1,4,EQUI,EQUI
+19 hurt,17 Hurt,SIMI,4,SIMI,SIMI
+in New Orleans shooting,at New Orleans Parade Shooting,SPE2,4,SIMI,SIMI
+by mortar fire,by mortar,EQUI,5,SIMI,SIMI
+Vatican Embassy,Vatican embassy,EQUI,5,EQUI,EQUI
+hit,hit,EQUI,5,EQUI,EQUI
+in Syria,in Syria,EQUI,5,EQUI,EQUI
+-not aligned-,no injuries,NOALI,0,NOALI,NOALI
+-not aligned-,;,NOALI,0,NOALI,NOALI
+'s Must-Reads,'s Must-Reads,EQUI,5,EQUI,EQUI
+"May 24 , 2013","October 29 , 2013",SIMI,3,SIMI,SIMI
+for Friday,for Tuesday,SIMI,3,OPPO,OPPO
+The Note,The Note,EQUI,5,EQUI,EQUI
+Nato,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,bonds,NOALI,0,NOALI,NOALI
+-not aligned-,in region,NOALI,0,NOALI,NOALI
+-not aligned-,best,NOALI,0,NOALI,NOALI
+condemns,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Thai,NOALI,0,NOALI,NOALI
+Ukraine crackdown,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,pressure,NOALI,0,NOALI,NOALI
+-not aligned-,keeps up,NOALI,0,NOALI,NOALI
+to peace talks,-not aligned-,NOALI,0,NOALI,NOALI
+'s Peres,Gonsalves,SIMI,2,NOALI,NOALI
+return,-not aligned-,NOALI,0,NOALI,NOALI
+Israel,on Dom Rep,SIMI,2,NOALI,NOALI
+urges,-not aligned-,NOALI,0,NOALI,NOALI
+92,96,SIMI,4,SIMI,SIMI
+Kill,kill,EQUI,5,EQUI,EQUI
+Assault,Assault,EQUI,5,EQUI,EQUI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+Other Attacks,other attacks,EQUI,5,EQUI,EQUI
+on Iraq Funeral,on Iraq funeral,EQUI,5,EQUI,EQUI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+in Afghanistan,in Benghazi clashes,SPE2,1,NOALI,NOALI
+Two NATO soldiers,Five Libyan soldiers,SIMI,2,OPPO,OPPO
+killed,killed,EQUI,5,EQUI,EQUI
+US top diplomat Kerry,US Secretary of State John Kerry,EQUI,5,EQUI,EQUI
+rushed,rushed,EQUI,5,EQUI,EQUI
+'s wife,'s wife,EQUI,5,EQUI,EQUI
+to hospital,to hospital,EQUI,5,EQUI,EQUI
+-not aligned-,Day,NOALI,0,NOALI,NOALI
+march of anger,of Rage rallies,EQUI,5,SIMI,SIMI
+"""",-not aligned-,NOALI,0,NOALI,NOALI
+'s Brotherhood,'s Brotherhood,EQUI,5,EQUI,EQUI
+"""",-not aligned-,NOALI,0,NOALI,NOALI
+Egypt,Egypt,EQUI,5,EQUI,EQUI
+to hold,holds,EQUI,5,OPPO,OPPO
+to observe,Accept,SIMI,3,SIMI,SIMI
+brief Gaza truce,Temporary Truce,SPE1,2,SIMI,SIMI
+Israel and Hamas,Israel And Hamas,EQUI,5,EQUI,EQUI
+-not aligned-,',NOALI,0,NOALI,NOALI
+-not aligned-,',NOALI,0,NOALI,NOALI
+Foreign exchange rates,Foreign exchange rates,EQUI,5,EQUI,EQUI
+in Singapore,in India,SIMI,3,OPPO,OPPO
+'s oldest man,'s Oldest Man,EQUI,5,EQUI,EQUI
+dies,Dies,EQUI,5,EQUI,EQUI
+-not aligned-,Ever,NOALI,0,NOALI,NOALI
+World,World,EQUI,5,EQUI,EQUI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+-not aligned-,Japan,NOALI,0,NOALI,NOALI
+at 116,Aged 116,EQUI,5,SIMI,SIMI
+Iran nuclear agreement,Iran 's nuclear deal,EQUI,5,EQUI,EQUI
+welcomes,welcomes,EQUI,5,EQUI,EQUI
+Germany,Syria,SIMI,3,NOALI,NOALI
+with North,With North,EQUI,5,EQUI,EQUI
+-not aligned-,Says,NOALI,0,NOALI,NOALI
+talks,Talks,EQUI,5,EQUI,EQUI
+-not aligned-,Scrapped,NOALI,0,NOALI,NOALI
+proposes,-not aligned-,NOALI,0,NOALI,NOALI
+South Korea,South Korea,EQUI,5,EQUI,EQUI
+Video,Security video,SPE2,4,SPE1,SPE1
+in mall,mall,EQUI,5,SIMI,SIMI
+casually,-not aligned-,NOALI,0,NOALI,NOALI
+Kenya jihadis,Kenyan soldiers,SIMI,3,REL,REL
+shows,shows,EQUI,5,EQUI,EQUI
+killing,looting,SIMI,3,REL,REL
+UN inspectors,U.S.,REL,3,NOALI,NOALI
+progress,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,-White House,NOALI,0,NOALI,NOALI
+-not aligned-,used,NOALI,0,NOALI,NOALI
+-not aligned-,has not concluded,NOALI,0,NOALI,NOALI
+over Syria chemical weapons,Syria chemical weapons,EQUI,5,EQUI,EQUI
+hail,-not aligned-,NOALI,0,NOALI,NOALI
+on chlorine bombs,on nuclear site,REL,3,REL,REL
+rejects,rejects,EQUI,5,EQUI,EQUI
+claim,MKO claim,SPE2,4,SPE1,SPE1
+Iran,Iran,EQUI,5,EQUI,EQUI
+One dead,Six killed,SIMI,2,OPPO,OPPO
+in US building collapse,in US building collapse,EQUI,5,EQUI,EQUI
+-not aligned-,Wall Street,NOALI,0,NOALI,NOALI
+Fallen US firefighters,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,slightly lower,NOALI,0,NOALI,NOALI
+-not aligned-,ends,NOALI,0,NOALI,NOALI
+brought home,-not aligned-,NOALI,0,NOALI,NOALI
+hunting for,trawls for,SIMI,4,SIMI,SIMI
+in missing Malaysian plane search,from missing Malaysia plane,REL,4,SIMI,SIMI
+Ship,Australian ship,SPE2,4,SPE1,SPE1
+more pings,signals,SIMI,4,SIMI,SIMI
+Tehran-London ties,Tehran-London ties,EQUI,5,EQUI,EQUI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+Afkham,-not aligned-,NOALI,0,NOALI,NOALI
+to improve,to improve,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+',-not aligned-,NOALI,0,NOALI,NOALI
+to treatment,to treatment,EQUI,5,EQUI,EQUI
+',-not aligned-,NOALI,0,NOALI,NOALI
+Mandela,Mandela,EQUI,5,EQUI,EQUI
+-not aligned-,Wife,NOALI,0,NOALI,NOALI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+responding,is responding,EQUI,5,SPE1,SPE1
+Gunmen,Gunmen,EQUI,5,EQUI,EQUI
+Libyan deputy industry minister,Libyan deputy industry minister,EQUI,5,EQUI,EQUI
+assassinate,kill,EQUI,5,SIMI,SIMI
+against USD,against USD,EQUI,5,EQUI,EQUI
+to 6.1535,to new high,SPE1,2,SIMI,SIMI
+China yuan,China yuan,EQUI,5,EQUI,EQUI
+weakens,strengthens,OPPO,4,OPPO,OPPO
+burn,Confronts,SPE1,3,NOALI,NOALI
+Australian flags,Australian Ambassador,REL,3,NOALI,NOALI
+Indonesians,Indonesia,EQUI,5,SIMI,SIMI
+over spying reports,on Reports of Spying,EQUI,5,EQUI,EQUI
+More Deaths,Five dead,SPE2,3,SIMI,SIMI
+Expected,-not aligned-,NOALI,0,NOALI,NOALI
+in Canada Oil Train Explosion,in Canada train crash,SIMI,3,SIMI,SIMI
+Egypt court,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,tells,NOALI,0,NOALI,NOALI
+to death,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,to prepare,NOALI,0,NOALI,NOALI
+10 Brotherhood supporters,supporters,SPE1,2,SPE1,SPE1
+-,-not aligned-,NOALI,0,NOALI,NOALI
+sources,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Turkish PM,NOALI,0,NOALI,NOALI
+sentences,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,for rallies,NOALI,0,NOALI,NOALI
+moderate,lower,SIMI,3,SIMI,SIMI
+-not aligned-,sends,NOALI,0,NOALI,NOALI
+in US stock market,Asian stock markets,SIMI,3,SIMI,SIMI
+Declines,Tech sell-off,SPE2,2,NOALI,NOALI
+to Know,to Know,EQUI,5,EQUI,EQUI
+:,-not aligned-,NOALI,0,NOALI,NOALI
+10 Things,10 Things,EQUI,5,EQUI,EQUI
+This Week,for Today,SPE2,3,OPPO,OPPO
+'s Takeaways,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,it,NOALI,0,NOALI,NOALI
+-not aligned-,in Crimea,NOALI,0,NOALI,NOALI
+name,-not aligned-,NOALI,0,NOALI,NOALI
+Ukraine protest leaders,Ukraine,REL,3,SPE2,SPE2
+",",-not aligned-,NOALI,0,NOALI,NOALI
+ministers,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,says,NOALI,0,NOALI,NOALI
+Russian troops,"to Russian "" provocations """,REL,4,NOALI,NOALI
+-not aligned-,will not bow,NOALI,0,NOALI,NOALI
+on alert,-not aligned-,NOALI,0,NOALI,NOALI
+"US , Russia",US and Russia,EQUI,5,EQUI,EQUI
+enter,-not aligned-,NOALI,0,NOALI,NOALI
+third day,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,agree,NOALI,0,NOALI,NOALI
+of Syria talks,Syria arms deal,REL,3,SIMI,SIMI
+-not aligned-,in Geneva,NOALI,0,NOALI,NOALI
+U.S factory,German factory,SIMI,3,REL,REL
+in January,in January,EQUI,5,EQUI,EQUI
+down,rebound,OPPO,4,SIMI,SIMI
+0.7 pct,-not aligned-,NOALI,0,NOALI,NOALI
+orders,orders,EQUI,5,EQUI,EQUI
+-not aligned-,Worker,NOALI,0,NOALI,NOALI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+-not aligned-,Made,NOALI,0,NOALI,NOALI
+-not aligned-,Suggestive Comments,NOALI,0,NOALI,NOALI
+San Diego Mayor Bob Filner,San Diego Mayor,SPE1,4,SPE1,SPE1
+'s accusers,-not aligned-,NOALI,0,NOALI,NOALI
+In Oklahoma City,Oklahoma City Airport,SPE2,4,SPE1,SPE1
+Hit,-not aligned-,NOALI,0,NOALI,NOALI
+After Tornadoes,During Tornado...,SIMI,3,REL,REL
+Nine Dead,Evacuated,REL,3,NOALI,NOALI
+-not aligned-,says,NOALI,0,NOALI,NOALI
+Kenyan forces,Kenyan forces,EQUI,5,EQUI,EQUI
+mall collapse,mall collapse,EQUI,5,EQUI,EQUI
+caused,caused,EQUI,5,EQUI,EQUI
+-not aligned-,Official,NOALI,0,NOALI,NOALI
+unilateral ceasefire,unilateral ceasefire,EQUI,5,EQUI,EQUI
+Ukraine,Ukraine,EQUI,5,EQUI,EQUI
+to implement,offers,SIMI,3,NOALI,NOALI
+in Egypt,in Egypt,EQUI,5,EQUI,EQUI
+-not aligned-,holds,NOALI,0,NOALI,NOALI
+-not aligned-,upper hand,NOALI,0,NOALI,NOALI
+banned,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Military,NOALI,0,NOALI,NOALI
+Muslim Brotherhood,-not aligned-,NOALI,0,NOALI,NOALI
+on French soldier,on French soldier,EQUI,5,EQUI,EQUI
+Suspect,Man,SPE2,4,SPE1,SPE1
+arrested,arrested,EQUI,5,EQUI,EQUI
+in attack,over attack,EQUI,5,SIMI,SIMI
+Obama,Obama,EQUI,5,EQUI,EQUI
+"from Israelis , Palestinians","Israeli , Palestinian negotiators",SPE2,3,SPE1,SPE1
+-not aligned-,meets,NOALI,0,NOALI,NOALI
+Restraint,-not aligned-,NOALI,0,NOALI,NOALI
+Urges,-not aligned-,NOALI,0,NOALI,NOALI
+to greet,to greet,EQUI,5,EQUI,EQUI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+pope,Pope Francis,SPE2,4,EQUI,EQUI
+Brazilians,In Brazil thousands,SPE1,4,SPE1,SPE1
+throng streets,turn out,SIMI,4,SIMI,SIMI
+shakes,hits,EQUI,5,OPPO,OPPO
+no tsunami risk,no tsunami warning,REL,4,SIMI,SIMI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+northeastern Japan,Japan,SPE1,4,SIMI,SIMI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+Quake,Quake,EQUI,5,EQUI,EQUI
+Detroit,Detroit,EQUI,5,EQUI,EQUI
+:,-not aligned-,NOALI,0,NOALI,NOALI
+eligible,eligible,EQUI,5,EQUI,EQUI
+for bankruptcy protection,for bankruptcy protection,EQUI,5,EQUI,EQUI
+U.S. judge,-not aligned-,NOALI,0,NOALI,NOALI
+signals,search area,REL,4,NOALI,NOALI
+Vietnam,China,SIMI,3,SIMI,SIMI
+-not aligned-,expands,NOALI,0,NOALI,NOALI
+detects,-not aligned-,NOALI,0,NOALI,NOALI
+from missing plane,for missing plane,EQUI,5,SIMI,SIMI
+in Afghanistan,in Afghanistan,EQUI,5,EQUI,EQUI
+Six US soldiers,Six U.S. soldiers,EQUI,5,EQUI,EQUI
+killed,killed,EQUI,5,EQUI,EQUI
+in aircraft crash,in helicopter crash,SPE2,4,OPPO,OPPO
+EU,Germany,REL,4,NOALI,NOALI
+destroy,in destroying,EQUI,5,SPE1,SPE1
+offers,offers,EQUI,5,EQUI,EQUI
+Syria weapons,Syria weapons,EQUI,5,EQUI,EQUI
+to help,help,EQUI,5,SPE1,SPE1
+arrests,Arrests,EQUI,5,EQUI,EQUI
+Egypt,Egypt,EQUI,5,EQUI,EQUI
+Muslim Brotherhood 's top leader,Muslim Brotherhood Supporters,REL,4,SPE2,SPE2
+-not aligned-,Under Terror Law,NOALI,0,NOALI,NOALI
+Arsenal,Tottenham,SIMI,3,REL,REL
+-,-not aligned-,NOALI,0,NOALI,NOALI
+v,v,EQUI,5,EQUI,EQUI
+-not aligned-,-,NOALI,0,NOALI,NOALI
+live!,live!,EQUI,5,EQUI,EQUI
+Stoke City,Manchester City,SIMI,3,SIMI,SIMI
+honour,observes silence,SIMI,4,NOALI,NOALI
+Boston victims,for Boston victims,EQUI,5,SPE1,SPE1
+London Marathon runners,London Marathon,SPE1,4,SIMI,SIMI
+Dec. 2,April 23,SIMI,3,NOALI,NOALI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+in History,in History,EQUI,5,EQUI,EQUI
+Today,Today,EQUI,5,EQUI,EQUI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+will attend,will attend,EQUI,5,EQUI,EQUI
+Desmond Tutu,Tutu,EQUI,5,EQUI,EQUI
+he,-not aligned-,NOALI,0,NOALI,NOALI
+says,says,EQUI,5,EQUI,EQUI
+Mandela funeral,Mandela funeral,EQUI,5,EQUI,EQUI
+kill,kill,EQUI,5,EQUI,EQUI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+in wedding convoy,in wedding convoy,EQUI,5,EQUI,EQUI
+-not aligned-,Nigeria official,NOALI,0,NOALI,NOALI
+Nigerian gunmen,Gunmen,SPE1,4,SIMI,SIMI
+"groom , 30 others",30,SPE2,4,SPE1,SPE1
+on Gaza,on Gaza,EQUI,5,EQUI,EQUI
+rise,rise,EQUI,5,EQUI,EQUI
+in Israeli air strikes,in air strikes,SPE1,4,SIMI,SIMI
+Deaths,Deaths,EQUI,5,EQUI,EQUI
+in Pakistan,in Pakistan,EQUI,5,EQUI,EQUI
+11,16,SIMI,3,SIMI,SIMI
+US drone strike,US drone,SPE1,4,SIMI,SIMI
+kills,kills,EQUI,5,EQUI,EQUI
+kill,Kill,EQUI,5,EQUI,EQUI
+-not aligned-,in Pakistan,NOALI,0,NOALI,NOALI
+"9 foreign tourists , 1 Pakistani",11 Foreign Tourists,SPE2,3,SIMI,SIMI
+Islamic militants,Gunmen,SPE1,4,SIMI,SIMI
+fire shuts,catches fire,SPE1,4,SIMI,SIMI
+Boeing 787 Dreamliner,Boeing 787 Dreamliner,EQUI,5,EQUI,EQUI
+Heathrow,at London Heathrow airport,EQUI,5,SPE2,SPE2
+again,-not aligned-,NOALI,0,NOALI,NOALI
+arrested,granted bail,REL,4,OPPO,OPPO
+Former Pakistan President Pervez Musharraf,Former Pakistan military ruler Pervez Musharraf,EQUI,5,SPE1,SPE1
+brings,to Bring,EQUI,5,NOALI,NOALI
+more snow,More Snow,EQUI,5,EQUI,EQUI
+to US East Coast,to East Coast,SPE1,4,SIMI,SIMI
+Latest storm,Latest Storm,EQUI,5,EQUI,EQUI
+strikes,strikes,EQUI,5,EQUI,EQUI
+off Solomons,off California coast,SIMI,3,REL,REL
+Powerful 7.6 quake,Powerful 6.9 quake,SIMI,4,SIMI,SIMI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+-not aligned-,Typhoon Haiyan,NOALI,0,NOALI,NOALI
+World,world,EQUI,5,EQUI,EQUI
+sends,sends,EQUI,5,EQUI,EQUI
+emergency relief,relief,SPE1,4,SIMI,SIMI
+to battered Philippines,to battered Philippines,EQUI,5,EQUI,EQUI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+over Juncker appointment,to Juncker,SPE1,4,SPE2,SPE2
+argue,give thumbs up,REL,3,REL,REL
+"EU , Britain",EU leaders Britain,EQUI,5,SPE2,SPE2
+-not aligned-,isolated,NOALI,0,NOALI,NOALI
+Dozens,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Indian minister,NOALI,0,NOALI,NOALI
+in Connecticut train collision,in head-on collision,SIMI,1,SIMI,SIMI
+injured,killed,REL,3,OPPO,OPPO
+-not aligned-,preconditions,NOALI,0,NOALI,NOALI
+-not aligned-,setting,NOALI,0,NOALI,NOALI
+Russian Prime Minister,Russia,REL,4,SIMI,SIMI
+Of Crimea Visit,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,for Syria,NOALI,0,NOALI,NOALI
+On Second Day,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,warns against,NOALI,0,NOALI,NOALI
+cancels,drops,EQUI,5,OPPO,OPPO
+Barack Obama,Barack Obama,EQUI,5,EQUI,EQUI
+over Edward Snowden,over Ed Snowden affair,EQUI,5,SIMI,SIMI
+meeting,meeting,EQUI,5,EQUI,EQUI
+with Vladimir Putin,with Vladimir Putin,EQUI,5,EQUI,EQUI
+petrol pumps,petrol stations,REL,4,SIMI,SIMI
+at night,at night,EQUI,5,EQUI,EQUI
+to shut,to shut,EQUI,5,EQUI,EQUI
+India govt,India oil minister,SPE2,4,SPE1,SPE1
+proposal,for plan,SIMI,4,SIMI,SIMI
+rejects,slammed,REL,2,REL,REL
+on northern Gaza,on sourthern Gaza town,SPE2,3,SIMI,SIMI
+-not aligned-,kills,NOALI,0,NOALI,NOALI
+-not aligned-,seven,NOALI,0,NOALI,NOALI
+Israeli war jet strikes,Israeli air strike,SPE1,4,EQUI,EQUI
+-not aligned-,as it,NOALI,0,NOALI,NOALI
+Tropical Storm Karen,Tropical Storm Karen,EQUI,5,EQUI,EQUI
+-not aligned-,weakens,NOALI,0,NOALI,NOALI
+US Gulf Coast,U.S. Gulf Coast,EQUI,5,EQUI,EQUI
+targets,nears,SIMI,4,NOALI,NOALI
+after airbag fault,over airbag,SPE1,4,SIMI,SIMI
+3 million Japanese cars,3.4m vehicles,SPE1,4,SIMI,SIMI
+"Toyota , Honda , Nissan and Mazda","Toyota , 3 other Japan carmakers",SPE1,4,SPE1,SPE1
+recall,to recall,EQUI,5,SPE1,SPE1
+-not aligned-,waters,NOALI,0,NOALI,NOALI
+yet,-not aligned-,NOALI,0,NOALI,NOALI
+sends,enter,SIMI,3,REL,REL
+China largest fleet,China ships,SPE1,4,SIMI,SIMI
+to disputed islands,off disputed islands,EQUI,5,SIMI,SIMI
+drought emergency,drought emergency,EQUI,5,EQUI,EQUI
+-not aligned-,continue,NOALI,0,NOALI,NOALI
+-not aligned-,as wildfires,NOALI,0,NOALI,NOALI
+-not aligned-,to burn,NOALI,0,NOALI,NOALI
+declares,declares,EQUI,5,EQUI,EQUI
+California governor,California governor,EQUI,5,EQUI,EQUI
+',-not aligned-,NOALI,0,NOALI,NOALI
+Ukraine rebels,Ukraine Rebels,EQUI,5,EQUI,EQUI
+',-not aligned-,NOALI,0,NOALI,NOALI
+eastern stronghold,from Main Stronghold,SPE1,3,SPE1,SPE1
+flee,Flushed,EQUI,5,NOALI,NOALI
+-not aligned-,Claims,NOALI,0,NOALI,NOALI
+of extremists,extremists,EQUI,5,SIMI,SIMI
+from Egypt violence,from Egypt violence,EQUI,5,EQUI,EQUI
+benefiting,will benefit,EQUI,5,SPE2,SPE2
+France,France,EQUI,5,EQUI,EQUI
+warns,fears,REL,2,SIMI,SIMI
+to fill,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,on budget,NOALI,0,NOALI,NOALI
+-not aligned-,willingness,NOALI,0,NOALI,NOALI
+taps,-not aligned-,NOALI,0,NOALI,NOALI
+Obama,Obama,EQUI,5,EQUI,EQUI
+Fischer,-not aligned-,NOALI,0,NOALI,NOALI
+moves,-not aligned-,NOALI,0,NOALI,NOALI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,to talk,NOALI,0,NOALI,NOALI
+Fed board,with GOP,REL,3,NOALI,NOALI
+No. 2,-not aligned-,NOALI,0,NOALI,NOALI
+to be,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,voices,NOALI,0,NOALI,NOALI
+42,44,SIMI,4,NOALI,NOALI
+wounded,wounded,EQUI,5,EQUI,EQUI
+in violence,'s violence,EQUI,5,SPE1,SPE1
+killed,killed,EQUI,5,EQUI,EQUI
+63,133,SIMI,3,NOALI,NOALI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+in Iraq,in Iraq,EQUI,5,EQUI,EQUI
+after almost five years captivity,after 5 years in captivity,SPE2,4,SIMI,SIMI
+U.S. soldier,US soldier,EQUI,5,EQUI,EQUI
+free,freed,EQUI,5,SPE1,SPE1
+in Afghanistan,in Afghanistan,EQUI,5,EQUI,EQUI
+Thousands,Thousands,EQUI,5,EQUI,EQUI
+dole,-not aligned-,NOALI,0,NOALI,NOALI
+of Britons,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,of white-clad Amsterdammers march,NOALI,0,NOALI,NOALI
+-not aligned-,for MH17,NOALI,0,NOALI,NOALI
+claim,-not aligned-,NOALI,0,NOALI,NOALI
+in Germany,-not aligned-,NOALI,0,NOALI,NOALI
+the enemy,the enemy,EQUI,5,EQUI,EQUI
+acquitted,acquitted,EQUI,5,EQUI,EQUI
+Bradley Manning,Wikileaks soldier Bradley Manning,SPE2,4,SPE1,SPE1
+of aiding,of aiding,EQUI,5,EQUI,EQUI
+With Anticipation,-not aligned-,NOALI,0,NOALI,NOALI
+for Pope Francis,Pope Francis,EQUI,5,SPE1,SPE1
+-not aligned-,greet,NOALI,0,NOALI,NOALI
+Buzzing,-not aligned-,NOALI,0,NOALI,NOALI
+Brazil,Brazil crowds,SPE2,4,SIMI,SIMI
+in Pakistan,in NW Pakistan,SPE2,4,SPE1,SPE1
+a Seminary,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,kills,NOALI,0,NOALI,NOALI
+Drone Strikes,US drone strike,SPE2,4,SPE1,SPE1
+-not aligned-,8,NOALI,0,NOALI,NOALI
+10 foreign tourists,"9 foreign tourists , 1 Pakistani",SPE1,3,SPE2,SPE2
+kill,kill,EQUI,5,EQUI,EQUI
+in northern Pakistan,-not aligned-,NOALI,0,NOALI,NOALI
+Gunmen,Islamic militants,SPE2,4,SIMI,SIMI
+rises,rises,EQUI,5,EQUI,EQUI
+Death toll,Death toll,EQUI,5,EQUI,EQUI
+to 59,to 638,SIMI,2,NOALI,NOALI
+in Nairobi attack,from Egypt violence,SIMI,2,REL,REL
+',-not aligned-,NOALI,0,NOALI,NOALI
+',-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,White House,NOALI,0,NOALI,NOALI
+Syrian regime,Syria,EQUI,5,SIMI,SIMI
+using,uses,EQUI,5,EQUI,EQUI
+chemical weapons,chemical weapons,EQUI,5,EQUI,EQUI
+-not aligned-,says,NOALI,0,NOALI,NOALI
+on a small scale,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,in conflict,NOALI,0,NOALI,NOALI
+sought,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,for Showdown,NOALI,0,NOALI,NOALI
+Venezuelan opposition leader,"Venezuela Government , Opposition Head",SPE1,4,SPE1,SPE1
+-not aligned-,',NOALI,0,NOALI,NOALI
+'s Cameron,Cameron,EQUI,5,SPE1,SPE1
+-not aligned-,',NOALI,0,NOALI,NOALI
+seriously,seriously,EQUI,5,EQUI,EQUI
+UK,-not aligned-,NOALI,0,NOALI,NOALI
+by Gibraltar/Spain row,over Gibraltar events,SPE1,2,SIMI,SIMI
+concerned,concerned,EQUI,5,EQUI,EQUI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+the Papers,the Papers,EQUI,5,EQUI,EQUI
+Say,Say,EQUI,5,EQUI,EQUI
+What,What,EQUI,5,EQUI,EQUI
+"Nov. 19 , 2013","Sept. 26 , 2013",SIMI,3,SIMI,SIMI
+at Critical Time,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,'s Nuclear Program,NOALI,0,NOALI,NOALI
+in Munich,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Iran,NOALI,0,NOALI,NOALI
+Top Diplomats,Top Diplomats,EQUI,5,EQUI,EQUI
+Meet,Discuss,SPE2,3,REL,REL
+-not aligned-,report,NOALI,0,NOALI,NOALI
+Iranian nuclear talks,New Iran nuclear talks,SPE2,4,SIMI,SIMI
+to November,in November,EQUI,5,EQUI,EQUI
+-not aligned-,probably,NOALI,0,NOALI,NOALI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+to be extended,-not aligned-,NOALI,0,NOALI,NOALI
+Mulls,confirms,REL,2,SIMI,SIMI
+in Peace Talks,in peace talks,EQUI,5,EQUI,EQUI
+Participation,participation,EQUI,5,EQUI,EQUI
+Syrian Opposition,Syrian opposition,EQUI,5,EQUI,EQUI
+sworn in,sworn in,EQUI,5,EQUI,EQUI
+Rudd,Rudd,EQUI,5,EQUI,EQUI
+as Australian PM,as Australia 's new Prime Minister,SPE2,4,SPE1,SPE1
+',-not aligned-,NOALI,0,NOALI,NOALI
+Obama,Obama,EQUI,5,EQUI,EQUI
+',-not aligned-,NOALI,0,NOALI,NOALI
+deserved,deserve,EQUI,5,EQUI,EQUI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+Korean War veterans,Korean War vets,EQUI,5,EQUI,EQUI
+-not aligned-,',NOALI,0,NOALI,NOALI
+says,-not aligned-,NOALI,0,NOALI,NOALI
+better,better,EQUI,5,EQUI,EQUI
+-not aligned-,',NOALI,0,NOALI,NOALI
+Padma Shri,Padma Shri,EQUI,5,EQUI,EQUI
+"Telugu actors Mohan Babu , Brahmanandam","actors Mohan Babu , Brahmanandam",SPE1,4,SPE1,SPE1
+asks,advises,SIMI,3,REL,REL
+Andhra Pradesh high court,HC,SPE1,4,EQUI,EQUI
+to return,to return,EQUI,5,EQUI,EQUI
+with murder,with murder,EQUI,5,EQUI,EQUI
+'s shooting death,-not aligned-,NOALI,0,NOALI,NOALI
+in friend,-not aligned-,NOALI,0,NOALI,NOALI
+Pro football player Aaron Hernandez,American football player Aaron Hernandez,SPE2,4,SIMI,SIMI
+charged,charged,EQUI,5,EQUI,EQUI
+in France,in France,EQUI,5,EQUI,EQUI
+Algerian president,Algerian president,EQUI,5,EQUI,EQUI
+-not aligned-,after minor stroke,NOALI,0,NOALI,NOALI
+for medical tests,for medical tests,EQUI,5,EQUI,EQUI
+Israel,Israel,EQUI,5,EQUI,EQUI
+Palestinian prisoners,26 Palestinian Prisoners,SPE2,4,SPE1,SPE1
+to release,Releases,SIMI,4,SPE2,SPE2
+Dies,dies,EQUI,5,EQUI,EQUI
+British Nobel-Winning Author Doris Lessing,Nobel Prize winning author Doris Lessing,SPE1,4,EQUI,EQUI
+stars,win,REL,2,NOALI,NOALI
+Carter,Bonus-point Super Rugby,REL,4,NOALI,NOALI
+for Crusaders,for Crusaders,EQUI,5,EQUI,EQUI
+16,47,SIMI,3,NOALI,NOALI
+at least,at least,EQUI,5,EQUI,EQUI
+Car bombs,Car bombs,EQUI,5,EQUI,EQUI
+in Iraqi capital,in Baghdad area,SIMI,2,SIMI,SIMI
+kill,kill,EQUI,5,EQUI,EQUI
+at 40,-not aligned-,NOALI,0,NOALI,NOALI
+dies,dies,EQUI,5,EQUI,EQUI
+in car crash,in car crash,EQUI,5,EQUI,EQUI
+' Fast undamp ; Furious ' star Paul Walker,Hollywood star Paul Walker,SPE1,4,SIMI,SIMI
+one-child policy,of one-child policy,EQUI,5,SPE1,SPE1
+-not aligned-,formalizes,NOALI,0,NOALI,NOALI
+eases,easing,EQUI,5,SIMI,SIMI
+China,China,EQUI,5,EQUI,EQUI
+Nobel Peace Prize,Nobel Peace prize,EQUI,5,EQUI,EQUI
+wins,wins,EQUI,5,EQUI,EQUI
+Global chemical watchdog,Chemical weapons watchdog,SPE2,4,EQUI,EQUI
+remanded,held,EQUI,5,SIMI,SIMI
+charged,charged,EQUI,5,EQUI,EQUI
+in a block,in a block,EQUI,5,EQUI,EQUI
+A woman,A mother,SPE2,4,SIMI,SIMI
+'s death,'s death,EQUI,5,EQUI,EQUI
+has been remanded,has been remanded,EQUI,5,EQUI,EQUI
+in custody,in custody,EQUI,5,EQUI,EQUI
+of flats.,of flats.,EQUI,5,EQUI,EQUI
+Woman,Mother,SPE2,4,SIMI,SIMI
+dead,dead,EQUI,5,EQUI,EQUI
+after an eight-year-old girl,after her eight-year-old daughter,SPE2,4,SPE2,SPE2
+over child,over daughter,SPE2,4,SIMI,SIMI
+with murder,with murder,EQUI,5,EQUI,EQUI
+was found,was found,EQUI,5,EQUI,EQUI
+-not aligned-,in Istanbul,NOALI,0,NOALI,NOALI
+at pro-Morsy protesters,at protesters,SPE1,4,SPE1,SPE1
+tear gas,teargas,EQUI,5,EQUI,EQUI
+Police,Turkish police,SPE2,4,SPE2,SPE2
+fire,fire,EQUI,5,EQUI,EQUI
+23,11 children,SPE2,2,SIMI,SIMI
+killed,killed,EQUI,5,EQUI,EQUI
+in Iraq car bombings,in Syria bombings,SPE1,2,OPPO,OPPO
+17:02,-not aligned-,NOALI,0,NOALI,NOALI
+in Pakistan,in Pakistan,EQUI,5,EQUI,EQUI
+"nine foreign tourists , guide",nine tourists,SPE2,4,SIMI,SIMI
+Gunmen,Gunmen,EQUI,5,EQUI,EQUI
+kill,kill,EQUI,5,EQUI,EQUI
+in Ukraine,in Lebanon,SIMI,3,REL,REL
+-not aligned-,:,NOALI,0,NOALI,NOALI
+-not aligned-,We,NOALI,0,NOALI,NOALI
+to hold,-not aligned-,NOALI,0,NOALI,NOALI
+vote,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,killed,NOALI,0,NOALI,NOALI
+Pro-Russia rebels,Syria rebels,SIMI,3,SIMI,SIMI
+-not aligned-,Hezbollah men,NOALI,0,NOALI,NOALI
+criticizes,slams,SIMI,3,SIMI,SIMI
+Twitter ban,Twitter ban,EQUI,5,EQUI,EQUI
+Erdogan,Erdogan,EQUI,5,EQUI,EQUI
+after lifting,for lifting,EQUI,5,SIMI,SIMI
+court ruling,top court,REL,4,SIMI,SIMI
+in History,in History,EQUI,5,EQUI,EQUI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+Today,Today,EQUI,5,EQUI,EQUI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+Jan. 24,April 4,SIMI,3,SIMI,SIMI
+-not aligned-,US Senate,NOALI,0,NOALI,NOALI
+to lead the Federal Reserve,as US Federal Reserve chief,EQUI,5,SPE1,SPE1
+to become,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,confirms,NOALI,0,NOALI,NOALI
+Janet Yellen,Janet Yellen,EQUI,5,EQUI,EQUI
+first woman,-not aligned-,NOALI,0,NOALI,NOALI
+water cannon,"teargas , water cannon",SPE1,4,SIMI,SIMI
+Police,Police,EQUI,5,EQUI,EQUI
+as India gang-rape protest,at Istanbul protesters,SIMI,2,REL,REL
+use,fire,SIMI,4,REL,REL
+violent,-not aligned-,NOALI,0,NOALI,NOALI
+turns,-not aligned-,NOALI,0,NOALI,NOALI
+0.2 pct.,up 0.2 percent,SPE1,4,SIMI,SIMI
+spending,spending,EQUI,5,EQUI,EQUI
+US consumers,Consumer,SPE1,4,SIMI,SIMI
+last month,in May,SPE2,2,SIMI,SIMI
+boost,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,use,NOALI,0,NOALI,NOALI
+-not aligned-,Probe,NOALI,0,NOALI,NOALI
+'s Rouhani,-not aligned-,NOALI,0,NOALI,NOALI
+Iran,-not aligned-,NOALI,0,NOALI,NOALI
+in Syria,in Syria,EQUI,5,EQUI,EQUI
+chemical weapons,of chemical weapons,EQUI,5,SPE1,SPE1
+admits,alleged,SIMI,4,NOALI,NOALI
+killed,-not aligned-,NOALI,0,NOALI,NOALI
+people,-not aligned-,NOALI,0,NOALI,NOALI
+Britain,UK,EQUI,5,EQUI,EQUI
+' exploratory ' surgery,hospitalized,REL,4,NOALI,NOALI
+'s Prince Philip,'s Prince Philip,EQUI,5,EQUI,EQUI
+set for,-not aligned-,NOALI,0,NOALI,NOALI
+in Canada,near Baltimore,SIMI,3,NOALI,NOALI
+Huge explosion,Huge explosion,EQUI,5,EQUI,EQUI
+after oil train,as freight train,SPE1,4,REL,REL
+derails,derails,EQUI,5,EQUI,EQUI
+NATO soldier,Four soldiers,SPE1,2,SPE2,SPE2
+in Taliban attack,in Yemen,REL,3,NOALI,NOALI
+killed,killed,EQUI,5,EQUI,EQUI
+in Ukraine,in Syria,SIMI,3,SIMI,SIMI
+released,kidnapped,OPPO,4,OPPO,OPPO
+Red Cross workers,Red Cross members,EQUI,5,SIMI,SIMI
+-not aligned-,',NOALI,0,NOALI,NOALI
+-not aligned-,over $100 billion,NOALI,0,NOALI,NOALI
+Iran,Iran,EQUI,5,EQUI,EQUI
+leaves,-not aligned-,NOALI,0,NOALI,NOALI
+for Kazakhstan,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,',NOALI,0,NOALI,NOALI
+-not aligned-,Tehran,NOALI,0,NOALI,NOALI
+-not aligned-,has cost,NOALI,0,NOALI,NOALI
+'s nuclear negotiating team,'s nuclear quest,REL,4,SIMI,SIMI
+Myanmar,-not aligned-,NOALI,0,NOALI,NOALI
+44,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Warns,NOALI,0,NOALI,NOALI
+-not aligned-,Strikes,NOALI,0,NOALI,NOALI
+-not aligned-,Could Worsen,NOALI,0,NOALI,NOALI
+over sectarian violence,Sectarian Violence,EQUI,5,SIMI,SIMI
+arrests,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Ban,NOALI,0,NOALI,NOALI
+-not aligned-,Syria,NOALI,0,NOALI,NOALI
+Unveils,Unveils,EQUI,5,EQUI,EQUI
+Google,Google,EQUI,5,EQUI,EQUI
+Prototype Self-Driving Car,Concept Self-Driving Car,SPE1,4,SIMI,SIMI
+-not aligned-,to Restart,NOALI,0,NOALI,NOALI
+-not aligned-,as Part,NOALI,0,NOALI,NOALI
+over Kerry talks,Peace Talks,SPE1,4,SIMI,SIMI
+Palestinian prisoners,104 Palestinian Prisoners,SPE2,4,SPE2,SPE2
+to free,to Free,EQUI,5,EQUI,EQUI
+Israel,Israel,EQUI,5,EQUI,EQUI
+-not aligned-,of Possible Deal,NOALI,0,NOALI,NOALI
+-not aligned-,Agrees,NOALI,0,NOALI,NOALI
+Chemical Arms Team,UN Chemical Arms Experts,SPE2,4,EQUI,EQUI
+to Begin Talks,To Visit,REL,3,NOALI,NOALI
+With Syria,Syria,EQUI,5,SIMI,SIMI
+president 's speech,presidential elections,REL,3,NOALI,NOALI
+Egypt,Pakistan,SIMI,3,NOALI,NOALI
+criticizes,boycotts,SPE2,3,REL,REL
+'s opposition,'s opposition party,EQUI,5,SPE1,SPE1
+Vodafone UK chief Guy Laurence,Vodafone UK chief,SPE1,4,SPE2,SPE2
+Rogers,Rogers,EQUI,5,EQUI,EQUI
+hires,names,SIMI,4,SIMI,SIMI
+as CEO,as new CEO,SPE2,4,SPE1,SPE1
+-not aligned-,",",NOALI,0,NOALI,NOALI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+One dead,One dead,EQUI,5,EQUI,EQUI
+at PNG immigration centre,at Papua New Guinea immigration centre,EQUI,5,EQUI,EQUI
+77 hurt,77 hurt,EQUI,5,EQUI,EQUI
+in riot,in riot,EQUI,5,EQUI,EQUI
+pro-Mursi camps,pro-Morsi camps,EQUI,5,EQUI,EQUI
+15 dead,15 killed,EQUI,5,EQUI,EQUI
+disperse,clear,EQUI,5,SIMI,SIMI
+as Egypt police,as Egyptian forces,EQUI,5,SIMI,SIMI
+-not aligned-,in Cairo,NOALI,0,NOALI,NOALI
+-not aligned-,',NOALI,0,NOALI,NOALI
+-not aligned-,',NOALI,0,NOALI,NOALI
+Survives,survives,EQUI,5,EQUI,EQUI
+Syrian PM,Syrian PM,EQUI,5,EQUI,EQUI
+-not aligned-,in capital,NOALI,0,NOALI,NOALI
+Bomb Attack,bomb attack,EQUI,5,EQUI,EQUI
+-not aligned-,test,NOALI,0,NOALI,NOALI
+' breakthrough ' guided missile,of ' breakthrough ' guided missile,EQUI,5,SIMI,SIMI
+North Korea,N. Korea,EQUI,5,EQUI,EQUI
+claims,hails,EQUI,5,OPPO,OPPO
+:,-not aligned-,NOALI,0,NOALI,NOALI
+India Ink,India Ink,EQUI,5,EQUI,EQUI
+:,-not aligned-,NOALI,0,NOALI,NOALI
+February 25,January 27,SIMI,3,SIMI,SIMI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+of the Day,of the Day,EQUI,5,EQUI,EQUI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+Image,Image,EQUI,5,EQUI,EQUI
+;,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,top,NOALI,0,NOALI,NOALI
+over,-not aligned-,NOALI,0,NOALI,NOALI
+death toll,Bangladesh collapse deaths,EQUI,5,SIMI,SIMI
+"1,127",620,SIMI,3,NOALI,NOALI
+Bangladesh collapse search,Bangladesh collapse deaths,REL,4,SIMI,SIMI
+criticizes,-not aligned-,NOALI,0,NOALI,NOALI
+'s opposition party chief,'s opposition MDC party,REL,2,SPE1,SPE1
+Japan,Zimbabwe,SIMI,3,NOALI,NOALI
+-not aligned-,'s election win,NOALI,0,NOALI,NOALI
+Abe,Robert Mugabe,SIMI,3,SIMI,SIMI
+'s economic policies,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,challenges,NOALI,0,NOALI,NOALI
+ahead,leading,EQUI,5,SIMI,SIMI
+in Afghanistan election race,in Afghan presidential elections,EQUI,5,SIMI,SIMI
+Abdullah,Abdullah,EQUI,5,EQUI,EQUI
+southwest Pakistan,southern Pakistan,SIMI,4,SIMI,SIMI
+rocks,hits,EQUI,5,NOALI,NOALI
+New major earthquake,Moderate earthquake,SPE1,3,SIMI,SIMI
+throws,-not aligned-,NOALI,0,NOALI,NOALI
+into political crisis,in crisis,SPE1,4,SIMI,SIMI
+Italy,Italy gov 't,SPE2,4,SPE1,SPE1
+' announcement,-not aligned-,NOALI,0,NOALI,NOALI
+of resignation,resign,EQUI,5,SPE1,SPE1
+Berlusconi party ministers,Berlusconi ministers,EQUI,5,SPE1,SPE1
+-not aligned-,;,NOALI,0,NOALI,NOALI
+-not aligned-,"""",NOALI,0,NOALI,NOALI
+asylum,humanitarian asylum,SPE2,4,SIMI,SIMI
+-not aligned-,"""",NOALI,0,NOALI,NOALI
+offer,offers,EQUI,5,EQUI,EQUI
+to Snowden,to Snowden,EQUI,5,EQUI,EQUI
+"Nicaragua , Venezuela",Venezuela,SPE2,4,SIMI,SIMI
+17 govt employees,78,SPE1,2,SIMI,SIMI
+-not aligned-,At least,NOALI,0,NOALI,NOALI
+in Pakistan bus bombing,in Pakistan church bombing,SIMI,3,REL,REL
+killed,killed,EQUI,5,EQUI,EQUI
+in Bangkok shooting,in US school shooting,SPE2,2,REL,REL
+Two hurt,Two hurt,EQUI,5,EQUI,EQUI
+in Jordan Valley,in West Bank attack,SPE2,2,REL,REL
+killed,killed,EQUI,5,EQUI,EQUI
+Israel colonel,Israeli,SPE1,4,SPE2,SPE2
+prominent atheist blogger,3 atheist bloggers,SPE2,3,SIMI,SIMI
+arrest,arrest,EQUI,5,EQUI,EQUI
+Bangladesh police,Bangladesh police,EQUI,5,EQUI,EQUI
+Cannes hotel raid,in Cannes,REL,4,SIMI,SIMI
+nets,stolen,SIMI,4,NOALI,NOALI
+€40 million gems,Jewels worth €40m,SPE1,4,EQUI,EQUI
+Slams,-not aligned-,NOALI,0,NOALI,NOALI
+Delays,on standby,REL,3,SIMI,SIMI
+-not aligned-,Ten Chinese vessels,NOALI,0,NOALI,NOALI
+Chinese News Agency,-not aligned-,NOALI,0,NOALI,NOALI
+in Search for Jet,for jet search,EQUI,5,EQUI,EQUI
+without opposition,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,move,NOALI,0,NOALI,NOALI
+says,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,closer to intervention,NOALI,0,NOALI,NOALI
+no peace talks,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+-not aligned-,west,NOALI,0,NOALI,NOALI
+-not aligned-,Cameron and Obama,NOALI,0,NOALI,NOALI
+Syria envoy,Syria,REL,4,SIMI,SIMI
+-not aligned-,was,NOALI,0,NOALI,NOALI
+-not aligned-,',NOALI,0,NOALI,NOALI
+-not aligned-,Griff Rhys Jones,NOALI,0,NOALI,NOALI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+a comedy favourite,-not aligned-,NOALI,0,NOALI,NOALI
+UK,-not aligned-,NOALI,0,NOALI,NOALI
+dead,a force for life,REL,3,OPPO,OPPO
+and,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,',NOALI,0,NOALI,NOALI
+Mel Smith,Mel Smith,EQUI,5,EQUI,EQUI
+mourns,-not aligned-,NOALI,0,NOALI,NOALI
+at 60,-not aligned-,NOALI,0,NOALI,NOALI
+Driver of crashed Spanish train,Spanish train driver,SPE1,4,EQUI,EQUI
+held,held,EQUI,5,EQUI,EQUI
+of negligent homicide,of negligent homicide,EQUI,5,EQUI,EQUI
+on suspicion,on suspicion,EQUI,5,EQUI,EQUI
+in Iraq,in Iraq,EQUI,5,EQUI,EQUI
+against military intervention,against US military interference,SPE2,4,EQUI,EQUI
+-not aligned-,FM Spokeswoman,NOALI,0,NOALI,NOALI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+Iran,Iran,EQUI,5,EQUI,EQUI
+warns,-not aligned-,NOALI,0,NOALI,NOALI
+to 51,63,SIMI,3,SIMI,SIMI
+Death toll,Death toll,EQUI,5,EQUI,EQUI
+rises,hits,EQUI,5,SIMI,SIMI
+in Latvian supermarket collapse,in Mumbai building collapse,SPE1,3,SIMI,SIMI
+Defence,Defence,EQUI,5,EQUI,EQUI
+of scapegoating,of scapegoating,EQUI,5,EQUI,EQUI
+in South Korea ferry trial,in ferry trial,SPE1,4,SPE1,SPE1
+warns,warns,EQUI,5,EQUI,EQUI
+arrested,arrested,EQUI,5,EQUI,EQUI
+during march,on way,SIMI,4,REL,REL
+to Woolwich,to Woolwich,EQUI,5,EQUI,EQUI
+EDL leaders,EDL leaders,EQUI,5,EQUI,EQUI
+"nine foreign tourists , guide","9 foreign tourists , 1 Pakistani",SIMI,4,SIMI,SIMI
+kill,kill,EQUI,5,EQUI,EQUI
+Gunmen,Gunmen,EQUI,5,EQUI,EQUI
+in Pakistan,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,announces,NOALI,0,NOALI,NOALI
+general election,of February general election,SPE2,4,SPE1,SPE1
+to boycott,boycott,EQUI,5,EQUI,EQUI
+Thai opposition party,Thailand 's opposition Democrat Party,SPE2,4,SPE1,SPE1
+killing,-not aligned-,NOALI,0,NOALI,NOALI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+Syrian warplanes,Syria and Iran,REL,2,NOALI,NOALI
+strike,-not aligned-,NOALI,0,NOALI,NOALI
+57,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Step Up,NOALI,0,NOALI,NOALI
+reportedly,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Involvement,NOALI,0,NOALI,NOALI
+in Iraq,in Iraq Conflict,REL,4,SIMI,SIMI
+venue,Venue,EQUI,5,EQUI,EQUI
+changes,Changes,EQUI,5,EQUI,EQUI
+Egypt,Egypt,EQUI,5,EQUI,EQUI
+for trial,for Trial,EQUI,5,EQUI,EQUI
+of ousted president,of Ousted President,EQUI,5,EQUI,EQUI
+dies,dies,EQUI,5,EQUI,EQUI
+Respected British interviewer David Frost,Broadcaster David Frost,SPE1,4,SPE1,SPE1
+of a heart attack,-not aligned-,NOALI,0,NOALI,NOALI
+killed,killed,EQUI,5,EQUI,EQUI
+in Syria,in Israeli raid,SPE2,3,NOALI,NOALI
+Group,-not aligned-,NOALI,0,NOALI,NOALI
+7 Palestinians,Palestinian,SPE1,4,SPE1,SPE1
+:,-not aligned-,NOALI,0,NOALI,NOALI
+'s Benghazi,in Benghazi,EQUI,5,REL,REL
+no casualties,None Hurt,EQUI,5,EQUI,EQUI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+-not aligned-,Hits,NOALI,0,NOALI,NOALI
+Car bomb,Car Bomb,EQUI,5,EQUI,EQUI
+at Swedish consulate,Swedish Consulate,EQUI,5,EQUI,EQUI
+in Libya,-not aligned-,NOALI,0,NOALI,NOALI
+six,4 militants,SPE2,3,NOALI,NOALI
+kills,kills,EQUI,5,EQUI,EQUI
+in Pakistan,in Pakistan,EQUI,5,EQUI,EQUI
+US drone strike,U.S. drone,SPE1,4,EQUI,EQUI
+officials,-not aligned-,NOALI,0,NOALI,NOALI
+Earthquake,Earthquake,EQUI,5,EQUI,EQUI
+of 6.3 magnitude,of 6 magnitude,SIMI,4,SIMI,SIMI
+off Indonesia island,Thailand,SIMI,3,SIMI,SIMI
+strikes,strikes,EQUI,5,EQUI,EQUI
+leaves,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,at least,NOALI,0,NOALI,NOALI
+dozens,179,SPE2,4,SIMI,SIMI
+China quake,China quake,EQUI,5,EQUI,EQUI
+dead,kills,EQUI,5,OPPO,OPPO
+'s new prince,'s new baby prince,EQUI,5,SPE1,SPE1
+visits,meets,EQUI,5,SIMI,SIMI
+Queen,Queen,EQUI,5,EQUI,EQUI
+Britain,Britain,EQUI,5,EQUI,EQUI
+Syria opposition,Syria opposition,EQUI,5,EQUI,EQUI
+pressed,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,frustration,NOALI,0,NOALI,NOALI
+-not aligned-,voices,NOALI,0,NOALI,NOALI
+to attend,-not aligned-,NOALI,0,NOALI,NOALI
+talks,with international backers,REL,2,NOALI,NOALI
+submits,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,signs,NOALI,0,NOALI,NOALI
+'s integration,to join,EQUI,5,SIMI,SIMI
+federal constitutional law,a treaty,REL,4,SIMI,SIMI
+into Russia,Russia,EQUI,5,SIMI,SIMI
+to State Duma,-not aligned-,NOALI,0,NOALI,NOALI
+on Crimea,for Crimea,EQUI,5,SPE2,SPE2
+Putin,Putin,EQUI,5,EQUI,EQUI
+Venezuela,Venezuela,EQUI,5,EQUI,EQUI
+expels,Expels,EQUI,5,EQUI,EQUI
+three U.S. diplomats,3 U.S. Diplomats,EQUI,5,EQUI,EQUI
+after bloody week,after deadly clashes,SPE2,3,SIMI,SIMI
+protest,defiant,REL,4,NOALI,NOALI
+Egypt 's bruised Islamists,Egypt Islamists,SPE1,4,SIMI,SIMI
+N Korea,N. Korea,EQUI,5,EQUI,EQUI
+test-fires,fires,SPE1,4,SIMI,SIMI
+30 short-range missiles,short-range missiles,SPE1,4,SIMI,SIMI
+rises,rises,EQUI,5,EQUI,EQUI
+to nine,to 260,SIMI,1,NOALI,NOALI
+Glasgow helicopter death toll,Earthquake death toll,SIMI,2,OPPO,OPPO
+mixed,higher,SIMI,3,SIMI,SIMI
+--,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,--,NOALI,0,NOALI,NOALI
+close,close,EQUI,5,EQUI,EQUI
+Nov. 11,July 23,SIMI,3,SIMI,SIMI
+Shanghai stock indices,Shanghai stock indices,EQUI,5,EQUI,EQUI
+Prince Charles,Prince Charles,EQUI,5,EQUI,EQUI
+-not aligned-,',NOALI,0,NOALI,NOALI
+',-not aligned-,NOALI,0,NOALI,NOALI
+Putin,Vladimir Putin,EQUI,5,SPE1,SPE1
+',-not aligned-,NOALI,0,NOALI,NOALI
+to Hitler,to Adolf Hitler,EQUI,5,SPE1,SPE1
+-not aligned-,',NOALI,0,NOALI,NOALI
+compares,compares,EQUI,5,EQUI,EQUI
+retakes,retakes,EQUI,5,EQUI,EQUI
+from rebels,-not aligned-,NOALI,0,NOALI,NOALI
+Crusader castle,historic Crusader castle,SPE2,4,SPE1,SPE1
+Syrian army,Syrian army,EQUI,5,EQUI,EQUI
+-not aligned-,Splintered,NOALI,0,NOALI,NOALI
+over peace talks,Ahead of Peace Talks,EQUI,5,SIMI,SIMI
+Syrian opposition,Syrian Opposition,EQUI,5,EQUI,EQUI
+to meet,-not aligned-,NOALI,0,NOALI,NOALI
+Four Morsi supporters,of Morsi supporters,SPE1,4,SIMI,SIMI
+in Egypt clashes,in Egypt,SPE1,4,SIMI,SIMI
+-not aligned-,gather,NOALI,0,NOALI,NOALI
+-not aligned-,Thousands,NOALI,0,NOALI,NOALI
+killed,-not aligned-,NOALI,0,NOALI,NOALI
+over Costa Concordia disaster,for costa concordia shipwreck disaster,SPE2,4,EQUI,EQUI
+jailed,sentenced,REL,4,SIMI,SIMI
+Five people,five men,SPE2,4,SPE1,SPE1
+2020 Olympic Games,2020 Olympic Games,EQUI,5,EQUI,EQUI
+-not aligned-,wins,NOALI,0,NOALI,NOALI
+-not aligned-,race,NOALI,0,NOALI,NOALI
+Tokyo,Tokyo,EQUI,5,EQUI,EQUI
+to host,to host,EQUI,5,EQUI,EQUI
+-,-not aligned-,NOALI,0,NOALI,NOALI
+Suicide bomber,Suicide bomb,REL,4,EQUI,EQUI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+13,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,'s Old City,NOALI,0,NOALI,NOALI
+in Afghan capital,in Syrian capital,SIMI,3,REL,REL
+police,-not aligned-,NOALI,0,NOALI,NOALI
+kills,kills,EQUI,5,EQUI,EQUI
+eight,4,SIMI,3,SIMI,SIMI
+wounds,-not aligned-,NOALI,0,NOALI,NOALI
+Twelve,11,SIMI,4,SIMI,SIMI
+on Pakistani train,in northern Pakistan,REL,2,SPE2,SPE2
+-not aligned-,as bus,NOALI,0,NOALI,NOALI
+-not aligned-,falls into,NOALI,0,NOALI,NOALI
+-not aligned-,ravine,NOALI,0,NOALI,NOALI
+in bomb blast,-not aligned-,NOALI,0,NOALI,NOALI
+killed,killed,EQUI,5,EQUI,EQUI
+41,35,SIMI,4,SIMI,SIMI
+wounded,wounded,EQUI,5,EQUI,EQUI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+killed,killed,EQUI,5,EQUI,EQUI
+in violent attacks,in wave of attacks,SPE1,4,SIMI,SIMI
+22,138,SIMI,2,NOALI,NOALI
+in Iraq,in Iraq,EQUI,5,EQUI,EQUI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+advances,advances,EQUI,5,EQUI,EQUI
+against USD,against USD,EQUI,5,EQUI,EQUI
+Tuesday,Wednesday,SIMI,3,SIMI,SIMI
+China yuan,China yuan,EQUI,5,EQUI,EQUI
+to 6.2035,to 6.1408,SIMI,4,SIMI,SIMI
+-not aligned-,slightly,NOALI,0,NOALI,NOALI
+final vote count,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,with his new job,NOALI,0,NOALI,NOALI
+-not aligned-,to grips,NOALI,0,NOALI,NOALI
+-not aligned-,gets,NOALI,0,NOALI,NOALI
+on his bike,-not aligned-,NOALI,0,NOALI,NOALI
+awaiting,-not aligned-,NOALI,0,NOALI,NOALI
+New Australian PM Tony Abbott,Australian PM-elect Tony Abbott,EQUI,5,SPE1,SPE1
+Amazon,Amazon,EQUI,5,EQUI,EQUI
+new device for streaming video,new Fire TV streaming video box,SPE2,4,SPE1,SPE1
+launches,unveils,EQUI,5,REL,REL
+Glasgow Helicopter Crash Search,Glasgow Helicopter Crash,REL,4,SIMI,SIMI
+-not aligned-,Woman PC,NOALI,0,NOALI,NOALI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+-not aligned-,Is,NOALI,0,NOALI,NOALI
+Ends,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Victim,NOALI,0,NOALI,NOALI
+evacuated,evacuated,EQUI,5,EQUI,EQUI
+Thousands,Thousands,EQUI,5,EQUI,EQUI
+in Moscow metro fire,after fire breaks out in Moscow Metro,EQUI,5,SIMI,SIMI
+for mass march,for mass rally,EQUI,5,SIMI,SIMI
+against polls,-not aligned-,NOALI,0,NOALI,NOALI
+Bangladesh opposition,Bangladesh opposition,EQUI,5,EQUI,EQUI
+set,set,EQUI,5,EQUI,EQUI
+still,still,EQUI,4,EQUI,EQUI
+-not aligned-,Hunt,NOALI,0,NOALI,NOALI
+40 missing,for 40 missing,EQUI,5,SIMI,SIMI
+-not aligned-,on,NOALI,0,NOALI,NOALI
+in Canadian train wreck,in Canada train blaze,SPE2,4,SIMI,SIMI
+-not aligned-,in hospital,NOALI,0,NOALI,NOALI
+Pat Rice,Arsenal great Rice,EQUI,5,SPE1,SPE1
+Arsenal stars,Arsenal great Rice,REL,4,SPE1,SPE1
+'s fight,-not aligned-,NOALI,0,NOALI,NOALI
+in support,-not aligned-,NOALI,0,NOALI,NOALI
+against cancer,with cancer,EQUI,5,OPPO,OPPO
+to wear,-not aligned-,NOALI,0,NOALI,NOALI
+T-shirts,-not aligned-,NOALI,0,NOALI,NOALI
+poised,-not aligned-,NOALI,0,NOALI,NOALI
+strike,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,too slick,NOALI,0,NOALI,NOALI
+Colombia,Colombia,EQUI,5,EQUI,EQUI
+-not aligned-,for Greece,NOALI,0,NOALI,NOALI
+three times,-not aligned-,NOALI,0,NOALI,NOALI
+Polar bear DNA,Polar bear study,SIMI,4,SIMI,SIMI
+may help,may boost,EQUI,5,SIMI,SIMI
+fight,fight,EQUI,5,EQUI,EQUI
+obesity,against obesity,EQUI,5,OPPO,OPPO
+',-not aligned-,NOALI,0,NOALI,NOALI
+',-not aligned-,NOALI,0,NOALI,NOALI
+Fire in Russian psychiatric hospital,in Russian psychiatric hospital fire,EQUI,5,EQUI,EQUI
+38,38,EQUI,5,EQUI,EQUI
+kills,feared dead,SPE1,4,SIMI,SIMI
+in west China,Italy,SIMI,2,NOALI,NOALI
+opened,-not aligned-,NOALI,0,NOALI,NOALI
+World,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,'s centre-left splinters,NOALI,0,NOALI,NOALI
+'s largest building,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,in presidential vote,NOALI,0,NOALI,NOALI
+-not aligned-,raze,NOALI,0,NOALI,NOALI
+not to release,-not aligned-,NOALI,0,NOALI,NOALI
+Israel,Israeli authorities,REL,4,SPE1,SPE1
+-not aligned-,in Arraba,NOALI,0,NOALI,NOALI
+Palestinian prisoners,Palestinian home,REL,2,NOALI,NOALI
+"100,000",-not aligned-,NOALI,0,NOALI,NOALI
+Volcano erupts,Volcanic eruption,EQUI,5,SIMI,SIMI
+evacuated,-not aligned-,NOALI,0,NOALI,NOALI
+-,-not aligned-,NOALI,0,NOALI,NOALI
+closed,closes,EQUI,5,SIMI,SIMI
+in Indonesia,-not aligned-,NOALI,0,NOALI,NOALI
+and,-not aligned-,NOALI,0,NOALI,NOALI
+airports,3 airports,SPE2,4,SPE1,SPE1
+Search,Search,EQUI,5,EQUI,EQUI
+for Malaysia jet,for Missing Malaysian Jet,SPE2,4,EQUI,EQUI
+resumes,Resumes,EQUI,5,EQUI,EQUI
+to 6.1651,to 6.1696,SIMI,4,SIMI,SIMI
+China yuan,China yuan,EQUI,5,EQUI,EQUI
+Tuesday,Thursday,SIMI,3,OPPO,OPPO
+weakens,strengthens,OPPO,4,OPPO,OPPO
+against USD,against USD,EQUI,5,EQUI,EQUI
+-not aligned-,Embark,NOALI,0,NOALI,NOALI
+in prayer and song,of ' Prayer and Reflection ',SIMI,4,SIMI,SIMI
+unites,-not aligned-,NOALI,0,NOALI,NOALI
+South Africa,South Africans,EQUI,5,SPE1,SPE1
+-not aligned-,on Day,NOALI,0,NOALI,NOALI
+for Mandela,for Mandela,EQUI,5,EQUI,EQUI
+-not aligned-,Royal visit,NOALI,0,NOALI,NOALI
+Australian parliament video,Parliament in Canberra tour,REL,2,REL,REL
+addresses,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+-not aligned-,visit,NOALI,0,NOALI,NOALI
+Prince William,Prince William and Catherine,SPE1,4,SPE1,SPE1
+charged,charged,EQUI,5,EQUI,EQUI
+in 2007 Bhutto assassination,in Bhutto death,SPE1,4,SIMI,SIMI
+Fromer Pakistani army chief Musharraf,Former Pakistan army chief,SPE1,4,EQUI,EQUI
+5 Dead,Death toll 42,SIMI,2,SPE2,SPE2
+in India Building Collapse,in India building collapse,EQUI,5,EQUI,EQUI
+-not aligned-,hits,NOALI,0,NOALI,NOALI
+Launches,launches,EQUI,5,EQUI,EQUI
+Egypt,Egypt,EQUI,5,EQUI,EQUI
+Offensive,offensive,EQUI,5,EQUI,EQUI
+Against Sinai Militants,against Sinai insurgents,SIMI,4,EQUI,EQUI
+warns,-not aligned-,NOALI,0,NOALI,NOALI
+of ' heavy price ',-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,over arming,NOALI,0,NOALI,NOALI
+Syrian rebels,Syrian rebels,EQUI,5,EQUI,EQUI
+for backing,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,at war,NOALI,0,NOALI,NOALI
+Assad,Cabinet,REL,4,NOALI,NOALI
+Turkey,-not aligned-,NOALI,0,NOALI,NOALI
+from Jan 20,Jan 20,EQUI,5,SIMI,SIMI
+on Iran nuclear drive,Iran nuclear drive,EQUI,5,EQUI,EQUI
+Deal,Deal,EQUI,5,EQUI,EQUI
+-not aligned-,curbing,NOALI,0,NOALI,NOALI
+-not aligned-,to take effect,NOALI,0,NOALI,NOALI
+after protest,-not aligned-,NOALI,0,NOALI,NOALI
+against Nigel Farage,Kerry,SIMI,2,NOALI,NOALI
+made,-not aligned-,NOALI,0,NOALI,NOALI
+Two arrests,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,after latest intensive Mideast trip,NOALI,0,NOALI,NOALI
+-not aligned-,vows,NOALI,0,NOALI,NOALI
+-not aligned-,progress,NOALI,0,NOALI,NOALI
+dies,dies,EQUI,5,EQUI,EQUI
+at 94,at 94,EQUI,5,EQUI,EQUI
+Nobel author Doris Lessing,Nobel laureate Doris Lessing,EQUI,5,EQUI,EQUI
+after teen shot,after shooting,SPE1,4,SIMI,SIMI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+held,arrested,EQUI,5,OPPO,OPPO
+Man,Man,EQUI,5,EQUI,EQUI
+in Belfast,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,40,NOALI,0,NOALI,NOALI
+Iran,Iran,EQUI,5,EQUI,EQUI
+-not aligned-,of diplomat,NOALI,0,NOALI,NOALI
+ups,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,rapid release,NOALI,0,NOALI,NOALI
+oil swap,-not aligned-,NOALI,0,NOALI,NOALI
+with eastern neighbors,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,urges,NOALI,0,NOALI,NOALI
+in Bhutto Assassination,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,for first time,NOALI,0,NOALI,NOALI
+Pakistan,Pakistan,EQUI,5,EQUI,EQUI
+'s Musharraf,'s Musharraf,EQUI,5,EQUI,EQUI
+-not aligned-,arrives,NOALI,0,NOALI,NOALI
+Under Arrest,at court,REL,4,REL,REL
+Baby Girl,Baby Girl,EQUI,5,EQUI,EQUI
+Pit Bull Dog,Dog,SPE1,4,SIMI,SIMI
+In Blackburn,In Blackburn,EQUI,5,EQUI,EQUI
+Kills,Mauls To Death,EQUI,5,EQUI,EQUI
+-not aligned-,Keita,NOALI,0,NOALI,NOALI
+stop,-not aligned-,NOALI,0,NOALI,NOALI
+Police,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Wins,NOALI,0,NOALI,NOALI
+Maldives presidential election,Mali Presidential Election,SIMI,2,NOALI,NOALI
+-,-not aligned-,NOALI,0,NOALI,NOALI
+10 Things,10 Things,EQUI,5,EQUI,EQUI
+Today,for Tuesday,SPE2,3,OPPO,OPPO
+to Know,to Know,EQUI,5,EQUI,EQUI
+one man,eleven,SPE1,2,SIMI,SIMI
+'s Hama,-not aligned-,NOALI,0,NOALI,NOALI
+kills,kills,EQUI,5,EQUI,EQUI
+Air strike,US drone strike,SPE2,4,SIMI,SIMI
+in Syria,in Pakistan,SIMI,3,REL,REL
+-not aligned-,',NOALI,0,NOALI,NOALI
+in San Francisco plane crash,in San Francisco plane crash,EQUI,5,EQUI,EQUI
+',-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,were,NOALI,0,NOALI,NOALI
+-not aligned-,',NOALI,0,NOALI,NOALI
+-not aligned-,Chinese,NOALI,0,NOALI,NOALI
+-not aligned-,Two,NOALI,0,NOALI,NOALI
+One unaccounted for,killed,SPE2,3,SIMI,SIMI
+',-not aligned-,NOALI,0,NOALI,NOALI
+Japan,Japan,EQUI,5,EQUI,EQUI
+to respect,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,to maintain,NOALI,0,NOALI,NOALI
+China,China,EQUI,5,EQUI,EQUI
+regional security concerns,regional peace,SIMI,4,SIMI,SIMI
+urges,urges,EQUI,5,EQUI,EQUI
+2 Palestinian Militants,Palestinian militant,SPE1,4,SPE1,SPE1
+-not aligned-,in raid,NOALI,0,NOALI,NOALI
+Kill,kills,EQUI,5,EQUI,EQUI
+Israel Forces,Israeli army,EQUI,5,SIMI,SIMI
+-not aligned-,nears,NOALI,0,NOALI,NOALI
+amid growing unrest,more violence,REL,4,SIMI,SIMI
+-not aligned-,faces,NOALI,0,NOALI,NOALI
+-not aligned-,end,NOALI,0,NOALI,NOALI
+-not aligned-,as ultimatum,NOALI,0,NOALI,NOALI
+Ukraine talks,Ukraine,REL,3,SIMI,SIMI
+continue,-not aligned-,NOALI,0,NOALI,NOALI
+in Cairo,in Cairo,EQUI,5,EQUI,EQUI
+tear gas,tear gas,EQUI,5,EQUI,EQUI
+fire,fire,EQUI,5,EQUI,EQUI
+at protesters,at protesters,EQUI,5,EQUI,EQUI
+Egyptian police,Police,SPE1,4,EQUI,EQUI
+set,set,EQUI,5,EQUI,EQUI
+for democracy march,for huge democracy rally,SPE2,4,SIMI,SIMI
+Hong Kong,Hong Kong,EQUI,5,EQUI,EQUI
+"6,000 Cuban doctors","4,000 Cuban doctors",SIMI,3,SIMI,SIMI
+to hire,hires,EQUI,5,EQUI,EQUI
+in talks,-not aligned-,NOALI,0,NOALI,NOALI
+Brazil,Brazil,EQUI,5,EQUI,EQUI
+Kills,Death toll,REL,4,SIMI,SIMI
+38,to 39,SIMI,4,SIMI,SIMI
+Southern Italy Coach Crash,in Italy coach crash,SPE1,4,SIMI,SIMI
+-not aligned-,rises,NOALI,0,NOALI,NOALI
+Yemen officials,-not aligned-,NOALI,0,NOALI,NOALI
+US drone,Yemen drone strike,SIMI,3,REL,REL
+:,-not aligned-,NOALI,0,NOALI,NOALI
+2 militants,militants,SPE1,4,SIMI,SIMI
+kills,kills,EQUI,5,EQUI,EQUI
+injured,injured,EQUI,5,EQUI,EQUI
+in multiple bus crash in Germany,in Germany bus crash,SPE1,4,SIMI,SIMI
+-not aligned-,and,NOALI,0,NOALI,NOALI
+Nine,Several,SPE1,3,SIMI,SIMI
+more than 40,scores,SPE1,3,SIMI,SIMI
+killed,killed,EQUI,5,EQUI,EQUI
+election for 7 September,Sept. 7 poll,EQUI,5,EQUI,EQUI
+Australian PM Kevin Rudd,Australian PM Rudd,EQUI,5,EQUI,EQUI
+calls,calls,EQUI,5,EQUI,EQUI
+in Cairo,Egypt,REL,4,SIMI,SIMI
+with youth,with pro-Morsi protesters,SPE2,3,SPE1,SPE1
+clash,clash,EQUI,5,EQUI,EQUI
+after anti-Morsi protest,-not aligned-,NOALI,0,NOALI,NOALI
+Police,Police,EQUI,5,EQUI,EQUI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+Issues,issues,EQUI,5,EQUI,EQUI
+Over Al Qaeda Threat,citing Qaeda threats,EQUI,5,SPE1,SPE1
+Travel Alert,global alert,SPE1,4,SIMI,SIMI
+US,US,EQUI,5,EQUI,EQUI
+Ships,-not aligned-,NOALI,0,NOALI,NOALI
+for Syrian Chemical Weapons Transport,Syrian Chemical Weapons Resolution,REL,4,SIMI,SIMI
+-not aligned-,UN,NOALI,0,NOALI,NOALI
+-not aligned-,Adopts,NOALI,0,NOALI,NOALI
+Train,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,US tourist,NOALI,0,NOALI,NOALI
+-not aligned-,gang-raped,NOALI,0,NOALI,NOALI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+Indian flood rescue,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Police,NOALI,0,NOALI,NOALI
+-not aligned-,in northern India,NOALI,0,NOALI,NOALI
+hampers,-not aligned-,NOALI,0,NOALI,NOALI
+More rain,-not aligned-,NOALI,0,NOALI,NOALI
+edge,close,SPE2,4,SIMI,SIMI
+Aust shares,Aust shares,EQUI,5,EQUI,EQUI
+higher,higher,EQUI,5,EQUI,EQUI
+-not aligned-,Syrian rebels,NOALI,0,NOALI,NOALI
+of Syria chemical weapons,of chemical weapons deal,REL,4,SIMI,SIMI
+"US , Russia",-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,skeptical,NOALI,0,NOALI,NOALI
+seizure,-not aligned-,NOALI,0,NOALI,NOALI
+agree on,-not aligned-,NOALI,0,NOALI,NOALI
+' Fast undamp ; Furious ' star Paul Walker,Paul Walker Fast and Furious star,EQUI,5,EQUI,EQUI
+dies,killed,EQUI,5,SIMI,SIMI
+in car crash,in car crash,EQUI,5,EQUI,EQUI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+-not aligned-,dead,NOALI,0,NOALI,NOALI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+-not aligned-,40,NOALI,0,NOALI,NOALI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+unchanged,at 0.5%,SPE2,3,SIMI,SIMI
+keeps,keeps,EQUI,5,EQUI,EQUI
+European Central Bank,European Central bank,EQUI,5,EQUI,EQUI
+rates,interest rate,SPE2,4,SIMI,SIMI
+10,Five,SIMI,2,SIMI,SIMI
+in Philippine political violence,-not aligned-,NOALI,0,NOALI,NOALI
+Gunmen,-not aligned-,NOALI,0,NOALI,NOALI
+kill,killed,EQUI,5,SIMI,SIMI
+-not aligned-,in Philippines volcano eruption,NOALI,0,NOALI,NOALI
+in Iraq mosque bombing,in Iraq mosque bombing,EQUI,5,EQUI,EQUI
+77,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,At least,NOALI,0,NOALI,NOALI
+wounded,-not aligned-,NOALI,0,NOALI,NOALI
+24,18,SIMI,3,SIMI,SIMI
+killed,killed,EQUI,5,EQUI,EQUI
+-not aligned-,rises,NOALI,0,NOALI,NOALI
+as Kenya mall standoff,as Kenya mall siege,EQUI,5,EQUI,EQUI
+Islamists,-not aligned-,NOALI,0,NOALI,NOALI
+some 30 hostages,Death toll,REL,2,SIMI,SIMI
+still,-not aligned-,NOALI,0,NOALI,NOALI
+continues,continues,EQUI,5,EQUI,EQUI
+holding,-not aligned-,NOALI,0,NOALI,NOALI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+Heavy smog,Heavy Smog,EQUI,5,EQUI,EQUI
+flights,Flights,EQUI,5,EQUI,EQUI
+north China city,North China City,EQUI,5,EQUI,EQUI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+hits,Hits,EQUI,5,EQUI,EQUI
+cancelled,Canceled,EQUI,5,EQUI,EQUI
+-not aligned-,tries,NOALI,0,NOALI,NOALI
+state media,-not aligned-,NOALI,0,NOALI,NOALI
+gets,-not aligned-,NOALI,0,NOALI,NOALI
+therapy,-not aligned-,NOALI,0,NOALI,NOALI
+:,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,to break,NOALI,0,NOALI,NOALI
+-not aligned-,election stalemate,NOALI,0,NOALI,NOALI
+after stroke,-not aligned-,NOALI,0,NOALI,NOALI
+Algeria president,Bulgarian president,SIMI,3,OPPO,OPPO
+says,-not aligned-,NOALI,0,NOALI,NOALI
+Iran,Iran,EQUI,5,EQUI,EQUI
+ready,-not aligned-,NOALI,0,NOALI,NOALI
+for fresh round,renews support,REL,2,REL,REL
+of nuclear talks,for nuclear talks,EQUI,5,REL,REL
+-not aligned-,'s Khamenei,NOALI,0,NOALI,NOALI
+23 Iraqi army recruits,13 Iraqi army recruits,SIMI,3,SIMI,SIMI
+Suicide bomber,Suicide bomber,EQUI,5,EQUI,EQUI
+kills,kills,EQUI,5,EQUI,EQUI
+-not aligned-,in Baghdad,NOALI,0,NOALI,NOALI
+Obama,Obama,EQUI,5,EQUI,EQUI
+-not aligned-,To Meet,NOALI,0,NOALI,NOALI
+nominates,-not aligned-,NOALI,0,NOALI,NOALI
+new transportation secretary,Embattled Veterans Secretary,SIMI,2,SIMI,SIMI
+-not aligned-,of 2013,NOALI,0,NOALI,NOALI
+Philippines,the Philippines,EQUI,5,EQUI,EQUI
+Super typhoon,Most powerful typhoon,SPE2,4,SIMI,SIMI
+hits,hits,EQUI,5,EQUI,EQUI
+Google,Google,EQUI,5,EQUI,EQUI
+Nexus 5 phone,-not aligned-,NOALI,0,NOALI,NOALI
+releases,redesigns,REL,3,OPPO,OPPO
+with Kit Kat,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,on PCs,NOALI,0,NOALI,NOALI
+-not aligned-,search results,NOALI,0,NOALI,NOALI
+-not aligned-,on hunger strik,NOALI,0,NOALI,NOALI
+Judge,U.S. judge,SPE2,4,SPE1,SPE1
+OKs,approves,EQUI,5,EQUI,EQUI
+force-feeding California inmates,force-feeding Californian inmates,EQUI,5,EQUI,EQUI
+charged,arrested,REL,4,OPPO,OPPO
+Ride operator,N.C. State Fair ride operator,SPE2,4,SPE2,SPE2
+in N.C. fair accident,after accident,SPE1,4,SIMI,SIMI
+Doubts,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Official,NOALI,0,NOALI,NOALI
+"US , NATO",-not aligned-,NOALI,0,NOALI,NOALI
+from Ukraine Border,From Ukraine Border,EQUI,5,EQUI,EQUI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+-not aligned-,Says,NOALI,0,NOALI,NOALI
+Russia Pulled Back,of Russian Withdrawal,SIMI,4,SIMI,SIMI
+Raise,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,No Sign,NOALI,0,NOALI,NOALI
+gives,gives,EQUI,5,EQUI,EQUI
+Early vote count in Iran,Iran vote count,SPE1,4,EQUI,EQUI
+reformer,Rowhani,SPE2,4,SPE1,SPE1
+wide lead,wide lead,EQUI,5,EQUI,EQUI
+in sea transfer,-not aligned-,NOALI,0,NOALI,NOALI
+asylum seekers,asylum-seekers,EQUI,5,EQUI,EQUI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+returns,hands back,EQUI,5,EQUI,EQUI
+to Sri Lanka,to Sri Lanka,EQUI,5,EQUI,EQUI
+Australia,Australia,EQUI,5,EQUI,EQUI
+-not aligned-,Australia,NOALI,0,NOALI,NOALI
+;,-not aligned-,NOALI,0,NOALI,NOALI
+Dead,dead,EQUI,5,EQUI,EQUI
+Rage,rage,EQUI,5,EQUI,EQUI
+Overnight,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,;,NOALI,0,NOALI,NOALI
+Lebanon Clashes,Lebanon clashes,EQUI,5,EQUI,EQUI
+-not aligned-,near mosque,NOALI,0,NOALI,NOALI
+12 Soldiers,16 soldiers,SIMI,3,SIMI,SIMI
+with making 9/11 threats,over 9/11 threats,EQUI,5,SIMI,SIMI
+Los Angeles airport worker,Los Angeles airport worker,EQUI,5,EQUI,EQUI
+charged,charged,EQUI,5,EQUI,EQUI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+multiple,five,SPE2,3,SIMI,SIMI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+in Miami shooting,in Myrtle Beach shootings,SPE2,3,SIMI,SIMI
+2,Three,SIMI,4,SIMI,SIMI
+wounded,wounded,EQUI,5,EQUI,EQUI
+killed,killed,EQUI,5,EQUI,EQUI
+on Indian Consulate,on Indian consulate,EQUI,5,EQUI,EQUI
+in Attack,in attack,EQUI,5,EQUI,EQUI
+Killed,killed,EQUI,5,EQUI,EQUI
+in Afghanistan,in Afghan city,SPE2,4,SIMI,SIMI
+9,12,SIMI,4,SIMI,SIMI
+6 Killed,Five dead,SIMI,4,SIMI,SIMI
+as Indonesia Volcano Erupts,in Indonesian eruption,EQUI,5,SIMI,SIMI
+by Hot Lava,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Friday,NOALI,0,NOALI,NOALI
+weakens,strengthens,OPPO,4,OPPO,OPPO
+against USD,against USD,EQUI,5,EQUI,EQUI
+to 6.1059,to 6.1070,SIMI,4,SIMI,SIMI
+China yuan,China yuan,EQUI,5,EQUI,EQUI
+unity talks,at ' war,REL,2,NOALI,NOALI
+-not aligned-,Pope,NOALI,0,NOALI,NOALI
+-not aligned-,arms,NOALI,0,NOALI,NOALI
+Ukraine,in Syria,SIMI,3,NOALI,NOALI
+-not aligned-,',NOALI,0,NOALI,NOALI
+hosts,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,to sell,NOALI,0,NOALI,NOALI
+',-not aligned-,NOALI,0,NOALI,NOALI
+',-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,hits out,NOALI,0,NOALI,NOALI
+for Oil Refinery,for Iraq refinery,SPE2,3,SIMI,SIMI
+"Iraqi Forces , Militants","Iraqi forces , militants",EQUI,5,EQUI,EQUI
+Battle,battle,EQUI,5,EQUI,EQUI
+',-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,of care delays,NOALI,0,NOALI,NOALI
+over halal meat,-not aligned-,NOALI,0,NOALI,NOALI
+no concerns,-not aligned-,NOALI,0,NOALI,NOALI
+Cameron,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,cover-up,NOALI,0,NOALI,NOALI
+-not aligned-,Veterans health probe,NOALI,0,NOALI,NOALI
+-not aligned-,confirms,NOALI,0,NOALI,NOALI
+has,-not aligned-,NOALI,0,NOALI,NOALI
+',-not aligned-,NOALI,0,NOALI,NOALI
+nears,-not aligned-,NOALI,0,NOALI,NOALI
+arrested,arrested,EQUI,5,EQUI,EQUI
+Bangladesh factory owners,Bangladesh factory owners,EQUI,5,EQUI,EQUI
+as death toll,-not aligned-,NOALI,0,NOALI,NOALI
+350,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,on Wednesday,NOALI,0,NOALI,NOALI
+to press,-not aligned-,NOALI,0,NOALI,NOALI
+how,-not aligned-,NOALI,0,NOALI,NOALI
+EU foreign ministers,EU foreign ministers,EQUI,5,EQUI,EQUI
+Egypt,Egypt,EQUI,5,EQUI,EQUI
+to discuss,to discuss,EQUI,5,EQUI,EQUI
+over bloodshed,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+-not aligned-,Dig in,NOALI,0,NOALI,NOALI
+-not aligned-,and,NOALI,0,NOALI,NOALI
+crackdown threat,-not aligned-,NOALI,0,NOALI,NOALI
+Cairo protesters,In Cairo Camps Protesters,EQUI,5,SIMI,SIMI
+defy,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Live On,NOALI,0,NOALI,NOALI
+in drone strike,-not aligned-,NOALI,0,NOALI,NOALI
+killed,killed,EQUI,5,EQUI,EQUI
+Six,12,SIMI,3,SIMI,SIMI
+in N Waziristan,in Pakistan,SPE1,4,SIMI,SIMI
+-not aligned-,in bus accident,NOALI,0,NOALI,NOALI
+-not aligned-,warship,NOALI,0,NOALI,NOALI
+launches,-not aligned-,NOALI,0,NOALI,NOALI
+UN,UK,REL,4,NOALI,NOALI
+US$300 mil. appeal,to aid,SPE1,3,SPE1,SPE1
+for Philippines,Philippines,EQUI,5,EQUI,EQUI
+-not aligned-,sends,NOALI,0,NOALI,NOALI
+N Korea,North Korea,EQUI,5,EQUI,EQUI
+family reunions,Family Reunions,EQUI,5,EQUI,EQUI
+postpones,Postpones,EQUI,5,EQUI,EQUI
+with South,with South,EQUI,5,EQUI,EQUI
+hails,-not aligned-,NOALI,0,NOALI,NOALI
+N. Korea,North Korea,EQUI,5,EQUI,EQUI
+of powerful uncle,of powerful uncle,EQUI,5,EQUI,EQUI
+execution,behind sacking,SIMI,2,NOALI,NOALI
+-not aligned-,seen,NOALI,0,NOALI,NOALI
+'s Kim,'s Kim,EQUI,5,EQUI,EQUI
+sentenced,sentenced,EQUI,5,EQUI,EQUI
+to death,to death,EQUI,5,EQUI,EQUI
+married,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,frees,NOALI,0,NOALI,NOALI
+a Christian man,-not aligned-,NOALI,0,NOALI,NOALI
+for ' apostasy ',for apostasy,EQUI,5,EQUI,EQUI
+Pregnant Sudan woman,Christian woman,SIMI,3,REL,REL
+-not aligned-,Sudan,NOALI,0,NOALI,NOALI
+who,Christian woman,SIMI,3,NOALI,NOALI
+for help,to Act,SIMI,3,SIMI,SIMI
+-not aligned-,Kerry,NOALI,0,NOALI,NOALI
+Libya,-not aligned-,NOALI,0,NOALI,NOALI
+UN Security Council,UN Security Council,EQUI,5,EQUI,EQUI
+-not aligned-,on Syria,NOALI,0,NOALI,NOALI
+asks,Calls On,SIMI,3,SPE1,SPE1
+from Baghdad bombs,from Egypt clashes,SIMI,2,REL,REL
+to 19,to 57,SIMI,2,SIMI,SIMI
+rises,rises,EQUI,5,EQUI,EQUI
+Death toll,Death toll,EQUI,5,EQUI,EQUI
+in Syria,on Syria,EQUI,5,SIMI,SIMI
+Says,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,EU,NOALI,0,NOALI,NOALI
+-not aligned-,united,NOALI,0,NOALI,NOALI
+',-not aligned-,NOALI,0,NOALI,NOALI
+Responsibilities,-not aligned-,NOALI,0,NOALI,NOALI
+France,France,EQUI,5,EQUI,EQUI
+-not aligned-,to be,NOALI,0,NOALI,NOALI
+Won't ' Shirk,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,urges,NOALI,0,NOALI,NOALI
+Boeing 777 plane,Plane,SPE1,4,SIMI,SIMI
+crash-lands,crash lands,EQUI,5,EQUI,EQUI
+at San Francisco airport,at San Francisco airport,EQUI,5,EQUI,EQUI
+-not aligned-,of Crimea,NOALI,0,NOALI,NOALI
+EU,-not aligned-,NOALI,0,NOALI,NOALI
+urges,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,the de-facto annexation,NOALI,0,NOALI,NOALI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+on Crimea,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,This,NOALI,0,NOALI,NOALI
+strong action,-not aligned-,NOALI,0,NOALI,NOALI
+to take,-not aligned-,NOALI,0,NOALI,NOALI
+Tymoshenko,Ukraine crisis,REL,4,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+for new show,on stage,REL,4,SIMI,SIMI
+to reunite,to reunite,EQUI,5,EQUI,EQUI
+Monty Python,Monty Python,EQUI,5,EQUI,EQUI
+turns,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,At least,NOALI,0,NOALI,NOALI
+Record-setting Southwest heat wave,in Southwest heat wave,SPE1,4,SIMI,SIMI
+fatal,"1 dead , 40 hospitalized",REL,3,SIMI,SIMI
+at S Carolina oceanfront motel,-not aligned-,NOALI,0,NOALI,NOALI
+hurt,injured,EQUI,5,EQUI,EQUI
+in shooting,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,in train collision,NOALI,0,NOALI,NOALI
+1,30,SIMI,2,NOALI,NOALI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,near Moscow,NOALI,0,NOALI,NOALI
+3 dead,4 dead,SIMI,4,SIMI,SIMI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+Nigerian leader,-not aligned-,NOALI,0,NOALI,NOALI
+to free,to free,EQUI,5,EQUI,EQUI
+orders,mounts,SIMI,2,NOALI,NOALI
+push,Pressure,SIMI,3,SIMI,SIMI
+abducted schoolgirls,kidnapped girls,SPE1,4,EQUI,EQUI
+religious motive,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,in hospital bed,NOALI,0,NOALI,NOALI
+seen,-not aligned-,NOALI,0,NOALI,NOALI
+charged,charged,EQUI,5,EQUI,EQUI
+;,-not aligned-,NOALI,0,NOALI,NOALI
+Boston bomb suspect,Boston bombing suspect,EQUI,5,EQUI,EQUI
+Scores,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Turkey,NOALI,0,NOALI,NOALI
+-not aligned-,'s PM,NOALI,0,NOALI,NOALI
+-not aligned-,Warns Against,NOALI,0,NOALI,NOALI
+Killed,-not aligned-,NOALI,0,NOALI,NOALI
+In Egyptian Protests,Protests,SPE1,4,SIMI,SIMI
+higher,higher,EQUI,5,EQUI,EQUI
+0.56 pct,0.5 pct,SIMI,4,SIMI,SIMI
+Taiwan stocks,Singapore stocks,SIMI,3,SIMI,SIMI
+close,close,EQUI,5,EQUI,EQUI
+Cypriot Finance Minister Michalis Sarris,Cyprus finance minister,SPE1,4,SIMI,SIMI
+resigns,resigns,EQUI,5,EQUI,EQUI
+25 policemen,25 policemen,EQUI,5,EQUI,EQUI
+deepens,deepens,EQUI,5,EQUI,EQUI
+militants,as Sinai attack,SPE2,3,REL,REL
+;,-not aligned-,NOALI,0,NOALI,NOALI
+kill,kills,EQUI,5,SPE1,SPE1
+Egypt turmoil,Egypt 's turmoil,EQUI,5,SPE1,SPE1
+said,accused,SIMI,3,OPPO,OPPO
+to pay off,of bribing,EQUI,5,SPE1,SPE1
+' bunga bunga ' witnesses,witnesses in prostitution trial,SIMI,4,SPE2,SPE2
+Berlusconi,Berlusconi,EQUI,5,EQUI,EQUI
+finally,-not aligned-,NOALI,0,NOALI,NOALI
+for Apple,In A Multi-Platform World,REL,3,NOALI,NOALI
+unveils,-not aligned-,NOALI,0,NOALI,NOALI
+Microsoft Office,Microsoft And Office,EQUI,5,SIMI,SIMI
+'s iPad,-not aligned-,NOALI,0,NOALI,NOALI
+Glee star Cory Monteith,' Glee ' star Cory Monteith,EQUI,5,EQUI,EQUI
+dead,dead,EQUI,5,EQUI,EQUI
+in hotel room,-not aligned-,NOALI,0,NOALI,NOALI
+found,found,EQUI,5,EQUI,EQUI
+in Canada,-not aligned-,NOALI,0,NOALI,NOALI
+praises,-not aligned-,NOALI,0,NOALI,NOALI
+to render,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,detains,NOALI,0,NOALI,NOALI
+to Ukraine,-not aligned-,NOALI,0,NOALI,NOALI
+Russia,Russia,EQUI,5,EQUI,EQUI
+idea,-not aligned-,NOALI,0,NOALI,NOALI
+rights assistance,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,in Moscow raid,NOALI,0,NOALI,NOALI
+-not aligned-,suspected Islamist militants,NOALI,0,NOALI,NOALI
+second suspect,Brothers,SPE1,2,NOALI,NOALI
+in Mother,in Mother,EQUI,5,EQUI,EQUI
+'s Day parade shooting,'s Day parade shooting,EQUI,5,EQUI,EQUI
+arrest,arrested,EQUI,5,SPE2,SPE2
+New Orleans police,-not aligned-,NOALI,0,NOALI,NOALI
+revolution,Muslim Brotherhood,REL,4,SIMI,SIMI
+swamp,storm,SIMI,2,REL,REL
+to reclaim,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,'s HQ,NOALI,0,NOALI,NOALI
+-not aligned-,Egypt,NOALI,0,NOALI,NOALI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+streets,-not aligned-,NOALI,0,NOALI,NOALI
+Protesters,Protesters,EQUI,5,EQUI,EQUI
+end,open,OPPO,4,OPPO,OPPO
+higher,higher,EQUI,5,EQUI,EQUI
+Hong Kong stocks,Indian stocks,SIMI,3,SIMI,SIMI
+takes,took,SIMI,4,EQUI,EQUI
+Poll,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,cocaine,NOALI,0,NOALI,NOALI
+-not aligned-,',NOALI,0,NOALI,NOALI
+-not aligned-,',NOALI,0,NOALI,NOALI
+Cory Booker,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,every day,NOALI,0,NOALI,NOALI
+:,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,for a decade,NOALI,0,NOALI,NOALI
+-not aligned-,Nigella Lawson,NOALI,0,NOALI,NOALI
+for N.J. Senate,-not aligned-,NOALI,0,NOALI,NOALI
+early lead,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,',NOALI,0,NOALI,NOALI
+Malaysian jet,jet,SPE1,4,SIMI,SIMI
+Rebels,Rebels,EQUI,5,EQUI,EQUI
+by mistake,by mistake,EQUI,5,EQUI,EQUI
+',-not aligned-,NOALI,0,NOALI,NOALI
+downed,downed,EQUI,5,EQUI,EQUI
+',-not aligned-,NOALI,0,NOALI,NOALI
+U.S. officials,-not aligned-,NOALI,0,NOALI,NOALI
+likely,likely,EQUI,5,EQUI,EQUI
+-,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,',NOALI,0,NOALI,NOALI
+38,31,SIMI,4,SIMI,SIMI
+"of bombings , shootings","of car bombs , other attacks",SPE2,3,SIMI,SIMI
+Wave,Wave,EQUI,5,EQUI,EQUI
+kill,kill,EQUI,5,EQUI,EQUI
+in Iraq,in Iraq,EQUI,5,EQUI,EQUI
+-not aligned-,Prime time,NOALI,0,NOALI,NOALI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+on Syria,on Syria,EQUI,5,EQUI,EQUI
+Didier Reynders,Obama,SIMI,3,REL,REL
+-not aligned-,'s day,NOALI,0,NOALI,NOALI
+to know,to know,EQUI,5,EQUI,EQUI
+Tuesday,on Friday,SIMI,3,OPPO,OPPO
+need,need,EQUI,5,EQUI,EQUI
+you,you,EQUI,5,EQUI,EQUI
+5 things,5 things,EQUI,5,EQUI,EQUI
+Mubarak 's release,Mubarak release,EQUI,5,EQUI,EQUI
+considers,orders,REL,3,NOALI,NOALI
+Egyptian court,Egypt court,EQUI,5,EQUI,EQUI
+in Gaza,in Gaza,EQUI,5,EQUI,EQUI
+U.N. Security Council,U.N. Security Council,EQUI,5,EQUI,EQUI
+for humanitarian ceasefire,for Unconditional Cease-Fire,EQUI,5,SIMI,SIMI
+calls,Calls,EQUI,5,EQUI,EQUI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+Pakistani Taliban chief Hakimullah Mehsud,Pakistani Taliban ' elect new chief ',SPE1,3,SPE2,SPE2
+in drone strike,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,' unprecedented ' revenge,NOALI,0,NOALI,NOALI
+-not aligned-,vow,NOALI,0,NOALI,NOALI
+killed,-not aligned-,NOALI,0,NOALI,NOALI
+Contained,contained,EQUI,5,EQUI,EQUI
+That,that,EQUI,5,EQUI,EQUI
+Blaze,Arizona wildfire,SPE2,4,SIMI,SIMI
+Now,now,EQUI,5,EQUI,EQUI
+Killed,killed,EQUI,5,EQUI,EQUI
+19 Firefighters,19 Hotshots,SPE2,4,SIMI,SIMI
+Canada,Canadian government,EQUI,5,SPE1,SPE1
+oil pipeline,controversial oil pipeline,SPE2,4,SPE1,SPE1
+to the Pacific Coast,to Pacific,SPE1,4,SIMI,SIMI
+approves,approves,EQUI,5,EQUI,EQUI
+Leaves,hires,REL,4,NOALI,NOALI
+Man United,Man United,EQUI,5,EQUI,EQUI
+as Manager,Ferguson,SPE2,4,NOALI,NOALI
+Moyes,Moyes,EQUI,5,EQUI,EQUI
+Says,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,to replace,NOALI,0,NOALI,NOALI
+of collapse,-not aligned-,NOALI,0,NOALI,NOALI
+Syria opposition unity,Syria divided opposition,OPPO,4,OPPO,OPPO
+-not aligned-,struggles,NOALI,0,NOALI,NOALI
+face specter,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,within wider Syrian struggle,NOALI,0,NOALI,NOALI
+take,-not aligned-,NOALI,0,NOALI,NOALI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+at 87,at 87,EQUI,5,EQUI,EQUI
+dead,dies,EQUI,5,EQUI,EQUI
+"Margaret Thatcher , former U.K. PM",Margaret Thatcher,SPE1,4,SIMI,SIMI
+extends,drops,SIMI,2,OPPO,OPPO
+EU,Nigeria,REL,3,NOALI,NOALI
+sanctions,arms trafficking charges,SPE2,3,NOALI,NOALI
+against Russia,against Russian sailors,SPE2,4,SPE1,SPE1
+Apr 2,Thursday,REL,3,SIMI,SIMI
+-,-not aligned-,NOALI,0,NOALI,NOALI
+higher,lower,OPPO,4,OPPO,OPPO
+open,open,EQUI,5,EQUI,EQUI
+Chinese stocks,Chinese stocks,EQUI,5,EQUI,EQUI
+Obama,Obama,EQUI,5,EQUI,EQUI
+names,to name,EQUI,5,SIMI,SIMI
+outspoken Rice,Susan Rice,EQUI,5,EQUI,EQUI
+as his security adviser,as national security adviser,SPE2,4,SIMI,SIMI
+in Aleppo,in Aleppo,EQUI,5,EQUI,EQUI
+:,-not aligned-,NOALI,0,NOALI,NOALI
+kills,Kill,EQUI,5,EQUI,EQUI
+21,15,SIMI,3,NOALI,NOALI
+-not aligned-,at Least,NOALI,0,NOALI,NOALI
+Syrian airstrike,New Syrian Airstrikes,SPE1,4,SIMI,SIMI
+Activists,-not aligned-,NOALI,0,NOALI,NOALI
+Angelina Jolie,Angelina Jolie,EQUI,5,EQUI,EQUI
+"""",-not aligned-,NOALI,0,NOALI,NOALI
+for support,-not aligned-,NOALI,0,NOALI,NOALI
+after double mastectomy,double mastectomy,EQUI,5,SIMI,SIMI
+"""",-not aligned-,NOALI,0,NOALI,NOALI
+very grateful,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,undergoes,NOALI,0,NOALI,NOALI
+India Ink,India Ink,EQUI,5,EQUI,EQUI
+of the Day,of the Day,EQUI,5,EQUI,EQUI
+April 21,May 2,SIMI,3,OPPO,OPPO
+Image,Image,EQUI,5,EQUI,EQUI
+:,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+:,-not aligned-,NOALI,0,NOALI,NOALI
+in bombings and shootings,Bombings and a shooting,EQUI,5,SIMI,SIMI
+-not aligned-,8,NOALI,0,NOALI,NOALI
+Deaths,kill,EQUI,5,OPPO,OPPO
+across Iraq,in Iraq,EQUI,5,SIMI,SIMI
+nine police,eight Kurdish security forces personnel,SPE2,3,SIMI,SIMI
+kills,kills,EQUI,5,EQUI,EQUI
+in north Iraq,in Iraq,SPE1,4,SIMI,SIMI
+Suicide bomber,Suicide bomber,EQUI,5,EQUI,EQUI
+to announce,-not aligned-,NOALI,0,NOALI,NOALI
+presidency bid,for presidential bid,EQUI,5,EQUI,EQUI
+poised,paves way,SIMI,3,REL,REL
+'s Sisi,'s Sisi,EQUI,5,EQUI,EQUI
+Egypt,Egypt,EQUI,5,EQUI,EQUI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+killed,killed,EQUI,5,EQUI,EQUI
+6,six,EQUI,5,EQUI,EQUI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+injured,injured,EQUI,5,EQUI,EQUI
+3,Three,EQUI,5,EQUI,EQUI
+in Afghan blasts,in Afghan blasts,EQUI,5,EQUI,EQUI
+filibustering,filibusters,EQUI,5,EQUI,EQUI
+still,-not aligned-,NOALI,0,NOALI,NOALI
+Texas senator,Texas senator,EQUI,5,EQUI,EQUI
+abortion bill,against abortion bill,EQUI,5,OPPO,OPPO
+drops,to file,SIMI,3,NOALI,NOALI
+against Greenpeace activists,against Greenpeace,SPE1,4,SIMI,SIMI
+charges,piracy charges,SPE2,4,SPE2,SPE2
+Russia,Russia,EQUI,5,EQUI,EQUI
+in Turkey,in Kiev,REL,1,SIMI,SIMI
+clash,clash,EQUI,5,EQUI,EQUI
+Protesters,Protesters,EQUI,5,EQUI,EQUI
+with police,with riot police,SPE2,4,SPE1,SPE1
+Nigerian police,Nigeria,REL,3,SIMI,SIMI
+protests,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,',NOALI,0,NOALI,NOALI
+-not aligned-,all options,NOALI,0,NOALI,NOALI
+ban,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,',NOALI,0,NOALI,NOALI
+over kidnapped girls,over kidnapped girls,EQUI,5,EQUI,EQUI
+-not aligned-,reviewing,NOALI,0,NOALI,NOALI
+-not aligned-,dismisses,NOALI,0,NOALI,NOALI
+signs,-not aligned-,NOALI,0,NOALI,NOALI
+finalizes,-not aligned-,NOALI,0,NOALI,NOALI
+Crimea annexation,Crimea 's independence,OPPO,4,OPPO,OPPO
+-not aligned-,'s top court,NOALI,0,NOALI,NOALI
+as Russia,-not aligned-,NOALI,0,NOALI,NOALI
+EU trade pact,"as "" unconstitutional """,REL,2,OPPO,OPPO
+Ukraine,Ukraine,EQUI,5,EQUI,EQUI
+are built,-not aligned-,NOALI,0,NOALI,NOALI
+The foundations,-not aligned-,NOALI,0,NOALI,NOALI
+on Nelson Mandela,over Nelson Mandela,EQUI,5,SIMI,SIMI
+of South Africa,-not aligned-,NOALI,0,NOALI,NOALI
+'s memory,'s death,REL,4,SIMI,SIMI
+-not aligned-,Australian politicians,NOALI,0,NOALI,NOALI
+-not aligned-,lament,NOALI,0,NOALI,NOALI
+of Ariel Sharon,of Ariel Sharon,EQUI,5,EQUI,EQUI
+:,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+On War Criminals and Heroes,On war criminals and heroes,EQUI,5,EQUI,EQUI
+The Whitewashing,The whitewashing,EQUI,5,EQUI,EQUI
+killed,killed,EQUI,5,EQUI,EQUI
+Two French journalists,two French journalists,EQUI,5,EQUI,EQUI
+-not aligned-,France,NOALI,0,NOALI,NOALI
+in Mali,in Mali,EQUI,5,EQUI,EQUI
+-not aligned-,confirms,NOALI,0,NOALI,NOALI
+China yuan,China yuan,EQUI,5,EQUI,EQUI
+to 6.1184,to 6.1510,SIMI,4,SIMI,SIMI
+against USD,against USD,EQUI,5,EQUI,EQUI
+strengthens,weakens,OPPO,4,OPPO,OPPO
+Tuesday,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,on flight,NOALI,0,NOALI,NOALI
+loses contact,vanishes,SIMI,4,SIMI,SIMI
+to Beijing,to Beijing,EQUI,5,EQUI,EQUI
+239,-not aligned-,NOALI,0,NOALI,NOALI
+carrying,-not aligned-,NOALI,0,NOALI,NOALI
+Malaysia Airlines with plane,Malaysia Airlines plane,EQUI,5,EQUI,EQUI
+embroiled,steps down,REL,3,NOALI,NOALI
+Tehelka editor,Tehelka editor,EQUI,5,EQUI,EQUI
+in sex assault scam,after allegations of sexual misconduct,SIMI,4,SPE1,SPE1
+-not aligned-,fires,NOALI,0,NOALI,NOALI
+Facts,-not aligned-,NOALI,0,NOALI,NOALI
+'s Musudan missile,another missile,SPE1,4,SIMI,SIMI
+about North Korea,North Korea,EQUI,5,EQUI,EQUI
+now,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+-not aligned-,Video,NOALI,0,NOALI,NOALI
+who,Gunman,EQUI,5,NOALI,NOALI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+Gunman,Gunman,EQUI,5,EQUI,EQUI
+suburban Atlanta firefighters hostage,Firefighters Hostage in Georgia,SPE1,4,EQUI,EQUI
+police,-not aligned-,NOALI,5,NOALI,NOALI
+held,Takes,EQUI,5,NOALI,NOALI
+dead,-not aligned-,NOALI,0,NOALI,NOALI
+say,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,The Lede,NOALI,0,NOALI,NOALI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+-not aligned-,formally,NOALI,0,NOALI,NOALI
+to join,to join,EQUI,5,EQUI,EQUI
+votes,applies,SIMI,3,NOALI,NOALI
+Crimea parliament,Crimean parliament,EQUI,5,EQUI,EQUI
+Russia,Russia,EQUI,5,EQUI,EQUI
+lower,lower,EQUI,5,EQUI,EQUI
+open,close,OPPO,4,OPPO,OPPO
+China stocks,China 's stocks,EQUI,5,EQUI,EQUI
+on Wednesday,on Monday,SIMI,3,OPPO,OPPO
+-not aligned-,'s 50p tax rate,NOALI,0,NOALI,NOALI
+what,what,EQUI,5,EQUI,EQUI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+need,need,EQUI,5,EQUI,EQUI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+you,you,EQUI,5,EQUI,EQUI
+-not aligned-,Labour,NOALI,0,NOALI,NOALI
+World News Update,-not aligned-,NOALI,0,NOALI,NOALI
+to know,to know,EQUI,5,EQUI,EQUI
+Stocks,Stocks,EQUI,5,EQUI,EQUI
+in early trading,in early trading,EQUI,5,EQUI,EQUI
+rise,inch higher,SPE2,4,SIMI,SIMI
+Twitter shares,Twitter shares,EQUI,5,EQUI,EQUI
+rocket,rocket,EQUI,5,EQUI,EQUI
+at opening,as trading begins,EQUI,5,SIMI,SIMI
+outside two mosques,city,REL,3,NOALI,NOALI
+29,-not aligned-,NOALI,0,NOALI,NOALI
+in Lebanon 's Tripoli,in northern Lebanon,SPE1,4,SIMI,SIMI
+kill,rock,SPE1,3,SIMI,SIMI
+Explosions,2 explosions,SPE2,4,SPE1,SPE1
+Next Iran nuclear talks,Iran Nuclear deal,REL,4,SIMI,SIMI
+due,to be implemented,SIMI,3,NOALI,NOALI
+-,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+IRNA,-not aligned-,NOALI,0,NOALI,NOALI
+on June 16-20,on January 20,SIMI,2,SIMI,SIMI
+Russian coal mines,-not aligned-,NOALI,0,NOALI,NOALI
+in China,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Russian foreign minister,NOALI,0,NOALI,NOALI
+seek,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,to meet,NOALI,0,NOALI,NOALI
+new outlets,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,UN chief,NOALI,0,NOALI,NOALI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+Outrage,Outrage,EQUI,5,EQUI,EQUI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+raped,Raped,EQUI,5,EQUI,EQUI
+emerge,-not aligned-,NOALI,0,NOALI,NOALI
+at school,at Her School,SPE2,4,SPE1,SPE1
+after reports,-not aligned-,NOALI,0,NOALI,NOALI
+about 6-year-old Indian girl,After Indian Girl 6,EQUI,5,SIMI,SIMI
+-not aligned-,at 93,NOALI,0,NOALI,NOALI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+dies,dies,EQUI,5,EQUI,EQUI
+Ovadia Yosef,Rabbi Ovadia Yosef,EQUI,5,SPE1,SPE1
+-not aligned-,",",NOALI,0,NOALI,NOALI
+rabbi and Israeli kingmaker,kingmaker of Israeli politics,EQUI,5,SPE1,SPE1
+early voting,-not aligned-,NOALI,0,NOALI,NOALI
+for disputed election,outside polling station,REL,3,SIMI,SIMI
+disrupt,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,dead,NOALI,0,NOALI,NOALI
+Thai protesters,Thai protest leader,REL,4,SPE2,SPE2
+-not aligned-,shot,NOALI,0,NOALI,NOALI
+of fiery bus crash,-not aligned-,NOALI,0,NOALI,NOALI
+Most victims,38 bodies of victims,SPE2,3,SPE2,SPE2
+identified,identified,EQUI,5,EQUI,EQUI
+in blast,in apartment blast,SPE2,4,SIMI,SIMI
+hurt,injured,EQUI,5,EQUI,EQUI
+Palestinian diplomat,Palestinian ambassador,SPE2,4,SPE1,SPE1

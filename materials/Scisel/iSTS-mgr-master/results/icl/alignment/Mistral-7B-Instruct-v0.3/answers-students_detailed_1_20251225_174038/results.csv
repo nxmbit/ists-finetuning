@@ -1,0 +1,1841 @@
+text_source,text_translation,alignment,score,preds,response
+both,Bulbs A and C,EQUI,5,REL, REL
+have,are,EQUI,5,SIMI, SIMI
+still,still,EQUI,5,EQUI, EQUI
+bulbs a and c,Bulbs A and C,EQUI,5,EQUI, EQUI
+a closed path,in closed paths,SPE1,4,EQUI, EQUI
+are connected.,are separated,OPPO,4,OPPO, OPPO
+-not aligned-,by the gap,NOALI,0,REL, REL
+terminal 1 and the positive terminal,Terminal 1 and the positive terminal,EQUI,5,EQUI, EQUI
+positive battery from terminal 2,Terminal 2 and the positive terminal,EQUI,5,SIMI, SIMI
+by a gap,by the gap,EQUI,5,EQUI, EQUI
+is seperated,are separated,EQUI,5,SIMI, SIMI
+There,-not aligned-,NOALI,0,NOALI, NOALI
+no difference,in the same state.,SIMI,3,SIMI, SIMI
+is,are,EQUI,5,EQUI, EQUI
+between the two terminals.,The terminals,SPE1,4,SIMI, SIMI
+in the same path,in the same path,EQUI,5,SIMI, SIMI
+has to be contained,have to be,EQUI,5,SIMI, SIMI
+the switch the bulb and the battery,The switch and the bulb,SPE2,4,SIMI," SIMI (both chunks have similar meanings, they share similar attributes and there is no EQUI, OPPO, SPE1 or SPE2 relation)"
+as,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+in terminal 1,Terminals 1 and 2,SPE1,4,REL," REL (Both chunks are related, but not semantically equivalent, as one refers to a specific terminal and the other to both terminals.)"
+there,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [there], Chunk 2: [-not aligned-])"
+a gap,in the same electrical state,REL,2,OPPO, OPPO
+is,are,SIMI,3,OPPO, OPPO
+uses,uses,EQUI,5,EQUI, EQUI
+to create,to maintain,SIMI,2,REL," REL (both chunks are related, but not EQUI, OPPO, SPE1, SPE2, or SIMI)"
+the chemical reation,a chemical reaction,EQUI,5,EQUI, EQUI
+voltage,different electrical states,REL,3,REL, REL
+-not aligned-,at the terminals,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+The battery,A battery,EQUI,5,EQUI, EQUI
+uses,uses,EQUI,5,EQUI, EQUI
+to create,to maintain,SIMI,2,SIMI, SIMI
+voltage,different electrical states,REL,3,REL, REL
+a chemical reaction,a chemical reaction,EQUI,5,EQUI, EQUI
+a batter,A battery,EQUI,5,EQUI, EQUI
+-not aligned-,at the terminals,NOALI,0,NOALI, NOALI (Chunk 1) and SIMI (Chunk 2)
+the battery,The battery,EQUI,5,EQUI, EQUI
+is,is contained,EQUI,5,SIMI, SIMI
+in a closed path,in a path,EQUI,5,SIMI, SIMI
+alone,does not contain any other components,EQUI,5,SIMI, SIMI
+in a closed path,which,EQUI,5,REL, REL
+there,there,EQUI,5,EQUI, EQUI
+a gap,a gap,EQUI,5,EQUI, EQUI
+Because,-not aligned-,NOALI,0,NOALI, NOALI
+in the circuit.,in the circuit,EQUI,5,EQUI, EQUI
+is,is,EQUI,5,SIMI, SIMI
+within the same path,in a separate path,REL,4,OPPO, OPPO
+are not,is,OPPO,4,OPPO, OPPO
+as,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [as], Chunk 2: [-not aligned-])"
+Bulbs A and B,-not aligned-,NOALI,0,NOALI, NOALI
+bulb C.,Bulb C,EQUI,5,EQUI, EQUI
+-not aligned-,Terminals 1 and 2,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 has no corresponding chunk in Chunk 1)
+was,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+there,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [there], Chunk 2: [-not aligned-])"
+two negative connections,are connected,REL,2,OPPO, OPPO
+-not aligned-,B and C,NOALI,0,NOALI," NOALI, SIMI (since neither chunk has a corresponding meaning in the other sentence, but they can be considered similar as they both represent multiple entities, albeit different ones)"
+with the battery,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,a different path,NOALI,0,NOALI," NOALI, NOALI, REL (since ""a different path"" is related to the first chunk, but not semantically equivalent, more specific, opposite, or similar)"
+-not aligned-,containing,NOALI,0,NOALI," NOALI, NOALI, NOALI (since there is no corresponding chunk in the other sentence)"
+-not aligned-,there,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+is,containing,SIMI,3,EQUI, EQUI
+-not aligned-,and,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+on a closed path,a path,EQUI,5,SIMI, SIMI
+bulb a,A,EQUI,5,SIMI, SIMI
+to the positive terminal.,to the positive battery terminal,EQUI,5,EQUI, EQUI
+the other terminals,"Terminals 4, 5 and 6",SPE2,3,SIMI, SIMI
+are connected,are connected,EQUI,5,EQUI, EQUI
+the path.,an open path,OPPO,4,SIMI, SIMI
+takes away,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+The bulb,-not aligned-,NOALI,0,NOALI, NOALI
+-not aligned-,is,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,there,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [there])"
+no gap,by the gap,OPPO,4,REL, REL (both chunks are not considered similar but they are closely related by some relation not mentioned above)
+is,are not separated,OPPO,4,OPPO, OPPO
+between the positive terminal and terminal 4,Terminal 4 and the positive terminal,EQUI,5,EQUI, EQUI
+There,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+-not aligned-,"burns out,",NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,neither B nor C,NOALI,0,NOALI, NOALI (for Chunk 1) and SIMI (for Chunk 2)
+Bulb a,bulb A,EQUI,5,EQUI, EQUI
+a gap,in a closed path,REL,4,OPPO, OPPO
+-not aligned-,If,NOALI,0,NOALI," NOALI (Chunk 1) and SIMI (Chunk 2) as 'If' does not have a corresponding meaning in the first chunk, but it is related to the concept of conditionality in the second chunk."
+created,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+terminal 6 to the positive terminal,Terminal 6 and the positive terminal,EQUI,5,EQUI, EQUI
+of the battery,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+is connected,are connected,EQUI,5,EQUI, EQUI
+the bulb,the battery,REL,4,REL, REL
+is,is,EQUI,5,EQUI, EQUI
+in a closed circuit,in an open path,REL,4,OPPO, OPPO
+is not closed,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 has no corresponding chunk in Chunk 1)
+around the battery.,The battery,EQUI,5,REL, REL
+-not aligned-,is not,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,in 2,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+The circuit,in a closed path,REL,4,REL, REL
+in a closed path.,which,EQUI,5,REL," REL (since ""in a closed path"" and ""which"" are not semantically equivalent, related but not in a way that fits EQUI, OPPO, SPE1, SPE2, or SIMI)"
+the bulb,The battery,REL,4,REL, REL
+-not aligned-,any other components,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+in a closed path.,in a path,EQUI,5,REL, REL (both chunks are not considered similar but they are closely related by some relation not mentioned above)
+-not aligned-,does not contain,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+is not contained,is contained,OPPO,4,OPPO, OPPO
+There,there,EQUI,5,EQUI, EQUI
+in the circuit.,in a circuit,EQUI,5,SIMI, SIMI
+a gap,a gap,EQUI,5,EQUI, EQUI
+is,is,EQUI,5,EQUI, EQUI
+Bulb B and bulb C,bulbs A and B,SIMI,4,REL, REL
+are,are,EQUI,5,EQUI, EQUI
+with the battery.,with the battery,EQUI,5,EQUI, EQUI
+on closed paths,in closed paths,EQUI,5,SIMI, SIMI
+still,still,EQUI,5,EQUI, EQUI
+has,was contained,SIMI,4,SIMI," SIMI (both chunks have similar meanings, they share similar attributes and there is no EQUI, OPPO, SPE1 or SPE2 relation)"
+Bulb A,Bulb A,EQUI,5,EQUI, EQUI
+-not aligned-,with the battery.,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,still,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+a closed pathway,in the same closed path,SPE2,4,SIMI, SIMI
+as,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+in the same closed path,in a separate path,REL,4,OPPO, OPPO
+are not,is,OPPO,4,OPPO, OPPO
+bulbs a and c,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 has no corresponding chunk in Chunk 1)
+bulb b,Bulb B,EQUI,5,SIMI, SIMI
+-not aligned-,in 2,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+in the circuit.,in a closed path,REL,4,REL," REL (Both chunks are related, but not EQUI, OPPO, SPE1, SPE2, or SIMI as they refer to different aspects of a circuit: ""in the circuit"" and ""in a closed path"".)"
+is involved,is not,OPPO,4,OPPO, OPPO
+Only one terminal,The battery,REL,3,REL," REL (The battery is related to the concept of a terminal in an electrical circuit, but they are not semantically equivalent, opposite, more specific, or similar in the given context.)"
+-not aligned-,still,NOALI,0,NOALI, NOALI (Chunk 1) and SIMI (Chunk 2)
+-not aligned-,was,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+between the battery,with the battery.,SIMI,4,EQUI, EQUI
+-not aligned-,Bulb A,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [Bulb A])"
+was,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [was], Chunk 2: [-not aligned-])"
+there,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [there], Chunk 2: [-not aligned-])"
+-not aligned-,contained,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+closed paths,in the same closed path,SPE2,3,REL, REL
+separates,are separated,EQUI,5,EQUI, EQUI
+the positive battery terminal from terminal 2,Terminal 2 and the positive terminal,EQUI,5,SIMI, SIMI
+the gap,by the gap,EQUI,5,SIMI, SIMI
+in differentclosed paths.,in different paths,EQUI,5,SIMI, SIMI
+"bulb a, bulb b, and bulb c",A and C,SPE2,3,SIMI," SIMI (Chunks 1 and 2 have similar meanings as they both refer to multiple bulbs, although the specific bulbs mentioned in Chunk 1 are not explicitly mentioned in Chunk 2)"
+-not aligned-,with the battery,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+are contained,are,EQUI,5,OPPO, OPPO
+any bulb,each bulb,SPE2,3,SIMI, SIMI
+If,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [If], Chunk 2: [-not aligned-])"
+is blocked,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned)
+everything,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+the whole system,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+from the battery.,-not aligned-,NOALI,0,NOALI, NOALI
+affects,-not aligned-,NOALI,0,OPPO," OPPO (The meanings of the chunks are in opposition to each other, lying in an inherently incompatible binary relationship.)"
+"out,",in its own path,OPPO,4,SIMI," SIMI (both chunks have similar meanings, but chunk in sentence 1 is more general)"
+is,is,EQUI,5,EQUI, EQUI
+and,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [and], Chunk 2: [-not aligned-])"
+it,-not aligned-,NOALI,0,NOALI, NOALI
+-not aligned-,still,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+in the same path.,in a closed path,SPE1,4,REL, REL (both chunks are not considered similar but they are closely related by some relation not mentioned above)
+-not aligned-,with the battery,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+is not,is,OPPO,4,OPPO, OPPO
+-not aligned-,Bulb A,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+it,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [it], Chunk 2: [-not aligned-])"
+a gap in the path,in a closed path,OPPO,4,OPPO, OPPO
+-not aligned-,neither B nor C,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,If,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [If])"
+-not aligned-,"burns out,",NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [burns out,])"
+There,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+will be,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [will be], Chunk 2: [-not aligned-])"
+-not aligned-,bulb A,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+Bulb B and C,bulbs B and C,EQUI,5,SIMI, SIMI
+still,still,EQUI,5,EQUI, EQUI
+are contained,are,EQUI,5,REL," REL (both chunks are related, but not semantically equivalent, opposite, more specific, or similar)"
+in a path,in closed paths,SPE1,4,SIMI," SIMI (both chunks have similar meanings, they share similar attributes and there is no EQUI, OPPO, SPE1 or SPE2 relation)"
+with the battery,with the battery,EQUI,5,EQUI, EQUI
+with the battery.,with the battery,EQUI,5,EQUI, EQUI
+are contained,are,EQUI,5,SPE1, SPE1
+bulbs a and c,Bulbs A and C,EQUI,5,SIMI, SIMI
+still,still,EQUI,5,EQUI, EQUI
+in a closed path,in closed paths,EQUI,5,SPE2, SPE2
+Terminal one to the positive battery terminal,Terminal 1 and the positive terminal,EQUI,5,SIMI, SIMI
+is not connected,are not connected,EQUI,5,EQUI, EQUI
+bulb A and switch Z,Bulb A with the battery and switch Z.,SPE1,3,SIMI, SIMI
+-not aligned-,still,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+are,is contained,EQUI,5,SIMI, SIMI
+in a closed path,in a closed path,EQUI,5,EQUI, EQUI
+is connected,are connected,EQUI,5,EQUI, EQUI
+Terminal 5 to the postitive battery terminal,Terminal 5 and the positive terminal,EQUI,5,SIMI, SIMI
+is connected,are connected,EQUI,5,EQUI, EQUI
+Terminal 6 to the positive battery terminal,Terminal 6 and the positive terminal,EQUI,5,SPE1, SPE1
+that,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [that], Chunk 2: [-not aligned-])"
+the circuit,a short circuit,REL,4,REL, REL
+the red x,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [the red x], Chunk 2: [-not aligned-])"
+-not aligned-,there,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+safe.,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 has not any corresponding chunk in the other sentence)
+means,-not aligned-,NOALI,0,NOALI, NOALI
+-not aligned-,is,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+is not,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [is not], Chunk 2: [-not aligned-])"
+bulb A,bulb A,EQUI,5,EQUI, EQUI
+-not aligned-,"burns out,",NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+are,is,EQUI,5,SIMI, SIMI (both chunks have similar meanings)
+both,neither B nor C,OPPO,4,SIMI, SIMI
+in the same path,in a closed path,SPE1,4,SIMI, SIMI
+as,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,If,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+bulbs B and C,neither B nor C,OPPO,4,OPPO, OPPO
+you,-not aligned-,NOALI,0,NOALI, NOALI
+-not aligned-,means,NOALI,0,NOALI, NOALI (since Chunk 1 is not aligned with any chunk in Chunk 2)
+the electrical state non-zero,A non-zero voltage,REL,4,SIMI, SIMI
+in the circuit,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+can find,is,REL,3,SIMI, SIMI
+-not aligned-,there,NOALI,0,NOALI, NOALI
+-not aligned-,that,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [that])"
+the gap,a gap,EQUI,5,EQUI, EQUI
+is,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+if,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+is,does not contain,OPPO,4,OPPO, OPPO
+and,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [and], Chunk 2: [-not aligned-])"
+is contained,is contained,EQUI,5,SIMI, SIMI (both chunks have similar meanings)
+there,-not aligned-,NOALI,0,NOALI, NOALI
+in its pathway,which,EQUI,5,REL," REL (This relation is not mentioned above as EQUI, OPPO, SPE1, SPE2, or SIMI)"
+in a closed circuit,in a closed path,REL,4,SIMI, SIMI
+nothing,any other components,EQUI,5,REL, REL (both chunks are not considered similar but they are closely related by some relation not mentioned above)
+The battery,The battery,EQUI,5,EQUI, EQUI
+is not connected,are connected,OPPO,4,OPPO, OPPO
+A terminal to the positive battery terminal.,Terminals 1 and 4,SPE2,2,REL," REL (Both chunks are related, but not semantically equivalent, as Chunk 1 specifies a specific terminal connected to the positive battery terminal, while Chunk 2 only mentions two unspecified terminals.)"
+a gap,are connected,OPPO,4,OPPO, OPPO
+is,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [is], Chunk 2: [-not aligned-])"
+in the circuit,Terminals 1 and 4,REL,3,REL," REL (Both chunks are related, but not semantically equivalent, as ""in the circuit"" refers to the overall electrical pathway, while ""Terminals 1 and 4"" are specific points within that circuit.)"
+there,-not aligned-,NOALI,0,NOALI, NOALI
+is not seperated,are not separated,EQUI,5,EQUI, EQUI
+the positive terminal from terminal 5,Terminal 5 and the positive terminal,EQUI,5,EQUI, EQUI
+by a gap,by the gap,EQUI,5,EQUI, EQUI
+-not aligned-,whether,NOALI,0,NOALI," NOALI, SIMI (since ""whether"" is a question word that can be replaced with ""if"" or ""if not"", which is a bit more specific than the absence of alignment in Chunk 1)"
+-not aligned-,Measuring,NOALI,0,NOALI," NOALI, SIMI (since ""Measuring"" is a broader term that could encompass various activities, but it's not directly equivalent or opposite to the unaligned chunk)"
+-not aligned-,voltage,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+can,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 has no corresponding chunk in Chunk 1)
+-not aligned-,two terminals,NOALI,0,NOALI," NOALI, SIMI (assuming the ""two terminals"" refers to a specific pair of terminals, making it more specific than the generic ""-not aligned-"")"
+there,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [there], Chunk 2: [-not aligned-])"
+is,are separated,SPE2,2,OPPO, OPPO
+find,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned)
+a gap,by a gap.,EQUI,5,SIMI, SIMI
+-not aligned-,indicates,NOALI,0,NOALI, NOALI (since Chunk 1 is not aligned with any chunk in Chunk 2)
+You,-not aligned-,NOALI,0,NOALI, NOALI
+where,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 has no corresponding chunk in Chunk 1)
+with a gap,by the gap,EQUI,5,OPPO, OPPO
+has to do,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 has no corresponding chunk in Chunk 1)
+something,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+-not aligned-,Terminal 2 and the positive terminal,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,are separated,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+Because,-not aligned-,NOALI,0,NOALI, NOALI
+has,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+a voltage,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+-not aligned-,by the gap,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [by the gap])"
+-not aligned-,are separated,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+of 1.5 volts.,-not aligned-,NOALI,0,NOALI, NOALI
+the positive circuit,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,Terminal 1 and the positive terminal,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,to maintain,NOALI,0,REL, REL (both chunks are not considered similar but they are closely related by some relation not mentioned above)
+is,-not aligned-,NOALI,0,NOALI, NOALI
+a chemical reaction.,a chemical reaction,EQUI,5,EQUI, EQUI
+-not aligned-,uses,NOALI,0,NOALI," NOALI (Chunk 1) and SIMI (Chunk 2) since ""uses"" is a general term that could refer to many things, and the first chunk does not have a corresponding term in the second sentence."
+-not aligned-,A battery,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,at the terminals,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,different electrical states,NOALI,0,REL, REL
+There,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [There], Chunk 2: [-not aligned-])"
+the,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [the], Chunk 2: [-not aligned-])"
+in a closed path,in the same path,SPE2,4,SPE1, SPE1
+when,When,EQUI,5,EQUI, EQUI
+the switch with the bulb,the switch and the bulb,EQUI,5,SIMI, SIMI
+is,are contained,EQUI,5,SIMI, SIMI
+are,are,EQUI,5,EQUI, EQUI
+bulb b and c,B and C,EQUI,5,EQUI, EQUI
+in a closed path,in the same path,SPE2,4,SPE1, SPE1
+There,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+is,-not aligned-,NOALI,0,OPPO, OPPO
+a difference,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+in electrical states.,-not aligned-,NOALI,0,NOALI, NOALI
+-not aligned-,are not connected,NOALI,0,REL, REL
+-not aligned-,the terminals,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,between the terminals,NOALI,0,NOALI, NOALI (Chunk 1) and REL (Chunk 2)
+-not aligned-,no gap,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+will not light,-not aligned-,NOALI,0,NOALI, NOALI
+the bulb,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+bulb a and c,A and C,EQUI,5,EQUI, EQUI
+with the battery,with the battery,EQUI,5,EQUI, EQUI
+on the same path,in the same path,EQUI,5,EQUI, EQUI
+are contained,are not,OPPO,4,OPPO, OPPO
+The path does not close,in an open path,EQUI,5,SIMI, SIMI
+-not aligned-,is,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [is])"
+-not aligned-,the battery,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+The difference,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+between the electrical states,Terminal 1 and the positive terminal,REL,3,REL, REL
+-not aligned-,by the gap,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,are separated,NOALI,0,REL, REL
+1.5 volts,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+is,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [is], Chunk 2: [-not aligned-])"
+is,are,SIMI,4,EQUI, EQUI
+there,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [there], Chunk 2: [-not aligned-])"
+still,still,EQUI,5,EQUI, EQUI
+-not aligned-,"burns out,",NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,If,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,bulbs B and C,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+a closed path,in a closed path,EQUI,5,SIMI, SIMI
+-not aligned-,bulb A,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+a lost connection,are not connected.,EQUI,5,OPPO, OPPO
+-not aligned-,that,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,the terminals,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+causes,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+a gap,A non-zero voltage,REL,4,REL, REL
+-not aligned-,means,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+are connected,are connected,EQUI,5,EQUI, EQUI
+the positive terminal and terminal 6,Terminal 6 and the positive terminal,EQUI,5,EQUI, EQUI
+is connected,are connected,EQUI,5,EQUI, EQUI
+the positive terminal to terminal 6,Terminal 6 and the positive terminal,EQUI,5,EQUI, EQUI
+there,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [there], Chunk 2: [-not aligned-])"
+-not aligned-,to the negative battery terminal,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+at terminal 1,terminal 1,EQUI,5,EQUI, EQUI
+is no gap,is connected,EQUI,5,SIMI," SIMI (both chunks have similar meanings, they share similar attributes and there is no EQUI, OPPO, SPE1 or SPE2 relation)"
+Because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+terminal 6 to the positive terminal,Terminal 6 and the positive terminal,EQUI,5,SIMI," SIMI (both chunks have similar meanings, they share similar attributes and there is no EQUI, OPPO, SPE1 or SPE2 relation)"
+is conncted,are connected,EQUI,5,SIMI, SIMI
+the switch the bulb.,the switch and the bulb,EQUI,5,SIMI," SIMI (both chunks have similar meanings, they share similar attributes and there is no EQUI, OPPO, SPE1 or SPE2 relation.)"
+When,When,EQUI,5,SIMI, SIMI
+in the same papth,in the same path,EQUI,5,EQUI, EQUI
+as,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+is,are contained,EQUI,5,SIMI, SIMI (both chunks have similar meanings)
+Bulbs A and C,A and C,EQUI,5,EQUI, EQUI
+are,are,EQUI,5,EQUI, EQUI
+in separate paths.,in different paths,EQUI,5,SIMI, SIMI
+are,are,EQUI,5,EQUI, EQUI
+with the battery.,with the battery,EQUI,5,EQUI, EQUI
+in a closed path,in closed paths,SPE1,4,SPE1, SPE1
+bulb a and bulb b,bulbs A and B,EQUI,5,SIMI, SIMI
+still,still,EQUI,5,EQUI, EQUI
+The positive battery terminal from terminal 6,Terminal 6 and the positive terminal,EQUI,5,REL, REL
+by a gap,by the gap,EQUI,5,EQUI, EQUI
+was not separted,are not separated,SIMI,4,OPPO, OPPO
+-not aligned-,is,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,in a closed path,NOALI,0,NOALI," NOALI, SPE1"
+WIL BE CREATED,-not aligned-,NOALI,0,NOALI, NOALI
+-not aligned-,bulb A,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,neither B nor C,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,"burns out,",NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+A GAP,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [A GAP], Chunk 2: [-not aligned-])"
+-not aligned-,If,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [If])"
+with the battery,with the battery,EQUI,5,EQUI, EQUI
+in different paths,in different paths,EQUI,5,EQUI, EQUI
+are contained,are,EQUI,5,SIMI, SIMI
+bulb a and c,A and C,EQUI,5,EQUI, EQUI
+is connected,are connected,EQUI,5,SPE1," SPE1 (both chunks have similar meanings, but chunk in sentence 1 is more specific)"
+The positive terminal to terminal 4.,Terminal 4 and the positive terminal,EQUI,5,EQUI, EQUI
+-not aligned-,"burns out,",NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+inthe same path,in a closed path.,SPE1,4,SIMI, SIMI
+-not aligned-,If,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [If])"
+-not aligned-,A and B,NOALI,0,NOALI, NOALI (Chunk 1) and SIMI (Chunk 2)
+-not aligned-,then,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,C,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+not contained,are,OPPO,4,REL, REL
+-not aligned-,still,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,If,NOALI,0,NOALI, NOALI (for both chunks)
+a gap in the path,in a closed path,OPPO,4,OPPO, OPPO
+-not aligned-,still,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+does not create,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 does not have a corresponding chunk in Chunk 1)
+bulb c,C,EQUI,5,EQUI, EQUI
+for bulb b and a,A and B,SPE1,4,SIMI, SIMI
+-not aligned-,are,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,"damaged,",NOALI,0,REL," REL (Related but not EQUI, OPPO, SPE1, SPE2, SIMI, or NOALI)"
+the other terminals to the positive battery terminal,"Terminals 4, 5 and 6 to the positive battery terminal",SPE2,2,SIMI, SIMI
+becuase,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+are connected,are connected,EQUI,5,EQUI, EQUI
+terminal one and the positive battery terminal,terminal 1 to the negative battery terminal,SIMI,4,OPPO, OPPO
+are on a closed path,is connected,SIMI,4,REL, REL
+because,-not aligned-,NOALI,0,NOALI, NOALI
+will,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 has no corresponding chunk in Chunk 1)
+have,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [have], Chunk 2: [-not aligned-])"
+Battery,A battery,EQUI,5,EQUI, EQUI
+-not aligned-,uses,NOALI,0,NOALI," NOALI, NOALI (since neither chunk has a corresponding counterpart in the other sentence)"
+-not aligned-,to maintain,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,a chemical reaction,NOALI,0,NOALI, NOALI (Chunk 1) and SIMI (Chunk 2)
+-not aligned-,at the terminals,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+voltage.,different electrical states,REL,4,REL," REL (Both chunks are related, but not EQUI, OPPO, SPE1, SPE2, or SIMI related)"
+always,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+the terminals,Terminal 1 and the positive terminal,SPE2,3,SIMI, SIMI
+are not connected,are not connected,EQUI,5,EQUI, EQUI
+the positive battery terminal to terminal 6,Terminal 6 and the positive terminal,EQUI,5,EQUI, EQUI
+is connected,are connected,EQUI,5,SIMI, SIMI
+-not aligned-,still,NOALI,0,NOALI, NOALI (Chunk 1) and SIMI (Chunk 2)
+-not aligned-,with the battery.,NOALI,0,REL, REL
+bulb a,Bulb A,EQUI,5,EQUI, EQUI
+on a closed path,in a closed path,EQUI,5,SIMI, SIMI
+was,is contained,SIMI,4,REL," REL (Chunk 1: [was], Chunk 2: [is contained])"
+terminal 4 to the negative terminal,Terminal 4 and the positive battery terminal,SIMI,4,REL, REL
+is connected,are in the same electrical state,REL,3,SIMI, SIMI
+Because,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [Because], Chunk 2: [-not aligned-])"
+bulb c,Bulb C,EQUI,5,EQUI, EQUI
+is,is,EQUI,5,EQUI, EQUI
+in its own pathway,in a separate path,REL,3,REL, REL
+-not aligned-,indicates,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [indicates])"
+-not aligned-,Measuring,NOALI,0,NOALI," NOALI, SIMI (since ""Measuring"" is a broad term and could encompass various specific actions, but there's no specific relation established between the two chunks in this context)"
+nearest the burnt out bulb,a damaged bulb.,SPE1,3,SIMI," SIMI (both chunks have similar meanings, they share similar attributes and there is no EQUI, OPPO, SPE1 or SPE2 relation)"
+-not aligned-,due to,NOALI,0,REL, REL
+the voltage,voltage,EQUI,5,EQUI, EQUI
+-not aligned-,the electrical state,NOALI,0,NOALI," NOALI, SIMI (not aligned in this context, but they are related as one refers to a general concept and the other to a specific state)"
+-not aligned-,the place,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+is,-not aligned-,NOALI,0,OPPO, OPPO
+-not aligned-,where,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [where])"
+-not aligned-,changes,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [changes])"
+You,-not aligned-,NOALI,0,NOALI, NOALI
+and,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+must be,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned)
+both,both,EQUI,5,EQUI, EQUI
+"with the same path,",a closed path,SPE1,4,SIMI, SIMI
+-not aligned-,is,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+needed,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 does not have a corresponding chunk in Chunk 1)
+-not aligned-,containing,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+a battery and a blub,the bulb and a battery,EQUI,5,EQUI, EQUI
+"with the same path,",-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+the path closed,a closed path,EQUI,5,EQUI, EQUI
+Because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,is,NOALI,0,NOALI," NOALI, IS (since Chunk 1 is not aligned with any chunk in the other sentence)"
+the battery,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+runs,-not aligned-,NOALI,0,NOALI, NOALI
+in a closed circuit.,an incomplete circuit,SIMI,3,OPPO, OPPO
+"damaged,",-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+closed.,-not aligned-,NOALI,0,OPPO, OPPO
+bulb B,-not aligned-,NOALI,0,NOALI, NOALI
+If,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+is,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [is], Chunk 2: [-not aligned-])"
+then,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+no longer,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+is,is,EQUI,5,EQUI, EQUI
+the circut,no closed path,REL,2,REL, REL
+-not aligned-,there,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [there])"
+"terminal 1, terminal 2, and terminal 3","Terminals 1, 2 and 3",EQUI,5,EQUI, EQUI
+o the negative battery,to the negative battery terminal,EQUI,5,SPE1," SPE1 (Chunk 1: [o the negative battery], Chunk 2: [to the negative battery terminal])"
+are connected,are connected,EQUI,5,EQUI, EQUI
+it,-not aligned-,NOALI,0,NOALI, NOALI
+"didn""""t cause",-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,in its own path,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+"a gap.""",-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [a gap.""], Chunk 2: [-not aligned-])"
+-not aligned-,each bulb,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+"""Because",-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,is,NOALI,0,NOALI," NOALI, EQUI"
+because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+a gap,a gap,EQUI,5,EQUI, EQUI (both chunks have the same meaning)
+is,is,EQUI,5,EQUI, EQUI
+there,There,EQUI,5,EQUI, EQUI
+between terminal 1 and terminal 6.,between terminals 1 and 6,EQUI,5,SIMI, SIMI
+-not aligned-,still,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+bulbs b and c,Bulb B and Bulb C,EQUI,5,EQUI, EQUI
+on a closed path,in the same closed path,SPE2,4,SPE1, SPE1
+because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+with the battery,with the battery.,EQUI,5,EQUI, EQUI
+are,were contained,SIMI,4,REL," REL (Both chunks are related, but not EQUI, OPPO, SPE1, SPE2, or SIMI)"
+determines,affects,SIMI,2,SIMI, SIMI
+The switch,the switch,EQUI,5,EQUI, EQUI
+the path,in the same path,SPE2,4,SIMI, SIMI
+whether,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+is,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,a bulb and a switch,NOALI,0,NOALI," NOALI, SIMI (assuming ""a bulb and a switch"" is a general statement about two items, not specifying which is a bulb and which is a switch)"
+open or closed.,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,If,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,are,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,the bulb,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+by a gap,in the same electrical state,REL,3,REL, REL
+the positive battery terminal from terminal 4,Terminal 4 and the positive battery terminal,EQUI,5,SIMI, SIMI
+is separated,are,REL,2,SIMI, SIMI
+-not aligned-,A battery,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+between the terminals.,at the terminals,EQUI,5,SIMI, SIMI
+-not aligned-,uses,NOALI,0,NOALI," NOALI, USES (since Chunk 1 is not aligned with any chunk in Chunk 2)"
+an incomplete circuit,a chemical reaction,REL,3,REL, REL
+would not effect,to maintain,SIMI,2,OPPO, OPPO
+the the electrical state,different electrical states,SPE1,4,SIMI, SIMI
+to the positive battery terminal,to the positive battery terminal,EQUI,5,EQUI, EQUI
+"terminals 4, 5, and 6","Terminals 4, 5 and 6",EQUI,5,EQUI, EQUI
+are connected,are connected,EQUI,5,EQUI, EQUI
+-not aligned-,there,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+was,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+The path,a path,EQUI,5,EQUI, EQUI
+-not aligned-,containing,NOALI,0,REL," REL (Chunk 1: [-not aligned-], Chunk 2: [containing])"
+on,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 has not any corresponding chunk in the other sentence)
+it,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [it], Chunk 2: [-not aligned-])"
+-not aligned-,both,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,Z and C,NOALI,0,NOALI," NOALI, SIMI (assuming Z stands for a specific entity like a person or object)"
+on the same closed path,in the same path,SPE1,3,SIMI, SIMI
+the bulb,The damaged bulb and the other bulb,SPE1,3,REL," REL (The bulb and The damaged bulb and the other bulb are related, but not semantically equivalent or in opposition)"
+If,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+is,must be contained,SIMI,3,SIMI, SIMI
+in a closed path,in the same closed path,SPE2,4,SPE1, SPE1
+bulb a,Bulb A,EQUI,5,EQUI, EQUI
+still,still,EQUI,5,EQUI, EQUI
+with the battery.,with the battery.,EQUI,5,EQUI, EQUI
+was,was,EQUI,5,EQUI, EQUI
+contained,contained,EQUI,5,EQUI, EQUI
+one bulb,A and C,SPE2,2,SPE2, SPE2
+-not aligned-,in the same closed path,NOALI,0,NOALI, NOALI (Chunk 1) and SPE2 (Chunk 2)
+the others,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+"is removed,",-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [is removed,], Chunk 2: [-not aligned-])"
+stop,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+working,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2: [-not aligned-])
+-not aligned-,are,NOALI,0,NOALI," NOALI, EQUI"
+If,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+an open switch,the open switch,EQUI,5,EQUI, EQUI
+are connected,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+all the terminals,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 has no corresponding chunk in Chunk 1)
+"to other terminals,",-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+disrupts that.,creates a gap,SPE2,3,OPPO, OPPO
+because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+is a gap,are separated by a gap,EQUI,5,SPE1, SPE1
+There,-not aligned-,NOALI,0,NOALI, NOALI
+between the two bulb terminals,the terminals,SPE1,2,SPE1, SPE1
+has occured,is,SIMI,4,OPPO, OPPO
+a short circuit,a short circuit,EQUI,5,EQUI, EQUI
+-not aligned-,there,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+thus,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+of the circuit,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+will be,creates,SIMI,2,SIMI, SIMI
+"at bulb b,",bulb B,EQUI,5,EQUI, EQUI
+the rest,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+there,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+a gap,a gap,EQUI,5,EQUI, EQUI
+affecting,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+terminal 3 and the positie terminal,Terminal 3 and the positive terminal,EQUI,5,SIMI, SIMI
+are not connected.,are not connected,EQUI,5,EQUI, EQUI
+by a gap,by the gap,EQUI,5,EQUI, EQUI
+The positive battery terminal from terminal 4.,Terminal 4 and the positive terminal,EQUI,5,EQUI, EQUI
+was not seperated,are not separated,SIMI,4,EQUI, EQUI
+to the negative terminal.,to the negative battery terminal,EQUI,5,REL, REL
+is connected,is connected,EQUI,5,EQUI, EQUI
+Terminal 1,terminal 1,EQUI,5,EQUI, EQUI
+A terminal to the positive battery terminal.,Terminals 1 and 2,SIMI,2,REL," REL (Both chunks are related, but not semantically equivalent, as one specifies a connection to a specific terminal, while the other refers to two unspecified terminals.)"
+is not connected,are connected,OPPO,4,OPPO, OPPO
+are seperated,are separated,EQUI,5,EQUI, EQUI
+the positive terminal and terminal 2,Terminal 2 and the positive terminal,EQUI,5,SIMI, SIMI
+by a gap,by the gap,EQUI,5,EQUI, EQUI
+there,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+between the terminals,terminal 1 to the negative battery terminal,SPE2,3,REL, REL
+is not gap,is connected,EQUI,5,REL," REL (Both chunks are related, but not EQUI, OPPO, SPE1, SPE2, or SIMI related)"
+a gap,in the same electrical state,REL,3,REL, REL
+is,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+there,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [there], Chunk 2: [-not aligned-])"
+-not aligned-,are,NOALI,0,NOALI, NOALI (Chunk 1) and SIMI (Chunk 2)
+between teh positive battery terminal and terminal 4.,Terminal 4 and the positive battery terminal,EQUI,5,EQUI, EQUI
+The positive battery to terminal one.,Terminal 1 and the positive terminal,EQUI,5,EQUI, EQUI
+was not connected,are not connected,SIMI,4,OPPO, OPPO
+Bulbs A and B,bulbs A and B,EQUI,5,EQUI, EQUI
+to the battery.,with the battery,EQUI,5,SIMI," SIMI (both chunks have similar meanings, they share similar attributes and there is no EQUI, OPPO, SPE1 or SPE2 relation)"
+still,still,EQUI,5,EQUI, EQUI
+will be contained,are,SIMI,4,SIMI, SIMI
+in a closed path,in closed paths,SPE1,4,SIMI," SIMI (both chunks have similar meanings, they share similar attributes and there is no EQUI, OPPO, SPE1 or SPE2 relation)"
+the two components,Terminal 1 and the positive terminal,SPE2,2,SIMI, SIMI
+are seperated.,are separated,EQUI,5,EQUI, EQUI
+-not aligned-,by the gap,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [by the gap])"
+because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+directly,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+is connected,are connected,EQUI,5,SIMI, SIMI
+terminal 1 to terminal 4,Terminals 1 and 4,EQUI,5,SPE1, SPE1
+the positive battery terminal and terminal 4,Terminal 4 and the positive terminal,EQUI,5,EQUI, EQUI
+are connected,are connected,EQUI,5,EQUI, EQUI
+Terminal 1 and terminal 2,Terminals 1 and 2,EQUI,5,EQUI, EQUI
+are on the same side.,are connected,REL,3,SIMI, SIMI
+to positive battery,Terminal 2 and the positive terminal,SPE1,3,SIMI, SIMI
+not connected,are not connected,EQUI,5,EQUI, EQUI
+to maintain,to maintain,EQUI,5,EQUI, EQUI
+a chemical reaction,a chemical reaction,EQUI,5,EQUI, EQUI
+"the voltage,",different electrical states,REL,4,REL, REL
+-not aligned-,at the terminals,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+The battery,A battery,EQUI,5,EQUI, EQUI
+uses,uses,EQUI,5,EQUI, EQUI
+does not have,is not,SIMI,4,OPPO, OPPO
+the bulb,The bulb,EQUI,5,EQUI, EQUI
+-not aligned-,containing,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+a closed path.,in the closed path,EQUI,5,SIMI, SIMI
+Because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,the battery,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [the battery])"
+-not aligned-,the terminals,NOALI,0,NOALI," NOALI, SIMI (since neither chunk has a corresponding equivalent or opposite meaning, and they share the attribute of referring to 'terminals', but the specificity of the reference is not clear from the given context)"
+a difference,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 has no corresponding chunk in Chunk 1)
+-not aligned-,are separated,NOALI,0,NOALI," NOALI, NOALI, REL (since ""are separated"" is related to the concept of alignment, but not in the context of the given chunks)"
+-not aligned-,by a gap,NOALI,0,REL, REL
+in electrical states,-not aligned-,NOALI,0,REL, REL
+is,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+there,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+is connected,are connected,EQUI,5,SIMI, SIMI
+terminal to postive terminal of the battery,Terminal 6 and the positive terminal,SPE2,3,REL, REL
+is seperated,are separated,EQUI,5,SIMI, SIMI
+Terminal 1 from the positive terminal,Terminal 1 and the positive terminal,EQUI,5,SIMI," SIMI (both chunks have similar meanings, they share similar attributes and there is no EQUI, OPPO, SPE1 or SPE2 relation)"
+-not aligned-,by the gap,NOALI,0,REL, REL
+is not contained,is not,EQUI,5,OPPO, OPPO
+Battery,The battery,EQUI,5,EQUI, EQUI
+i a closed path.,in a closed path,EQUI,5,SIMI, SIMI
+-not aligned-,in 4,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+-not aligned-,by the gap,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+terminal 1 to the positive battery terminal,Terminal 1 and the positive terminal,EQUI,5,SIMI, SIMI
+was connected,are separated,OPPO,4,OPPO, OPPO
+-not aligned-,containing,NOALI,0,NOALI, NOALI (Chunk 1) and SIMI (Chunk 2)
+2 paths,a path,SPE2,2,OPPO, OPPO
+-not aligned-,containing,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [containing])"
+-not aligned-,A,NOALI,0,NOALI, NOALI (since Chunk 1 is not aligned with any chunk in Chunk 2)
+-not aligned-,and,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+are,is,EQUI,5,SIMI, SIMI
+-not aligned-,B and C,NOALI,0,NOALI," NOALI, NOALI, REL (since 'B and C' is related to the unaligned chunk, but not equivalent, opposite, more specific, or sharing similar meaning)"
+-not aligned-,a different path,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [a different path])"
+There,there,EQUI,5,EQUI, EQUI
+in this diagram,-not aligned-,NOALI,0,NOALI, NOALI
+the switch,switch Y and bulb A,SPE1,2,SIMI, SIMI
+Because,-not aligned-,NOALI,0,NOALI, NOALI
+-not aligned-,containing,NOALI,0,NOALI," NOALI, CONTAINING (since there is no corresponding chunk in Chunk 1)"
+was connected,-not aligned-,NOALI,0,OPPO, OPPO
+the switch,both,SPE1,2,REL," REL (The switch is related to both, but not equivalent or opposite, nor more or less specific)"
+-not aligned-,there,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [there])"
+to the closed circuit,no path,REL,2,OPPO, OPPO
+-not aligned-,is,NOALI,0,NOALI," NOALI (for Chunk 1) and REL (for Chunk 2) since there is no corresponding chunk in the first sentence and the second chunk is related to the concept of existence or presence, but not specifically aligned with any content in the first chunk."
+creates,creates,EQUI,5,EQUI, EQUI
+a gap.,a gap,EQUI,5,EQUI, EQUI
+damaged bulb,a damaged bulb,EQUI,5,EQUI, EQUI
+that,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [that], Chunk 2: [-not aligned-])"
+-not aligned-,there,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [there])"
+the battery connection does not work,a short circuit,REL,3,OPPO, OPPO
+-not aligned-,is,NOALI,0,OPPO, OPPO
+-not aligned-,to maintain,NOALI,0,NOALI, NOALI (Chunk 1) and SIMI (Chunk 2)
+because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,different electrical states,NOALI,0,REL, REL
+-not aligned-,A battery,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+the terminals,at the terminals,EQUI,5,SIMI," SIMI (both chunks have similar meanings, they share similar attributes and there is no EQUI, OPPO, SPE1 or SPE2 relation)"
+are not connected,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,a chemical reaction,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,uses,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+Terminal 5 to teh positive battery terminal,Terminal 5 and the positive terminal,EQUI,5,EQUI, EQUI
+is connected,are connected,EQUI,5,EQUI, EQUI
+was connected,are separated,OPPO,4,OPPO, OPPO
+terminal 1 to the positive terminal,Terminal 1 and the positive terminal,EQUI,5,SPE1, SPE1
+-not aligned-,by the gap,NOALI,0,REL, REL
+between terminal one and two and the positive battery terminal,Terminals 1 and 2,SPE2,3,SIMI, SIMI
+is,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+a gap,in the same electrical state,REL,2,REL, REL
+there,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [there], Chunk 2: [-not aligned-])"
+-not aligned-,are,NOALI,0,NOALI," NOALI, NOALI (since there is no corresponding chunk in the other sentence)"
+with the battery,with the battery,EQUI,5,EQUI, EQUI
+are contained,are,EQUI,5,REL," REL (both chunks are related, but not EQUI, OPPO, SPE1, SPE2, or SIMI)"
+bulbs b and c,B and C,EQUI,5,SIMI, SIMI
+on the same path,in the same path,EQUI,5,EQUI, EQUI
+there,-not aligned-,NOALI,0,NOALI, NOALI
+is no closed path,the path is not closed,EQUI,5,SIMI, SIMI
+to the battery,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 has no corresponding chunk in Chunk 1)
+terminal 1 to the positive battery terminal,Terminal 1 and the positive terminal,EQUI,5,EQUI, EQUI
+is not connected,are not connected,EQUI,5,EQUI, EQUI
+-not aligned-,in 2,NOALI,0,REL, REL (both chunks are not considered similar but they are closely related by some relation not mentioned above)
+alone,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 has no corresponding chunk in Chunk 1)
+is not,is not,EQUI,5,EQUI, EQUI
+the battery,The battery,EQUI,5,EQUI, EQUI
+in a closed bath,in a closed path,EQUI,5,SIMI, SIMI
+is connected,are connected,EQUI,5,SIMI, SIMI
+terminal 5 to postive terminal of the battery,Terminal 5 and the positive terminal,EQUI,5,SPE2, SPE2
+are closed,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+x and z,"A, C, Z and X",SPE1,2,SIMI," SIMI (both chunks have similar meanings, they share similar attributes and there is no EQUI, OPPO, SPE1 or SPE2 relation)"
+then,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [then], Chunk 2: [-not aligned-])"
+-not aligned-,containing,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+a closed path,a path,EQUI,5,SPE1, SPE1
+it,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [it], Chunk 2: [-not aligned-])"
+will create,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+if,-not aligned-,NOALI,0,NOALI, NOALI
+-not aligned-,by the gap,NOALI,0,REL, REL
+positive terminal from terminal 2,Terminal 2 and the positive terminal,EQUI,5,SIMI, SIMI
+is serperated,are separated,EQUI,5,SIMI, SIMI
+-not aligned-,in 2,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+is not closed,in a closed path,REL,3,OPPO, OPPO
+the bulb,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,is not,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+is.,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+the battery,The battery,EQUI,5,EQUI, EQUI
+there,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,the terminals,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+is not,are not separated,SIMI,4,SIMI," SIMI (both chunks have similar meanings, they share similar attributes and there is no EQUI, OPPO, SPE1 or SPE2 relation)"
+a gap,by a gap,EQUI,5,SIMI, SIMI
+in the connection,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+will affect,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+the bulb.,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+if,When,SIMI,3,SIMI, SIMI
+is,are contained,EQUI,5,SIMI, SIMI
+a bulb with a battery and a switch,the switch and the bulb,SPE2,3,SIMI, SIMI
+the switch,-not aligned-,NOALI,0,NOALI, NOALI
+in a closed circuit,in the same path,REL,4,REL, REL
+with the battery.,with the battery.,EQUI,5,EQUI, EQUI
+in a closed path,in the same closed path,SPE2,4,SPE2, SPE2
+were contained,were contained,EQUI,5,EQUI, EQUI
+bulbs b and c,Bulb B and Bulb C,EQUI,5,EQUI, EQUI
+-not aligned-,still,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+are,has,SIMI,2,SIMI, SIMI
+in closed paths.,no closed paths,OPPO,4,OPPO, OPPO
+Because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+neither components,Circuit 4,REL,3,REL," REL (Both chunks are not considered similar but they are closely related by some relation not mentioned above. In this case, ""neither components"" and ""Circuit 4"" are not semantically equivalent, but they are related as one refers to the components of a circuit and the other refers to a specific circuit.)"
+-not aligned-,the electrical state,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [the electrical state])"
+-not aligned-,indicates,NOALI,0,NOALI," NOALI, SIMI (since ""indicates"" is a more general term and could encompass the absence or non-alignment of something)"
+-not aligned-,voltage,NOALI,0,NOALI, NOALI
+-not aligned-,due to,NOALI,0,REL, REL (both chunks are not considered similar but they are closely related by some relation not mentioned above)
+the gap,a gap.,EQUI,5,EQUI, EQUI
+-not aligned-,changes,NOALI,0,NOALI," NOALI, CHANGES (since Chunk 1 is not aligned with any chunk in Chunk 2)"
+you,-not aligned-,NOALI,0,NOALI, NOALI
+can,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,the place,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [the place])"
+-not aligned-,Measuring,NOALI,0,NOALI," NOALI, SIMI (since ""Measuring"" is a broader term and could encompass various specific actions related to measurement)"
+where,where,EQUI,5,EQUI, EQUI
+is,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [is], Chunk 2: [-not aligned-])"
+see,-not aligned-,NOALI,0,NOALI, NOALI
+there,-not aligned-,NOALI,0,NOALI, NOALI
+-not aligned-,that,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+in the circuit,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+if,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+a gap,are not connected.,REL,4,OPPO, OPPO
+-not aligned-,A non-zero voltage,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+will not light up.,-not aligned-,NOALI,0,NOALI, NOALI
+-not aligned-,means,NOALI,0,NOALI," NOALI, SIMI (assuming ""means"" is a general term that could be applied to many different concepts)"
+there,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [there], Chunk 2: [-not aligned-])"
+the bulb,-not aligned-,NOALI,0,NOALI, NOALI
+is,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [is], Chunk 2: [-not aligned-])"
+-not aligned-,the terminals,NOALI,0,NOALI," NOALI, SIMI (since ""terminals"" is a general term and could refer to multiple terminals, while the unaligned chunk is not present in the second sentence)"
+-not aligned-,then,NOALI,0,NOALI, NOALI
+Bulb A and Bulb B and the battery,A and B with the battery.,EQUI,5,SIMI, SIMI
+in a closed path.,in a closed path,EQUI,5,EQUI, EQUI
+-not aligned-,"burns out,",NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+are,are still,SPE2,4,SIMI, SIMI
+-not aligned-,C,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [C])"
+-not aligned-,If,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+-not aligned-,between the terminals,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [between the terminals])"
+a gap,no gap,OPPO,4,OPPO, OPPO
+is,is,EQUI,5,EQUI, EQUI
+That,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+there,there,EQUI,5,EQUI, EQUI
+the bulb.,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 has no corresponding chunk in Chunk 1)
+are contained,are contained,EQUI,5,EQUI, EQUI
+"in the same path,",in the same path,EQUI,5,EQUI, EQUI
+will affect,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+if,When,SIMI,3,SIMI, SIMI
+the switch,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+the switch and bulb,the switch and the bulb,EQUI,5,EQUI, EQUI
+Voltage,terminal 1,REL,2,REL," REL (Both chunks are not considered similar but they are closely related by some relation not mentioned above, in this case, voltage is related to the terminal as it is a property of the terminal.)"
+the difference,-not aligned-,NOALI,0,NOALI, NOALI
+between a positive and negative end on a battery.,to the negative battery terminal,SPE2,2,SPE1, SPE1
+-not aligned-,is connected,NOALI,0,NOALI," NOALI, as there is no corresponding chunk in the other sentence."
+is,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+passes,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+through the switch,the switch,EQUI,5,EQUI, EQUI
+the path,in the same path,SPE2,4,SIMI, SIMI
+-not aligned-,a bulb and a switch,NOALI,0,NOALI," NOALI, SIMI (since a bulb and a switch are related, but not semantically equivalent or opposing, and neither is more specific than the other)"
+-not aligned-,are,NOALI,0,NOALI, NOALI (Chunk 1) and SIMI (Chunk 2)
+the energy,the bulb,REL,2,SIMI, SIMI
+-not aligned-,affects,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,If,NOALI,0,NOALI, NOALI (since Chunk 1 is not present in the other sentence)
+that,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [that], Chunk 2: [-not aligned-])"
+are,are,EQUI,5,SIMI, SIMI
+the bulb terminal and battery terminal,The terminals,SPE1,3,EQUI, EQUI
+on the same side of a disconnected circut,in the same state.,REL,2,SIMI, SIMI
+the battery,The battery,EQUI,5,EQUI, EQUI
+in a closed path.,in a closed path,EQUI,5,SIMI, SIMI
+-not aligned-,in 4,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+is not,is not,EQUI,5,SIMI, SIMI
+Because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+switch x with bulb a,Bulb A with the battery and switch X.,SPE1,3,SIMI, SIMI
+-not aligned-,still,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+in the closed path,in a closed path,EQUI,5,SIMI, SIMI
+is,is contained,EQUI,5,REL," REL (Both chunks are related, but not EQUI, OPPO, SPE1, SPE2, or SIMI)"
+-not aligned-,still,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [still])"
+-not aligned-,is,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+a closed circuit,in a closed path,REL,4,SIMI, SIMI
+There,-not aligned-,NOALI,0,NOALI, NOALI
+was,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [was], Chunk 2: [-not aligned-])"
+-not aligned-,with the battery.,NOALI,0,NOALI, NOALI (Chunk 1) and SPE1 (Chunk 2)
+-not aligned-,Bulb A,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,contained,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [contained])"
+"switch z in bulb c""""s",both,EQUI,5,REL, REL (both chunks are not considered similar but they are closely related by some relation not mentioned above)
+"closed path""",a path,EQUI,5,SPE1, SPE1
+is,containing,SIMI,3,SIMI, SIMI
+"switch z in bulb c""""s",Z and C,EQUI,5,SIMI, SIMI
+"""because",-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,there,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [there])"
+-not aligned-,with the battery and switch X.,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+Bulb A,Bulb A,EQUI,5,EQUI, EQUI
+in a closed path,in a closed path,EQUI,5,EQUI, EQUI
+was,is contained,SIMI,4,SIMI, SIMI
+still,still,EQUI,5,EQUI, EQUI
+-not aligned-,from the positive battery terminal,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [from the positive battery terminal])"
+due to,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+Because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,"Terminals 1, 2 and 3",NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+a gap,by a gap,EQUI,5,SIMI, SIMI
+-not aligned-,are separated,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-]) and SIMI (Chunk 2: [are separated]) are not directly related in this context. They do not have the same meaning, are not in opposition, and are not closely related by any specific relation mentioned. However, they are both related to the concept of separation in a broader sense, which could be considered a RELATION. But since the task is to label only one of the possible labels, I would choose NOALI as Chunk 1 is not aligned with Chunk 2."
+a damaged bulb.,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+there,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned)
+is,-not aligned-,NOALI,0,OPPO, OPPO
+was,was contained,EQUI,5,OPPO, OPPO
+in a closed path,in the same closed path,SPE2,4,EQUI, EQUI
+still,still,EQUI,5,EQUI, EQUI
+Bulb A,Bulb A,EQUI,5,EQUI, EQUI
+with the battery,with the battery.,EQUI,5,EQUI, EQUI
+-not aligned-,in 4,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+The battery and light bulb,The battery,SPE2,3,SIMI, SIMI
+in a close path,in a closed path,EQUI,5,SIMI, SIMI
+are not contained,is not,EQUI,5,OPPO, OPPO
+and,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [and], Chunk 2: [-not aligned-])"
+is closed,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+the circut,in the same closed path,REL,4,REL, REL
+-not aligned-,are,NOALI,0,NOALI," NOALI, EQUI (since ""are"" is not aligned with any chunk in the first sentence, but if we consider the implied subject, it would be equivalent to the unaligned chunk)"
+-not aligned-,A and C,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+is,is,EQUI,5,EQUI, EQUI
+"on it""""s own pathway.""",in a separate path,REL,4,REL, REL
+bulb C,Bulb C,EQUI,5,EQUI, EQUI
+"""becuase",-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+bulb A,bulb A,EQUI,5,EQUI, EQUI
+in a closed path.,in a closed path,EQUI,5,EQUI, EQUI
+bulbs B and C,neither B nor C,EQUI,5,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+burns out,"burns out,",EQUI,5,EQUI, EQUI
+then,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+if,If,EQUI,5,EQUI, EQUI
+will no longer be,is,SPE1,4,OPPO, OPPO
+is not connected,are not connected,EQUI,5,OPPO, OPPO
+Terminal 1 to the positive terminal.,Terminal 1 and the positive terminal,EQUI,5,SPE1, SPE1
+because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,in 2,NOALI,0,NOALI," NOALI, NOALI (since there is no corresponding chunk in the other sentence)"
+is not,is not,EQUI,5,EQUI, EQUI
+in a closed circuit,in a closed path,REL,4,SPE1, SPE1
+the battery,The battery,EQUI,5,EQUI, EQUI
+the terminal,between the terminals,SPE1,4,REL, REL
+is not working,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+is connected,is no gap,REL,4,SIMI, SIMI
+it,between the terminals,SPE1,4,REL, REL
+-not aligned-,there,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+to,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [to], Chunk 2: [-not aligned-])"
+a closed path and a battery.,a closed path containing both the bulb and a battery,SPE1,3,REL, REL
+There,there,EQUI,5,EQUI, EQUI
+must be,is,SIMI,4,OPPO, OPPO
+is connected,are not connected,OPPO,4,SIMI, SIMI
+terminal to terminal 6,Terminals 1 and 6,SPE2,4,REL, REL
+is,is contained,EQUI,5,SIMI, SIMI (both chunks have similar meanings)
+with the battery and switch x,with the battery and switch X.,EQUI,5,EQUI, EQUI
+because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+bulb a,Bulb A,EQUI,5,EQUI, EQUI
+in a closed circuit,in a closed path,REL,4,SPE1, SPE1
+-not aligned-,still,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,a bulb and a switch,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+If,If,EQUI,5,EQUI, EQUI
+the bbulb,the bulb,EQUI,5,EQUI, EQUI
+the switch,the switch,EQUI,5,EQUI, EQUI
+-not aligned-,are,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+is not,-not aligned-,NOALI,0,OPPO, OPPO
+the path,in the same path,SPE2,4,SIMI, SIMI
+will not affect,affects,OPPO,4,OPPO, OPPO
+"closed,",-not aligned-,NOALI,0,NOALI, NOALI
+-not aligned-,If,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+are,are,EQUI,5,EQUI, EQUI
+-not aligned-,bulb A,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+on a closed path,in a closed path,EQUI,5,EQUI, EQUI
+-not aligned-,still,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [still])"
+bulb b and c,bulbs B and C,EQUI,5,EQUI, EQUI
+to the battery,-not aligned-,NOALI,0,NOALI, NOALI
+-not aligned-,"burns out,",NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,"Terminals 1, 2 and 3",NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+a a gap,by a gap,EQUI,5,SIMI, SIMI
+does not affect,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 does not have a corresponding chunk in Chunk 1)
+-not aligned-,are separated,NOALI,0,REL, REL
+the voltage of a battery,from the positive battery terminal,REL,3,REL, REL
+since,-not aligned-,NOALI,0,NOALI, NOALI (since has no corresponding chunk in the other sentence)
+Because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+is,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,in a closed path,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+a light bulb,The battery,REL,3,REL, REL
+there,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [there], Chunk 2: [-not aligned-])"
+-not aligned-,is not,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,in 2,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,must be contained,NOALI,0,NOALI," NOALI, NOALI, REL (since ""must be contained"" is related to the concept of alignment, but not semantically equivalent, opposite, more specific, or similar to the given chunk)"
+because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned)
+-not aligned-,in the same path,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+will be burned out,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+the bulb,The damaged bulb and the other bulb,SPE1,3,SIMI, SIMI
+the terminals,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+the positive batter terminal and terminal 6,Terminal 6 and the positive terminal,EQUI,5,EQUI, EQUI
+Because,-not aligned-,NOALI,0,NOALI, NOALI
+were connected.,are connected,SIMI,4,EQUI, EQUI
+the the circuit,the path,REL,4,REL, REL (both chunks are not considered similar but they are closely related by some relation not mentioned above)
+is complete.,is not closed,REL,3,OPPO, OPPO
+because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+still,still,EQUI,5,EQUI, EQUI
+with the battery,with the battery,EQUI,5,EQUI, EQUI
+on closed paths,in closed paths,EQUI,5,SIMI, SIMI
+will be,are,SIMI,4,OPPO, OPPO
+Bulbs B and C,bulbs B and C,EQUI,5,EQUI, EQUI
+the bulb,a bulb and a switch,SPE1,3,SPE2, SPE2
+in an closed circuit,in the same path,SPE2,4,REL, REL
+-not aligned-,If,NOALI,0,NOALI, NOALI (for Chunk 1) and REL (for Chunk 2)
+-not aligned-,the bulb,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,the switch,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,affects,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [affects])"
+is contained,are,EQUI,5,SIMI, SIMI
+THE,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+ARE,are,EQUI,5,EQUI, EQUI
+-not aligned-,A and C,NOALI,0,NOALI, NOALI (Chunk 1) and SIMI (Chunk 2)
+ON THE SAME PATH,in the same path,EQUI,5,EQUI, EQUI
+Bulb a and switch Y,Switch Y and bulb A,EQUI,5,SIMI, SIMI
+are not,are not,EQUI,5,EQUI, EQUI
+in the same path.,in the same closed path,EQUI,5,SIMI, SIMI
+the electrical states different,different electrical states,EQUI,5,EQUI, EQUI
+of the positive and negative terminals,at the terminals,SPE1,3,SPE2, SPE2
+inside the battery,A battery,EQUI,5,SIMI, SIMI
+-not aligned-,uses,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+makes,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+A chemical reaction,a chemical reaction,EQUI,5,EQUI, EQUI
+-not aligned-,to maintain,NOALI,0,NOALI, NOALI (Chunk 1) and SIMI (Chunk 2)
+at all times.,-not aligned-,NOALI,0,NOALI, NOALI
+"the terminals 4,5, and 6","Terminals 4, 5 and 6",EQUI,5,EQUI, EQUI
+are connected,are connected,EQUI,5,EQUI, EQUI
+becasue,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+to the positive terminal of the battery,to the positive battery terminal,EQUI,5,EQUI, EQUI
+does not effect,are not,SIMI,2,OPPO, OPPO
+switch Y bulb A,Switch Y and bulb A,EQUI,5,EQUI, EQUI
+-not aligned-,in the same closed path,NOALI,0,NOALI," NOALI, REL (since it's not aligned and not explicitly related, but ""in the same closed path"" is related to the concept of a path, even though it's not the same as the unaligned chunk)"
+bulb c,C,EQUI,5,SIMI," SIMI (both chunks have similar meanings, they share the same attribute ""bulb"")"
+-not aligned-,then,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [then])"
+creates,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+-not aligned-,are,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,A and B,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,still,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+-not aligned-,If,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [If])"
+-not aligned-,with the battery.,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+a gap,"burns out,",REL,3,OPPO," OPPO (The meaning of ""a gap"" is not in opposition to ""burns out,"" but in this context, they are inherently incompatible as a gap is a physical space and ""burns out"" refers to a device ceasing to function.)"
+-not aligned-,in a closed path,NOALI,0,REL, REL
+are not contained,was no longer,SPE2,4,OPPO, OPPO
+in a closed pathway,in a closed path,EQUI,5,SPE1, SPE1
+Bulb C and the battery,Bulb C with the battery,EQUI,5,EQUI, EQUI
+both,The terminals,EQUI,4,SIMI, SIMI
+the two terminals,The terminals,SPE1,4,EQUI, EQUI
+will be,are,SIMI,4,REL," REL (Related but not EQUI, OPPO, SPE1, SPE2, SIMI or NOALI)"
+0,in the same state.,SPE1,3,SIMI, SIMI
+is not,is,OPPO,4,OPPO, OPPO
+with bulbs a and c.,-not aligned-,NOALI,0,NOALI, NOALI
+in the same path,in a separate path,REL,4,OPPO, OPPO
+bulb b,Bulb B,EQUI,5,EQUI, EQUI
+-not aligned-,the terminals,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+with.,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,are not connected.,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,means,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,that,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [that])"
+is interferred,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned)
+The electrical state,A non-zero voltage,REL,3,SIMI, SIMI
+the battery and the bulb,The battery,SPE2,3,SIMI, SIMI
+Because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+in a closed path.,in a closed path,EQUI,5,EQUI, EQUI
+-not aligned-,in 4,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+are not,is not,EQUI,5,EQUI, EQUI
+by measuring,Measuring,EQUI,5,EQUI, EQUI
+"in electrical states.""",the electrical state,SPE2,4,REL, REL
+the gap,due to a gap.,EQUI,5,SIMI, SIMI
+-not aligned-,the place,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+you,-not aligned-,NOALI,0,NOALI, NOALI
+"there""""s a difference",changes,SIMI,3,SIMI, SIMI
+where,where,EQUI,5,SIMI, SIMI
+"""because",-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+find,indicates,SIMI,3,SIMI, SIMI
+"voltage,",voltage,EQUI,5,EQUI, EQUI
+"again,",-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,then,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,"burns out,",NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [burns out,])"
+will be contained,are still,SPE2,4,SIMI, SIMI
+-not aligned-,If,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+on a closed path,in a closed path.,EQUI,5,REL, REL
+-not aligned-,C,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+bulbs a and b,A and B,SPE1,4,EQUI, EQUI
+in the the same path,in the same path,EQUI,5,EQUI, EQUI
+with the battery.,with the battery,EQUI,5,EQUI, EQUI
+are contiained,are not,OPPO,4,OPPO, OPPO
+bulbs b and c,A and C,EQUI,5,EQUI, EQUI
+There,-not aligned-,NOALI,0,NOALI, NOALI
+is,-not aligned-,NOALI,0,OPPO, OPPO
+a gap,in the same electrical state,REL,2,OPPO, OPPO
+in the path.,Terminals 1 and 2,REL,2,REL," REL (Both chunks are not considered similar but they are closely related by some relation not mentioned above, in this case, they are referring to different parts of a circuit.)"
+-not aligned-,are,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+is,is,EQUI,5,EQUI, EQUI
+with a battery,with the battery,EQUI,5,EQUI, EQUI
+bulb a,Bulb A,EQUI,5,EQUI, EQUI
+-not aligned-,still,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+in a closed path,in a closed path,EQUI,5,EQUI, EQUI
+Bulb A and bulb C,A and C,EQUI,5,EQUI, EQUI
+-not aligned-,in the same closed path,NOALI,0,REL, REL
+each other.,-not aligned-,NOALI,0,NOALI, NOALI
+affect,are,SIMI,2,REL," REL (Chunk 1: [affect], Chunk 2: [are])"
+in a closed path,a path,EQUI,5,REL, REL
+-not aligned-,is,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+is contained,containing,EQUI,5,OPPO, OPPO
+switch z,Z and C,SPE1,3,SIMI," SIMI (both chunks refer to the same entity 'Z', but the first one is more general and the second one is more specific, including another entity 'C')"
+-not aligned-,there,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [there])"
+switch z,both,SPE1,3,NOALI," NOALI (since ""both"" does not correspond to ""switch z"")"
+the bulb terminal and the negative battery terminal,between the terminals,SPE1,3,REL, REL
+-not aligned-,there,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [there])"
+-not aligned-,is,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+by a gap,no gap,OPPO,4,OPPO, OPPO
+are separated,-not aligned-,NOALI,0,NOALI, NOALI
+are,are contained,EQUI,5,SIMI," SIMI (both chunks have similar meanings, they share similar attributes and there is no EQUI, OPPO, SPE1 or SPE2 relation)"
+with the battery.,with the battery,EQUI,5,SPE1, SPE1
+Bulb A and C,Bulbs A and C,EQUI,5,EQUI, EQUI
+still,still,EQUI,5,EQUI, EQUI
+in a closed path,in closed paths,SPE1,4,REL, REL
+switch and bulb,the switch and the bulb,EQUI,5,EQUI, EQUI
+are contained,are contained,EQUI,5,EQUI, EQUI
+in the same closed path,in the same path,EQUI,5,SPE2, SPE2
+if,When,SIMI,3,SIMI, SIMI
+between the positive battery connection and the bulb terminal.,between the terminals,SPE1,3,SPE1, SPE1
+a gap,no gap,OPPO,4,OPPO, OPPO
+is,is,EQUI,5,EQUI, EQUI
+there,there,EQUI,5,EQUI, EQUI
+on the same path,a different path,SIMI,4,OPPO, OPPO
+that,a different path,SIMI,4,REL, REL
+on the same path,a path,REL,3,SIMI, SIMI
+-not aligned-,there,NOALI,0,NOALI," NOALI, EQUI"
+Bulb A,A,EQUI,5,EQUI, EQUI
+are.,containing,SIMI,4,SIMI, SIMI
+-not aligned-,and,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+Bulb B and bulb C,B and C,EQUI,5,SPE2, SPE2
+is not,containing,SIMI,2,OPPO, OPPO
+-not aligned-,is,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+it,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [it], Chunk 2: [-not aligned-])"
+-not aligned-,then,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [then])"
+-not aligned-,with the battery.,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+on a different current,in a closed path,REL,4,OPPO, OPPO
+runs,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,C,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,A and B,NOALI,0,NOALI," NOALI, SPE1"
+-not aligned-,are,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,still,NOALI,0,NOALI, NOALI
+-not aligned-,"burns out,",NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,If,NOALI,0,REL," REL (Related but not EQUI, OPPO, SPE1, SPE2, SIMI, or NOALI)"
+to the difference,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+is connected,are connected,EQUI,5,SIMI, SIMI
+terminal 6,Terminal 6 and the positive terminal,SPE2,3,SPE1, SPE1
+the batteries terminals,Circuit 4,REL,4,REL, REL (both chunks are not considered similar but they are closely related by some relation not mentioned above)
+are not connected,has no closed paths,REL,4,REL, REL (both chunks are not considered similar but they are closely related by some relation not mentioned above)
+-not aligned-,Measuring,NOALI,0,NOALI, NOALI (Chunk 1) and SIMI (Chunk 2)
+there,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [there], Chunk 2: [-not aligned-])"
+-not aligned-,the place,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+a gap,a gap.,EQUI,5,EQUI, EQUI
+-not aligned-,changes,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [changes])"
+is,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+a voltage,voltage,EQUI,5,EQUI, EQUI
+because,-not aligned-,NOALI,0,NOALI, NOALI
+-not aligned-,the electrical state,NOALI,0,NOALI," NOALI, SIMI (since the electrical state can refer to various aspects of an electrical system, but in this context, there's no specific opposition, equivalence, or specificity relationship established between the two chunks)"
+there,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+if,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+is,-not aligned-,NOALI,0,OPPO, OPPO
+that,-not aligned-,NOALI,0,NOALI, NOALI
+means,indicates,SIMI,4,SIMI, SIMI
+-not aligned-,due to,NOALI,0,REL, REL
+-not aligned-,where,NOALI,0,NOALI, NOALI (Chunk 1) and SIMI (Chunk 2)
+-not aligned-,due to a gap.,NOALI,0,NOALI," NOALI, SIMI (since there is no corresponding chunk in Chunk 1 and the meaning of ""due to a gap."" is not directly opposite or equivalent to the absence of a chunk in Chunk 1, and they are not closely related by any specific relation mentioned above)"
+-not aligned-,voltage,NOALI,0,REL, REL (both chunks are not considered similar but they are closely related by some relation not mentioned above)
+there,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,the place,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+different electrical states,the electrical state changes,SIMI,4,SIMI, SIMI
+Find,indicates,REL,2,SIMI, SIMI
+are,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [are], Chunk 2: [-not aligned-])"
+-not aligned-,Measuring,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+where,where,EQUI,5,EQUI, EQUI
+-not aligned-,there,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [there])"
+-not aligned-,is,NOALI,0,NOALI, NOALI (for Chunk 1) and EQUI (for Chunk 2)
+-not aligned-,containing,NOALI,0,NOALI," NOALI, CONTAINING, REL"
+to the battery,the battery,EQUI,5,EQUI, EQUI
+is connected,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+circuit 2,no closed path,REL,3,REL, REL (both chunks are not considered similar but they are closely related by some relation not mentioned above)
+to be,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+an open circuit,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,is,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [is])"
+causes,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+the circuit,-not aligned-,NOALI,0,NOALI, NOALI
+in the circuit,in a circuit,EQUI,5,EQUI, EQUI
+-not aligned-,there,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+the gap,a gap,EQUI,5,EQUI, EQUI
+is,-not aligned-,NOALI,0,OPPO, OPPO
+a gap,by the gap,EQUI,5,SIMI, SIMI
+there,-not aligned-,NOALI,0,NOALI, NOALI
+-not aligned-,are separated,NOALI,0,REL, REL
+in the circuit,Terminal 1 and the positive terminal,REL,3,REL, REL
+-not aligned-,affects,NOALI,0,NOALI, NOALI (Chunk 1) and SIMI (Chunk 2)
+to light up,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,are,NOALI,0,NOALI," NOALI (Chunk 1) and SIMI (Chunk 2) since 'are' generally refers to existence or presence, which can be considered a similar concept to the absence indicated by '-not aligned-', but not equivalent or opposite."
+-not aligned-,a bulb and a switch,NOALI,0,NOALI," NOALI, SIMI (assuming ""a bulb"" and ""a switch"" are general terms and could refer to various specific bulbs and switches)"
+-not aligned-,the switch,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,If,NOALI,0,REL, REL
+the path,in the same path,SPE2,4,EQUI, EQUI
+has to be closed,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 has not any corresponding chunk in the other sentence)
+for the bulb,the bulb,EQUI,5,EQUI, EQUI
+in voltage,between the terminals,REL,4,REL, REL
+is,is,EQUI,5,EQUI, EQUI
+no gap,no gap,EQUI,5,SIMI," SIMI (both chunks have similar meanings, they share the same attribute ""no gap"")"
+so,-not aligned-,NOALI,0,OPPO, OPPO
+there,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+no difference,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [no difference], Chunk 2: [-not aligned-])"
+is,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+There,there,EQUI,5,EQUI, EQUI
+the difference,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+between a positive and negative end on the battery.,Terminal 1 and the positive terminal,SIMI,2,SPE1, SPE1
+is,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+Voltage,-not aligned-,NOALI,0,NOALI, NOALI
+-not aligned-,are separated,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,by the gap,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+a short circuit,a complete circuit,OPPO,4,OPPO, OPPO
+-not aligned-,there,NOALI,0,NOALI," NOALI, NOALI"
+had,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+bulb,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 has no corresponding chunk in Chunk 1)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+Bulb A and bulb C,Bulb B and Bulb C,EQUI,5,EQUI, EQUI
+are,were still contained,SPE2,4,SIMI," SIMI (are, were still contained) - Both chunks have similar meanings as they both refer to a state of being, but the tense is different."
+with the battery.,with the battery.,EQUI,5,EQUI, EQUI
+in a closed path,in the same closed path,SPE2,4,SPE2, SPE2
+are connected,are connected,EQUI,5,EQUI, EQUI
+"Terminals 4, 5, and 6","Terminals 4, 5 and 6",EQUI,5,EQUI, EQUI
+only,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [only], Chunk 2: [-not aligned-])"
+to the positive battery terminal.,to the positive battery terminal,EQUI,5,EQUI, EQUI
+a terminal to the positive battery terminal,the terminals,SPE1,3,SPE1, SPE1 (Chunk 1 is more specific)
+is connected,are not connected,OPPO,4,OPPO, OPPO
+because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+in the same state,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+the terminals,terminal 1 to the negative battery terminal,SPE2,3,REL, REL
+are,is connected,SIMI,2,SIMI, SIMI
+"isn""""t included",are not,EQUI,5,EQUI, EQUI
+"""because",-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+"switch y in bulb A""""s",Switch Y and bulb A,EQUI,5,EQUI, EQUI
+"closed path""",in the same closed path,EQUI,5,SIMI, SIMI
+the negative battery terminal,from the negative battery terminal,EQUI,5,SPE2, SPE2
+by a gap,by a gap,EQUI,5,EQUI, EQUI
+is seperated,is separated,EQUI,5,EQUI, EQUI
+from terminal 6,terminal 6,EQUI,5,EQUI, EQUI
+the bulb terminal to one of the battery terminals,between the terminals,SPE1,3,REL, REL
+-not aligned-,there,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+only,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+that,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+is connected,is no gap,REL,4,OPPO, OPPO
+-not aligned-,terminal 4,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+there,-not aligned-,NOALI,0,NOALI, NOALI
+-not aligned-,from the negative battery terminal,NOALI,0,REL, REL
+-not aligned-,is separated,NOALI,0,NOALI," NOALI, as there is no corresponding chunk in Chunk 1."
+was,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [was], Chunk 2: [-not aligned-])"
+a negavtive gap,by a gap,SPE1,4,SIMI, SIMI
+is connected,are connected,EQUI,5,SIMI, SIMI
+terminal,"Terminals 4, 5 and 6",SPE1,2,SIMI," SIMI (both chunks have similar meanings, they share the attribute of referring to a connection point or end point of an electrical component)"
+to postive end of battery,to the positive battery terminal,EQUI,5,SPE1, SPE1
+is connected,is connected,EQUI,5,EQUI, EQUI
+to the 1.5 volt battery.,to the negative battery terminal,REL,4,REL, REL
+terminal 1,terminal 1,EQUI,5,EQUI, EQUI
+-not aligned-,the switch,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,the bulb,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+must be,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,a bulb and a switch,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,If,NOALI,0,NOALI," NOALI, NOALI"
+closed,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 has no corresponding chunk in Chunk 1)
+The path,in the same path,SPE2,4,EQUI, EQUI
+-not aligned-,are,NOALI,0,OPPO, OPPO
+-not aligned-,affects,NOALI,0,NOALI," NOALI (Chunk 1) and SIMI (Chunk 2) since ""affects"" is a general term that can apply to many things, and it doesn't have a corresponding chunk in Chunk 1."
+on the same path,in the same path,EQUI,5,SIMI, SIMI
+are contained,are,EQUI,5,SIMI, SIMI
+with the battery.,with the battery,EQUI,5,EQUI, EQUI
+Bulbs B and C,B and C,EQUI,5,EQUI, EQUI
+of the battery,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+is connected,are connected,EQUI,5,SIMI, SIMI
+a terminal to the positive terminal,Terminal 6 and the positive terminal,SPE2,4,SPE2, SPE2
+are,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,then,NOALI,0,NOALI," NOALI, NOALI (since there is no corresponding chunk in the other sentence)"
+in parallel,in a closed path.,REL,3,REL," REL (both chunks are related, but not EQUI, OPPO, SPE1, SPE2, or SIMI)"
+-not aligned-,"burns out,",NOALI,0,NOALI, NOALI (since Chunk 1 is not aligned with any chunk in Chunk 2)
+-not aligned-,If,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,still,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+in series,in a closed path.,REL,3,REL, REL
+a and b,A and B,EQUI,5,SIMI, SIMI
+because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 has no corresponding chunk in Chunk 1)
+are,are,EQUI,5,EQUI, EQUI
+and,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+a and c,C,SPE2,3,SPE2, SPE2
+is connected,are connected,EQUI,5,EQUI, EQUI
+of the battery,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+a terminal to the positive terminal,Terminal 5 and the positive terminal,SPE2,4,SPE2," SPE2 (both chunks have similar meanings, but chunk in sentence 2 is more specific)"
+the bulb,The bulb,EQUI,5,EQUI, EQUI
+is not contained,is not,EQUI,5,OPPO, OPPO
+in the path,in the closed path,EQUI,5,SPE1, SPE1
+-not aligned-,containing,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,the battery,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+gap,by the gap,EQUI,5,SIMI, SIMI
+positive charge,Terminal 1 and the positive terminal,REL,3,EQUI, EQUI
+-not aligned-,are separated,NOALI,0,REL, REL
+is,-not aligned-,NOALI,0,OPPO, OPPO
+before,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+Because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,still,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,If,NOALI,0,REL, REL
+-not aligned-,bulb A,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+on the same path,in a closed path,SPE1,4,SIMI, SIMI
+-not aligned-,"burns out,",NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,bulbs B and C,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+it,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [it], Chunk 2: [-not aligned-])"
+is not,are,OPPO,4,OPPO, OPPO
+-not aligned-,no longer,NOALI,0,REL, REL (both chunks are not considered similar but they are closely related by some relation not mentioned above)
+connected,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+Seperate paths,in a closed path,REL,4,OPPO, OPPO
+-not aligned-,bulb A,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,"burns out,",NOALI,0,REL," REL (Related but not EQUI, OPPO, SPE1, SPE2, SIMI, or NOALI)"
+-not aligned-,B and C,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,are,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+to the battery,with the battery,EQUI,5,EQUI, EQUI
+-not aligned-,If,NOALI,0,NOALI, NOALI (for Chunk 1) and REL (for Chunk 2)
+means,-not aligned-,NOALI,0,NOALI, NOALI
+the battery,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,there,NOALI,0,NOALI, NOALI (since neither chunk has a corresponding counterpart in the other sentence)
+A red X,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [A red X], Chunk 2: [-not aligned-])"
+is,is,EQUI,5,EQUI, EQUI
+in a short circuit.,a short circuit,EQUI,5,EQUI, EQUI
+in a closed path.,no closed paths,REL,4,OPPO, OPPO
+The battery,Circuit 4,REL,3,REL," REL (The battery and Circuit 4 are related, but not semantically equivalent, opposite, more specific, or sharing similar attributes in this context.)"
+is not closed,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 does not have a corresponding chunk in Chunk 1)
+-not aligned-,has,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+to the battery,to the negative battery terminal,SPE2,4,REL, REL
+is connected,are connected,EQUI,5,SIMI, SIMI
+terminal,"Terminals 1, 2 and 3",SPE1,2,SIMI, SIMI
+in the same closed path,in the same path,EQUI,5,EQUI, EQUI
+Bulb A and Bulb C,A and C,EQUI,5,EQUI, EQUI
+are not contained,are not,EQUI,5,SIMI, SIMI
+on the same closed path.,in the same path,EQUI,5,SIMI, SIMI
+are not,are not,EQUI,5,EQUI, EQUI
+bulbs A and C,A and C,EQUI,5,EQUI, EQUI
+-not aligned-,When,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+"bulb, battery, and switch",the switch and the bulb,SPE2,3,SIMI," SIMI (both chunks have similar meanings, they share similar attributes and there is no EQUI, OPPO, SPE1 or SPE2 relation)"
+are,are contained,EQUI,5,SIMI, SIMI
+in closed path,in the same path,SPE2,4,SIMI, SIMI
+are no longer,is,OPPO,4,OPPO, OPPO
+-not aligned-,there,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+the paths of the circuit complete,an incomplete circuit,REL,4,OPPO, OPPO
+is,has,SIMI,3,SIMI, SIMI
+no closed path,no closed paths,SPE1,4,EQUI, EQUI
+in circuit 4.,Circuit 4,EQUI,5,EQUI, EQUI
+there,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+a chemical reaction reaction.,a chemical reaction,EQUI,5,EQUI, EQUI
+-not aligned-,at the terminals,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,to maintain,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+keeps,uses,SIMI,4,SIMI, SIMI (both chunks have similar meanings)
+The battery,A battery,EQUI,5,EQUI, EQUI
+-not aligned-,different electrical states,NOALI,0,REL, REL
+-not aligned-,to maintain,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [to maintain])"
+-not aligned-,uses,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+is,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned)
+between two battery terminals.,at the terminals,SPE1,3,SIMI, SIMI
+a difference in voltage,different electrical states,SIMI,3,SIMI, SIMI
+-not aligned-,a chemical reaction,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+always,-not aligned-,NOALI,0,NOALI, NOALI
+There,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [There], Chunk 2: [-not aligned-])"
+-not aligned-,A battery,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+terminal 1is to terminal 4,Terminals 1 and 4,EQUI,5,EQUI, EQUI
+connected,are connected,EQUI,5,EQUI, EQUI
+-not aligned-,then,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [then])"
+-not aligned-,"burns out,",NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,C,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+will be,are,SIMI,4,OPPO, OPPO
+Bulb A and B,A and B,EQUI,5,SIMI, SIMI
+-not aligned-,If,NOALI,0,REL, REL (both chunks are not considered similar but they are closely related by some relation not mentioned above)
+still,still,EQUI,5,EQUI, EQUI
+in a contained path.,in a closed path.,EQUI,5,REL, REL (both chunks are not considered similar but they are closely related by some relation not mentioned above)
+bulb a,Bulb A,EQUI,5,EQUI, EQUI
+-not aligned-,still,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+with the battery,with the battery,EQUI,5,EQUI, EQUI
+is,is,EQUI,5,EQUI, EQUI
+in a closed circuit,in a closed path,REL,4,REL, REL
+without the y switch.,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 1 has no corresponding chunk in the other sentence)
+different paths,in the same path,REL,4,OPPO, OPPO
+-not aligned-,B and C,NOALI,0,NOALI, NOALI (since Chunk 1 is not aligned with any chunk in Chunk 2)
+-not aligned-,are,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+with the battery,with the battery,EQUI,5,EQUI, EQUI
+matches,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 does not have a corresponding chunk in Chunk 1)
+at the terminal,terminal 1,SPE2,4,EQUI, EQUI
+-not aligned-,is connected,NOALI,0,NOALI," NOALI, SIMI (assuming ""is connected"" is a general term for being linked or joined, and ""-not aligned-"" does not have a corresponding semantic relation in this context)"
+"electrical state""",-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+"""The electrical state",-not aligned-,NOALI,0,NOALI, NOALI (The electrical state has no corresponding chunk in the other sentence)
+-not aligned-,to the negative battery terminal,NOALI,0,NOALI," NOALI, OPPO"
+"the battery""""s",-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+the battery,The battery,EQUI,5,EQUI, EQUI
+is not,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned)
+in a closed path,in a closed path,EQUI,5,EQUI, EQUI
+a short circuit,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 does not contain a corresponding chunk in Chunk 1)
+Circuit 2,in 2,EQUI,5,SIMI," SIMI (both chunks have similar meanings, they share similar attributes and there is no EQUI, OPPO, SPE1 or SPE2 relation)"
+is not,is not,EQUI,5,EQUI, EQUI
+because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+with itself.,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,still,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+is,was contained,SIMI,4,REL," REL (Both chunks are related, but not EQUI, OPPO, SPE1, SPE2, or SIMI)"
+on a closed circut path,in the same closed path,SPE2,4,REL, REL
+-not aligned-,with the battery.,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+Bulb A,Bulb A,EQUI,5,EQUI, EQUI
+Bulb B and bulb C,B and C,EQUI,5,EQUI, EQUI
+are contained,are,EQUI,5,OPPO, OPPO
+in different paths,in the same path,REL,4,OPPO, OPPO
+with the battery,with the battery,EQUI,5,EQUI, EQUI
+-not aligned-,to maintain,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,a chemical reaction,NOALI,0,REL, REL
+the battery,A battery,EQUI,5,EQUI, EQUI
+because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+and,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+a positive terminal a negative terminal.,at the terminals,SPE1,3,SIMI, SIMI
+there,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [there], Chunk 2: [-not aligned-])"
+is,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [is], Chunk 2: [-not aligned-])"
+is,-not aligned-,NOALI,0,NOALI, NOALI
+always,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 has no corresponding chunk in Chunk 1)
+a voltage,different electrical states,REL,3,REL, REL
+has,uses,SIMI,2,SIMI, SIMI
+there,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+between 3 and positive battery,Terminal 3 and the positive terminal,EQUI,5,EQUI, EQUI
+gap,by the gap,EQUI,5,SIMI, SIMI
+-not aligned-,are separated,NOALI,0,REL," REL (Related but not EQUI, OPPO, SPE1, SPE2, SIMI, or NOALI)"
+because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+bulbs A and C,A and C,EQUI,5,SIMI, SIMI
+in different paths,in different paths,EQUI,5,EQUI, EQUI
+with the battery,with the battery,EQUI,5,EQUI, EQUI
+are contained,are,EQUI,5,OPPO, OPPO
+because of the gap,by a gap,EQUI,5,EQUI, EQUI
+at bulb b,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,"Terminals 1, 2 and 3",NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,from the positive battery terminal,NOALI,0,REL, REL
+-not aligned-,are separated,NOALI,0,NOALI, NOALI (Chunk 1) and SIMI (Chunk 2) as they are not aligned and have similar meanings.
+in an open path,in a closed path,OPPO,4,OPPO, OPPO
+because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+bulb c,Bulb C,EQUI,5,EQUI, EQUI
+was,was not,OPPO,4,OPPO, OPPO
+-not aligned-,is,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [is])"
+in the closed path,in a closed path,EQUI,5,SIMI, SIMI
+because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+switch y,-not aligned-,NOALI,0,NOALI, NOALI
+is not conatined,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [is not contained], Chunk 2: [-not aligned-])"
+of bulb a and the battery.,Bulb A with the battery,EQUI,5,SIMI, SIMI
+-not aligned-,still,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+is not connected,are not connected,EQUI,5,EQUI, EQUI
+A terminal to the negative battery terminal.,Terminals 1 and 6,SPE2,2,SPE2," SPE2 (Chunk 1: [A terminal to the negative battery terminal.] is more general, while Chunk 2: [Terminals 1 and 6] is more specific)"
+bulb B and C,bulbs B and C,EQUI,5,EQUI, EQUI
+both,bulbs B and C,EQUI,5,SIMI," SIMI (both chunks have similar meanings, they share similar attributes and there is no EQUI, OPPO, SPE1 or SPE2 relation)"
+with the battery,with the battery,EQUI,5,EQUI, EQUI
+are,are,EQUI,5,EQUI, EQUI
+still,still,EQUI,5,EQUI, EQUI
+on a closed path,in closed paths,SPE1,4,SIMI, SIMI
+terminal 1 and terminal 6,Terminals 1 and 6,EQUI,5,EQUI, EQUI
+by a gap,by the gap,EQUI,5,EQUI, EQUI
+are seperated,are separated,EQUI,5,EQUI, EQUI
+-not aligned-,there,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+in a closed path.,in a closed path,EQUI,5,EQUI, EQUI
+in a closed path.,in which,EQUI,5,REL, REL (both chunks are not considered similar but they are closely related by some relation not mentioned above)
+because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,no bulb,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+is,is contained,EQUI,5,SIMI, SIMI
+the battery,the battery,EQUI,5,EQUI, EQUI
+-not aligned-,is,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [is])"
+a battery and a bulb,the bulb and a battery,EQUI,5,EQUI, EQUI
+including,containing,EQUI,5,SIMI, SIMI
+complete path,a closed path,EQUI,5,SIMI, SIMI
+-not aligned-,is,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [is])"
+a battery and a bulb,both,EQUI,5,SIMI, SIMI
+-not aligned-,there,NOALI,0,NOALI," NOALI (Chunk 1), SIMI (Chunk 2)"
+creat,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+bulbs b and c,Bulb B,SPE2,3,SIMI, SIMI
+-not aligned-,is,NOALI,0,NOALI," NOALI, EQUI"
+a gap,-not aligned-,NOALI,0,NOALI, NOALI
+in the path,in a separate path,REL,4,REL, REL
+are connected,are connected,EQUI,5,EQUI, EQUI
+the positive battery terminal and terminal 5,Terminal 5 and the positive terminal,EQUI,5,EQUI, EQUI
+the the bulb terminal from the battery terminal,the terminals,SPE1,4,REL, REL
+disconnected,are not connected,EQUI,5,OPPO, OPPO
+the battery,the battery,EQUI,5,EQUI, EQUI
+and,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+the light bulb,no bulb,OPPO,4,OPPO, OPPO
+in the circuit,in a path,REL,4,SIMI, SIMI
+in the circuit,in which,REL,4,REL, REL (both chunks are not considered similar but they are closely related by some relation not mentioned above)
+is contained,is contained,EQUI,5,EQUI, EQUI
+is not,is,OPPO,4,OPPO, OPPO
+-not aligned-,there,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [there])"
+-not aligned-,is,NOALI,0,OPPO, OPPO
+do not connect,in an open path,REL,4,OPPO, OPPO
+of the battery,the battery,EQUI,5,EQUI, EQUI
+to one another,-not aligned-,NOALI,0,NOALI, NOALI (since Chunk 2 is not aligned with any chunk in Chunk 1)
+because,-not aligned-,NOALI,0,NOALI, NOALI
+the two ends,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,there,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [there])"
+open,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+the circuit is no longer complete,an incomplete circuit,EQUI,5,EQUI, EQUI
+When,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,is,NOALI,0,OPPO, OPPO
+is,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+a switch,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+if,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+both bulbs,The damaged bulb and the other bulb,SPE2,3,SIMI, SIMI
+are contained,must be contained,SIMI,4,EQUI, EQUI
+within a closed path,in the same path,SPE2,4,REL, REL
+-not aligned-,in 2,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with any chunk in Chunk 2)
+and,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+in that circuit,in a closed path,REL,4,REL, REL
+in a closed circuit,in a closed path,REL,4,SIMI, SIMI
+the battery,The battery,EQUI,5,EQUI, EQUI
+The bulb,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+exists,is not,REL,3,OPPO, OPPO
+is,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [is], Chunk 2: [-not aligned-])"
+-not aligned-,still,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+to the light bulb,Bulb A,SPE2,4,SIMI, SIMI
+is connected,was contained,SIMI,3,REL, REL
+-not aligned-,with the battery.,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [with the battery.])"
+the closed path,in the same closed path,SPE2,4,SIMI, SIMI
+"the electrical states the same,",in the same state.,EQUI,5,EQUI, EQUI
+resulting,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 has no corresponding chunk in Chunk 1)
+is,are,EQUI,5,SIMI, SIMI
+in 0,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+between the terminals,The terminals,EQUI,5,EQUI, EQUI
+bulb b and bulb c,B and C,EQUI,5,SIMI, SIMI
+are contained,are,EQUI,5,SPE2," SPE2 (Chunk 1: [are contained], Chunk 2: [are])"
+-not aligned-,with the battery,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+within a closed path,in the same path,SPE2,4,SPE2, SPE2
+circuit 5,-not aligned-,NOALI,0,NOALI, NOALI
+-not aligned-,there,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+in a closed path.,in a closed path,EQUI,5,EQUI, EQUI
+in a closed path.,in which,EQUI,5,REL, REL
+is,is contained,EQUI,5,SIMI, SIMI
+-not aligned-,the battery,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [the battery])"
+-not aligned-,is,NOALI,0,NOALI, NOALI (since Chunk 1 is not aligned with any chunk in Chunk 2)
+-not aligned-,no bulb,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+-not aligned-,by the gap,NOALI,0,REL, REL
+is connected,are separated,OPPO,4,OPPO, OPPO
+terminal 6 to terminal 1,Terminals 1 and 6,EQUI,5,SIMI, SIMI
+in the circuit,in a circuit,EQUI,5,EQUI, EQUI
+is,is,EQUI,5,SIMI, SIMI
+bulb B,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+is damaged,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+there,there,EQUI,5,EQUI, EQUI
+If,-not aligned-,NOALI,0,NOALI, NOALI
+a gap,a gap,EQUI,5,EQUI, EQUI
+when,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+in a complete circuit,in a closed path,REL,4,SIMI, SIMI
+-not aligned-,still,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+is closed.,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 1 has no corresponding chunk in Chunk 2)
+is,is contained,EQUI,5,SIMI," SIMI (both chunks have similar meanings, they share similar attributes and there is no EQUI, OPPO, SPE1 or SPE2 relation)"
+with the battery switch z,with the battery and switch Z.,EQUI,5,SPE2, SPE2 (Chunk 1 is less specific than Chunk 2)
+bulb a,Bulb A,EQUI,5,EQUI, EQUI
+-not aligned-,still,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+is,is,EQUI,5,EQUI, EQUI
+bulb a,Bulb A,EQUI,5,EQUI, EQUI
+with the battery,with the battery,EQUI,5,EQUI, EQUI
+on a closed path,in a closed path,EQUI,5,SIMI, SIMI
+those terminals,"Terminals 4, 5 and 6",SPE2,2,SIMI, SIMI
+to the positive terminal of the battery.,to the positive battery terminal,EQUI,5,EQUI, EQUI
+because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+are connected,are connected,EQUI,5,EQUI, EQUI
+-not aligned-,Bulb C,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+in a closed path,in a closed path,EQUI,5,EQUI, EQUI
+Not contained,was not,EQUI,5,REL, REL
+to positive charge,to the positive battery terminal,REL,4,EQUI, EQUI
+terminal,"Terminals 4, 5 and 6",SPE2,2,SPE2, SPE2
+connected,are connected,EQUI,5,EQUI, EQUI
+voltage,-not aligned-,NOALI,0,NOALI, NOALI
+measures,-not aligned-,NOALI,0,NOALI, NOALI
+because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,are separated,NOALI,0,NOALI, NOALI (Chunk 1) and SIMI (Chunk 2)
+-not aligned-,by the gap,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,Terminal 1 and the positive terminal,NOALI,0,REL, REL (both chunks are not considered similar but they are closely related by some relation not mentioned above)
+the difference between two points,-not aligned-,NOALI,0,NOALI, NOALI
+Bulbs a and c,"A, B and C",SPE1,3,SIMI," SIMI (both chunks have similar meanings, they share similar attributes and there is no EQUI, OPPO, SPE1 or SPE2 relation)"
+are,are,EQUI,5,EQUI, EQUI
+in separate paths.,in different paths,EQUI,5,SIMI, SIMI
+of battery,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+terminal 6 to postive terminal,Terminals 1 and 6,SIMI,2,SPE1, SPE1
+is connected,are not connected,OPPO,4,OPPO, OPPO
+a terminal to the negative battery terminal,the terminals,SPE1,3,SPE1, SPE1
+is connected,are not connected,OPPO,4,OPPO, OPPO
+is,is contained,EQUI,5,EQUI, EQUI
+bulb A,Bulb A,EQUI,5,EQUI, EQUI
+in the same path,in a closed path,SPE1,4,SIMI, SIMI
+as,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [as], Chunk 2: [-not aligned-])"
+Switch Z,with the battery and switch Z.,SPE1,3,EQUI, EQUI
+-not aligned-,still,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,If,NOALI,0,REL, REL
+-not aligned-,neither B nor C,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,"burns out,",NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+there,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [there], Chunk 2: [-not aligned-])"
+-not aligned-,is,NOALI,0,NOALI, NOALI (since Chunk 1 is not aligned with any chunk in Chunk 2)
+will be,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+a gap,in a closed path,REL,4,OPPO, OPPO
+-not aligned-,bulb A,NOALI,0,NOALI, NOALI
+each bulb,each bulb,EQUI,5,EQUI, EQUI
+its own complete path,in its own path,EQUI,5,SIMI, SIMI
+because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+has,is,SIMI,4,SIMI, SIMI (both chunks have similar meanings)
+have,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+separate paths,in a closed path,REL,4,OPPO, OPPO
+-not aligned-,"burns out,",NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+within the closed circuit,with the battery,REL,3,REL, REL (both chunks are not considered similar but they are closely related by some relation not mentioned above)
+-not aligned-,If,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [If])"
+-not aligned-,bulb A,NOALI,0,NOALI, NOALI
+bulbs b and c,B and C,EQUI,5,EQUI, EQUI
+-not aligned-,are,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,no longer,NOALI,0,NOALI, NOALI (for both chunks)
+-not aligned-,by a gap,NOALI,0,NOALI," NOALI, SIMI (since there is no corresponding chunk in the first sentence and the second chunk can be considered as a possible cause or reason for a gap, but not a direct equivalent or opposite)"
+A terminal,"Terminals 1, 2 and 3",SPE2,2,SIMI," SIMI (both chunks have similar meanings, they share similar attributes and there is no EQUI, OPPO, SPE1 or SPE2 relation)"
+-not aligned-,from the positive battery terminal,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+is connected,are separated,OPPO,4,OPPO, OPPO
+to a bulb.,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+the positive battery terminal from terminal 4,Terminal 4 and the positive terminal,EQUI,5,SPE2, SPE2
+are,are contained,EQUI,5,SIMI, SIMI
+a switch and bulb,the switch and the bulb,EQUI,5,EQUI, EQUI
+when,When,EQUI,5,EQUI, EQUI
+whithin a closed path,in the same path,SPE2,4,REL, REL
+because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,is not closed,NOALI,0,NOALI," NOALI, NOALI (since there is no corresponding chunk in the other sentence)"
+short,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+is,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [is], Chunk 2: [-not aligned-])"
+the path,the path,EQUI,5,EQUI, EQUI
+Bulb A,bulb A,EQUI,5,EQUI, EQUI
+-not aligned-,"burns out,",NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,neither B nor C,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+will,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+be completing,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,If,NOALI,0,REL, REL
+-not aligned-,is,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+the circuts.,in a closed path,REL,4,REL, REL
+no longer,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+a gap,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+Bulb C,each bulb,SPE1,3,SIMI, SIMI
+will create,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+in the path,in its own path,SPE2,4,SIMI, SIMI
+was contained,was contained,EQUI,5,EQUI, EQUI
+with the battery,with the battery.,EQUI,5,EQUI, EQUI
+-not aligned-,still,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+on a closed path,in the same closed path,SPE2,4,SIMI, SIMI
+bulb a,Bulb A,EQUI,5,EQUI, EQUI
+Terminal 1 to terminl 4.,Terminals 1 and 4,EQUI,5,SIMI," SIMI (both chunks have similar meanings, they share similar attributes and there is no EQUI, OPPO, SPE1 or SPE2 relation)"
+is connected,are connected,EQUI,5,SIMI, SIMI
+on the same path,in a separate path,REL,4,OPPO, OPPO
+Bulb C.,Bulb C,EQUI,5,EQUI, EQUI
+Bulbs A and B,-not aligned-,NOALI,0,NOALI, NOALI
+are not,is,OPPO,4,OPPO, OPPO
+as,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+Each circuit,a complete circuit,SPE2,3,SIMI, SIMI
+-not aligned-,is,NOALI,0,NOALI," NOALI, since there is no corresponding chunk in the other sentence."
+a connection.,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+must have,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+with a bulb and a battery,a bulb and a switch,SIMI,3,SIMI, SIMI
+in a closed path,in the same path,SPE2,4,SPE2, SPE2
+contained,are,SIMI,4,SIMI, SIMI
+A switch,the switch,EQUI,5,EQUI, EQUI
+will affect,affects,SIMI,4,EQUI, EQUI
+-not aligned-,If,NOALI,0,REL, REL
+the bulb.,the bulb,EQUI,5,EQUI, EQUI
+-not aligned-,are separated,NOALI,0,NOALI, NOALI (Chunk 1) and SIMI (Chunk 2)
+is,-not aligned-,NOALI,0,NOALI, NOALI
+the difference,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+between a positive and negative terminal,Terminal 1 and the positive terminal,SIMI,3,SPE2, SPE2
+Voltage,-not aligned-,NOALI,0,NOALI, NOALI (since Chunk 2 is not aligned with any chunk in the first sentence)
+on the battery.,-not aligned-,NOALI,0,NOALI, NOALI
+-not aligned-,by the gap,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+with the battery.,with the battery.,EQUI,5,EQUI, EQUI
+in a closed paty,in the same closed path,SPE2,4,SIMI, SIMI
+bulbs b and c,Bulb B and Bulb C,EQUI,5,EQUI, EQUI
+-not aligned-,still,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+were,were contained,EQUI,5,REL," REL (Related but not EQUI, OPPO, SPE1, SPE2, or SIMI)"
+z,"A, C, Z and X",SPE1,2,NOALI," NOALI (Chunk 1: [z] has not any corresponding chunk in the other sentence: [A, C, Z and X])."
+complete,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+the path,a path,EQUI,5,EQUI, EQUI
+-not aligned-,is,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [is])"
+be closed,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+can,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,containing,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+by having,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 has no corresponding chunk in Chunk 1)
+-not aligned-,When,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+the bulb and the switch,the switch and the bulb,EQUI,5,EQUI, EQUI
+as,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [as], Chunk 2: [-not aligned-])"
+A switch,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+are,are contained,EQUI,5,SIMI, SIMI
+it,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+will affect,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+in the path,in the same path,SPE2,4,SIMI, SIMI
+the battery,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+a bulb,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+the positive battery terminal,between terminal 6 and the positive terminal,SPE1,3,REL," REL (The relation between the positive battery terminal and terminal 6 is not directly equivalent, but they are related as one is a specific point on the circuit and the other is a reference to a specific terminal.)"
+is not connected,is no gap,OPPO,4,OPPO, OPPO
+-not aligned-,There,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+are,are,EQUI,5,EQUI, EQUI
+on a closed path,in closed paths,SPE1,4,REL, REL
+contains the battery.,with the battery,EQUI,5,EQUI, EQUI
+still,still,EQUI,5,EQUI, EQUI
+that,in closed paths,SPE1,4,REL, REL
+Bulb A and bulb C,Bulbs A and C,EQUI,5,EQUI, EQUI
+on their own completed circuts.,in a closed path,REL,3,SIMI," SIMI (both chunks have similar meanings, they share similar attributes and there is no EQUI, OPPO, SPE1 or SPE2 relation)"
+still,-not aligned-,NOALI,0,OPPO, OPPO
+will be,are,SIMI,4,SIMI, SIMI
+Bulbs A and C,Bulbs A and C,EQUI,5,EQUI, EQUI
+in the path,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 has no corresponding chunk in Chunk 1)
+it,-not aligned-,NOALI,0,NOALI, NOALI
+the charge,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+-not aligned-,by a gap,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,are separated,NOALI,0,REL, REL
+The damaged bulb B,-not aligned-,NOALI,0,NOALI, NOALI
+so,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+can not reach,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned)
+a gap,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 has no corresponding chunk in Chunk 1)
+-not aligned-,"Terminals 1, 2 and 3",NOALI,0,NOALI," NOALI, REL"
+-not aligned-,from the positive battery terminal,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in Chunk 1)
+has left,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [has left], Chunk 2: [-not aligned-])"
+is separated,are separated,EQUI,5,SPE1, SPE1
+-not aligned-,by a gap,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+the terminal from the battery terminal,the terminals,SPE1,3,SPE2, SPE2
+a terminal to another terminal,"Terminals 4, 5 and 6 to the positive battery terminal",SPE2,2,REL, REL
+is connected,are connected,EQUI,5,SIMI, SIMI
+is connected,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,There,NOALI,0,NOALI," NOALI, SIMI (since ""There"" is a general location and the unaligned chunk does not have a corresponding chunk in the other sentence)"
+bulb A to switch Z,both,SIMI,3,REL," REL (Both chunks are not considered similar but they are closely related by some relation not mentioned above, in this case, they are related as one is a part of the other, but not equivalent or opposite.)"
+-not aligned-,containing,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,no path,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,is,NOALI,0,NOALI," NOALI, since there is no corresponding chunk in the other sentence."
+bulb A to switch Z,switch Y and bulb A,SIMI,3,OPPO," OPPO (The meanings of the chunks are in opposition to each other, lying in an inherently incompatible binary relationship.)"
+"a closed path,",a path,EQUI,5,SPE1, SPE1
+is,is,EQUI,5,EQUI, EQUI
+there,there,EQUI,5,EQUI, EQUI
+contains,containing,EQUI,5,SIMI, SIMI
+"with switch z, bulb a and the battery","A, C, Z and the battery",SPE1,3,SIMI, SIMI
+that,a path,EQUI,5,REL, REL
+to the positive terminal,to the positive battery terminal,EQUI,5,SPE1, SPE1
+are connected,are connected,EQUI,5,EQUI, EQUI
+"Terminal 4, terminal 5, and terminal 6","Terminals 4, 5 and 6",EQUI,5,EQUI, EQUI
+is not connected,is not,SPE1,3,OPPO, OPPO
+is not,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [is not], Chunk 2: [-not aligned-])"
+Circuit 2,in 2,EQUI,5,EQUI, EQUI
+to itself.,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+the battery,The battery,EQUI,5,EQUI, EQUI
+because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 has no corresponding chunk in Chunk 1)
+a short circuit,in a closed path,REL,4,OPPO, OPPO
+terminal 1 from the positive battery terminal.,Terminal 1 and the positive terminal,EQUI,5,SPE2, SPE2
+Because,-not aligned-,NOALI,0,NOALI, NOALI
+is seperated,are separated,EQUI,5,SIMI, SIMI
+-not aligned-,by the gap,NOALI,0,REL, REL
+bulb a and bulb c,A and C,EQUI,5,EQUI, EQUI
+in different paths,in different paths,EQUI,5,EQUI, EQUI (both chunks have the same meaning)
+are contained,are,EQUI,5,SPE2," SPE2 (Chunk 1: [are contained], Chunk 2: [are])"
+with the bttery.,with the battery,EQUI,5,EQUI, EQUI
+with the battery.,with the battery,EQUI,5,EQUI, EQUI
+because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,still,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+in a closed path,in a closed path,EQUI,5,SIMI, SIMI
+bulb a,Bulb A,EQUI,5,EQUI, EQUI
+is,is,EQUI,5,EQUI, EQUI
+is connected,are separated,OPPO,4,OPPO, OPPO
+the positive terminal,Terminal 1 and the positive terminal,SPE1,3,SIMI, SIMI
+to the bulb,-not aligned-,NOALI,0,NOALI, NOALI
+-not aligned-,by the gap,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+bulb a and bulb c,Bulbs A and C,EQUI,5,SIMI, SIMI
+-not aligned-,still,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,are separated,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,by the gap,NOALI,0,REL, REL
+The positive terminal,Terminal 1 and the positive terminal,SPE1,3,SIMI, SIMI
+has,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+1.5 V,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,different electrical states,NOALI,0,REL, REL
+in the battery,A battery,EQUI,5,EQUI, EQUI
+-not aligned-,uses,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,at the terminals,NOALI,0,REL, REL
+-not aligned-,to maintain,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+because of the chemical,a chemical reaction,SIMI,4,SIMI, SIMI
+in closed paths.,in a closed path,SPE2,4,SPE1, SPE1
+need to be,are,SIMI,4,OPPO, OPPO
+Both components,the bulb and the battery,SPE2,4,SIMI, SIMI
+bulb a and bulb c,A and C,EQUI,5,EQUI, EQUI
+in parallel,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+are wired,in different paths,REL,3,REL, REL
+-not aligned-,are,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+Bulb terminals 3 and 4,Terminal 1 and the positive terminal,SIMI,2,SIMI," SIMI (both chunks have similar meanings as they both refer to electrical terminals, although the specific terminals mentioned are different)"
+-not aligned-,by the gap,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,are separated,NOALI,0,REL, REL
+-not aligned-,in the same path,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+the other bulb,The damaged bulb and the other bulb,SPE1,3,SIMI, SIMI
+-not aligned-,must be contained,NOALI,0,REL, REL
+will not light.,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 has no corresponding chunk in Chunk 1)
+there,-not aligned-,NOALI,0,NOALI, NOALI
+in the terminals,both,REL,4,REL, REL
+in the terminals,switch Y and bulb A,REL,4,REL," REL (both chunks are related, but not semantically equivalent, similar, opposite, or more specific)"
+-not aligned-,containing,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+was,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,no path,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+a gap,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [a gap], Chunk 2: [-not aligned-])"
+because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+is,-not aligned-,NOALI,0,OPPO, OPPO
+the switch with the battery and bulb.,the switch and the bulb,SPE2,3,SIMI, SIMI
+open,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+if,When,SIMI,3,SIMI, SIMI
+in a path,in the same path,SPE2,4,SIMI, SIMI
+-not aligned-,are contained,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+to the positive side,to the positive battery terminal,SPE2,4,SIMI, SIMI
+"4, 5, and 6","Terminals 4, 5 and 6",EQUI,5,EQUI, EQUI
+are connected,are connected,EQUI,5,EQUI, EQUI
+in the circuit.,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+indicates,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned)
+-not aligned-,between the terminals,NOALI,0,REL, REL
+of 0 volts,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+a gap,no gap,OPPO,4,OPPO, OPPO
+a voltage reading,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,there,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+-not aligned-,is,NOALI,0,NOALI," NOALI (Chunk 1) and SIMI (Chunk 2) since ""is"" is a general term that can encompass a wide range of meanings, while the first chunk is not aligned with any specific meaning in the second sentence."
+are not connected,are not connected,EQUI,5,EQUI, EQUI
+4 5 and 6,"Terminals 4, 5 and 6",EQUI,5,EQUI, EQUI
+to negative battery terminal,to the negative battery terminal,EQUI,5,EQUI, EQUI
+on a closed path,in a closed path,EQUI,5,EQUI, EQUI
+bulbs a and b,A and B,EQUI,5,SIMI, SIMI
+-not aligned-,burns out,NOALI,0,NOALI," NOALI, as there is no corresponding chunk in Chunk 1."
+-not aligned-,then,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+still,still,EQUI,5,EQUI, EQUI
+with the battery,with the battery,EQUI,5,EQUI, EQUI
+are contained,are,EQUI,5,REL, REL (both chunks are not considered similar but they are closely related by some relation not mentioned above)
+-not aligned-,C,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,If,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+are,are,EQUI,5,EQUI, EQUI
+"bulbs a, b, and c",A and C,SPE2,3,SIMI," SIMI (both chunks have similar meanings, they share similar attributes and there is no EQUI, OPPO, SPE1 or SPE2 relation)"
+in the same path.,in the same path,EQUI,5,EQUI, EQUI
+all,A and C,SPE2,3,SIMI," SIMI (both chunks have similar meanings, they share similar attributes and there is no EQUI, OPPO, SPE1 or SPE2 relation)"
+are,are,EQUI,5,EQUI, EQUI
+with the battery,-not aligned-,NOALI,0,NOALI, NOALI
+a and c,A and C,EQUI,5,SIMI, SIMI
+on the same closed path,in the same closed path,EQUI,5,SIMI, SIMI
+open,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 has no corresponding chunk in Chunk 1)
+then,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [then], Chunk 2: [-not aligned-])"
+is included,are,EQUI,5,SIMI, SIMI
+"closed path,",in the same path,SIMI,4,SIMI," SIMI (both chunks have similar meanings, they share similar attributes and there is no EQUI, OPPO, SPE1 or SPE2 relation)"
+"the bulb""",the bulb,EQUI,5,EQUI, EQUI
+being,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned)
+"""if",If,EQUI,5,EQUI, EQUI
+will affect,affects,SIMI,4,SIMI, SIMI
+the switch,the switch,EQUI,5,EQUI, EQUI
+"the switch in the bulb""""s",a bulb and a switch,EQUI,5,EQUI, EQUI
+will not affect,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+each other,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+because,-not aligned-,NOALI,0,NOALI, NOALI
+the outcome,-not aligned-,NOALI,0,NOALI, NOALI
+-not aligned-,are not,NOALI,0,OPPO, OPPO
+-not aligned-,with the battery,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,in the same path,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,A and C,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+of the bulb,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+by a gap,by the gap,EQUI,5,EQUI, EQUI
+not seperated,are not separated,EQUI,5,EQUI, EQUI
+-not aligned-,Terminal 6 and the positive terminal,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,by the gap,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [by the gap])"
+are seperated.,are separated,EQUI,5,EQUI, EQUI
+because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+terminal 1 and the neavtive terminal,Terminal 1 and the positive terminal,SIMI,4,OPPO, OPPO
+a gap,an incomplete circuit,REL,4,OPPO, OPPO
+is,is,EQUI,5,EQUI, EQUI
+now.,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+between A and C,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+their,there,EQUI,5,SIMI," SIMI (both chunks have similar meanings, they share similar attributes and there is no EQUI, OPPO, SPE1 or SPE2 relation)"
+Because,-not aligned-,NOALI,0,NOALI, NOALI
+-not aligned-,then,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+Bulb A and bulb b,A and B,EQUI,5,EQUI, EQUI
+-not aligned-,burns out,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+-not aligned-,C,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+still,still,EQUI,5,EQUI, EQUI
+with the battery,with the battery,EQUI,5,EQUI, EQUI
+-not aligned-,If,NOALI,0,NOALI," NOALI, SIMI"
+in closed paths,in a closed path,SPE2,4,SIMI, SIMI
+are contained,are,EQUI,5,OPPO," OPPO (The meanings of the chunks are in opposition to each other, lying in an inherently incompatible binary relationship.)"
+as,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+in the same circuit,in its own path,REL,3,REL, REL
+B and C,each bulb,SPE1,3,SIMI, SIMI
+are not,is,OPPO,4,OPPO, OPPO
+A.,-not aligned-,NOALI,0,NOALI, NOALI
+to 1.5.,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+from 0,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+there terminals,the terminals,EQUI,5,SIMI, SIMI
+are separated,are separated,EQUI,5,EQUI, EQUI
+the voltage,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+jumps,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+when,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+by a gap,by a gap,EQUI,5,EQUI, EQUI
+bulbs a b and c,A and C,SPE2,3,SPE2, SPE2
+on a closed path,in the same closed path,SPE2,4,SIMI, SIMI
+are,are,EQUI,5,EQUI, EQUI
+think,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned)
+means,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+this,-not aligned-,NOALI,0,NOALI, NOALI
+I,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,is,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [is])"
+that,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [that], Chunk 2: [-not aligned-])"
+is,-not aligned-,NOALI,0,OPPO," OPPO (The meaning of ""is"" is present, but there is no corresponding chunk in sentence 2, making the meanings incompatible.)"
+should,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [should], Chunk 2: [-not aligned-])"
+and,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+something,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 has no corresponding chunk in Chunk 1)
+dangerous,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+-not aligned-,a short circuit,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+is,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [is], Chunk 2: [-not aligned-])"
+the red X,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+never,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [never], Chunk 2: [-not aligned-])"
+-not aligned-,there,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+happen,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+unless,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 has no corresponding chunk in Chunk 1)
+seriously,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [seriously], Chunk 2: [-not aligned-])"
+wrong.,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 1: [wrong.] has no corresponding chunk in Chunk 2: [-not aligned-])
+there,-not aligned-,NOALI,0,NOALI, NOALI
+no gap,by the gap,OPPO,4,SPE1, SPE1
+from the positive terminal,Terminal 1 and the positive terminal,SPE1,3,SPE1, SPE1
+because,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 has no corresponding chunk in Chunk 1)
+was,are separated,SIMI,2,OPPO, OPPO
+of the battery,-not aligned-,NOALI,0,NOALI, NOALI (since there is no corresponding chunk in the other sentence)
+-not aligned-,then,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [then])"
+bulbs A and B,A and B,EQUI,5,EQUI, EQUI
+still,still,EQUI,5,EQUI, EQUI
+-not aligned-,C,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,burns out,NOALI,0,NOALI, NOALI
+to the closed path,in a closed path,EQUI,5,EQUI, EQUI
+containing the battery,with the battery,EQUI,5,SIMI, SIMI
+are connected,are,SIMI,4,SIMI, SIMI
+-not aligned-,If,NOALI,0,NOALI," NOALI (for Chunk 1) and REL (for Chunk 2). The reason is that Chunk 1 is not present in the other sentence, so it is left unaligned (NOALI). Chunk 2, ""If"", is related to the context but not semantically similar to the given chunk, so it is labeled as REL."
+if,When,SIMI,3,SIMI, SIMI
+are,are contained,EQUI,5,SIMI, SIMI
+the switch and the bulb,the switch and the bulb,EQUI,5,EQUI, EQUI
+in the same path,in the same path,EQUI,5,EQUI, EQUI
+bulb c and switch z,both,EQUI,5,SIMI," SIMI (both chunks have similar meanings, they share similar attributes and there is no EQUI, OPPO, SPE1 or SPE2 relation)"
+bulb c and switch z,Z and C,EQUI,5,EQUI, EQUI
+in the same closed path,a path,SPE1,4,REL, REL (both chunks are not considered similar but they are closely related by some relation not mentioned above)
+are,containing,SIMI,4,REL, REL (both chunks are not considered similar but they are closely related by some relation not mentioned above)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,is,NOALI,0,NOALI," NOALI (Chunk 1: [-not aligned-], Chunk 2: [is])"
+-not aligned-,is contained,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+only,-not aligned-,NOALI,0,NOALI," NOALI (Chunk 1: [only], Chunk 2: [-not aligned-])"
+the bulb,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 has no corresponding chunk in Chunk 1)
+connected,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+one terminal,-not aligned-,NOALI,0,NOALI, NOALI (Chunk 2 is not aligned with Chunk 1)
+-not aligned-,The battery,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+has,does not contain,OPPO,4,OPPO, OPPO
+-not aligned-,which,NOALI,0,NOALI, NOALI (Chunk 1 is not aligned with Chunk 2)
+-not aligned-,in a path,NOALI,0,REL," REL (Both chunks are not considered similar but they are closely related by some relation not mentioned above, in this case, they are both related to a path, but not the same concept.)"
+-not aligned-,any other components,NOALI,0,REL, REL

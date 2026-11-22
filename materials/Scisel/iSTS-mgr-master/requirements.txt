@@ -1,0 +1,16 @@
+pandas
+pyarrow
+fastparquet
+huggingface_hub
+ipykernel
+datasets
+torch
+transformers
+trl
+omegaconf
+peft
+scikit-learn
+sentencepiece
+protobuf
+lxml
+bitsandbytes

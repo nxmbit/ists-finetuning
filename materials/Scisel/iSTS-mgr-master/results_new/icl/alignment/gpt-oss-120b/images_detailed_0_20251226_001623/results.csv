@@ -1,0 +1,2463 @@
+text_source,text_translation,alignment,score,preds,response
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+a soccer ball,a ball,SPE1,4,SPE1,SPE1
+chasing,chasing,EQUI,5,EQUI,EQUI
+in a blue and white team uniform,in a blue soccer uniform,SPE2,3,SPE2,SPE2
+A child,A young boy,SPE2,4,SPE2,SPE2
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A man,A man and a woman,SPE1,3,SPE2,SPE2
+in a gray suit,-not aligned-,NOALI,0,NOALI,NOALI
+a bicycle,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,on a city street,NOALI,0,NOALI,NOALI
+-not aligned-,standing,NOALI,0,NOALI,NOALI
+locking up,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+in in a car,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,is biting,NOALI,0,NOALI,NOALI
+A dog,A dog,EQUI,5,EQUI,EQUI
+-not aligned-,a mop,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+walking,is walking,EQUI,5,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+beside a pool,along the side of a pool,EQUI,5,EQUI,EQUI
+A black dog,A black dog,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+is looking up,watch,SPE1,4,SIMI,SIMI
+-not aligned-,the pool,NOALI,0,NOALI,NOALI
+The boy,the boy,EQUI,5,EQUI,EQUI
+them,-not aligned-,NOALI,0,NOALI,NOALI
+ignores,-not aligned-,NOALI,0,NOALI,NOALI
+at the girl as another girl,as the couple,SPE1,3,NOALI,NOALI
+-not aligned-,is diving into,NOALI,0,NOALI,NOALI
+holding,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+Two women,Two ladies,SPE2,4,EQUI,EQUI
+checkered flags,-not aligned-,NOALI,0,NOALI,NOALI
+near an orange car,next to an old fashioned car,SIMI,3,SIMI,SIMI
+-not aligned-,pose,NOALI,0,NOALI,NOALI
+-not aligned-,in skimpy clothes,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+with a backpack,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+on a misty mountain top,a rocky hill with fog surrounding him,EQUI,5,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+is up,climbing,SPE2,4,SPE2,SPE2
+A hiker,A hiker,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+in running,runs,EQUI,5,SIMI,SIMI
+A brown dog,A brown dog,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+on grass,through the grass,EQUI,5,REL,REL
+returns,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+the play toy,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,in the snow,NOALI,0,NOALI,NOALI
+The dog,Three dogs,SPE1,2,SPE1,SPE1
+-not aligned-,together,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,race,NOALI,0,NOALI,NOALI
+to its master,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+across a grassy path,in a grassy area,EQUI,5,SPE1,SPE1
+.,-not aligned-,NOALI,0,NOALI,NOALI
+two dogs,Two dogs,EQUI,5,EQUI,EQUI
+are running,are,SPE1,3,SPE1,SPE1
+with her arms,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,holding,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A woman,A man,SIMI,3,OPPO,OPPO
+takes,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,in a crowd,NOALI,0,NOALI,NOALI
+a picture,-not aligned-,NOALI,0,NOALI,NOALI
+while another,-not aligned-,NOALI,0,NOALI,NOALI
+at her sides,-not aligned-,NOALI,0,NOALI,NOALI
+stands,stands,EQUI,5,EQUI,EQUI
+out,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,a white object,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+an orange Frisbee,a red Frisbee,SIMI,4,SIMI,SIMI
+is jumping,jumping,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+to catch,to catch,EQUI,5,EQUI,EQUI
+in the air,in the air,EQUI,5,EQUI,EQUI
+A dog,a white dog,SPE2,4,SPE2,SPE2
+are posing,posing,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+with a blue shirt,-not aligned-,NOALI,0,NOALI,NOALI
+A woman and a man,a man and a woman,EQUI,5,EQUI,EQUI
+for a photograph,for a picture,EQUI,5,SPE1,SPE1
+-not aligned-,.,NOALI,0,NOALI,NOALI
+Three people,Three people,EQUI,5,EQUI,EQUI
+in an outdoor glass structure,in a glass structure,SPE1,4,SPE1,SPE1
+.,-not aligned-,NOALI,0,NOALI,NOALI
+stand,-not aligned-,NOALI,0,NOALI,NOALI
+wearing,wearing,EQUI,5,EQUI,EQUI
+a denim shirt,a denim jacket,SIMI,4,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+sticks out,sticks out,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+his tongue,his tongue,EQUI,5,EQUI,EQUI
+Young boy,A young boy,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+is walking,-not aligned-,NOALI,0,NOALI,NOALI
+A brown dog,A dog,SPE1,4,SPE1,SPE1
+.,-not aligned-,NOALI,0,NOALI,NOALI
+on the grass,by a tree,REL,3,SIMI,SIMI
+-not aligned-,chases,NOALI,0,NOALI,NOALI
+-not aligned-,another,NOALI,0,NOALI,NOALI
+playing,playing,EQUI,5,EQUI,EQUI
+Three boys,Three boys,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+soccer,soccer,EQUI,5,EQUI,EQUI
+in a field,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,with a wooded area,NOALI,0,NOALI,NOALI
+a skateboard,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+in the air,-not aligned-,NOALI,0,NOALI,NOALI
+above a ramp,along a track element,SPE1,3,REL,REL
+is riding,is riding,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+A person,A biker,SPE2,3,SPE2,SPE2
+-not aligned-,located,NOALI,0,NOALI,NOALI
+playing,leaping,SPE2,3,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+Brown and white dog,Black and white dog,SIMI,4,SIMI,SIMI
+in the grass,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,for Frisbee,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+is jumping,swimming,SIMI,2,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A boy,A little boy,SPE2,4,SPE2,SPE2
+in his hand,in his hand,EQUI,5,EQUI,EQUI
+with a ball,with a toy,SPE1,4,SPE1,SPE1
+into the water,underwater,EQUI,5,REL,REL
+.,-not aligned-,NOALI,0,NOALI,NOALI
+jumps,jumping over,EQUI,5,SPE2,SPE2
+a fence,a fence,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+A deer,A deer,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+to two boys,two boys,EQUI,5,SPE2,SPE2
+-not aligned-,and,NOALI,0,NOALI,NOALI
+-not aligned-,standing,NOALI,0,NOALI,NOALI
+in black,-not aligned-,NOALI,0,NOALI,NOALI
+Two young girls,two girls,SPE1,4,SPE1,SPE1
+with dyed hair,with pink streaked hair,SPE2,3,SPE2,SPE2
+-not aligned-,next to a concrete building,NOALI,0,NOALI,NOALI
+-not aligned-,with black hair,NOALI,0,NOALI,NOALI
+talk,-not aligned-,NOALI,1,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+at the beach,in the grass,SIMI,2,SIMI,SIMI
+Light brown dog,A brown dog,SPE1,4,SPE1,SPE1
+.,-not aligned-,NOALI,0,NOALI,NOALI
+towards something,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,a blond one,NOALI,0,NOALI,NOALI
+running,chases,SPE2,3,SIMI,SIMI
+with a messenger bag,-not aligned-,NOALI,0,NOALI,NOALI
+in front of a gray tile wall,in front of lighthouse,REL,2,SIMI,SIMI
+-not aligned-,standing,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,in red jacket,NOALI,0,NOALI,NOALI
+A man,Man,EQUI,5,SPE1,SPE1
+and,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+a camera,a large camera,SPE2,4,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+holding,is holding,EQUI,5,SPE2,SPE2
+A man crouching,The crouching man,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+wearing,-not aligned-,NOALI,0,NOALI,NOALI
+a pink coat,in a pink jacket,SIMI,4,SIMI,SIMI
+in rain puddles,through a large puddle,SPE2,3,SIMI,SIMI
+splashes,is walking,SPE1,2,REL,REL
+A girl,A girl,EQUI,5,EQUI,EQUI
+rollerblading,sliding,EQUI,5,SPE1,SPE1
+.,-not aligned-,NOALI,0,NOALI,NOALI
+on a metal bar,on a railing,EQUI,5,SIMI,SIMI
+A man,Roller blades,SPE1,4,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A small dog,a brown dog,SIMI,3,SIMI,SIMI
+with a ball,with a tennis ball,SPE2,5,SPE2,SPE2
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,outside,NOALI,0,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,There,NOALI,0,NOALI,NOALI
+jumping,swimming,SIMI,2,SIMI,SIMI
+in its mouth,in its mouth,EQUI,5,EQUI,EQUI
+Kids,Two dogs,SPE2,2,REL,REL
+-not aligned-,.,NOALI,0,NOALI,NOALI
+in the park,by the shore,SIMI,2,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+playing ball,playing,SPE1,4,SPE1,SPE1
+in a black dress,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,watches,NOALI,0,NOALI,NOALI
+on the street,down the stairs,REL,2,REL,REL
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,a dog,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+Woman,A woman,EQUI,5,EQUI,EQUI
+-not aligned-,jump,NOALI,0,NOALI,NOALI
+walking,-not aligned-,NOALI,0,NOALI,NOALI
+Five men,Five men,EQUI,5,EQUI,EQUI
+standing on,are walking down,OPPO,4,OPPO,OPPO
+-not aligned-,.,NOALI,0,NOALI,NOALI
+in tuxedos,in tuxedos,EQUI,5,EQUI,EQUI
+dressed,-not aligned-,NOALI,0,NOALI,NOALI
+a set of stairs,steps,EQUI,5,SPE1,SPE1
+A dog,A brown and white dog,SPE2,4,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+is running,running,EQUI,5,SPE1,SPE1
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,on grass,NOALI,0,NOALI,NOALI
+toward the camera,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+a dog,A small dog,SPE2,4,SPE2,SPE2
+jumps,leaps,EQUI,5,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+into the water,in the water,EQUI,5,REL,REL
+Two large dogs,Two brindle dogs,SIMI,4,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+running,running,EQUI,5,EQUI,EQUI
+in some grass,in the grass,SPE2,4,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+in the pool,into a pool,EQUI,5,REL,REL
+at the bottom,-not aligned-,NOALI,0,NOALI,NOALI
+A boy,A boy,EQUI,5,EQUI,EQUI
+stands,splashes,SPE2,2,NOALI,NOALI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,ejected,NOALI,0,NOALI,NOALI
+of a blue water slide,from a water slide,SPE1,4,SPE1,SPE1
+down a snowy hill,sledding,REL,4,REL,REL
+-not aligned-,go,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+ride,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+saucers,-not aligned-,NOALI,0,NOALI,NOALI
+Two children,Two children,EQUI,5,EQUI,EQUI
+a snowy hill,a snowy hill,EQUI,5,EQUI,EQUI
+A person,A person,EQUI,5,EQUI,EQUI
+while their dog,while a black dog,SPE2,4,SPE1,SPE1
+follows,follows,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+climbs up,climbs,SPE1,4,SPE1,SPE1
+is jumping,jumping,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+A child,A dog,SIMI,3,SIMI,SIMI
+into a swimming pool,into a swimming pool,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+sit,sit,EQUI,5,EQUI,EQUI
+on tall stools,on tall bar stools,SPE2,4,SPE2,SPE2
+at a resturaunt bar,at a yellow and grey bar,SIMI,3,SIMI,SIMI
+Four small children,Four children,SPE1,4,SPE1,SPE1
+.,-not aligned-,NOALI,0,NOALI,NOALI
+The black and white dog,A black and white dog,EQUI,5,SPE1,SPE1
+runs,is running,EQUI,5,SPE2,SPE2
+through the grass,through grass,EQUI,5,SPE1,SPE1
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,is climbing up,NOALI,0,NOALI,NOALI
+-not aligned-,dressed,NOALI,0,NOALI,NOALI
+out,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,in a Santa suit,NOALI,0,NOALI,NOALI
+in midair,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,a large concrete building,NOALI,0,NOALI,NOALI
+A girl,A man,SIMI,3,SIMI,SIMI
+her limbs,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+is sprawling,-not aligned-,NOALI,0,NOALI,NOALI
+in a pink shirt,-not aligned-,NOALI,0,NOALI,NOALI
+A tan and white dog,A large dog,SIMI,3,REL,REL
+on a gravel path,along a gravel path,EQUI,5,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+a ball,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,walks,NOALI,0,NOALI,NOALI
+-not aligned-,in the woods,NOALI,0,NOALI,NOALI
+retrieving,-not aligned-,NOALI,0,NOALI,NOALI
+is carrying,is carrying,EQUI,5,EQUI,EQUI
+by a reddish colored wall,-not aligned-,NOALI,0,NOALI,NOALI
+in a grey hat,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+a boy,A small boy,SPE2,4,SPE2,SPE2
+a soccer ball,a soccer ball,EQUI,5,EQUI,EQUI
+wearing,-not aligned-,NOALI,0,NOALI,NOALI
+underwater water,in very clear blue water,SPE2,4,SPE2,SPE2
+A person,A person,EQUI,5,EQUI,EQUI
+scuba gear,is scuba diving,REL,4,REL,REL
+.,-not aligned-,NOALI,0,NOALI,NOALI
+is swimming,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+walking,walking,EQUI,5,EQUI,EQUI
+A white dog,A black and tan dog,SIMI,3,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+in the snow,through the snow,EQUI,5,SIMI,SIMI
+a baby,a small baby,SPE2,4,SPE2,SPE2
+on the beach,at the beach,EQUI,5,SPE1,SPE1
+placing,holds,SIMI,4,REL,REL
+A woman,a woman,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+on a skateboard,on a skateboard,EQUI,5,EQUI,EQUI
+into a lake,into a lake,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A young boy,The boy,SPE1,4,SPE1,SPE1
+jumping,is jumping,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,a wave,NOALI,0,NOALI,NOALI
+while attached,-not aligned-,NOALI,0,NOALI,NOALI
+A man,A man,EQUI,5,EQUI,EQUI
+to a parachute,-not aligned-,NOALI,0,NOALI,NOALI
+water skis,kite surfing,SIMI,3,REL,REL
+-not aligned-,creates,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,sit,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+in the snow,in the snow,EQUI,5,EQUI,EQUI
+looks,-not aligned-,NOALI,0,NOALI,NOALI
+at a black puppy,-not aligned-,NOALI,0,NOALI,NOALI
+A white dog,A big white dog and a small black dog,SPE1,3,SPE2,SPE2
+A blue and white soccer team,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,is covered,NOALI,0,NOALI,NOALI
+against each other,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,in mud,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,with her face,NOALI,0,NOALI,NOALI
+-not aligned-,painted,NOALI,0,NOALI,NOALI
+-not aligned-,A topless woman,NOALI,0,NOALI,NOALI
+playing,-not aligned-,NOALI,0,NOALI,NOALI
+running,are running,EQUI,5,SPE2,SPE2
+a white dog,The dogs,SPE1,3,SPE1,SPE1
+-not aligned-,.,NOALI,0,NOALI,NOALI
+in the snow,in the snow,EQUI,5,EQUI,EQUI
+a bat,with his bat,EQUI,5,SPE2,SPE2
+A young boy,A young boy,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+swings,plays ball,EQUI,5,SIMI,SIMI
+wearing,on,EQUI,5,REL,REL
+-not aligned-,in the street,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+a blue visor,with a visor,EQUI,5,SPE1,SPE1
+-not aligned-,.,NOALI,0,NOALI,NOALI
+of people,of people,EQUI,5,EQUI,EQUI
+a group,A group,EQUI,5,EQUI,EQUI
+white water rafting,down the rapids,REL,4,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+in a blue raft,their blue inflatable raft,SPE1,4,SPE2,SPE2
+-not aligned-,paddle,NOALI,0,NOALI,NOALI
+with a purple ball,with purple football,SPE2,4,SPE2,SPE2
+-not aligned-,.,NOALI,0,NOALI,NOALI
+playing,play,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+A pair of dogs,Two dogs,EQUI,5,EQUI,EQUI
+A dog,A dog,EQUI,5,EQUI,EQUI
+-not aligned-,his head,NOALI,0,NOALI,NOALI
+shakes,shakes,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+off water,-not aligned-,NOALI,0,NOALI,NOALI
+A boy,A sports fan,SPE2,2,REL,REL
+a red shirt,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,in the stands,NOALI,0,NOALI,NOALI
+-not aligned-,face paint,NOALI,0,NOALI,NOALI
+wearing,is wearing,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+with a furry dog,-not aligned-,NOALI,0,NOALI,NOALI
+runs,-not aligned-,NOALI,0,NOALI,NOALI
+across the grass,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+Two young children,Two small children,SIMI,4,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+are walking,walking,EQUI,5,SPE1,SPE1
+-not aligned-,.,NOALI,0,NOALI,NOALI
+across an open field,in a field,SPE1,4,SPE1,SPE1
+The brown dog,The skinny brown dog,SPE2,4,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+on the grass,through the tall green grass,SPE2,4,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+is running,is running,EQUI,5,EQUI,EQUI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A man,A person,SPE1,4,SPE1,SPE1
+-not aligned-,",",NOALI,0,NOALI,NOALI
+of a mountain,of a mountain,EQUI,5,EQUI,EQUI
+-not aligned-,is standing,NOALI,0,NOALI,NOALI
+with his arms,with arms,EQUI,5,SPE1,SPE1
+-not aligned-,in a red shirt,NOALI,0,NOALI,NOALI
+raised,raised,EQUI,5,EQUI,EQUI
+at the top,at the top,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+on or near a fence,on and by a fence,EQUI,5,SPE2,SPE2
+stand,are standing,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+Three children,The three children,EQUI,5,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,on colored mats,NOALI,0,NOALI,NOALI
+dancing,do stretches,REL,2,SIMI,SIMI
+A group,A group,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+in a backyard,-not aligned-,NOALI,0,NOALI,NOALI
+of four children,of children,SPE1,4,SPE1,SPE1
+-not aligned-,near an elevator,NOALI,0,NOALI,NOALI
+Two constructions workers,The man,SPE2,2,SPE1,SPE1
+sit,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+taking a break,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,is putting on,NOALI,0,NOALI,NOALI
+-not aligned-,his shirt,NOALI,0,NOALI,NOALI
+on a beam,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+is smelling,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,to it,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+attached,attached,EQUI,5,NOALI,NOALI
+to a very large dog,with a large gray dog,SIMI,3,SPE2,SPE2
+is holding,holds,EQUI,5,SIMI,SIMI
+who,with a large gray dog,SIMI,3,NOALI,NOALI
+the grass,-not aligned-,NOALI,0,NOALI,NOALI
+A man,A man,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+a very long leash,a long leash,SPE1,4,SPE1,SPE1
+a boat,A white boat,SPE2,4,SPE2,SPE2
+in the background,in the background,EQUI,5,EQUI,EQUI
+with mountains,with mountains,EQUI,5,EQUI,EQUI
+is,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+on the water,on glassy water,SPE2,4,SPE2,SPE2
+This,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,in midair,NOALI,0,NOALI,NOALI
+are jumping,are jumping,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+into a pool,into an inground pool,SPE2,4,SPE2,SPE2
+Two boys,Two boys,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+submerged in water,is underwater,EQUI,5,EQUI,EQUI
+Scuba diver,The scuba diver,EQUI,5,EQUI,EQUI
+sprints,is running quickly,SPE1,4,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+The brown and black dog,A black dog,SPE1,4,SPE1,SPE1
+across the snow,along the ground,SPE1,2,SPE1,SPE1
+.,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+A black dog,A dog,SPE1,4,SPE1,SPE1
+-not aligned-,.,NOALI,0,NOALI,NOALI
+jumps,walks,SIMI,2,SIMI,SIMI
+through the water,through the snow,SIMI,2,SIMI,SIMI
+hanging out,hanging out,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A brown dog,A grey dog,SIMI,4,SIMI,SIMI
+with it's tongue,tongue,EQUI,5,SPE1,SPE1
+in the grass,in the green grass,SPE2,4,SPE2,SPE2
+-not aligned-,",",NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+walks,walks,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+clips,attaches,SIMI,3,SPE1,SPE1
+a carabiner,a pulley,SIMI,3,REL,REL
+-not aligned-,.,NOALI,0,NOALI,NOALI
+onto a metal line,to a cable,SIMI,4,SPE1,SPE1
+-not aligned-,in a helmet,NOALI,0,NOALI,NOALI
+A person,A young woman,SPE2,3,SPE2,SPE2
+in a striped fleece,-not aligned-,NOALI,0,NOALI,NOALI
+runs,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+A lean dog,A brown dog and two black dogs,SPE1,2,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+through green grass,in an overgrown grassy field,SPE2,3,SPE2,SPE2
+parked,parked,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+on a mountain,on a hill,SPE2,4,SPE1,SPE1
+Many cars,A group of cars,EQUI,5,SIMI,SIMI
+A light brown dog,A brown and white dog,SIMI,4,SIMI,SIMI
+in the water,into the water,EQUI,5,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+is running,running,EQUI,5,SIMI,SIMI
+on a beach,on a beach,EQUI,5,EQUI,EQUI
+three dogs,A boy,SPE2,2,REL,REL
+playing,standing,SPE1,2,REL,REL
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+a dog,the skateboarder,SPE2,2,REL,REL
+into the pond,into the air,SIMI,2,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+jumps,jumps,EQUI,5,EQUI,EQUI
+is jumping,is standing,SPE1,2,OPPO,OPPO
+-not aligned-,in front of a mirror,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+into a pool,-not aligned-,NOALI,0,NOALI,NOALI
+A white and black dog,A woman,SIMI,3,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,in a black apron,NOALI,0,NOALI,NOALI
+A brown dog,A brown dog,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+is running,is running,EQUI,5,EQUI,EQUI
+through green grass,though a river,SIMI,2,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+on rocks,-not aligned-,NOALI,0,NOALI,NOALI
+Three children,Three men,SIMI,3,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+playing,playing,EQUI,5,EQUI,EQUI
+-not aligned-,baseball,NOALI,0,NOALI,NOALI
+near a lake,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,has,NOALI,0,NOALI,NOALI
+a ice sculpture,a block of ice,SPE1,4,REL,REL
+A man,A man,EQUI,5,EQUI,EQUI
+-not aligned-,a chainsaw,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,and,NOALI,0,NOALI,NOALI
+shaving,is carving,SIMI,4,SIMI,SIMI
+in black,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+at a brown dog,at the dog,SPE1,4,SPE1,SPE1
+with a pink collar,with the red collar,SIMI,4,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+is barking,is bearing it's teeth,SIMI,3,SIMI,SIMI
+with a blue collar,with the blue collar,EQUI,5,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+A brown and white dog,The dog,SPE1,4,SPE1,SPE1
+in the snow,-not aligned-,NOALI,0,NOALI,NOALI
+in snow,in the snow,EQUI,5,SPE2,SPE2
+A dog,A dog,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+looking,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,is walking,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+at the camera,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,in a tire track,NOALI,0,NOALI,NOALI
+on a breaking wave,a wave,SPE1,4,SPE1,SPE1
+A surfer,A surfer,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+is riding,is riding,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+The # 2 greyhound dog,a muzzled greyhound dog,SPE2,3,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+around a track,around a track,EQUI,5,EQUI,EQUI
+is running,is running,EQUI,5,EQUI,EQUI
+A black dog,Black dog,EQUI,5,EQUI,EQUI
+in the snow,through snow,EQUI,5,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+is running after,chasing,EQUI,5,EQUI,EQUI
+a white dog,brown dog,SIMI,4,SIMI,SIMI
+-not aligned-,old fashion clothing,NOALI,0,NOALI,NOALI
+A man to another,A man and woman,SIMI,4,REL,REL
+-not aligned-,sit,NOALI,0,NOALI,NOALI
+an orange coat,-not aligned-,NOALI,0,NOALI,NOALI
+as they,-not aligned-,NOALI,0,NOALI,NOALI
+in the snow,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,outside,NOALI,0,NOALI,NOALI
+-not aligned-,at a table,NOALI,0,NOALI,NOALI
+walk,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,dressedin,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+speaks,-not aligned-,NOALI,0,NOALI,NOALI
+wearing,-not aligned-,NOALI,0,NOALI,NOALI
+on shore,along the sandy shoreline,SPE2,4,SPE2,SPE2
+beside two geese,while two ducks,SIMI,4,SIMI,SIMI
+-not aligned-,nearby,NOALI,0,NOALI,NOALI
+Dog,A black dog,SPE2,4,SPE2,SPE2
+-not aligned-,of a body,NOALI,0,NOALI,NOALI
+running,running,EQUI,5,EQUI,EQUI
+in water,of water,EQUI,5,REL,REL
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,swim,NOALI,0,NOALI,NOALI
+A group,A group,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+racing,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,and,NOALI,0,NOALI,NOALI
+-not aligned-,in front of a house,NOALI,0,NOALI,NOALI
+-not aligned-,together,NOALI,0,NOALI,NOALI
+-not aligned-,pose,NOALI,0,NOALI,NOALI
+-not aligned-,stand,NOALI,0,NOALI,NOALI
+of people,of people,EQUI,5,EQUI,EQUI
+in boats,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+towards the shore,-not aligned-,NOALI,0,NOALI,NOALI
+on the beach,into the air,SIMI,2,REL,REL
+.,-not aligned-,NOALI,0,NOALI,NOALI
+is playing,being thrown,SPE2,3,NOALI,NOALI
+A family,A naked little girl,REL,3,REL,REL
+-not aligned-,.,NOALI,0,NOALI,NOALI
+with their dog,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+A man,A dog,SIMI,3,REL,REL
+in the ocean,through the ocean,EQUI,5,REL,REL
+is wind sailing,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,is running,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+runs,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,bound,NOALI,0,NOALI,NOALI
+A small dog,Two dogs,SPE1,3,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+through a grassy field,across the grass,SPE1,4,SPE1,SPE1
+-not aligned-,.,NOALI,0,NOALI,NOALI
+blows,is blowing,EQUI,5,SPE2,SPE2
+on an orange wand,from an orange bubble hoop,EQUI,5,REL,REL
+to make,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+a bubble,bubbles,SPE1,4,SPE1,SPE1
+A young child,An Asian child,SPE2,4,REL,REL
+two woman,Two women,EQUI,5,EQUI,EQUI
+sit,sitting,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,by the water,NOALI,0,NOALI,NOALI
+on a park bench,on a bench,SPE1,4,SPE1,SPE1
+a bird,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+lands,floats,REL,3,OPPO,OPPO
+in the water,in the water,EQUI,5,EQUI,EQUI
+-not aligned-,a boat,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+watching,stand on a balcony,SPE2,3,REL,REL
+Two young men,Two men,SPE1,4,SPE1,SPE1
+multi-colored blocks,colored boxes,SIMI,4,SPE1,SPE1
+with people,while other men,SPE2,4,REL,REL
+are juggling,stand juggling,EQUI,5,SPE2,SPE2
+A person,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+is skijoring,is playing,SPE1,3,SPE1,SPE1
+with a dog,A brown dog,SPE2,4,SPE2,SPE2
+in the mountains,in the water,SIMI,2,REL,REL
+-not aligned-,with a ball,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+A black dog,A lean dog,SIMI,4,SIMI,SIMI
+through a muddy bank,through a wooded area,REL,2,SIMI,SIMI
+runs,runs,EQUI,5,EQUI,EQUI
+is playing,is playing,EQUI,5,EQUI,EQUI
+The brown dog,A black dog,SIMI,4,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+in the snow,in the snow,EQUI,5,EQUI,EQUI
+is doing,is doing,EQUI,5,EQUI,EQUI
+a handstand,a hand-stand,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+on the beach,on the beach,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+The person,A kid,SPE2,4,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+is swimming,runs,SIMI,2,SIMI,SIMI
+in dark blue waters,at the beach,REL,3,REL,REL
+A tan girl,a little girl,SIMI,3,SIMI,SIMI
+-not aligned-,through the sand,NOALI,0,NOALI,NOALI
+in a floral bikini,in a flowered bathingsuit,SPE1,4,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+is running,is running,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A black dog,The German shepherd dog,SPE2,3,REL,REL
+through the snow,through the snow,EQUI,5,EQUI,EQUI
+wading,swimming,SIMI,4,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+shaking,-not aligned-,NOALI,0,NOALI,NOALI
+and,and,EQUI,5,EQUI,EQUI
+in the water,-not aligned-,NOALI,0,NOALI,NOALI
+The large dog,Three dark dogs,SPE1,3,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,has,NOALI,0,NOALI,NOALI
+-not aligned-,a ball,NOALI,0,NOALI,NOALI
+-not aligned-,one of them,NOALI,0,NOALI,NOALI
+-not aligned-,in a red and white dress,NOALI,0,NOALI,NOALI
+in the dirt,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,posing,NOALI,0,NOALI,NOALI
+are playing around,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,for the camera,NOALI,0,NOALI,NOALI
+-not aligned-,A dancer,NOALI,0,NOALI,NOALI
+Two dogs,-not aligned-,NOALI,0,NOALI,NOALI
+running,running,EQUI,5,EQUI,EQUI
+across the sand,through the water,SIMI,2,SIMI,SIMI
+A dog,A dog,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+runs,is running,EQUI,5,SPE2,SPE2
+A white and tan dog,A medium sized brown and white streaked dog,SPE2,3,SPE2,SPE2
+through the tall green grass,through tall grass,SPE1,4,SPE1,SPE1
+-not aligned-,.,NOALI,0,NOALI,NOALI
+of four,of people,SPE1,4,REL,REL
+.,-not aligned-,NOALI,0,NOALI,NOALI
+A group,A group,EQUI,5,EQUI,EQUI
+hiking,hike,EQUI,5,EQUI,EQUI
+through a snowy forest,through a snowy wooded area,EQUI,5,SPE1,SPE1
+-not aligned-,.,NOALI,0,NOALI,NOALI
+in plaid shirt,in a plaid shirt,EQUI,5,SPE2,SPE2
+hits,uses,SIMI,2,NOALI,NOALI
+A man,A man,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+a tree,by a tree,EQUI,5,REL,REL
+.,-not aligned-,NOALI,0,NOALI,NOALI
+with an Axe,a tool,SPE1,3,SPE1,SPE1
+-not aligned-,holds,NOALI,0,NOALI,NOALI
+-not aligned-,wearing,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+posing,-not aligned-,NOALI,0,NOALI,NOALI
+A smiling man and a baby girl,A smiling man a small child,SPE1,4,SPE1,SPE1
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,pink and red,NOALI,0,NOALI,NOALI
+for photo,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+with two people,Little boy smiling woman,SPE2,3,REL,REL
+-not aligned-,down blue slide,NOALI,0,NOALI,NOALI
+-not aligned-,at camera,NOALI,0,NOALI,NOALI
+in background,in background,EQUI,5,EQUI,EQUI
+-not aligned-,coming,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+outside,-not aligned-,NOALI,0,NOALI,NOALI
+White dog,-not aligned-,NOALI,0,NOALI,NOALI
+in the water,in the snow,SIMI,2,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+Three dogs,Three dogs,EQUI,5,EQUI,EQUI
+are playing,run,SPE2,3,REL,REL
+jumping,jumps up,SPE2,4,SPE2,SPE2
+on a sand dune,with the sand,SPE1,4,REL,REL
+-not aligned-,beneath her,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+at the ocean,into the air,SIMI,2,REL,REL
+A girl,The little girl,SPE2,4,SPE2,SPE2
+rock climbs,rock climbing,EQUI,5,SPE1,SPE1
+A shirtless man,A man,SPE1,4,SPE1,SPE1
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+walks,-not aligned-,NOALI,0,NOALI,NOALI
+wearing,wearing,EQUI,5,EQUI,EQUI
+and,-not aligned-,NOALI,0,NOALI,NOALI
+An adult male,A man,EQUI,5,EQUI,EQUI
+to the left,to the side,SPE1,5,SPE1,SPE1
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+looks,looking,EQUI,5,SIMI,SIMI
+a backpack,a backpack,EQUI,5,EQUI,EQUI
+to catch,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,across a green field,NOALI,0,NOALI,NOALI
+A black and white dog,Two black and white dogs,SPE1,4,SPE2,SPE2
+-not aligned-,.,NOALI,0,NOALI,NOALI
+jumping,run,SIMI,2,SIMI,SIMI
+a ball,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+high,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+a ramp,a ramp,EQUI,5,EQUI,EQUI
+A snowboarder,A snowboarder,EQUI,5,EQUI,EQUI
+goes down,going over,SIMI,4,REL,REL
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A young man and woman,The man and woman,SPE1,4,SPE1,SPE1
+on a bench,on a bench,EQUI,5,EQUI,EQUI
+are kissing,are kissing,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+outside,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+sitting,sitting,EQUI,5,EQUI,EQUI
+is holding,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,and,NOALI,0,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+-not aligned-,are looking,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+the harness,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,to a fencing wall,NOALI,0,NOALI,NOALI
+-not aligned-,clipped,NOALI,0,NOALI,NOALI
+-not aligned-,that,NOALI,0,NOALI,NOALI
+The woman,A man and woman,SPE1,3,SPE1,SPE1
+is wearing,-not aligned-,NOALI,0,NOALI,NOALI
+the brown and white dog,-not aligned-,NOALI,0,NOALI,NOALI
+that,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,on easels,NOALI,0,NOALI,NOALI
+-not aligned-,at artwork,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+shivers,is shivering,EQUI,5,EQUI,EQUI
+A wet child,A wet child,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+at a pool,in front of a pool,EQUI,5,SPE2,SPE2
+under a towel,in a towel,EQUI,5,SIMI,SIMI
+on it's back,on its back,EQUI,5,EQUI,EQUI
+in the sand,in the sand,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+rolls,lying,SIMI,2,NOALI,NOALI
+A white and brown dog,A dog,SPE1,4,SPE1,SPE1
+A large brown dog,A brown dog,SPE1,4,SPE1,SPE1
+-not aligned-,.,NOALI,0,NOALI,NOALI
+along side a river,near a river,EQUI,5,SPE1,SPE1
+is walking,walks,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,on the rocks,NOALI,0,NOALI,NOALI
+wearing a blue shirt,-not aligned-,NOALI,0,NOALI,NOALI
+crouches,sits,SIMI,3,SPE1,SPE1
+on a rocky cliff,on a rock,SIMI,3,SPE1,SPE1
+A man,a man,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,a sparkler,NOALI,0,NOALI,NOALI
+A boy,A young boy,SPE2,4,SPE2,SPE2
+waves around,is twisting,SIMI,4,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,around,NOALI,0,NOALI,NOALI
+-not aligned-,in the air,NOALI,0,NOALI,NOALI
+a sparkler,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+from a dock,-not aligned-,NOALI,0,NOALI,NOALI
+leaping,leaps,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A brown dog,A tan dog,EQUI,5,SIMI,SIMI
+into the water,into the water,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+are,are,EQUI,5,EQUI,EQUI
+on a fairground ride,on a giant inflatable slide,SIMI,3,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+Two children,Two children,EQUI,5,EQUI,EQUI
+A boy,A boy,EQUI,5,EQUI,EQUI
+with a broken arm,with a broken arm,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+is resting,is sleeping,SIMI,4,SPE2,SPE2
+in a bed,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+lunges,chasing,SIMI,4,SPE1,SPE1
+for a yellow toy,a yellow toy,EQUI,5,REL,REL
+.,-not aligned-,NOALI,0,NOALI,NOALI
+A brown dog,A brown dog,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,by a pool,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+themselves,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,standing,NOALI,0,NOALI,NOALI
+with bubbles,in foam bubbles,SPE2,4,SPE2,SPE2
+cover,are covered,EQUI,5,EQUI,EQUI
+three little boys,Three children,SPE1,4,SPE1,SPE1
+ankle-deep,play,SPE1,2,NOALI,NOALI
+in water,in the water,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+Two dogs,Two brown dogs,SPE2,4,SPE2,SPE2
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,on an ATV,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+in front of a building,in front of a bridge,SIMI,3,SIMI,SIMI
+are standing,are sitting,SIMI,3,OPPO,OPPO
+A man and a woman,Two girls,SIMI,3,SIMI,SIMI
+-not aligned-,on the sand,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+through water,through the snow,SIMI,2,SIMI,SIMI
+walking,walking,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A black dog,Two black dogs,SPE1,4,SPE2,SPE2
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,together,NOALI,0,NOALI,NOALI
+-not aligned-,on the bed,NOALI,0,NOALI,NOALI
+Two kids,Two dogs,SIMI,3,SIMI,SIMI
+splashing,play,SPE1,3,SPE1,SPE1
+in the water,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+on white carpet,on beige carpet,SIMI,4,SIMI,SIMI
+with a gemmed collar,with a blue collar,SIMI,4,SIMI,SIMI
+A black dog,A black dog,EQUI,5,EQUI,EQUI
+is sitting,is sitting,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+on grass,through a large grassy area,SPE2,4,SPE2,SPE2
+Three dogs,Several large dogs,SPE1,3,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+towards the camera,-not aligned-,NOALI,0,NOALI,NOALI
+running,are running,EQUI,5,SPE2,SPE2
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+wearing,-not aligned-,NOALI,0,NOALI,NOALI
+A person,The girl,SPE2,4,SPE2,SPE2
+jeans,-not aligned-,NOALI,0,NOALI,NOALI
+of a horse saddle,of a saddle,SPE1,4,SPE1,SPE1
+sits,is sitting,EQUI,5,EQUI,EQUI
+on top,on top,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A white dog,A large white dog,SPE2,4,SPE2,SPE2
+through snow,through a snowy field,SPE2,4,SPE2,SPE2
+bounding,is bounding,EQUI,5,SPE2,SPE2
+run,running,EQUI,5,SPE2,SPE2
+in a race,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+on a street,along a street,EQUI,5,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+Many people,A puppy,SPE2,2,NOALI,NOALI
+has,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,while carrying,NOALI,0,NOALI,NOALI
+in a lake,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,a stick,NOALI,0,NOALI,NOALI
+shining,-not aligned-,NOALI,0,NOALI,NOALI
+swimming,swims,EQUI,5,EQUI,EQUI
+sunshine,-not aligned-,NOALI,0,NOALI,NOALI
+A dog,A dog,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+on him,in its mouth,REL,3,NOALI,NOALI
+-not aligned-,of water,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+in a pink jacket,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+A girl,A young boy,SIMI,3,SIMI,SIMI
+is walking,is splashing,SIMI,2,SIMI,SIMI
+through a large puddle,through a puddle,SPE1,4,SPE1,SPE1
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A girl,A little girl,SPE2,4,SPE2,SPE2
+on a red play structure,on a red jungle gym,SIMI,4,SPE2,SPE2
+sits,-not aligned-,NOALI,0,NOALI,NOALI
+A group,A group,EQUI,5,EQUI,EQUI
+of people,of people,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+in front of a red fire truck,around a red fire truck,SIMI,4,REL,REL
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,are standing,NOALI,0,NOALI,NOALI
+through the grass,through a watery field,SPE2,3,SIMI,SIMI
+The black and white dog,three black and white dogs,SPE1,3,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+runs,running,EQUI,5,SIMI,SIMI
+jumping,swimming,SIMI,2,SIMI,SIMI
+A boy,A dog,SIMI,3,SIMI,SIMI
+in red,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+into a sandbox,in a pond,SIMI,2,SIMI,SIMI
+a bat,a bat,EQUI,5,EQUI,EQUI
+a blue jacket,in a blue jacket,EQUI,5,REL,REL
+swings,swings,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+at a white ball,at a ball,SPE1,4,SPE1,SPE1
+.,-not aligned-,NOALI,0,NOALI,NOALI
+A boy,A young boy,SPE2,4,SPE2,SPE2
+wearing,-not aligned-,NOALI,0,NOALI,NOALI
+are playing,play,EQUI,5,SPE1,SPE1
+-not aligned-,with a Frisbee,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+Three dogs,Three dogs,EQUI,5,EQUI,EQUI
+in the white snow,in a snowy field,SPE2,4,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+A man,A surfer,SPE1,4,SPE2,SPE2
+-not aligned-,.,NOALI,0,NOALI,NOALI
+in the waves,on a medium wave,SPE2,4,REL,REL
+in a black wetsuit,in a black wet suit,EQUI,5,EQUI,EQUI
+is surfung,surfs,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,in a park,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+a lake,in a field,SIMI,2,REL,REL
+A black dog,A black dog,EQUI,5,EQUI,EQUI
+-not aligned-,very fast,NOALI,0,NOALI,NOALI
+jumping into,runs,SIMI,2,REL,REL
+Two dogs,Two black dogs,SPE2,4,SPE2,SPE2
+in the snow,in the snow,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+playing,-not aligned-,NOALI,0,NOALI,NOALI
+on the grass,on the grass,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+run,running,EQUI,5,SPE2,SPE2
+Two dogs,A dog,SPE2,4,SPE1,SPE1
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,in the surf,NOALI,0,NOALI,NOALI
+-not aligned-,splashing,NOALI,0,NOALI,NOALI
+A tennis player,Two boys,SPE1,2,REL,REL
+the ball,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+hitting,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,his hands,NOALI,0,NOALI,NOALI
+in the blue water,in the sand,SIMI,2,SIMI,SIMI
+is canoeing,-not aligned-,NOALI,0,NOALI,NOALI
+A man,A man,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,raising,NOALI,0,NOALI,NOALI
+-not aligned-,to the sky,NOALI,0,NOALI,NOALI
+wearing a orange vest,in an orange jacket,SIMI,4,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+in a car,in the car,EQUI,5,SPE2,SPE2
+A black dog,A black and tan dog,SPE2,4,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+asleep,sleeps,EQUI,5,SIMI,SIMI
+play rugby,are playing ball,SPE1,4,SPE1,SPE1
+.,-not aligned-,NOALI,0,NOALI,NOALI
+A group,A group,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+of men,of men,EQUI,5,EQUI,EQUI
+-not aligned-,together,NOALI,0,NOALI,NOALI
+A man,A man,EQUI,5,EQUI,EQUI
+through water,in rough water,EQUI,5,SPE2,SPE2
+is riding a kayak,kayaks,EQUI,5,REL,REL
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+to catch in it's mouth,to bite,EQUI,5,SPE2,SPE2
+A brown dog,A grey dog,SIMI,4,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+is jumping up,jumps,SPE1,4,SPE1,SPE1
+a green strap,a green leash,EQUI,5,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+is lying,lying,EQUI,5,EQUI,EQUI
+a white dog,another dog,SPE1,4,SPE1,SPE1
+A brown dog,Dog,SPE1,4,SPE1,SPE1
+is sniffing,sniffing,EQUI,5,EQUI,EQUI
+that,another dog,SPE1,4,REL,REL
+-not aligned-,.,NOALI,0,NOALI,NOALI
+on the floor,under furniture,SPE2,4,SPE2,SPE2
+A black and grey dog,A black dog,SPE1,4,SPE1,SPE1
+.,-not aligned-,NOALI,0,NOALI,NOALI
+runs,walks,SIMI,3,SIMI,SIMI
+-not aligned-,with a red collar,NOALI,0,NOALI,NOALI
+with it's tongue,tongue,EQUI,5,SPE1,SPE1
+-not aligned-,and,NOALI,0,NOALI,NOALI
+hanging out,hanging out,EQUI,5,EQUI,EQUI
+in a field,through the grass,SPE1,4,SPE2,SPE2
+-not aligned-,with his mouth,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,open,NOALI,0,NOALI,NOALI
+on the beach,of a beach,EQUI,5,REL,REL
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,at on the shore,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+A young girl,A little girl,EQUI,5,SIMI,SIMI
+running,running,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,in it's mouth,NOALI,0,NOALI,NOALI
+is carrying,while carrying,EQUI,5,SPE2,SPE2
+with arm outstretched,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+a light colored rugby ball,a ball,SPE1,3,SPE1,SPE1
+in dark gear,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,in the water,NOALI,0,NOALI,NOALI
+A rugby player,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,A brown dog,NOALI,0,NOALI,NOALI
+-not aligned-,splashes,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+each other,each other,EQUI,5,EQUI,EQUI
+Two dogs,Two dogs,EQUI,5,EQUI,EQUI
+groom,jumping on,SIMI,3,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+Two dogs,Two dogs,EQUI,5,EQUI,EQUI
+standing,-not aligned-,NOALI,0,NOALI,NOALI
+on grass,on the grass,EQUI,5,EQUI,EQUI
+together,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+the white one,-not aligned-,NOALI,0,NOALI,NOALI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+on a Frisbee,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+playing,play,EQUI,5,EQUI,EQUI
+for Christmas,in front of a Christmas tree,REL,4,REL,REL
+receives,holds,SIMI,3,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+A boy,A boy,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+a light saber,a light saber,EQUI,5,EQUI,EQUI
+under the bridge,under an expressway ledge,SPE2,2,SPE2,SPE2
+around him,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+on a sofa,on a couch,EQUI,5,EQUI,EQUI
+litter,-not aligned-,NOALI,0,NOALI,NOALI
+is,-not aligned-,NOALI,0,NOALI,NOALI
+The man,A man,EQUI,5,SPE1,SPE1
+all,-not aligned-,NOALI,0,NOALI,NOALI
+and,-not aligned-,NOALI,0,NOALI,NOALI
+sits,is sitting,EQUI,5,EQUI,EQUI
+The white and brown dog,A brown and white dog,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+runs,runs,EQUI,5,EQUI,EQUI
+across the grass,across the grass,EQUI,5,EQUI,EQUI
+'s leg,at the leg,EQUI,5,REL,REL
+-not aligned-,.,NOALI,0,NOALI,NOALI
+a horse,of a horse,EQUI,5,REL,REL
+A brown dog,A dog,SPE1,4,SPE1,SPE1
+biting,nips,SPE2,4,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+wearing,wearing,EQUI,5,EQUI,EQUI
+a white outfit,a black and red swimsuit,SPE2,3,SIMI,SIMI
+swinging,swinging,EQUI,5,EQUI,EQUI
+in a baby swing,on a swing,SPE1,4,SPE1,SPE1
+a young baby girl,a young girl,SPE1,4,SPE1,SPE1
+in the snow,through snow,EQUI,5,REL,REL
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,runs,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A white dog,A white dog,EQUI,5,EQUI,EQUI
+with light brown markings,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,while it,NOALI,0,NOALI,NOALI
+has,holds,EQUI,5,SIMI,SIMI
+his paws,-not aligned-,NOALI,0,NOALI,NOALI
+a stick,a stick,EQUI,5,EQUI,EQUI
+and,-not aligned-,NOALI,0,NOALI,NOALI
+in his mouth,in its mouth,EQUI,5,SIMI,SIMI
+in the ocean,as a wave,REL,4,REL,REL
+through the water,through the water,EQUI,5,EQUI,EQUI
+-not aligned-,comes,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+runs,runs,EQUI,5,EQUI,EQUI
+A brown dog,A brown dog,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+in the grass,in the grass,EQUI,5,EQUI,EQUI
+play,are playing,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+Two dogs,Two dogs,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+Two men,A man,SPE2,4,SPE1,SPE1
+-not aligned-,is lying,NOALI,0,NOALI,NOALI
+-not aligned-,with long hair and beard,NOALI,0,NOALI,NOALI
+on the side,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,the grass,NOALI,0,NOALI,NOALI
+of a barge,-not aligned-,NOALI,0,NOALI,NOALI
+A man,A man,EQUI,5,EQUI,EQUI
+-not aligned-,in swim trunks,NOALI,0,NOALI,NOALI
+at the beach,on the beach,EQUI,5,SPE2,SPE2
+juggles,is juggling,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+Two people and a dog,Two people,SPE2,4,SPE1,SPE1
+in the snow,on a snowy hill,SPE2,4,SPE2,SPE2
+are,playing,SPE2,3,REL,REL
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+hitting,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,listening to,NOALI,0,NOALI,NOALI
+is standing,are standing,EQUI,5,EQUI,EQUI
+on the shore,on beside the beach,SIMI,3,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+with a paddle,-not aligned-,NOALI,0,NOALI,NOALI
+a ball,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,ipods,NOALI,0,NOALI,NOALI
+The man,Two teenage girls,SPE2,3,NOALI,NOALI
+Two girls,two girls,EQUI,5,EQUI,EQUI
+in the ocean,in the street,SIMI,1,SIMI,SIMI
+walking,walking,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+of one rooftop,from one balcony,SIMI,3,REL,REL
+onto another,to another,EQUI,5,SPE1,SPE1
+A man,A young man,SPE2,4,SPE2,SPE2
+jumps off,jumps,SPE1,4,SPE1,SPE1
+.,-not aligned-,NOALI,0,NOALI,NOALI
+a woman with two young boys,A woman and three kids,SPE1,3,SPE1,SPE1
+at a park,at a park,EQUI,5,EQUI,EQUI
+playing,play,EQUI,5,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+stands,is standing,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+in front of a snowy mountain,in front of a snow covered mountain,EQUI,5,EQUI,EQUI
+glasses,-not aligned-,NOALI,0,NOALI,NOALI
+A man,A man,EQUI,5,EQUI,EQUI
+-not aligned-,black shorts,NOALI,0,NOALI,NOALI
+wearing,wearing,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+Three boys,Three boys,EQUI,5,EQUI,EQUI
+playing,playing,EQUI,5,EQUI,EQUI
+in a field,-not aligned-,NOALI,0,NOALI,NOALI
+soccer,soccer,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A black dog,A black pit bull dog,SPE2,4,SPE2,SPE2
+through the snow,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,through the dirt,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+is running,is running,EQUI,5,EQUI,EQUI
+of themselves,of themselves,EQUI,5,EQUI,EQUI
+taking,are taking,EQUI,5,SPE2,SPE2
+Two girls,Two blonde girls,SPE2,4,SPE2,SPE2
+-not aligned-,.,NOALI,0,NOALI,NOALI
+a picture,a picture,EQUI,5,EQUI,EQUI
+wearing,wearing,EQUI,5,EQUI,EQUI
+a man,A boy,SIMI,4,SIMI,SIMI
+a grey jacket,a blue life jacket,SPE2,4,SPE2,SPE2
+of a street,-not aligned-,NOALI,0,NOALI,NOALI
+on the side,onto the side,EQUI,5,SPE2,SPE2
+standing,is holding,SIMI,4,REL,REL
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,of a green boat,NOALI,0,NOALI,NOALI
+-not aligned-,over tire tracks,NOALI,0,NOALI,NOALI
+in the snow,in the snow,EQUI,5,EQUI,EQUI
+A black dog,A black dog,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+jumps,jumping,EQUI,5,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+upside down,upside-down,EQUI,5,EQUI,EQUI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+child,A girl,SPE2,4,SPE2,SPE2
+-not aligned-,.,NOALI,0,NOALI,NOALI
+hanging,hanging,EQUI,5,EQUI,EQUI
+from a tree swing,by a tree from a swing,EQUI,5,REL,REL
+A black and white dog,"A black , brown and white dog",SIMI,4,SPE2,SPE2
+is running,running,EQUI,5,EQUI,EQUI
+through a snowy field,through a field,SPE1,4,SPE1,SPE1
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+by the ocean,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,the side,NOALI,0,NOALI,NOALI
+on the beach,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,of the road,NOALI,0,NOALI,NOALI
+-not aligned-,down,NOALI,0,NOALI,NOALI
+-not aligned-,his cow,NOALI,0,NOALI,NOALI
+his bike,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,walking,NOALI,0,NOALI,NOALI
+A man,A man,EQUI,5,EQUI,EQUI
+riding,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,on a snowboard,NOALI,0,NOALI,NOALI
+A boy,A man,SIMI,4,SIMI,SIMI
+-not aligned-,while,NOALI,0,NOALI,NOALI
+jumps,jumps,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+into a not-so-crowded public pool,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+in the grass,in the sand,SIMI,2,SIMI,SIMI
+-not aligned-,digs,NOALI,0,NOALI,NOALI
+jumps,-not aligned-,NOALI,0,NOALI,NOALI
+A brown dog,A brown dog,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+high,-not aligned-,NOALI,0,NOALI,NOALI
+the street,the street,EQUI,5,EQUI,EQUI
+walking down,walking down,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+of old men,-not aligned-,NOALI,0,NOALI,NOALI
+a group,A couple,SPE2,4,SPE2,SPE2
+-not aligned-,are standing,NOALI,0,NOALI,NOALI
+A group,A group,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,beside a fire truck,NOALI,0,NOALI,NOALI
+on some rocks,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+are camping,-not aligned-,NOALI,0,NOALI,NOALI
+of people,of people,EQUI,5,EQUI,EQUI
+out,-not aligned-,NOALI,0,NOALI,NOALI
+The two dogs,The dogs,SPE1,4,SPE1,SPE1
+.,-not aligned-,NOALI,0,NOALI,NOALI
+are playing fetch,play,SPE1,4,SPE1,SPE1
+in the snow,in the snow,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+down a ramp,in the sand,SIMI,1,REL,REL
+is jumping,is jumping,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+Dog,A girls,SIMI,3,NOALI,NOALI
+racing,are racing,EQUI,5,SPE2,SPE2
+Three greyhounds,Five greyhounds,SIMI,3,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+on a track,on a sand track,SPE2,4,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+on the grass,in a grassy plain,SPE2,4,SPE1,SPE1
+Two black dogs,Two black dogs,EQUI,5,EQUI,EQUI
+are playing,are playing,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+is running,is running,EQUI,5,EQUI,EQUI
+on the grass,on the grass,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A little brown dog,The brown dog,SPE1,4,SPE1,SPE1
+A boy,A boy,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+in a hilly area,in a grassy field,SIMI,4,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+wearing,wearing,EQUI,5,EQUI,EQUI
+a tree,on a tree branch,SPE2,4,SPE2,SPE2
+is climbing,is climbing,EQUI,5,EQUI,EQUI
+a yellow shirt and blue pants,a yellow shirt and blue pants,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+leaps,is leaping,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+behind,behind,EQUI,5,EQUI,EQUI
+over a log,over a log,EQUI,5,EQUI,EQUI
+as another dog,while another dog,EQUI,5,SIMI,SIMI
+follows,follows,EQUI,5,EQUI,EQUI
+-not aligned-,it,NOALI,0,NOALI,NOALI
+-not aligned-,in a field,NOALI,0,NOALI,NOALI
+A harnessed dog,A brown and white dog,SIMI,3,REL,REL
+.,-not aligned-,NOALI,0,NOALI,NOALI
+A small brown dog,a wet dog,SIMI,4,SIMI,SIMI
+to catch,chasing,EQUI,5,SPE1,SPE1
+jumping up,-not aligned-,NOALI,0,NOALI,NOALI
+a tennis ball,a white ball,SPE1,4,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+runs,runs,EQUI,5,EQUI,EQUI
+through the water,through the grass,SIMI,2,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+a dog,A dog,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+a trick,a handstand,SPE2,3,SPE2,SPE2
+is doing,does,EQUI,5,SPE1,SPE1
+.,-not aligned-,NOALI,0,NOALI,NOALI
+A girl,A girl,EQUI,5,EQUI,EQUI
+on her trampoline,on a trampoline,EQUI,5,SPE1,SPE1
+in a pack,a race,SIMI,4,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+are running,are running,EQUI,5,EQUI,EQUI
+on their chests,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,A group,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+People,of people,EQUI,5,SPE2,SPE2
+with numbers,-not aligned-,NOALI,0,NOALI,NOALI
+in a rocky creek,through greenish water,SPE1,4,SIMI,SIMI
+A black dog,A black dog,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+through splashing water,splashes,REL,4,SIMI,SIMI
+walking,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,sleeping,NOALI,0,NOALI,NOALI
+sliding,-not aligned-,NOALI,0,NOALI,NOALI
+Child,Man,SIMI,3,SIMI,SIMI
+-not aligned-,on the street,NOALI,0,NOALI,NOALI
+in the snow,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+runs,running,EQUI,5,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+through a very wooded area,through a creek,SIMI,3,SIMI,SIMI
+A dog,A dog,EQUI,5,EQUI,EQUI
+-not aligned-,with a red ball,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+are playing,plays,EQUI,5,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+in tall grass,in the grass,SPE1,4,SPE1,SPE1
+A brown dog and a tan dog,A black and brown dog,SPE2,4,SIMI,SIMI
+-not aligned-,overhead,NOALI,0,NOALI,NOALI
+through an opening,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,is running,NOALI,0,NOALI,NOALI
+is squeezing,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A person,A medium sized brown dog,SIMI,3,REL,REL
+-not aligned-,through an open white wooded area,NOALI,0,NOALI,NOALI
+in the rock face,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+running,walking,SIMI,4,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+Six dogs,Six dogs,EQUI,5,EQUI,EQUI
+on the sandy beach,beside the beach,SPE1,4,REL,REL
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,in front of a brick building,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+are walking,are walking,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+Two people,Two girls,SPE2,4,SPE2,SPE2
+through some water,by a tree,SIMI,2,REL,REL
+rowing,in rowboat,REL,4,REL,REL
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A woman and a dog,Woman and dog,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+down a wide river,on the water,SPE1,4,SPE1,SPE1
+Three dogs,Three dogs,EQUI,5,EQUI,EQUI
+in the water,in the water,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+are playing,swim,SPE2,3,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+in a blue jacket,wearing a blue visor,SIMI,2,SIMI,SIMI
+a bat,a bat,EQUI,5,EQUI,EQUI
+A young boy,A young boy,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+at a ball,-not aligned-,NOALI,0,NOALI,NOALI
+swings,swings,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+Three individuals,Three people,EQUI,5,EQUI,EQUI
+"behind a ""no skiing"" sign",behind a no skiing sign,EQUI,5,EQUI,EQUI
+on skis,on skis,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+are posing,are standing,SPE1,4,SPE1,SPE1
+holds up,holding,SPE1,4,SPE1,SPE1
+A female DJ,a girl,SPE1,4,REL,REL
+a Michael Jackson album,a picture of Michael Jackson,SIMI,3,REL,REL
+-not aligned-,smiling,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+is running,swims,SIMI,2,SIMI,SIMI
+on the grass,in blue water,SIMI,2,REL,REL
+-not aligned-,.,NOALI,0,NOALI,NOALI
+The black and white dog,A black and white dog,EQUI,5,SPE1,SPE1
+one,A little girl,SIMI,4,SPE2,SPE2
+Two teenage girls,-not aligned-,NOALI,0,NOALI,NOALI
+is smiling,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,on a kid swing,NOALI,0,NOALI,NOALI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+walks,walks,EQUI,5,EQUI,EQUI
+-not aligned-,with it's tongue,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,hanging out,NOALI,0,NOALI,NOALI
+in the white snow,in the snow,EQUI,5,SPE1,SPE1
+A brown and black dog,A brown and black dog,EQUI,5,EQUI,EQUI
+Two teenagers,Two people,SPE1,4,SPE1,SPE1
+in a doorway,on a doorstep,SIMI,4,SIMI,SIMI
+-not aligned-,wearing,NOALI,0,NOALI,NOALI
+-not aligned-,in the rain,NOALI,5,NOALI,NOALI
+-not aligned-,hoodies,NOALI,0,NOALI,NOALI
+in the rain,-not aligned-,NOALI,5,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+huddle,huddle,EQUI,5,EQUI,EQUI
+on a swing,on a swing,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+swinging,is,SPE1,4,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+a boy,The girl,SIMI,4,OPPO,OPPO
+-not aligned-,wearing,NOALI,0,NOALI,NOALI
+-not aligned-,purple,NOALI,0,NOALI,NOALI
+A young girl,a young girl,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+in the water,through water,EQUI,5,REL,REL
+doing a back flip,running,SIMI,2,SIMI,SIMI
+is riding a bicycle,running,SIMI,2,SIMI,SIMI
+A man,Two dogs,SPE1,2,REL,REL
+.,-not aligned-,NOALI,0,NOALI,NOALI
+on a dirt path,along dirt path,EQUI,5,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+down a path,down a path,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+happily,-not aligned-,NOALI,0,NOALI,NOALI
+A light brown dog,A pale dog,SIMI,4,SPE1,SPE1
+-not aligned-,.,NOALI,0,NOALI,NOALI
+runs,runs,EQUI,5,EQUI,EQUI
+a back bend,a back bend,EQUI,5,EQUI,EQUI
+does,doing,EQUI,5,SIMI,SIMI
+A girl,A girl,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+on the beach,at the beach,EQUI,5,SPE1,SPE1
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,step off,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+Two older men,Two men,SPE1,4,SPE1,SPE1
+in front of a bus,the bus,EQUI,5,REL,REL
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,together,NOALI,0,NOALI,NOALI
+A little girl,A man,SIMI,3,REL,REL
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,going over,NOALI,0,NOALI,NOALI
+a boardwalk,-not aligned-,NOALI,0,NOALI,NOALI
+in the background,in the background,EQUI,5,EQUI,EQUI
+-not aligned-,with a river,NOALI,0,NOALI,NOALI
+-not aligned-,a jump,NOALI,0,NOALI,NOALI
+with blue domes,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,on his bike,NOALI,0,NOALI,NOALI
+walks on,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,a very high jump,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+nest to a river,-not aligned-,NOALI,0,NOALI,NOALI
+A man,A man,EQUI,5,EQUI,EQUI
+on a bike,on a bike,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,does,NOALI,0,NOALI,NOALI
+through water,through grass,SIMI,2,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+running,is running,EQUI,5,SPE2,SPE2
+Black and white dog,A black and white dog,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A dalmation,A white dog,SPE1,4,SPE1,SPE1
+is running,is running,EQUI,5,EQUI,EQUI
+along the beach,on sand,SPE1,4,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+out of the water,through the water,EQUI,5,OPPO,OPPO
+towards shore,towards the shore,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+leaps,jumping,EQUI,5,SIMI,SIMI
+A dog,a tan dog,SPE2,4,SPE2,SPE2
+-not aligned-,.,NOALI,0,NOALI,NOALI
+in the grass,in the water,SIMI,2,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+play,play,EQUI,5,EQUI,EQUI
+two dogs,Two dogs,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+in the water,the water,EQUI,5,REL,REL
+is splashing,treads,SIMI,4,REL,REL
+with a stick,with sticks,SPE1,4,SPE1,SPE1
+A wet white dog,A white dogs,SPE1,4,SPE1,SPE1
+-not aligned-,.,NOALI,0,NOALI,NOALI
+in it's mouth,in its mouth,EQUI,5,EQUI,EQUI
+-not aligned-,is sitting,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+in its mouth,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,on a green chair,NOALI,0,NOALI,NOALI
+is catching,-not aligned-,NOALI,0,NOALI,NOALI
+a ball,-not aligned-,NOALI,0,NOALI,NOALI
+in the snow,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+A blonde dog,A little blonde girl,SIMI,3,REL,REL
+in the grass,in the grass,EQUI,5,EQUI,EQUI
+playing around,play,EQUI,5,SPE1,SPE1
+two puppies,Two puppies,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+run,run,EQUI,5,EQUI,EQUI
+Two dogs,Two dogs,EQUI,5,EQUI,EQUI
+near a forest,in the forest,EQUI,5,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+on a dirt area,down a dirt path,SPE2,4,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+is running,is running,EQUI,5,EQUI,EQUI
+in his mouth,in its mouth,EQUI,5,SIMI,SIMI
+The brown and white dog,A dog,SPE1,4,SPE1,SPE1
+across the sand,along a beach,SPE2,4,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+with a red object,with a red object,EQUI,5,EQUI,EQUI
+in the snow,in the snow,EQUI,5,EQUI,EQUI
+are playing,are running,SPE2,3,SIMI,SIMI
+Two dogs,The dogs,EQUI,5,SPE1,SPE1
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+on a field,in field,EQUI,5,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+of grass,of long green grass,SPE2,4,SPE2,SPE2
+A brown dog,A brown dog,EQUI,5,EQUI,EQUI
+jumps high,running,SIMI,2,REL,REL
+.,-not aligned-,NOALI,0,NOALI,NOALI
+sails,is kayaking,SIMI,3,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,A man,NOALI,0,NOALI,NOALI
+in rough water,in rough waters,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+Boat,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,holding,NOALI,0,NOALI,NOALI
+-not aligned-,with their backs,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+on the big screen,-not aligned-,NOALI,0,NOALI,NOALI
+is playing along,-not aligned-,NOALI,0,NOALI,NOALI
+with the images,to the camera,REL,4,REL,REL
+The girl,Three girls,SPE1,3,SPE2,SPE2
+-not aligned-,umbrellas,NOALI,0,NOALI,NOALI
+A dog,A dog,EQUI,5,EQUI,EQUI
+with its two front paws,-not aligned-,NOALI,0,NOALI,NOALI
+on a rock,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,is running,NOALI,0,NOALI,NOALI
+in a field,in a field,EQUI,5,EQUI,EQUI
+is rock climbing,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,at an outdoor event,NOALI,0,NOALI,NOALI
+on a natural rock,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A man,A woman,SIMI,3,OPPO,OPPO
+-not aligned-,with glowing shoes,NOALI,0,NOALI,NOALI
+in their mouths,in their mouths,EQUI,5,EQUI,EQUI
+Two dogs,Two dogs,EQUI,5,EQUI,EQUI
+one Frisbee,a single black Frisbee,SPE2,4,SPE2,SPE2
+holding,holding,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+in bed,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,in the ring,NOALI,0,NOALI,NOALI
+are,are,EQUI,5,EQUI,EQUI
+Two people,Two boxers,SIMI,3,SPE2,SPE2
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+on grass,in a fenced yard,SPE2,4,SIMI,SIMI
+A brown and white dog,A brown and white dog,EQUI,5,EQUI,EQUI
+running,running,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,fast,NOALI,0,NOALI,NOALI
+tongue,-not aligned-,NOALI,0,NOALI,NOALI
+A dog,A dog,EQUI,5,EQUI,EQUI
+and,-not aligned-,NOALI,0,NOALI,NOALI
+flying,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,in the woods,NOALI,0,NOALI,NOALI
+over a log,over a log,EQUI,5,EQUI,EQUI
+out,-not aligned-,NOALI,0,NOALI,NOALI
+with ears,-not aligned-,NOALI,0,NOALI,NOALI
+is jumping,leaps,EQUI,5,EQUI,EQUI
+A man,A hiker,SPE1,4,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+a snowy mountain,a snowy mountain,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+climbs,moves up,EQUI,5,SPE1,SPE1
+two dogs,two dogs,EQUI,5,EQUI,EQUI
+a man,A man,EQUI,5,EQUI,EQUI
+walks,walks,EQUI,5,EQUI,EQUI
+down the street,in the city,REL,4,SPE1,SPE1
+-not aligned-,.,NOALI,0,NOALI,NOALI
+on leashes,-not aligned-,NOALI,0,NOALI,NOALI
+The beagle,A beagle,EQUI,5,SPE1,SPE1
+is walking,walks,EQUI,5,SPE1,SPE1
+on the beach,-not aligned-,NOALI,0,NOALI,NOALI
+at the waterline,along the calm shore,SPE2,4,SPE1,SPE1
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+in black massage chairs,in massage chairs,SPE1,4,SPE1,SPE1
+sit,are relaxing,SPE2,4,SPE1,SPE1
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+Two Asian men and Asian woman,Two Asian men and a woman,SPE1,4,SPE1,SPE1
+Two dogs,Two dogs,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+in the snow,in the snow,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+fighting,playing,SIMI,3,REL,REL
+a white dog,A little white dog,SPE2,4,SPE2,SPE2
+through the snow,through the sand,SIMI,2,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+is running,running,EQUI,5,EQUI,EQUI
+runs,runs,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+A boy,A boy,EQUI,5,EQUI,EQUI
+along a beach,along a colorful beach,SPE2,4,SPE2,SPE2
+a red shirt,a red sweater,SIMI,4,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+wearing,wearing,EQUI,5,EQUI,EQUI
+Two large black dogs,Two white dogs,SIMI,4,SIMI,SIMI
+-not aligned-,together,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+are playing,are running,SPE2,3,SIMI,SIMI
+in a grassy field,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+next to a man,-not aligned-,NOALI,0,NOALI,NOALI
+on a skateboard,down a ramp,REL,4,REL,REL
+A brown and white dog,A brown and white dog,EQUI,5,EQUI,EQUI
+is walking,is running,SIMI,4,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+two puppies,Two dogs,SPE1,4,SPE1,SPE1
+playing around,are wrestling,SIMI,4,SPE2,SPE2
+in the grass,in the grass,EQUI,5,EQUI,EQUI
+is running,run,EQUI,5,SPE1,SPE1
+The tan and white dog,The brown and white dogs,SPE1,4,SIMI,SIMI
+in the field,through the field,EQUI,5,REL,REL
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+a handstand,a handstand,EQUI,5,EQUI,EQUI
+on the beach,on a beach,EQUI,5,SPE1,SPE1
+A woman,a blond girl,SPE2,4,SPE2,SPE2
+does,doing,EQUI,5,SIMI,SIMI
+A black and white dog,A black dog,SPE2,4,SPE1,SPE1
+-not aligned-,fast,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+is swimming,runs,SIMI,2,SIMI,SIMI
+in a large green lake,into shallow water,SPE1,3,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+through the snow,through the field,SIMI,2,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+is running,is running,EQUI,5,EQUI,EQUI
+A dog,A brown dog,SPE2,4,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+over grass,across the grass,EQUI,5,REL,REL
+is running,is running,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A white and brown dog,A brown and white dog,EQUI,5,EQUI,EQUI
+on a ramp,to a slope,SIMI,4,SIMI,SIMI
+doing a trick,riding up,SIMI,4,REL,REL
+-not aligned-,.,NOALI,0,NOALI,NOALI
+a skateboarder,A skateboarder,EQUI,5,EQUI,EQUI
+in a batman suit,in a batman costume,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+A man,A man,EQUI,5,EQUI,EQUI
+-not aligned-,a race,NOALI,0,NOALI,NOALI
+running,is running,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A brown dog,A dog,SPE1,4,SPE1,SPE1
+.,-not aligned-,NOALI,0,NOALI,NOALI
+chews,has in its mouth,EQUI,5,REL,REL
+on an orange ball,an orange ball,EQUI,5,REL,REL
+-not aligned-,.,NOALI,0,NOALI,NOALI
+Two dogs,Two black dogs,SPE2,4,SPE2,SPE2
+together,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+on the beach,in a grass,SIMI,2,SIMI,SIMI
+are playing,are playing,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+on a trampoline,on a trampoline,EQUI,5,EQUI,EQUI
+are playing,are playing,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+outdoors,-not aligned-,NOALI,0,NOALI,NOALI
+These children,four children,SPE2,4,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+is running,running,EQUI,5,SPE1,SPE1
+The large brown and white dog,St. Bernard dog,SPE2,4,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+through the snow,in the snowy field,SPE2,4,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+jumping,jumping,EQUI,5,EQUI,EQUI
+-not aligned-,over an obstacle,NOALI,0,NOALI,NOALI
+A black and white dog,A black and white dog,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+into the air,-not aligned-,NOALI,0,NOALI,NOALI
+in an orange dress,in a dress,SPE1,4,SPE1,SPE1
+a tennis racket,a tennis racket,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+A young girl,A girl,SPE1,4,SPE1,SPE1
+",",-not aligned-,NOALI,0,NOALI,NOALI
+holding,holds,EQUI,5,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A white dog,The white dog,EQUI,5,SPE2,SPE2
+-not aligned-,.,NOALI,0,NOALI,NOALI
+on a beach,along the beach,EQUI,5,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+runs,is running,EQUI,5,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,standing,NOALI,0,NOALI,NOALI
+A man and dog,Man and dog,EQUI,5,EQUI,EQUI
+on a rocky seashore,on rocks next to water,EQUI,5,SPE2,SPE2
+huddle,keeping warm,REL,4,REL,REL
+Four hooded children,Four children,SPE1,4,SPE1,SPE1
+outdoors,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+under a blanket,under a blanket,EQUI,5,EQUI,EQUI
+are playing on,are standing,SPE1,3,REL,REL
+A young laughing girl and a boy,A baby girl and little boy,SPE1,4,SPE2,SPE2
+a big drum,next to a guitar and a drum,SPE1,3,REL,REL
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+takes a picture,takes a picture,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+while mom,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,in pajamas,NOALI,0,NOALI,NOALI
+A little girl,A little girl,EQUI,5,EQUI,EQUI
+in boredom,-not aligned-,NOALI,0,NOALI,NOALI
+watches,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,with a camera,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+over a barrier,over a fence,SPE2,4,SPE2,SPE2
+leaps,leaps,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A dog,A dog,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+plays,is playing,EQUI,5,SPE2,SPE2
+A boy,A man,SIMI,3,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+baseball,baseball,EQUI,5,EQUI,EQUI
+sitting,sitting,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+People laugh,Four happy people,SPE2,4,REL,REL
+on a couch,on a red couch,SPE2,4,SPE2,SPE2
+-not aligned-,.,NOALI,0,NOALI,NOALI
+says,-not aligned-,NOALI,0,NOALI,NOALI
+into a pool,into a not-so-crowded public pool,SPE2,4,SPE2,SPE2
+jumping,jumps,EQUI,5,SIMI,SIMI
+that,into a not-so-crowded public pool,SPE2,4,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+"""no diving""",-not aligned-,NOALI,0,NOALI,NOALI
+A young boy,A boy,SPE1,4,SPE1,SPE1
+-not aligned-,.,NOALI,0,NOALI,NOALI
+to another,to another,EQUI,5,EQUI,EQUI
+A young boy,A young boy,EQUI,5,EQUI,EQUI
+leaps,is leaping,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+from one couch,from one chair,SIMI,4,SIMI,SIMI
+wearing,wearing,EQUI,5,EQUI,EQUI
+holding up,-not aligned-,NOALI,0,NOALI,NOALI
+a candy bar,a chocolate bar,SIMI,4,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+is eating,eats,EQUI,5,EQUI,EQUI
+a red winter coat,a red coat,SPE1,4,SPE1,SPE1
+and,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A young boy,A young boy,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+running,running,EQUI,5,EQUI,EQUI
+on grass,on grass,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+Two dogs,"Two black , wet dogs",SPE2,4,SPE2,SPE2
+a game,-not aligned-,NOALI,0,NOALI,NOALI
+Two boys,Two boys,EQUI,5,EQUI,EQUI
+playing,are playing,EQUI,5,SPE2,SPE2
+-not aligned-,.,NOALI,0,NOALI,NOALI
+of flag football,flag football,EQUI,5,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+is jumping off,jumping off,EQUI,5,EQUI,EQUI
+a wooden porch,a wooden porch,EQUI,5,EQUI,EQUI
+A golden retriever,A gold dog,EQUI,5,SPE1,SPE1
+of a wicker chair,in a chair,SPE1,4,REL,REL
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,to it's mouth,NOALI,0,NOALI,NOALI
+is holding,while sitting,EQUI,5,REL,REL
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,a spoon,NOALI,0,NOALI,NOALI
+A young child,A young child,EQUI,5,EQUI,EQUI
+-not aligned-,holds,NOALI,0,NOALI,NOALI
+onto the back,-not aligned-,NOALI,0,NOALI,NOALI
+on the grass,in the grass,EQUI,5,SIMI,SIMI
+are running,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+Two dogs,Two birds,SIMI,2,SIMI,SIMI
+-not aligned-,interacting,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+Two surfers,Two surfers,EQUI,5,EQUI,EQUI
+on riding,perform tricks,SPE2,3,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+a small wave,in the waves,SPE1,4,REL,REL
+-not aligned-,.,NOALI,0,NOALI,NOALI
+behind some plants,in the woods,SIMI,3,REL,REL
+A brown furry animal,A dog,SPE2,3,SPE2,SPE2
+-not aligned-,pants,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+stands,while standing,EQUI,5,SPE2,SPE2
+jumps,runs,SIMI,3,SIMI,SIMI
+A dog,A dog,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+high,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+in the snow,in the snow,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+in the snow,in snow,EQUI,5,SPE1,SPE1
+A dog,Two dogs,SPE1,3,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A dog,A collie,SPE2,4,SPE2,SPE2
+running,running,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+through snow,through the snow,EQUI,5,SPE2,SPE2
+Two dogs,Two brownish dogs,SPE2,4,SPE2,SPE2
+-not aligned-,.,NOALI,0,NOALI,NOALI
+are fighting,are fighting,EQUI,5,EQUI,EQUI
+on brick pavement,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+on the grass,through the snow,SIMI,2,SIMI,SIMI
+The black dog,The German shepherd dog,SPE2,4,SPE2,SPE2
+is running,is running,EQUI,5,EQUI,EQUI
+A dog,A dog,EQUI,5,EQUI,EQUI
+a ball,a Frisbee,SIMI,3,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+catching,catching,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+in the snow,in the snow,EQUI,5,EQUI,EQUI
+playing,play,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+Two black dogs,Two dogs,SPE1,4,SPE1,SPE1
+with a purple and white helmet,wearing a helmet,SPE1,4,SPE1,SPE1
+-not aligned-,.,NOALI,0,NOALI,NOALI
+on a scooter,a scooter,EQUI,5,SPE1,SPE1
+A girl,A girl,EQUI,5,EQUI,EQUI
+is riding,rides,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+a trick,a trick,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+a skateboard,A skateboarder,EQUI,5,REL,REL
+.,-not aligned-,NOALI,0,NOALI,NOALI
+performs,to do,EQUI,5,SPE1,SPE1
+-not aligned-,attempts,NOALI,0,NOALI,NOALI
+off a quarter pipe,over a homemade ramp,SIMI,4,SIMI,SIMI
+-not aligned-,wait,NOALI,0,NOALI,NOALI
+of people,of people,EQUI,5,EQUI,EQUI
+-not aligned-,and,NOALI,0,NOALI,NOALI
+something,something,EQUI,5,NOALI,NOALI
+A group,A group,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+by a window,-not aligned-,NOALI,0,NOALI,NOALI
+watching,to see,EQUI,5,SPE1,SPE1
+are standing,stand,EQUI,5,SPE1,SPE1
+-not aligned-,.,NOALI,0,NOALI,NOALI
+swinging at a pitch,hitting the ball,REL,4,SPE2,SPE2
+A softball player,A baseball player,EQUI,5,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+on the grassy field,in the grass,SPE1,4,SPE1,SPE1
+Three sheep,a small group of goats,SIMI,4,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+with a dog,with a black and white dog,SPE2,4,SPE2,SPE2
+-not aligned-,.,NOALI,0,NOALI,NOALI
+behind them,in the backgroud,EQUI,5,SIMI,SIMI
+graze,-not aligned-,NOALI,0,NOALI,NOALI
+walking,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+wears,-not aligned-,NOALI,0,NOALI,NOALI
+in the snow,in the snow,EQUI,5,EQUI,EQUI
+playing,playing,EQUI,5,EQUI,EQUI
+-not aligned-,in the background,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,with a city,NOALI,0,NOALI,NOALI
+while one dog,-not aligned-,NOALI,0,NOALI,NOALI
+a jacket,-not aligned-,NOALI,0,NOALI,NOALI
+Three dogs,Three dogs,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+with a white Frisbee,a white Frisbee,EQUI,5,SPE1,SPE1
+running along,-not aligned-,NOALI,0,NOALI,NOALI
+in his mouth,carries,REL,4,NOALI,NOALI
+-not aligned-,over the grass,NOALI,0,NOALI,NOALI
+"a black , brown and white dog",A black and white dog,SPE2,4,SPE1,SPE1
+.,-not aligned-,NOALI,0,NOALI,NOALI
+A dog,A dog,EQUI,5,EQUI,EQUI
+runs,swimming,SIMI,2,SIMI,SIMI
+with a yellow toy,with a stick,SIMI,3,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+in its mouth,in it's mouth,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+The dog,A dog,EQUI,5,SPE1,SPE1
+-not aligned-,.,NOALI,0,NOALI,NOALI
+in the water,in the water,EQUI,5,EQUI,EQUI
+is playing,is wading,SIMI,3,SPE2,SPE2
+-not aligned-,laying,NOALI,0,NOALI,NOALI
+is riding,-not aligned-,NOALI,0,NOALI,NOALI
+a bike,on a blue inflatable toy,SIMI,2,REL,REL
+A young boy,A young girl,SIMI,3,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+is running,is running,EQUI,5,EQUI,EQUI
+through the grass,in the grass,EQUI,5,SIMI,SIMI
+quickly,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+The white and brown dog,The big white dog,SPE2,4,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+through an obstacle course,through pole obstacles,SPE2,4,SPE2,SPE2
+-not aligned-,.,NOALI,0,NOALI,NOALI
+running,runs,EQUI,5,SIMI,SIMI
+A black and white dog,A black and white dog,EQUI,5,EQUI,EQUI
+-not aligned-,of equipment,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+The child,The toddler,SPE2,4,SPE2,SPE2
+laid,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,ready,NOALI,0,NOALI,NOALI
+in the red mat,-not aligned-,NOALI,3,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+-not aligned-,the red piece,NOALI,0,NOALI,NOALI
+in the red coat,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,to climb,NOALI,0,NOALI,NOALI
+through the snow,a sled,REL,4,REL,REL
+is running,pulling,SIMI,2,SIMI,SIMI
+-not aligned-,through a town,NOALI,0,NOALI,NOALI
+A golden dog,of sled dogs,SPE1,4,REL,REL
+-not aligned-,A pack,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+and,-not aligned-,NOALI,0,NOALI,NOALI
+playing,playing,EQUI,5,EQUI,EQUI
+Three children,Three children,EQUI,5,EQUI,EQUI
+and,-not aligned-,NOALI,0,NOALI,NOALI
+laughing,-not aligned-,NOALI,0,NOALI,NOALI
+on the floor,on the floor,EQUI,5,EQUI,EQUI
+-not aligned-,digging,NOALI,0,NOALI,NOALI
+a black dog,a black dog,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+swimming,-not aligned-,NOALI,0,NOALI,NOALI
+through a river,through the snow,SIMI,2,SIMI,SIMI
+through a grassy park,-not aligned-,NOALI,0,NOALI,NOALI
+is running,is running,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+in the background,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,to splash,NOALI,0,NOALI,NOALI
+A bulldog,A dog,SPE1,4,SPE1,SPE1
+while people,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,of water,NOALI,0,NOALI,NOALI
+-not aligned-,in a large body,NOALI,0,NOALI,NOALI
+-not aligned-,causing,NOALI,0,NOALI,NOALI
+-not aligned-,it,NOALI,0,NOALI,NOALI
+stand,-not aligned-,NOALI,0,NOALI,NOALI
+in its mouth,in mouth,EQUI,5,SPE1,SPE1
+with a baseball,holding a baseball,EQUI,5,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+brown and white dog,Black and white dog,SIMI,4,SIMI,SIMI
+through the snow,through the snow,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A golden dog,A black dog,SPE1,4,SIMI,SIMI
+is running,is running,EQUI,5,EQUI,EQUI
+dressed,dressed,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,dance along,NOALI,0,NOALI,NOALI
+in red and black costumes,like waitresses,REL,2,SIMI,SIMI
+a wrestling pose,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,dressed,NOALI,0,NOALI,NOALI
+Girls,Two girls,SPE2,4,SPE2,SPE2
+hold,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,with a man,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,as a chef,NOALI,0,NOALI,NOALI
+to climb out of,to climb out of,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+attempting,is trying,EQUI,5,EQUI,EQUI
+Baby,A female toddler,SPE2,4,SPE2,SPE2
+in yellow room,-not aligned-,NOALI,0,NOALI,NOALI
+green playpen,a green and white playpen,SPE1,4,SPE2,SPE2
+with blonde pigtails,in pigtails,SPE1,4,SPE1,SPE1
+.,-not aligned-,NOALI,0,NOALI,NOALI
+in the snow,in the grass,SIMI,2,SIMI,SIMI
+The two dogs,Two dogs,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,together,NOALI,0,NOALI,NOALI
+are playing fetch,are playing,SPE1,4,SPE1,SPE1
+an apple,an apple,EQUI,5,EQUI,EQUI
+eating,eating,EQUI,5,EQUI,EQUI
+A man,A man,EQUI,5,EQUI,EQUI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+sitting,sits,EQUI,5,SIMI,SIMI
+in public,in a public place,EQUI,5,SPE2,SPE2
+A man,A man,EQUI,5,EQUI,EQUI
+wearing a red bicycle helmet,in a bicycle helmet,SPE1,4,SPE1,SPE1
+in the background,behind him,EQUI,5,SPE2,SPE2
+-not aligned-,.,NOALI,0,NOALI,NOALI
+with other people,with other people,EQUI,5,EQUI,EQUI
+talking,is talking,EQUI,5,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+on a cell phone,on a cell phone,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,jumps over,NOALI,0,NOALI,NOALI
+is punching,-not aligned-,NOALI,0,NOALI,NOALI
+A young boy,A small dog,SIMI,3,NOALI,NOALI
+-not aligned-,a yellow beam,NOALI,0,NOALI,NOALI
+a yellow ball,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+leans,leans,EQUI,5,EQUI,EQUI
+-not aligned-,overlooking,NOALI,0,NOALI,NOALI
+wearing,wearing,EQUI,5,EQUI,EQUI
+-not aligned-,water,NOALI,0,NOALI,NOALI
+a pink Tinker Bell jacket,a pink Tinkerbell sweatshirt,SIMI,4,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+against a railing,on a railing,EQUI,5,SIMI,SIMI
+A woman,A woman,EQUI,5,EQUI,EQUI
+in a crosswalk,in a crosswalk,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+walks,-not aligned-,NOALI,0,NOALI,NOALI
+A man,-not aligned-,NOALI,0,NOALI,NOALI
+on a city street,in a city,SPE1,4,SPE1,SPE1
+standing,stands,EQUI,5,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+toward a policeman,A policeman,EQUI,5,REL,REL
+plays,-not aligned-,NOALI,0,NOALI,NOALI
+A young boy,A laughing boy,SIMI,4,SIMI,SIMI
+in a red ball pit,on a pit of blue balls,SIMI,4,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,lies,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+in the snow,in the river,SIMI,2,SIMI,SIMI
+is running,is,SPE1,3,SPE1,SPE1
+with red ears,-not aligned-,NOALI,0,NOALI,NOALI
+A white dog,a wet black dog,SPE2,3,SIMI,SIMI
+-not aligned-,with a red collar,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+clowns,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+on his head,on his head,EQUI,5,EQUI,EQUI
+with a colander,with a metal colander,SPE2,4,SPE2,SPE2
+A little boy,A boy,SPE1,4,SPE1,SPE1
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+on a track,by a tree,REL,2,SIMI,SIMI
+-not aligned-,another,NOALI,0,NOALI,NOALI
+A dog,A dog,EQUI,5,EQUI,EQUI
+racing,chases,SIMI,4,SIMI,SIMI
+in a subway car,on public transportation,SPE1,4,SPE1,SPE1
+A man,A man,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+is sleeping,falls asleep,SPE2,4,SPE2,SPE2
+in a black leather jacket,in a black leather jacket,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+jumps,jumps,EQUI,5,EQUI,EQUI
+A dog,A dog,EQUI,5,EQUI,EQUI
+on a lawn,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,of a surfboard,NOALI,0,NOALI,NOALI
+through shallow water,through the shallow water,EQUI,5,SPE2,SPE2
+Two dogs,Two grey dogs,SPE2,4,SPE2,SPE2
+-not aligned-,.,NOALI,0,NOALI,NOALI
+run,running,EQUI,5,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+towards shore,of a lake,REL,4,NOALI,NOALI
+-not aligned-,in the air,NOALI,0,NOALI,NOALI
+with it's wings spread,flying,SIMI,4,SPE1,SPE1
+A bird,A bird,EQUI,5,EQUI,EQUI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,is,NOALI,0,NOALI,NOALI
+in front of a long blue wall,next to a blue wall,SPE1,4,REL,REL
+his eyebrow,-not aligned-,NOALI,0,NOALI,NOALI
+at the camera,-not aligned-,NOALI,0,NOALI,NOALI
+raises,-not aligned-,NOALI,0,NOALI,NOALI
+in a red shirt,in the red shirt,EQUI,5,SPE2,SPE2
+-not aligned-,.,NOALI,0,NOALI,NOALI
+a boy,The boy,EQUI,5,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+A woman,A woman,EQUI,5,EQUI,EQUI
+beside a tall concrete wall,beside a concrete wall,SPE1,4,SPE1,SPE1
+jogs,runs,EQUI,5,SPE1,SPE1
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,of people,NOALI,0,NOALI,NOALI
+A brown dog,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,walking,NOALI,0,NOALI,NOALI
+-not aligned-,on the side,NOALI,0,NOALI,NOALI
+in front of a plant,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,A group,NOALI,0,NOALI,NOALI
+a hole,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,of a railroad track,NOALI,0,NOALI,NOALI
+digging,-not aligned-,NOALI,0,NOALI,NOALI
+in a red coat and hat,wearing a red coat,SPE2,4,SPE1,SPE1
+to another man,at another man,EQUI,5,REL,REL
+talks,looks,REL,3,REL,REL
+in red,-not aligned-,NOALI,0,NOALI,NOALI
+A man,A man,EQUI,5,EQUI,EQUI
+-not aligned-,with glass,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+play,play,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+in the grass,in the snow,SIMI,2,SIMI,SIMI
+Two dogs,Two tan dogs,SPE2,4,SPE2,SPE2
+into a swimming pool,into a swimming pool,EQUI,5,EQUI,EQUI
+A boy,A boy,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+doing a back flip,jumping head first,EQUI,5,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,wearing,NOALI,0,NOALI,NOALI
+-not aligned-,red and blue swim trunks,NOALI,0,NOALI,NOALI
+over a hurdle,-not aligned-,NOALI,0,NOALI,NOALI
+A black and white dog,A white dog,SPE2,4,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+is jumping,running,SIMI,2,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,over a bridge,NOALI,0,NOALI,NOALI
+on a trampoline,on a trampoline,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+upside down,-not aligned-,NOALI,0,NOALI,NOALI
+on her head,on her head,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+bounces,is bouncing,EQUI,5,SIMI,SIMI
+A girl,A girl,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+on a trampoline,-not aligned-,NOALI,0,NOALI,NOALI
+Children,A man,SIMI,2,REL,REL
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,on an orange slide,NOALI,0,NOALI,NOALI
+jumping,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,is sledding,NOALI,0,NOALI,NOALI
+-not aligned-,outside,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,over a barricade,NOALI,0,NOALI,NOALI
+over a construction sign,-not aligned-,NOALI,0,NOALI,NOALI
+snowboarding and jumping,jumping,SIMI,4,SPE2,SPE2
+-not aligned-,in the snow,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A person,a long snowboarder,SPE2,4,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+The skateboarder,The skateboarder,EQUI,5,EQUI,EQUI
+to the top,the pipe wall,EQUI,5,NOALI,NOALI
+gets,rides,SIMI,3,REL,REL
+of the ramp,at a skater park,REL,4,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,into each other,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+Two boys,Two football players,SPE2,4,SIMI,SIMI
+a soccer ball,during a football game,REL,4,REL,REL
+kicking,bang,SIMI,4,SPE1,SPE1
+in a field,-not aligned-,NOALI,0,NOALI,NOALI
+behind them,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+a field,-not aligned-,NOALI,0,NOALI,NOALI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+stand,standing,EQUI,5,SIMI,SIMI
+of people,of people,EQUI,5,EQUI,EQUI
+A crowd,A bunch,EQUI,5,SPE1,SPE1
+",",-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+a forest,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,with it's trunk,NOALI,0,NOALI,NOALI
+in front,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,open,NOALI,0,NOALI,NOALI
+on a rural road,next to a car,REL,4,REL,REL
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+through the deep snow,through the snow,SPE1,4,SPE1,SPE1
+runs,is running,EQUI,5,SPE2,SPE2
+A dog,A white dog,SPE2,4,SPE2,SPE2
+A boy,A young boy,SPE2,4,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+riding,riding,EQUI,5,EQUI,EQUI
+on a swing,in a swing,EQUI,5,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+A woman,Women,SPE1,4,SPE1,SPE1
+a geyser,a geyser,EQUI,5,EQUI,EQUI
+pointing at,pointing at,EQUI,5,EQUI,EQUI
+in the white snow,in the grass,SIMI,2,SIMI,SIMI
+are playing,are playing,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+Three dogs,Two dogs,SIMI,4,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+along a city street,crossing the street,SPE1,4,REL,REL
+An elderly woman,An elderly woman,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+rides a bicycle,walking,SIMI,2,SIMI,SIMI
+-not aligned-,uphill,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,lean,NOALI,0,NOALI,NOALI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+next to a mossy tree,around a tree,SPE1,4,SPE1,SPE1
+-not aligned-,laughing,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+Two girls,Two girls,EQUI,5,EQUI,EQUI
+-not aligned-,wearing,NOALI,0,NOALI,NOALI
+is building,stacks,SPE1,3,REL,REL
+A small boy,A small boy,EQUI,5,EQUI,EQUI
+with some wooden blocks,wooden blocks,EQUI,5,SPE1,SPE1
+-not aligned-,a blue shirt,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+a brown dog,A brown dog,EQUI,5,EQUI,EQUI
+in the middle,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+of ahuge field,in a field,SPE1,4,REL,REL
+standing,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+on the snow,in the snow,EQUI,5,SIMI,SIMI
+runs,play,SPE1,3,SIMI,SIMI
+in his mouth,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,behind them,NOALI,0,NOALI,NOALI
+The brown dog,Four dogs,SPE1,2,SPE1,SPE1
+with a white ball,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,with the city skyline,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+is running,running,EQUI,5,EQUI,EQUI
+-not aligned-,crazily,NOALI,0,NOALI,NOALI
+a brown and white dog,a brown and white dog,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+on the grass,through the grass,EQUI,5,REL,REL
+-not aligned-,to come down,NOALI,0,NOALI,NOALI
+A brown dog,A brown dog,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,waits for,NOALI,0,NOALI,NOALI
+about to catch,before catching,EQUI,5,SPE1,SPE1
+-not aligned-,it,NOALI,0,NOALI,NOALI
+a green Frisbee,the Frisbee,SPE1,4,SPE1,SPE1
+-not aligned-,.,NOALI,0,NOALI,NOALI
+with a pink hat on,in a pink dress,SIMI,3,SIMI,SIMI
+in the background,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,in her hand,NOALI,0,NOALI,NOALI
+with a yellow building,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,with something,NOALI,0,NOALI,NOALI
+A young girl,A young girl,EQUI,5,EQUI,EQUI
+A man,A man,EQUI,5,EQUI,EQUI
+of a rock or mountain,in the mountains,SPE2,3,REL,REL
+on top,-not aligned-,NOALI,0,NOALI,NOALI
+the sun set,a sunset,EQUI,5,EQUI,EQUI
+watching,watching,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+is standing,standing,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,hops,NOALI,0,NOALI,NOALI
+-not aligned-,in the park,NOALI,0,NOALI,NOALI
+The couple,The boy,SPE2,2,SIMI,SIMI
+-not aligned-,to the other,NOALI,0,NOALI,NOALI
+near the water,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+is sitting,-not aligned-,NOALI,0,NOALI,NOALI
+in lawn chairs,from one picnic table,REL,4,REL,REL
+-not aligned-,at night,NOALI,0,NOALI,NOALI
+is swinging,swinging,EQUI,5,EQUI,EQUI
+above the water,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,in warm clothes,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+on a rope,on monkey bars,SIMI,3,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A man,A man,EQUI,5,EQUI,EQUI
+through deep snow pack,through the deep snow,EQUI,5,SPE1,SPE1
+.,-not aligned-,NOALI,0,NOALI,NOALI
+running,runs,EQUI,5,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A dog,A dog,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+is running,pounces,SIMI,3,SIMI,SIMI
+in the grass,on the grass,EQUI,5,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+The dog,a dog,EQUI,5,SIMI,SIMI
+jumping,is jumping,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+A Golden Retriever,A golden retriever,EQUI,5,EQUI,EQUI
+off a wood porch,off a wooden porch,EQUI,5,EQUI,EQUI
+is running,is running,EQUI,5,EQUI,EQUI
+with food,-not aligned-,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+The dog,The dog,EQUI,5,EQUI,EQUI
+-not aligned-,with a yellow ball,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+in his mouth,in his mouth,EQUI,5,EQUI,EQUI
+A reddish brown dog,The beautiful reddish dog,SPE2,4,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+runs,lopes,SIMI,4,SPE2,SPE2
+across the snow,around the flat snowy street,SPE2,3,REL,REL
+with a snowball,with a snowball,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+in its mouth,in its mouth,EQUI,5,EQUI,EQUI
+is running,-not aligned-,NOALI,0,NOALI,NOALI
+A white dog,A white dog,EQUI,5,EQUI,EQUI
+a ball,an orange ball,SPE2,4,SPE2,SPE2
+in a yard,in a grassy field,SPE2,4,SPE1,SPE1
+chasing,chases,EQUI,5,SIMI,SIMI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+with brown spots,with brown markings,EQUI,5,SPE1,SPE1
+-not aligned-,runs,NOALI,0,NOALI,NOALI
+-not aligned-,in a paisley dress,NOALI,0,NOALI,NOALI
+A little girl and a little boy,A little girl,SPE2,3,SPE2,SPE2
+.,-not aligned-,NOALI,0,NOALI,NOALI
+on a shiny slide,across a sandy playground,REL,3,SPE1,SPE1
+-not aligned-,.,NOALI,0,NOALI,NOALI
+hold hands,-not aligned-,NOALI,0,NOALI,NOALI
+in a rubber bin,-not aligned-,NOALI,0,NOALI,NOALI
+Three little boys,Three well-dressed children,SIMI,3,SIMI,SIMI
+take,-not aligned-,NOALI,0,NOALI,NOALI
+a bath,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,and,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+on the grass,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,smiling,NOALI,0,NOALI,NOALI
+-not aligned-,on a bench,NOALI,0,NOALI,NOALI
+-not aligned-,are sitting,NOALI,0,NOALI,NOALI
+a dog,A brown dog,SPE2,4,SPE2,SPE2
+-not aligned-,.,NOALI,0,NOALI,NOALI
+looks on,-not aligned-,NOALI,0,NOALI,NOALI
+sniffing,sniffing,EQUI,5,EQUI,EQUI
+the brushes,at the fence,SIMI,3,NOALI,NOALI
+while a bull,of a brown bull,SPE2,4,NOALI,NOALI
+in the snow,in the snow,EQUI,5,EQUI,EQUI
+A black dog,Two kids and a dog,SPE1,3,REL,REL
+bounds,play,SIMI,4,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+through a path,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+sliding on his knees,is riding a red sledge,SIMI,3,SIMI,SIMI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+down a snowy hill,down a snowy hill,EQUI,5,EQUI,EQUI
+A boy,A boy,EQUI,5,EQUI,EQUI
+in a red jacket and balck hat,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+in a field,in a field,EQUI,5,EQUI,EQUI
+of grass,of tall grass,SPE2,4,SPE2,SPE2
+Three dogs,Two dogs,SIMI,4,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+running,run,EQUI,5,SIMI,SIMI
+playing,play,EQUI,5,EQUI,EQUI
+brass instruments,instruments,SPE1,4,SPE1,SPE1
+A group,A group,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,outside,NOALI,0,NOALI,NOALI
+of men,of guys,EQUI,5,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+A black and tan dog,A white dog,SIMI,4,SIMI,SIMI
+standing,is standing,EQUI,5,EQUI,EQUI
+-not aligned-,dry,NOALI,0,NOALI,NOALI
+-not aligned-,himself,NOALI,0,NOALI,NOALI
+in a field,by a river,SIMI,2,SIMI,SIMI
+-not aligned-,shaking,NOALI,0,NOALI,NOALI
+near trees,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+Three people,Three people,EQUI,5,EQUI,EQUI
+painted,painted,EQUI,5,EQUI,EQUI
+outside of a building,in front of a building,EQUI,5,SPE2,SPE2
+at a picnic table,at an outdoor table,SIMI,4,SPE1,SPE1
+.,-not aligned-,NOALI,0,NOALI,NOALI
+like a union jack,like the Union Jack,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+sit,sit,EQUI,5,EQUI,EQUI
+runs,jumping,SIMI,3,SIMI,SIMI
+through an obstacle course,over an obstacle,SPE2,4,SPE2,SPE2
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+A small dog,A small dog,EQUI,5,EQUI,EQUI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+-not aligned-,A white dog,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,is carrying,NOALI,0,NOALI,NOALI
+-not aligned-,a stick,NOALI,0,NOALI,NOALI
+A tent and a campsite,-not aligned-,NOALI,0,NOALI,NOALI
+in a sunlit forest,on a beach,SIMI,2,SIMI,SIMI
+-not aligned-,in its mouth,NOALI,0,NOALI,NOALI
+is chasing,is running,SIMI,4,SPE1,SPE1
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A black dog,A dog,SPE1,4,SPE1,SPE1
+of the ocean,beside the ocean,EQUI,5,REL,REL
+on the shore,along the beach,SIMI,4,SIMI,SIMI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+two birds,-not aligned-,NOALI,0,NOALI,NOALI
+on their chins,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+are standing,is standing,EQUI,5,EQUI,EQUI
+with their hands,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,of a workshop,NOALI,0,NOALI,NOALI
+-not aligned-,with a white beard and blue cap,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+next to a Christmas tree,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,in the doorway,NOALI,0,NOALI,NOALI
+A man and woman,The man,SPE2,3,SPE2,SPE2
+are running,are running,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+Two dogs,Two dogs,EQUI,5,EQUI,EQUI
+near a house and trees,-not aligned-,NOALI,0,NOALI,NOALI
+through the grass,through a green yard,SPE2,4,SPE1,SPE1
+-not aligned-,.,NOALI,0,NOALI,NOALI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+of brown and white dogs,Two dogs,SPE1,3,SIMI,SIMI
+Two different breeds,-not aligned-,NOALI,0,NOALI,NOALI
+play,playing,EQUI,5,SPE2,SPE2
+-not aligned-,in the sand,NOALI,0,NOALI,NOALI
+on the beach,at the beach,EQUI,5,SPE1,SPE1
+.,-not aligned-,NOALI,0,NOALI,NOALI
+is running,runs,EQUI,5,SIMI,SIMI
+through the water,through the ocean,SPE2,4,SPE2,SPE2
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A white dog,The white dog,EQUI,5,SPE2,SPE2
+onto the shore,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,.,NOALI,0,NOALI,NOALI
+A dog,A dog,EQUI,5,EQUI,EQUI
+.,-not aligned-,NOALI,0,NOALI,NOALI
+leaping,leaps,EQUI,5,SIMI,SIMI
+over a hurdle,over the hurdle,EQUI,5,SPE2,SPE2

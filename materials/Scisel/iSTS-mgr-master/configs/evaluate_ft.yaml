@@ -1,0 +1,31 @@
+# dataset: "headlines"
+dataset: "images"
+# dataset: "answers-students"
+source: "wa"
+train_subset: "train"
+test_subset: "test"
+
+task_adaptation: "finetuning"
+task: "both"
+
+model_name: mistralai/Mistral-7B-Instruct-v0.3
+# model_name: "Qwen/Qwen2.5-7B-Instruct"
+lora_adapter: "/data/home/ascisel/open_webui/iSTS-mgr/models/both/images/Mistral-7B-Instruct-v0.3/0.0001/8/20260124_031144"
+quantization: True
+
+use_cuda: True
+
+loader:
+  batch_size: 8
+
+prompt:
+  description_level: "simple"
+  n_examples: 0
+
+random_seed: 42
+
+tokenization:
+  max_tokens: 128
+
+generation:
+  max_new_tokens: 15

@@ -1,0 +1,18 @@
+% Requires in LaTeX preamble: \usepackage{adjustbox}
+\begin{table}[t]
+\centering
+\scriptsize
+\setlength{\tabcolsep}{3.2pt}
+\begin{adjustbox}{width=\textwidth}
+\begin{tabular}{l l l r r r r r r r r r r}
+\hline
+\textbf{Model} & \textbf{Desc} & \textbf{n_examples} & \multicolumn{3}{c}{\textbf{answers-students}} & \multicolumn{3}{c}{\textbf{headlines}} & \multicolumn{3}{c}{\textbf{images}} & \textbf{Mean} \\
+ &  &  & \textbf{Type} & \textbf{Score} & \textbf{Type+Score} & \textbf{Type} & \textbf{Score} & \textbf{Type+Score} & \textbf{Type} & \textbf{Score} & \textbf{Type+Score} & \textbf{Type+Score} \\
+\hline
+gpt-oss-120b & detailed & 5 & 0.5848 & 0.8589 & 0.7138 & 0.7371 & 0.8912 & 0.7788 & 0.6711 & 0.8910 & 0.7344 & 0.7423 \\
+gpt-oss-120b & simple & 5 & 0.5647 & 0.8664 & 0.6997 & 0.6884 & 0.9004 & 0.7486 & 0.6486 & 0.9056 & 0.7126 & 0.7203 \\
+\hline
+\end{tabular}
+\end{adjustbox}
+\caption{ICL (GPT-OSS): best idx chosen by max mean(Type+Score) across datasets; table reports metrics at that n_examples.}
+\end{table}

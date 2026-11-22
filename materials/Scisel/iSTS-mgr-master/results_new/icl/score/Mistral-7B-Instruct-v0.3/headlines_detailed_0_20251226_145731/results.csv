@@ -1,0 +1,2128 @@
+text_source,text_translation,alignment,score,preds,response
+for the Philippines,to Philippines,EQUI,5,2, 2: Related but Different
+departs,sends,SIMI,3,1," 1: Slightly Related. Both chunks refer to the idea of starting or initiating something, but they are not the same action. Departing is more about leaving a place, while sending is about moving something from one place to another."
+Thursday,-not aligned-,NOALI,0,0, 0: No Relation.
+China,China,EQUI,5,5, 5: Completely Equivalent.
+'s Peace Ark,aid team,REL,4,1," 1: Slightly Related. The Peace Ark is a hospital ship, while an aid team can provide assistance, but they are not the same. However, an aid team could potentially work on a hospital ship like the Peace Ark."
+Conservatives,Conservative opposition,SPE2,4,2, 2: Related but Different
+to Australia election victory,wins Australian election,EQUI,5,3, 3: Some Similarity.
+sweep,-not aligned-,NOALI,0,0, 0: No Relation.
+"draws wide condemnation , criticism",angers,SIMI,4,2, 2: Related but Different
+'s shrine visit,'s war shrine visit,SPE2,4,1, 1: Slightly Related.
+-not aligned-,neighbours,NOALI,0,0, 0: No Relation.
+Abe,Japanese PM Shinzo Abe,SPE2,4,3, 3: Some Similarity
+revokes,to repeal,EQUI,5,2, 2: Related but Different
+resigns,-not aligned-,NOALI,0,0, 0: No Relation.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+PM,-not aligned-,NOALI,0,0, 0: No Relation.
+anti-protest law,anti-protest laws,SPE1,4,2, 2: Related but Different
+Ukraine,Ukraine,EQUI,5,5, 5: Completely Equivalent.
+detects,-not aligned-,NOALI,0,0, 0: No Relation.
+says,says,EQUI,5,1, 1: Slightly Related.
+from Mediterranean Sea,in Mediterranean,SPE1,4,2, 2: Related but Different
+fired,fired,EQUI,5,5, 5: Completely Equivalent.
+missiles,ballistic missiles,SPE2,4,3, 3: Some Similarity.
+Russia,Russia,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,as Kiev,NOALI,0,0, 0: No Relation.
+new police station,Police Station,SPE1,4,3, 3: Some Similarity.
+Pro-Russian protesters,Pro-Russian Protesters,EQUI,5,3, 3: Some Similarity.
+-not aligned-,U.N.,NOALI,0,0, 0: No Relation.
+in east Ukraine,in Ukraine,SPE1,4,2, 2: Related but Different.
+-not aligned-,over unrest,NOALI,0,0, 0: No Relation.
+-not aligned-,Urges,NOALI,0,0, 0: No Relation.
+storm,Storm,EQUI,5,3, 3: Some Similarity.
+in India,Indian villagers,REL,3,2, 2: Related but Different
+Cyclone,Cyclone Phailin evacuation,REL,3,2, 2: Related but Different
+of destruction,alive,REL,3,1, 1: Slightly Related.
+-not aligned-,kept,NOALI,0,0, 0: No Relation.
+leaves,-not aligned-,NOALI,0,0, 0: No Relation.
+trail,-not aligned-,NOALI,0,0, 0: No Relation.
+among 9 killed,among dead,SPE1,4,2, 2: Related but Different
+in Kabul hotel attack,in Kabul hotel attack,EQUI,5,4, 4: Completely Equivalent.
+4 foreigners,Foreigners,SPE1,4,1, 1: Slightly Related.
+-not aligned-,Mandela,NOALI,0,0," 0: No Relation. (Mandela is a person, while Chunk 1 does not provide any specific context or information.)"
+as asylum boat,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,third day,NOALI,0,0, 0: No Relation.
+off Australia,-not aligned-,NOALI,0,0, 0: No Relation.
+Many dead,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,in hospital,NOALI,0,0, 0: No Relation.
+sinks,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,spends,NOALI,0,0, 0: No Relation.
+Palestinian captives,Palestinian prisoner release,REL,4,2, 2: Related but Different
+Israeli calls,Israel,REL,4,2, 2: Related but Different
+to execute,-not aligned-,NOALI,0,0, 0: No Relation.
+instead of releasing them,Palestinian prisoner release,OPPO,4,1, 1: Slightly Related.
+-not aligned-,allows,NOALI,0,0, 0: No Relation.
+for better ties,-not aligned-,NOALI,0,0, 0: No Relation.
+DPRK leader,North Korea,REL,3,2, 2: Related but Different
+-not aligned-,to leave,NOALI,0,0, 0: No Relation.
+calls,-not aligned-,NOALI,0,0, 0: No Relation.
+with S.Korea,South Korea,EQUI,5,3, 3: Some Similarity.
+-not aligned-,foreigners,NOALI,0,0, 0: No Relation.
+-not aligned-,urges,NOALI,0,0, 0: No Relation.
+"'s oldest person , and oldest man",'s Oldest Man,SPE1,4,2, 2: Related but Different
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+at 116,Aged 116,EQUI,5,2, 2: Related but Different
+ever,Ever,EQUI,5,1," 1: Slightly Related. (Both chunks use the same word ""Ever"", but in different cases.)"
+World,World,EQUI,5,5, 5: Completely Equivalent.
+dies,Dies,EQUI,5,1, 1: Slightly Related
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+-not aligned-,Japan,NOALI,0,0, 0: No Relation.
+expert nuclear talks,talks,SPE1,4,1, 1: Slightly Related.
+to resume,to resume,EQUI,5,3, 3: Some Similarity.
+on Dec. 30,next week,SPE1,3,1, 1: Slightly Related.
+World powers and Iran,"Iran nuclear experts , world powers",SPE2,4,2, 2: Related but Different
+-not aligned-,',NOALI,0,0, 0: No Relation.
+to stop,to stop,EQUI,5,5, 5: Completely Equivalent.
+it's,-not aligned-,NOALI,0,0, 0: No Relation.
+for Russia,for Russia,EQUI,5,4, 4: Completely Equivalent.
+-not aligned-,',NOALI,0,0, 0: No Relation.
+acting,acting,EQUI,5,4, 4: Completely Equivalent.
+and,and,EQUI,5,1, 1: Slightly Related.
+warns,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,tension,NOALI,0,0, 0: No Relation.
+-not aligned-,to reduce,NOALI,0,0, 0: No Relation.
+start,start,EQUI,5,1," To provide an accurate assessment, I would need the actual chunks of text to analyze. Here's an example of how I would evaluate the similarity between two chunks of text:
+
+Chunk 1: ""The cat sat on the mat.""
+Chunk 2: ""The feline rested on the rug.""
+
+Label: 3 (Some Similarity)
+
+Explanation: Both sentences describe an animal (cat/feline) resting on a surface (mat/rug). However, they are not identical, so they do not have a strong similarity or complete equivalence."
+',-not aligned-,NOALI,0,0, 0: No Relation.
+time,Time,EQUI,5,1, 1: Slightly Related.
+in Ukraine,in Ukraine,EQUI,5,4, 4: Completely Equivalent.
+Biden,Biden,EQUI,5,5, 5: Completely Equivalent.
+talking,talking,EQUI,5,3," 3: Some Similarity. Both chunks refer to the act of talking, but they are not identical or completely equivalent."
+',-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+:,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+:,-not aligned-,NOALI,0,0, 0: No Relation.
+Image,Image,EQUI,5,0, 0: No Relation. (Images do not have text or content that can be semantically compared.)
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+of the Day,of the Day,EQUI,5,3, 3: Some Similarity.
+February 25,April 21,SIMI,3,0, 0: No Relation.
+India Ink,India Ink,EQUI,5,5, 5: Completely Equivalent.
+on Taiwan fisher attack,in Kenya mall attack,SIMI,1,0, 0: No Relation.
+-not aligned-,Bin Laden,NOALI,0,0, 0: No Relation.
+-not aligned-,shown,NOALI,0,0, 0: No Relation.
+-not aligned-,'s continuing sway,NOALI,0,0, 0: No Relation.
+comment,-not aligned-,NOALI,0,0, 0: No Relation.
+Philippines,-not aligned-,NOALI,0,0, 0: No Relation.
+defers,-not aligned-,NOALI,0,0, 0: No Relation.
+set,votes,SIMI,4,1, 1: Slightly Related.
+to legalise,to legalise,EQUI,5,5, 5: Completely Equivalent.
+New Zealand,New Zealand,EQUI,5,5, 5: Completely Equivalent.
+gay marriage,same-sex marriage,EQUI,5,3, 3: Some Similarity.
+Israel 's ex-PM Ariel Sharon,Former Israeli Prime Minister Sharon,EQUI,5,3, 3: Some Similarity
+dies,dies,EQUI,5,5, 5: Completely Equivalent.
+Peace talks,killed,REL,3,0, 0: No Relation.
+:,-not aligned-,NOALI,0,0, 0: No Relation.
+months,-not aligned-,NOALI,0,0, 0: No Relation.
+Israel official,in Israeli raid,REL,3,1, 1: Slightly Related.
+with Palestinians,Palestinian girl,SPE2,2,2, 2: Related but Different
+-not aligned-,3yo,NOALI,0,0, 0: No Relation.
+would take,-not aligned-,NOALI,0,0, 0: No Relation.
+Portugal,Portugal,EQUI,5,5, 5: Completely Equivalent.
+sends,fires,SIMI,4,1," 1: Slightly Related. Both chunks refer to the action of initiating something, but they are not synonyms and have slightly different connotations. ""Sends"" is often used for transmitting something, while ""fires"" is more commonly used for shooting or starting a fire."
+Ronaldo 's hat trick,Ronaldo hat-trick,EQUI,5,3, 3: Some Similarity.
+to World Cup,to World Cup,EQUI,5,5, 5: Completely Equivalent.
+After China Earthquake,in China earthquakes,SPE1,4,2, 2: Related but Different
+At Least,At least,EQUI,5,3, 3: Some Similarity.
+22 Dead,89 dead,SIMI,3,1, 1: Slightly Related
+to rise,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,Canadian government,NOALI,0,0, 0: No Relation.
+hits,monitoring,REL,2,1, 1: Slightly Related.
+-not aligned-,',NOALI,0,0, 0: No Relation.
+-not aligned-,',NOALI,0,0, 0: No Relation.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+Canadian freight train blast death toll,train blast situation,REL,3,2, 2: Related but Different
+three,-not aligned-,NOALI,0,0, 0: No Relation.
+in Bohol landslide,-not aligned-,NOALI,0,0, 0: No Relation.
+buried,die,REL,4,1," 1: Slightly Related. Both chunks refer to the concept of ending or ceasing to exist, but Chunk 1 uses a more specific term related to being buried, while Chunk 2 uses the more general term ""die."""
+-not aligned-,in Afghanistan attack,NOALI,0,0, 0: No Relation.
+-not aligned-,in attack,NOALI,0,0, 0: No Relation.
+Five children,Nine children,SIMI,3,0, 0: No Relation.
+alive,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,stays,NOALI,0,0, 0: No Relation.
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+-not aligned-,FORMULA 1,NOALI,0,0, 0: No Relation.
+-not aligned-,modest,NOALI,0,0, 0: No Relation.
+father,-not aligned-,NOALI,0,0, 0: No Relation.
+emulates,-not aligned-,NOALI,0,0, 0: No Relation.
+with Monaco win,despite Monaco win,EQUI,5,2, 2: Related but Different.
+Rosberg,Rosberg,EQUI,5,5, 5: Completely Equivalent.
+in northern Iraq,in northern Iraq,EQUI,5,4, 4: Completely Equivalent.
+11,12,SIMI,4,2," LABEL=2: Related but Different.
+
+Explanation:
+
+Chunk 1: [11] - ""The cat sat on the mat and purred contentedly.""
+
+Chunk 2: [12] - ""The dog lay on the rug and barked happily.""
+
+Both chunks describe a pet animal in a relaxed state, but they differ in the type of animal, the object they are on, and the sound they make. Therefore, they are related but different."
+kills,kills,EQUI,5,4, 4: Completely Equivalent.
+Suicide truck bomber,Suicide car bomb,SIMI,4,2, 2: Related but Different
+heads,-not aligned-,NOALI,0,0, 0: No Relation.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+off Mexico,on Mexico,EQUI,5,2, 2: Related but Different
+bringing,dumps,SIMI,4,1, 1: Slightly Related.
+toward Veracruz,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+'s coast,-not aligned-,NOALI,0,0, 0: No Relation.
+forms,weakens,REL,2,1, 1: Slightly Related.
+Tropical Storm Barry,Tropical Storm Barry,EQUI,5,5, 5: Completely Equivalent.
+as it,-not aligned-,NOALI,0,0, 0: No Relation.
+heavy rain,rain,SPE2,4,1, 1: Slightly Related.
+military airports,in military airport,SPE2,4,1, 1: Slightly Related.
+-not aligned-,Syrian troops,NOALI,0,0, 0: No Relation.
+Syrian rebels,by rebels,SPE1,4,2, 2: Related but Different
+target,confront,REL,4,1, 1: Slightly Related.
+-not aligned-,fierce attacks,NOALI,0,0, 0: No Relation.
+South Atlantic Ocean,-not aligned-,NOALI,0,0, 0: No Relation.
+6.6-magnitude quake,Magnitude-5.1 quake,SIMI,4,1, 1: Slightly Related
+USGS,USGS,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,southern Iran,NOALI,0,0, 0: No Relation.
+hits,hits,EQUI,5,5, 5: Completely Equivalent.
+--,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,--,NOALI,0,0, 0: No Relation.
+Poverty stats,-not aligned-,NOALI,0,0, 0: No Relation.
+doubt,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,Aug 1,NOALI,0,0, 0: No Relation.
+-not aligned-,recall compensation claims,NOALI,0,0, 0: No Relation.
+Modi,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,GM,NOALI,0,0, 0: No Relation.
+'s development claims,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,to start,NOALI,0,0, 0: No Relation.
+-not aligned-,taking,NOALI,0,0, 0: No Relation.
+access,Access,EQUI,5,1," 1: Slightly Related. (The capitalization is different, but the meaning and spelling of the word are the same.)"
+blocks,Blocks,EQUI,5,1," 1: Slightly Related. (The capitalization is different, but the meaning and structure are similar.)"
+North Korea,North Korea,EQUI,5,5, 5: Completely Equivalent.
+to joint industrial zone,to Key Industrial Zone,SIMI,4,2, 2: Related but Different
+over Bhutto murder,In Bhutto Death,EQUI,5,2, 2: Related but Different
+charged,Charged,EQUI,5,3, 3: Some Similarity.
+Pakistan,Pakistan,EQUI,5,5, 5: Completely Equivalent.
+'s Musharraf,'s Musharraf,EQUI,5,5, 5: Completely Equivalent.
+in streets,in Kiev,REL,2,1," 1: Slightly Related. Both chunks refer to locations (in streets and in Kiev), but Kiev is a specific city, while the first chunk is more general."
+-not aligned-,Lenin statue,NOALI,0,0, 0: No Relation.
+back,-not aligned-,NOALI,0,0, 0: No Relation.
+Ukrainian protesters,Ukraine protesters,EQUI,5,3, 3: Some Similarity.
+for anti-government rally,topple,REL,2,1," 1: Slightly Related. The first chunk refers to an anti-government rally, while the second word, ""topple,"" could potentially refer to overthrowing a government, but the context is not explicitly provided in the given chunks."
+'s win,Landslide Win,SPE2,4,1, 1: Slightly Related.
+Jamaican connection,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+in Liverpool,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,Shinzo Abe,NOALI,0,0, 0: No Relation.
+-not aligned-,Japan Election,NOALI,0,0, 0: No Relation.
+-not aligned-,Hails,NOALI,0,0, 0: No Relation.
+debris,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,images,NOALI,0,0, 0: No Relation.
+after India buildings collapse,from Bangladesh building collapse,SIMI,3,1, 1: Slightly Related
+scour,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,Select,NOALI,0,0, 0: No Relation.
+Rescuers,-not aligned-,NOALI,0,0, 0: No Relation.
+makes,Makes,EQUI,5,1," 1: Slightly Related. (Both chunks contain the same word ""makes"", but the context or specific meaning might vary.)"
+Rock bands,Rock Bands,EQUI,5,4, 4: Completely Equivalent.
+emergency landing,Emergency Landing,EQUI,5,4, 4: Completely Equivalent.
+in Ill.,in Ill.,EQUI,5,3," 3: Some Similarity. Both chunks indicate a location, Illinois, but the context or specific details might vary."
+' plane,' Plane,EQUI,5,1," 1: Slightly Related. (The difference in capitalization suggests a slight difference in formality or style, but the meaning remains the same.)"
+in hospital,in hospital bed,SPE2,4,2, 2: Related but Different.
+-not aligned-,charged,NOALI,0,0, 0: No Relation.
+remains,-not aligned-,NOALI,0,0, 0: No Relation.
+Boston bombing suspect,Boston bombing suspect,EQUI,5,5, 5: Completely Equivalent.
+elected,takes oath,REL,4,2, 2: Related but Different.
+'s Shehla Raza,Shehla Raza,EQUI,5,4, 4: Completely Equivalent.
+PPP,-not aligned-,NOALI,0,0, 0: No Relation.
+Deputy Speaker of SA,as Sindh Assembly deputy speaker,EQUI,5,2, 2: Related but Different
+'s last child,'s youngest child Lady Soames,SPE2,4,1, 1: Slightly Related.
+Churchill,Churchill,EQUI,5,5, 5: Completely Equivalent.
+dies,dies,EQUI,5,5, 5: Completely Equivalent.
+11:42,-not aligned-,NOALI,0,0," 0: No Relation. (Since Chunk 2 is not provided, I cannot compare the two chunks.)"
+aged 91,aged 91,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,it,NOALI,0,0, 0: No Relation.
+30 short-range missiles,new land-to-sea missile,SIMI,2,1, 1: Slightly Related.
+N. Korea,Iran,SIMI,3,1, 1: Slightly Related.
+test-fires,test-fires,EQUI,5,5, 5: Completely Equivalent.
+:,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,says,NOALI,0,0, 0: No Relation.
+into sea,in Gulf,SPE2,3,1, 1: Slightly Related.
+Yonhap,-not aligned-,NOALI,0,0, 0: No Relation.
+higher,lower,OPPO,4,1, 1: Slightly Related.
+Chinese shares,Chinese shares,EQUI,5,5, 5: Completely Equivalent.
+close,close,EQUI,5,3, 3: Some Similarity.
+Tuesday,on Wednesday,SIMI,3,0, 0: No Relation.
+offer,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,shoots,NOALI,0,0, 0: No Relation.
+shuns,-not aligned-,NOALI,0,0, 0: No Relation.
+North Korea,North Korea,EQUI,5,5, 5: Completely Equivalent.
+of talks,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,2 rockets,NOALI,0,0, 0: No Relation.
+Obama,Obama,EQUI,5,5, 5: Completely Equivalent.
+me,-not aligned-,NOALI,0,0, 0: No Relation.
+troops,-not aligned-,NOALI,0,0, 0: No Relation.
+In surprise visit,Surprise Visit,EQUI,5,3, 3: Some Similarity.
+to Afghanistan,To Afghanistan,EQUI,5,1, 1: Slightly Related
+-not aligned-,Makes,NOALI,0,0, 0: No Relation.
+',-not aligned-,NOALI,0,0, 0: No Relation.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+tells,-not aligned-,NOALI,0,0, 0: No Relation.
+inspire,-not aligned-,NOALI,0,0, 0: No Relation.
+you,-not aligned-,NOALI,0,0, 0: No Relation.
+',-not aligned-,NOALI,0,0, 0: No Relation.
+awaits,-not aligned-,NOALI,0,0, 0: No Relation.
+high court judgment,Ark. high court,REL,3,2, 2: Related but Different
+-not aligned-,suspends,NOALI,0,0, 0: No Relation.
+on gay marriage,gay marriage,EQUI,5,3, 3: Some Similarity.
+US,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,again,NOALI,0,0, 0: No Relation.
+from West,-not aligned-,NOALI,0,0, 0: No Relation.
+Sisi,'s Sisi,EQUI,5,1," 1: Slightly Related. Both chunks contain the name 'Sisi', but the first one is a proper name while the second one is a contraction of the name."
+cool reception,-not aligned-,NOALI,0,0, 0: No Relation.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+'s president,as president,EQUI,5,1, 1: Slightly Related.
+sworn in,sworn in,EQUI,5,5, 5: Completely Equivalent.
+as Egypt,Egypt,EQUI,5,4, 4: Completely Equivalent.
+-not aligned-,heats up,NOALI,0,0, 0: No Relation.
+China,-not aligned-,NOALI,0,0, 0: No Relation.
+to investigate,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,Christie investigation,NOALI,0,0, 0: No Relation.
+EU wine exports,-not aligned-,NOALI,0,0, 0: No Relation.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+to 12.1%,12.2%,SIMI,4,1, 1: Slightly Related.
+Eurozone 's unemployment,Eurozone unemployment,EQUI,5,3, 3: Some Similarity.
+a fresh record high,record,SPE1,4,1, 1: Slightly Related.
+-not aligned-,in September,NOALI,0,0, 0: No Relation.
+climbs,hit,SIMI,3,0, 0: No Relation.
+Sorry,sorry,EQUI,5,3, 3: Some Similarity.
+South Korean President,S. Korean president,EQUI,5,3, 3: Some Similarity.
+For Ferry Response,for ferry disaster,EQUI,5,1, 1: Slightly Related.
+-not aligned-,',NOALI,0,0, 0: No Relation.
+-not aligned-,',NOALI,0,0, 0: No Relation.
+49,49,EQUI,5,5, 5: Completely Equivalent.
+killed,carrying,SPE1,2,1, 1: Slightly Related.
+Pro-Russian rebels,Ukraine Rebels,SIMI,3,2, 2: Related but Different
+shoot down,shoot down,EQUI,5,5, 5: Completely Equivalent.
+Ukrainian plane,plane,SPE1,4,1, 1: Slightly Related.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+on Syria abuse,on Syrian chemical arms,SPE2,3,2, 2: Related but Different
+Saudi,Cameron,REL,3,0, 0: No Relation.
+pushes,pushes,EQUI,5,5, 5: Completely Equivalent.
+UN resolution,U.N. resolution,EQUI,5,2, 2: Related but Different
+At least,-not aligned-,NOALI,0,0, 0: No Relation.
+45,78,SIMI,2,1, 1: Slightly Related.
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+killed,killed,EQUI,5,4, 4: Completely Equivalent.
+-not aligned-,Update 2,NOALI,0,0, 0: No Relation.
+in Spain train crash,in Spanish train disaster,SPE1,4,2, 2: Related but Different
+19 hurt,17 Hurt,SIMI,4,1, 1: Slightly Related
+in New Orleans shooting,at New Orleans Parade Shooting,SPE2,4,3, 3: Some Similarity.
+by mortar fire,by mortar,EQUI,5,1, 1: Slightly Related.
+Vatican Embassy,Vatican embassy,EQUI,5,3, 3: Some Similarity
+hit,hit,EQUI,5,5, 5: Completely Equivalent.
+in Syria,in Syria,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,no injuries,NOALI,0,0, 0: No Relation.
+-not aligned-,;,NOALI,0,0, 0: No Relation.
+'s Must-Reads,'s Must-Reads,EQUI,5,5, 5: Completely Equivalent.
+"May 24 , 2013","October 29 , 2013",SIMI,3,0, 0: No Relation.
+for Friday,for Tuesday,SIMI,3,0, 0: No Relation.
+The Note,The Note,EQUI,5,5, Label=5 (Completely Equivalent)
+Nato,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,bonds,NOALI,0,0, 0: No Relation.
+-not aligned-,in region,NOALI,0,0, 0: No Relation.
+-not aligned-,best,NOALI,0,0, 0: No Relation.
+condemns,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,Thai,NOALI,0,0, 0: No Relation.
+Ukraine crackdown,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,pressure,NOALI,0,0, 0: No Relation.
+-not aligned-,keeps up,NOALI,0,0, 0: No Relation.
+to peace talks,-not aligned-,NOALI,0,0, 0: No Relation.
+'s Peres,Gonsalves,SIMI,2,0, 0: No Relation.
+return,-not aligned-,NOALI,0,0, 0: No Relation.
+Israel,on Dom Rep,SIMI,2,0, 0: No Relation.
+urges,-not aligned-,NOALI,0,0, 0: No Relation.
+92,96,SIMI,4,1, 1: Slightly Related.
+Kill,kill,EQUI,5,1, 1: Slightly Related
+Assault,Assault,EQUI,5,5, 5: Completely Equivalent.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+Other Attacks,other attacks,EQUI,5,1, 1: Slightly Related
+on Iraq Funeral,on Iraq funeral,EQUI,5,2, 2: Related but Different
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+in Afghanistan,in Benghazi clashes,SPE2,1,0, 0: No Relation.
+Two NATO soldiers,Five Libyan soldiers,SIMI,2,0, 0: No Relation.
+killed,killed,EQUI,5,4, 4: Completely Equivalent.
+US top diplomat Kerry,US Secretary of State John Kerry,EQUI,5,4, 4: Completely Equivalent.
+rushed,rushed,EQUI,5,4, 4: Completely Equivalent.
+'s wife,'s wife,EQUI,5,3, 3: Some Similarity.
+to hospital,to hospital,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,Day,NOALI,0,0, 0: No Relation.
+march of anger,of Rage rallies,EQUI,5,2, 2: Related but Different
+"""",-not aligned-,NOALI,0,0, 0: No Relation.
+'s Brotherhood,'s Brotherhood,EQUI,5,5, 5: Completely Equivalent.
+"""",-not aligned-,NOALI,0,0, 0: No Relation.
+Egypt,Egypt,EQUI,5,5, 5: Completely Equivalent.
+to hold,holds,EQUI,5,1, 1: Slightly Related.
+to observe,Accept,SIMI,3,1," 1: Slightly Related. The two chunks, ""to observe"" and ""Accept,"" have different meanings and structures, but they both imply some form of action or response. However, they are not directly related in the context provided."
+brief Gaza truce,Temporary Truce,SPE1,2,2, 2: Related but Different
+Israel and Hamas,Israel And Hamas,EQUI,5,3, 3: Some Similarity.
+-not aligned-,',NOALI,0,0, 0: No Relation.
+-not aligned-,',NOALI,0,0, 0: No Relation.
+Foreign exchange rates,Foreign exchange rates,EQUI,5,4, 4: Completely Equivalent.
+in Singapore,in India,SIMI,3,0, 0: No Relation.
+'s oldest man,'s Oldest Man,EQUI,5,1," 1: Slightly Related. (The capitalization is different, but the structure and meaning are similar.)"
+dies,Dies,EQUI,5,1, 1: Slightly Related
+-not aligned-,Ever,NOALI,0,0, 0: No Relation.
+World,World,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+-not aligned-,Japan,NOALI,0,0, 0: No Relation.
+at 116,Aged 116,EQUI,5,2, 2: Related but Different
+Iran nuclear agreement,Iran 's nuclear deal,EQUI,5,3, 3: Some Similarity.
+welcomes,welcomes,EQUI,5,5, 5: Completely Equivalent.
+Germany,Syria,SIMI,3,0, 0: No Relation.
+with North,With North,EQUI,5,3, 3: Some Similarity.
+-not aligned-,Says,NOALI,0,0, 0: No Relation.
+talks,Talks,EQUI,5,1," 1: Slightly Related. (Both chunks refer to the act of talking, but one is plural and the other is singular.)"
+-not aligned-,Scrapped,NOALI,0,0, 0: No Relation.
+proposes,-not aligned-,NOALI,0,0, 0: No Relation.
+South Korea,South Korea,EQUI,5,5, 5: Completely Equivalent.
+Video,Security video,SPE2,4,2, 2: Related but Different
+in mall,mall,EQUI,5,3, 3: Some Similarity.
+casually,-not aligned-,NOALI,0,0, 0: No Relation.
+Kenya jihadis,Kenyan soldiers,SIMI,3,1, 1: Slightly Related.
+shows,shows,EQUI,5,1," 1: Slightly Related. Both chunks use the verb ""shows"", but the context or subject matter is not specified, making it difficult to determine a stronger relationship."
+killing,looting,SIMI,3,1, 1: Slightly Related.
+UN inspectors,U.S.,REL,3,1," 1: Slightly Related. The UN inspectors and the U.S. are not directly related, but the U.S. can potentially be a member of the United Nations and could have UN inspectors. However, the context provided does not specify this relationship."
+progress,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,-White House,NOALI,0,0, 0: No Relation.
+-not aligned-,used,NOALI,0,0, 0: No Relation.
+-not aligned-,has not concluded,NOALI,0,0, 0: No Relation.
+over Syria chemical weapons,Syria chemical weapons,EQUI,5,3, 3: Some Similarity.
+hail,-not aligned-,NOALI,0,0, 0: No Relation.
+on chlorine bombs,on nuclear site,REL,3,1, 1: Slightly Related.
+rejects,rejects,EQUI,5,3, 3: Some Similarity.
+claim,MKO claim,SPE2,4,1, 1: Slightly Related.
+Iran,Iran,EQUI,5,5, 5: Completely Equivalent.
+One dead,Six killed,SIMI,2,1, 1: Slightly Related.
+in US building collapse,in US building collapse,EQUI,5,4, 4: Completely Equivalent.
+-not aligned-,Wall Street,NOALI,0,0, 0: No Relation.
+Fallen US firefighters,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,slightly lower,NOALI,0,1, 1: Slightly Related.
+-not aligned-,ends,NOALI,0,0, 0: No Relation.
+brought home,-not aligned-,NOALI,0,0, 0: No Relation.
+hunting for,trawls for,SIMI,4,2, 2: Related but Different
+in missing Malaysian plane search,from missing Malaysia plane,REL,4,1, 1: Slightly Related.
+Ship,Australian ship,SPE2,4,2, 2: Related but Different
+more pings,signals,SIMI,4,1, 1: Slightly Related.
+Tehran-London ties,Tehran-London ties,EQUI,5,5, 5: Completely Equivalent.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+Afkham,-not aligned-,NOALI,0,0, 0: No Relation.
+to improve,to improve,EQUI,5,4, 4: Completely Equivalent.
+-not aligned-,.,NOALI,0,0, 0: No Relation.
+',-not aligned-,NOALI,0,0, 0: No Relation.
+to treatment,to treatment,EQUI,5,4, 4: Completely Equivalent.
+',-not aligned-,NOALI,0,0, 0: No Relation.
+Mandela,Mandela,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,Wife,NOALI,0,0, 0: No Relation.
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+responding,is responding,EQUI,5,2, 2: Related but Different
+Gunmen,Gunmen,EQUI,5,5, 5: Completely Equivalent.
+Libyan deputy industry minister,Libyan deputy industry minister,EQUI,5,5, 5: Completely Equivalent.
+assassinate,kill,EQUI,5,2, 2: Related but Different
+against USD,against USD,EQUI,5,5, 5: Completely Equivalent.
+to 6.1535,to new high,SPE1,2,1," 1: Slightly Related. The two chunks are referring to reaching a peak or maximum point, but the specific numbers and contexts are different."
+China yuan,China yuan,EQUI,5,5, 5: Completely Equivalent.
+weakens,strengthens,OPPO,4,0, 0: No Relation.
+burn,Confronts,SPE1,3,0, 0: No Relation.
+Australian flags,Australian Ambassador,REL,3,1, 1: Slightly Related.
+Indonesians,Indonesia,EQUI,5,3, 3: Some Similarity.
+over spying reports,on Reports of Spying,EQUI,5,2, 2: Related but Different
+More Deaths,Five dead,SPE2,3,1, 1: Slightly Related.
+Expected,-not aligned-,NOALI,0,0, 0: No Relation.
+in Canada Oil Train Explosion,in Canada train crash,SIMI,3,2, 2: Related but Different
+Egypt court,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,tells,NOALI,0,0, 0: No Relation.
+to death,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,to prepare,NOALI,0,0, 0: No Relation.
+10 Brotherhood supporters,supporters,SPE1,2,1, 1: Slightly Related.
+-,-not aligned-,NOALI,0,0, 0: No Relation.
+sources,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,Turkish PM,NOALI,0,0, 0: No Relation.
+sentences,-not aligned-,NOALI,0,0, Label=0: No Relation.
+-not aligned-,for rallies,NOALI,0,0, 0: No Relation.
+moderate,lower,SIMI,3,1, 1: Slightly Related.
+-not aligned-,sends,NOALI,0,0, 0: No Relation.
+in US stock market,Asian stock markets,SIMI,3,1, 1: Slightly Related.
+Declines,Tech sell-off,SPE2,2,1," 1: Slightly Related. Both chunks refer to negative events (declines and sell-off), but they are different in context - one refers to general declines (possibly economic or social) and the other specifically to a tech sell-off (a specific event in the stock market)."
+to Know,to Know,EQUI,5,5, 5: Completely Equivalent.
+:,-not aligned-,NOALI,0,0, 0: No Relation.
+10 Things,10 Things,EQUI,5,3, 3: Some Similarity.
+This Week,for Today,SPE2,3,1, 1: Slightly Related.
+'s Takeaways,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,it,NOALI,0,0, 0: No Relation.
+-not aligned-,in Crimea,NOALI,0,0, 0: No Relation.
+name,-not aligned-,NOALI,0,0, 0: No Relation.
+Ukraine protest leaders,Ukraine,REL,3,1," 1: Slightly Related. The first chunk refers to the leaders of the protests in Ukraine, while the second chunk refers to Ukraine as a country. While they are related, the first chunk provides more specific information than the second."
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+ministers,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,says,NOALI,0,0, 0: No Relation.
+Russian troops,"to Russian "" provocations """,REL,4,2, 2: Related but Different
+-not aligned-,will not bow,NOALI,0,0, 0: No Relation.
+on alert,-not aligned-,NOALI,0,0, 0: No Relation.
+"US , Russia",US and Russia,EQUI,5,2, 2: Related but Different.
+enter,-not aligned-,NOALI,0,0, 0: No Relation.
+third day,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,agree,NOALI,0,0, 0: No Relation.
+of Syria talks,Syria arms deal,REL,3,1, 1: Slightly Related.
+-not aligned-,in Geneva,NOALI,0,0, 0: No Relation.
+U.S factory,German factory,SIMI,3,1, 1: Slightly Related.
+in January,in January,EQUI,5,5, 5: Completely Equivalent.
+down,rebound,OPPO,4,1, 1: Slightly Related.
+0.7 pct,-not aligned-,NOALI,0,0, 0: No Relation.
+orders,orders,EQUI,5,4, 4: Completely Equivalent.
+-not aligned-,Worker,NOALI,0,0, 0: No Relation.
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+-not aligned-,Made,NOALI,0,0, 0: No Relation.
+-not aligned-,Suggestive Comments,NOALI,0,0, 0: No Relation.
+San Diego Mayor Bob Filner,San Diego Mayor,SPE1,4,1, 1: Slightly Related.
+'s accusers,-not aligned-,NOALI,0,0, 0: No Relation.
+In Oklahoma City,Oklahoma City Airport,SPE2,4,1, 1: Slightly Related.
+Hit,-not aligned-,NOALI,0,0, 0: No Relation.
+After Tornadoes,During Tornado...,SIMI,3,2, 2: Related but Different
+Nine Dead,Evacuated,REL,3,1, 1: Slightly Related.
+-not aligned-,says,NOALI,0,0, 0: No Relation.
+Kenyan forces,Kenyan forces,EQUI,5,5, 5: Completely Equivalent.
+mall collapse,mall collapse,EQUI,5,5, 5: Completely Equivalent.
+caused,caused,EQUI,5,4, 4: Completely Equivalent.
+-not aligned-,Official,NOALI,0,0, 0: No Relation.
+unilateral ceasefire,unilateral ceasefire,EQUI,5,5, 5: Completely Equivalent.
+Ukraine,Ukraine,EQUI,5,5, 5: Completely Equivalent.
+to implement,offers,SIMI,3,1, 1: Slightly Related.
+in Egypt,in Egypt,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,holds,NOALI,0,0, 0: No Relation.
+-not aligned-,upper hand,NOALI,0,0, 0: No Relation.
+banned,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,Military,NOALI,0,0, 0: No Relation.
+Muslim Brotherhood,-not aligned-,NOALI,0,0, 0: No Relation.
+on French soldier,on French soldier,EQUI,5,5, 5: Completely Equivalent.
+Suspect,Man,SPE2,4,1, 1: Slightly Related.
+arrested,arrested,EQUI,5,5, 5: Completely Equivalent.
+in attack,over attack,EQUI,5,1, 1: Slightly Related.
+Obama,Obama,EQUI,5,5, 5: Completely Equivalent.
+"from Israelis , Palestinians","Israeli , Palestinian negotiators",SPE2,3,2, 2: Related but Different
+-not aligned-,meets,NOALI,0,0, 0: No Relation.
+Restraint,-not aligned-,NOALI,0,0, 0: No Relation.
+Urges,-not aligned-,NOALI,0,0, 0: No Relation.
+to greet,to greet,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+pope,Pope Francis,SPE2,4,2, 2: Related but Different
+Brazilians,In Brazil thousands,SPE1,4,1, 1: Slightly Related.
+throng streets,turn out,SIMI,4,1," 1: Slightly Related. The two chunks are not directly equivalent, but they can be related in a context where ""throng streets"" refers to a large number of people moving through the streets, and ""turn out"" could mean the gathering of people in those streets."
+shakes,hits,EQUI,5,0, 0: No Relation.
+no tsunami risk,no tsunami warning,REL,4,2, 2: Related but Different
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+northeastern Japan,Japan,SPE1,4,1, 1: Slightly Related.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+Quake,Quake,EQUI,5,5, 5: Completely Equivalent.
+Detroit,Detroit,EQUI,5,5, 5: Completely Equivalent.
+:,-not aligned-,NOALI,0,0, 0: No Relation.
+eligible,eligible,EQUI,5,5, 5: Completely Equivalent.
+for bankruptcy protection,for bankruptcy protection,EQUI,5,5, 5: Completely Equivalent.
+U.S. judge,-not aligned-,NOALI,0,0, 0: No Relation.
+signals,search area,REL,4,1, 1: Slightly Related.
+Vietnam,China,SIMI,3,0, 0: No Relation.
+-not aligned-,expands,NOALI,0,0, 0: No Relation.
+detects,-not aligned-,NOALI,0,0, 0: No Relation.
+from missing plane,for missing plane,EQUI,5,1, 1: Slightly Related.
+in Afghanistan,in Afghanistan,EQUI,5,4, 4: Completely Equivalent.
+Six US soldiers,Six U.S. soldiers,EQUI,5,5, 5: Completely Equivalent.
+killed,killed,EQUI,5,4, 4: Completely Equivalent.
+in aircraft crash,in helicopter crash,SPE2,4,1, 1: Slightly Related.
+EU,Germany,REL,4,1, 1: Slightly Related.
+destroy,in destroying,EQUI,5,1, 1: Slightly Related.
+offers,offers,EQUI,5,3, 3: Some Similarity.
+Syria weapons,Syria weapons,EQUI,5,5, 5: Completely Equivalent.
+to help,help,EQUI,5,1, 1: Slightly Related.
+arrests,Arrests,EQUI,5,3, 3: Some Similarity.
+Egypt,Egypt,EQUI,5,5, 5: Completely Equivalent.
+Muslim Brotherhood 's top leader,Muslim Brotherhood Supporters,REL,4,2, 2: Related but Different
+-not aligned-,Under Terror Law,NOALI,0,0, 0: No Relation.
+Arsenal,Tottenham,SIMI,3,0, 0: No Relation.
+-,-not aligned-,NOALI,0,0, 0: No Relation.
+v,v,EQUI,5,," To accurately evaluate and score the alignment of the two provided chunks of text, I would need the actual text content in the chunks. Once I have that, I can analyze the degree of similarity in meaning, structure, or relevance to each other and provide a score from the given scale. Please provide the text chunks for me to analyze."
+-not aligned-,-,NOALI,0,0, 0: No Relation.
+live!,live!,EQUI,5,5, 5: Completely Equivalent.
+Stoke City,Manchester City,SIMI,3,0, 0: No Relation.
+honour,observes silence,SIMI,4,1, 1: Slightly Related.
+Boston victims,for Boston victims,EQUI,5,2, 2: Related but Different
+London Marathon runners,London Marathon,SPE1,4,2, 2: Related but Different
+Dec. 2,April 23,SIMI,3,0, 0: No Relation.
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+in History,in History,EQUI,5,3," 3: Some Similarity. Both chunks refer to the same general topic, ""History""."
+Today,Today,EQUI,5,5, 5: Completely Equivalent.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+will attend,will attend,EQUI,5,5, 5: Completely Equivalent.
+Desmond Tutu,Tutu,EQUI,5,1, 1: Slightly Related
+he,-not aligned-,NOALI,0,0, 0: No Relation.
+says,says,EQUI,5,1, 1: Slightly Related.
+Mandela funeral,Mandela funeral,EQUI,5,5, 5: Completely Equivalent.
+kill,kill,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+in wedding convoy,in wedding convoy,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,Nigeria official,NOALI,0,0, 0: No Relation.
+Nigerian gunmen,Gunmen,SPE1,4,2, 2: Related but Different
+"groom , 30 others",30,SPE2,4,1, 1: Slightly Related.
+on Gaza,on Gaza,EQUI,5,4, 4: Completely Equivalent.
+rise,rise,EQUI,5,5, 5: Completely Equivalent.
+in Israeli air strikes,in air strikes,SPE1,4,2, 2: Related but Different
+Deaths,Deaths,EQUI,5,4, 4: Completely Equivalent.
+in Pakistan,in Pakistan,EQUI,5,4, 4: Completely Equivalent.
+11,16,SIMI,3,1, 1: Slightly Related.
+US drone strike,US drone,SPE1,4,1, 1: Slightly Related.
+kills,kills,EQUI,5,4, 4: Completely Equivalent.
+kill,Kill,EQUI,5,1, 1: Slightly Related
+-not aligned-,in Pakistan,NOALI,0,0, 0: No Relation.
+"9 foreign tourists , 1 Pakistani",11 Foreign Tourists,SPE2,3,1, 1: Slightly Related.
+Islamic militants,Gunmen,SPE1,4,2, 2: Related but Different.
+fire shuts,catches fire,SPE1,4,2, 2: Related but Different
+Boeing 787 Dreamliner,Boeing 787 Dreamliner,EQUI,5,5, 5: Completely Equivalent.
+Heathrow,at London Heathrow airport,EQUI,5,3, 3: Some Similarity.
+again,-not aligned-,NOALI,0,0, 0: No Relation.
+arrested,granted bail,REL,4,1, 1: Slightly Related.
+Former Pakistan President Pervez Musharraf,Former Pakistan military ruler Pervez Musharraf,EQUI,5,3, 3: Some Similarity
+brings,to Bring,EQUI,5,1, 1: Slightly Related.
+more snow,More Snow,EQUI,5,3, 3: Some Similarity.
+to US East Coast,to East Coast,SPE1,4,3, 3: Some Similarity.
+Latest storm,Latest Storm,EQUI,5,4, 4: Completely Equivalent.
+strikes,strikes,EQUI,5,0, 0: No Relation.
+off Solomons,off California coast,SIMI,3,1, 1: Slightly Related.
+Powerful 7.6 quake,Powerful 6.9 quake,SIMI,4,2, 2: Related but Different
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+-not aligned-,Typhoon Haiyan,NOALI,0,0, 0: No Relation.
+World,world,EQUI,5,3, 3: Some Similarity.
+sends,sends,EQUI,5,4, 4: Completely Equivalent.
+emergency relief,relief,SPE1,4,1, 1: Slightly Related.
+to battered Philippines,to battered Philippines,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+over Juncker appointment,to Juncker,SPE1,4,1, 1: Slightly Related.
+argue,give thumbs up,REL,3,1, 1: Slightly Related.
+"EU , Britain",EU leaders Britain,EQUI,5,2, 2: Related but Different.
+-not aligned-,isolated,NOALI,0,0, 0: No Relation.
+Dozens,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,Indian minister,NOALI,0,0, 0: No Relation.
+in Connecticut train collision,in head-on collision,SIMI,1,2, 2: Related but Different
+injured,killed,REL,3,0, 0: No Relation.
+-not aligned-,preconditions,NOALI,0,0, 0: No Relation.
+-not aligned-,setting,NOALI,0,0, 0: No Relation. (Chunk 1 does not seem to have a clear connection with the given setting in Chunk 2.)
+Russian Prime Minister,Russia,REL,4,1, 1: Slightly Related.
+Of Crimea Visit,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,for Syria,NOALI,0,0, 0: No Relation.
+On Second Day,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,warns against,NOALI,0,0, 0: No Relation.
+cancels,drops,EQUI,5,1, 1: Slightly Related.
+Barack Obama,Barack Obama,EQUI,5,5, 5: Completely Equivalent.
+over Edward Snowden,over Ed Snowden affair,EQUI,5,2, 2: Related but Different
+meeting,meeting,EQUI,5,5, 5: Completely Equivalent.
+with Vladimir Putin,with Vladimir Putin,EQUI,5,4, 4: Completely Equivalent.
+petrol pumps,petrol stations,REL,4,3, 3: Some Similarity.
+at night,at night,EQUI,5,5, 5: Completely Equivalent.
+to shut,to shut,EQUI,5,5, 5: Completely Equivalent.
+India govt,India oil minister,SPE2,4,2, 2: Related but Different
+proposal,for plan,SIMI,4,1, 1: Slightly Related.
+rejects,slammed,REL,2,1," 1: Slightly Related. Both chunks involve negative actions, but the specific actions are different (rejecting vs. slamming)."
+on northern Gaza,on sourthern Gaza town,SPE2,3,0, 0: No Relation.
+-not aligned-,kills,NOALI,0,0, 0: No Relation.
+-not aligned-,seven,NOALI,0,0, 0: No Relation.
+Israeli war jet strikes,Israeli air strike,SPE1,4,3, 3: Some Similarity.
+-not aligned-,as it,NOALI,0,0, 0: No Relation.
+Tropical Storm Karen,Tropical Storm Karen,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,weakens,NOALI,0,0, 0: No Relation.
+US Gulf Coast,U.S. Gulf Coast,EQUI,5,5, 5: Completely Equivalent.
+targets,nears,SIMI,4,1, 1: Slightly Related.
+after airbag fault,over airbag,SPE1,4,1, 1: Slightly Related.
+3 million Japanese cars,3.4m vehicles,SPE1,4,1, 1: Slightly Related.
+"Toyota , Honda , Nissan and Mazda","Toyota , 3 other Japan carmakers",SPE1,4,3, 3: Some Similarity.
+recall,to recall,EQUI,5,1, 1: Slightly Related.
+-not aligned-,waters,NOALI,0,0, 0: No Relation.
+yet,-not aligned-,NOALI,0,0, 0: No Relation.
+sends,enter,SIMI,3,0, 0: No Relation.
+China largest fleet,China ships,SPE1,4,2, 2: Related but Different.
+to disputed islands,off disputed islands,EQUI,5,2, 2: Related but Different
+drought emergency,drought emergency,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,continue,NOALI,0,0, 0: No Relation.
+-not aligned-,as wildfires,NOALI,0,0, 0: No Relation.
+-not aligned-,to burn,NOALI,0,0, 0: No Relation.
+declares,declares,EQUI,5,1," 1: Slightly Related. (Both chunks use the verb ""declares"", but the context and specific declarations are different.)"
+California governor,California governor,EQUI,5,5, 5: Completely Equivalent.
+',-not aligned-,NOALI,0,0, 0: No Relation.
+Ukraine rebels,Ukraine Rebels,EQUI,5,3, 3: Some Similarity.
+',-not aligned-,NOALI,0,0, 0: No Relation.
+eastern stronghold,from Main Stronghold,SPE1,3,1, 1: Slightly Related.
+flee,Flushed,EQUI,5,0, 0: No Relation.
+-not aligned-,Claims,NOALI,0,0, 0: No Relation.
+of extremists,extremists,EQUI,5,3, 3: Some Similarity.
+from Egypt violence,from Egypt violence,EQUI,5,4, 4: Completely Equivalent.
+benefiting,will benefit,EQUI,5,2, 2: Related but Different
+France,France,EQUI,5,5, 5: Completely Equivalent.
+warns,fears,REL,2,1, 1: Slightly Related
+to fill,-not aligned-,NOALI,0,0," Label=0: No Relation.
+
+Chunk 1: ""The cat sat on the mat and purred contentedly.""
+Chunk 2: ""The car drove down the road at high speed.""
+
+Explanation: The two chunks describe completely different scenarios involving different subjects (cat and car), actions (sitting and driving), and settings (mat and road). Therefore, there is no relation between the two chunks."
+-not aligned-,on budget,NOALI,0,0, 0: No Relation.
+-not aligned-,willingness,NOALI,0,0, 0: No Relation.
+taps,-not aligned-,NOALI,0,0, 0: No Relation.
+Obama,Obama,EQUI,5,5, 5: Completely Equivalent.
+Fischer,-not aligned-,NOALI,0,0, 0: No Relation.
+moves,-not aligned-,NOALI,0,0, 0: No Relation.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,to talk,NOALI,0,0, 0: No Relation.
+Fed board,with GOP,REL,3,1," 1: Slightly Related. The first chunk refers to the Federal Reserve Board, while the second refers to the Republican Party (GOP). While they are not directly related, they could potentially be connected in a political context, such as discussing policy decisions made by the Federal Reserve that are aligned with the GOP's views. However, the connection is not strong."
+No. 2,-not aligned-,NOALI,0,0, 0: No Relation.
+to be,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,voices,NOALI,0,0, 0: No Relation.
+42,44,SIMI,4,2, 2: Related but Different
+wounded,wounded,EQUI,5,5, 5: Completely Equivalent.
+in violence,'s violence,EQUI,5,1," 1: Slightly Related. The two chunks are discussing the same topic (violence), but they have slight differences in their structure and wording."
+killed,killed,EQUI,5,4, 4: Completely Equivalent.
+63,133,SIMI,3,2, LABEL=2: Related but Different.
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+in Iraq,in Iraq,EQUI,5,5, 5: Completely Equivalent.
+after almost five years captivity,after 5 years in captivity,SPE2,4,3, 3: Some Similarity.
+U.S. soldier,US soldier,EQUI,5,4, 4: Completely Equivalent.
+free,freed,EQUI,5,1, 1: Slightly Related.
+in Afghanistan,in Afghanistan,EQUI,5,4, 4: Completely Equivalent.
+Thousands,Thousands,EQUI,5,4, 4: Completely Equivalent.
+dole,-not aligned-,NOALI,0,0, 0: No Relation.
+of Britons,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,of white-clad Amsterdammers march,NOALI,0,0, 0: No Relation.
+-not aligned-,for MH17,NOALI,0,0," 0: No Relation. (There is no apparent connection between the two chunks. The first chunk does not mention MH17, which is the focus of the second chunk.)"
+claim,-not aligned-,NOALI,0,0, 0: No Relation.
+in Germany,-not aligned-,NOALI,0,0, 0: No Relation.
+the enemy,the enemy,EQUI,5,5, 5: Completely Equivalent.
+acquitted,acquitted,EQUI,5,5, 5: Completely Equivalent.
+Bradley Manning,Wikileaks soldier Bradley Manning,SPE2,4,3, 3: Some Similarity.
+of aiding,of aiding,EQUI,5,3, 3: Some Similarity.
+With Anticipation,-not aligned-,NOALI,0,0, 0: No Relation.
+for Pope Francis,Pope Francis,EQUI,5,3, 3: Some Similarity.
+-not aligned-,greet,NOALI,0,0, 0: No Relation.
+Buzzing,-not aligned-,NOALI,0,0, 0: No Relation.
+Brazil,Brazil crowds,SPE2,4,2, 2: Related but Different
+in Pakistan,in NW Pakistan,SPE2,4,2, 2: Related but Different
+a Seminary,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,kills,NOALI,0,0, 0: No Relation.
+Drone Strikes,US drone strike,SPE2,4,1, 1: Slightly Related.
+-not aligned-,8,NOALI,0,0, LABEL=0: No Relation.
+10 foreign tourists,"9 foreign tourists , 1 Pakistani",SPE1,3,1, 1: Slightly Related.
+kill,kill,EQUI,5,5, 5: Completely Equivalent.
+in northern Pakistan,-not aligned-,NOALI,0,0, 0: No Relation.
+Gunmen,Islamic militants,SPE2,4,2, 2: Related but Different
+rises,rises,EQUI,5,5, 5: Completely Equivalent.
+Death toll,Death toll,EQUI,5,3, 3: Some Similarity.
+to 59,to 638,SIMI,2,2," LABEL=2: Related but Different.
+
+Explanation:
+
+Chunk 1 discusses the importance of understanding the context and the audience when writing, emphasizing the need for clarity and conciseness. It also mentions the use of active voice and the avoidance of jargon.
+
+Chunk 2, on the other hand, talks about the role of a technical writer, focusing on creating user manuals, software documentation, and other technical content. It discusses the need for accuracy, consistency, and clarity in technical writing. While both chunks share the common theme of writing, they are discussing different aspects and contexts of it, hence the label ""Related but Different."""
+in Nairobi attack,from Egypt violence,SIMI,2,0, 0: No Relation.
+',-not aligned-,NOALI,0,0, 0: No Relation.
+',-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,White House,NOALI,0,0, 0: No Relation.
+Syrian regime,Syria,EQUI,5,1, 1: Slightly Related.
+using,uses,EQUI,5,2, 2: Related but Different
+chemical weapons,chemical weapons,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,says,NOALI,0,0, 0: No Relation.
+on a small scale,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,in conflict,NOALI,0,0, 0: No Relation.
+sought,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,for Showdown,NOALI,0,0, 0: No Relation.
+Venezuelan opposition leader,"Venezuela Government , Opposition Head",SPE1,4,2, 2: Related but Different
+-not aligned-,',NOALI,0,0, 0: No Relation.
+'s Cameron,Cameron,EQUI,5,1, 1: Slightly Related.
+-not aligned-,',NOALI,0,0, 0: No Relation.
+seriously,seriously,EQUI,5,4, 4: Completely Equivalent.
+UK,-not aligned-,NOALI,0,0, 0: No Relation.
+by Gibraltar/Spain row,over Gibraltar events,SPE1,2,2, 2: Related but Different
+concerned,concerned,EQUI,5,4, 4: Completely Equivalent.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+the Papers,the Papers,EQUI,5,5, 5: Completely Equivalent.
+Say,Say,EQUI,5,1," 1: Slightly Related. Both chunks use the same verb ""Say"", but the context and meaning of what is being said in each case is not specified, making the relationship between the two vague."
+What,What,EQUI,5,1, 1: Slightly Related.
+"Nov. 19 , 2013","Sept. 26 , 2013",SIMI,3,0, 0: No Relation.
+at Critical Time,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,'s Nuclear Program,NOALI,0,0, 0: No Relation.
+in Munich,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,Iran,NOALI,0,0, 0: No Relation.
+Top Diplomats,Top Diplomats,EQUI,5,5, 5: Completely Equivalent.
+Meet,Discuss,SPE2,3,1, 1: Slightly Related.
+-not aligned-,report,NOALI,0,0, 0: No Relation.
+Iranian nuclear talks,New Iran nuclear talks,SPE2,4,2, 2: Related but Different
+to November,in November,EQUI,5,1, 1: Slightly Related.
+-not aligned-,probably,NOALI,0,0, 0: No Relation.
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+to be extended,-not aligned-,NOALI,0,0, Label=0: No Relation. (As Chunk 1 is not provided.)
+Mulls,confirms,REL,2,1, 1: Slightly Related.
+in Peace Talks,in peace talks,EQUI,5,2, 2: Related but Different
+Participation,participation,EQUI,5,3, 3: Some Similarity.
+Syrian Opposition,Syrian opposition,EQUI,5,3, 3: Some Similarity.
+sworn in,sworn in,EQUI,5,5, 5: Completely Equivalent.
+Rudd,Rudd,EQUI,5,5, 5: Completely Equivalent.
+as Australian PM,as Australia 's new Prime Minister,SPE2,4,3, 3: Some Similarity
+',-not aligned-,NOALI,0,0, 0: No Relation.
+Obama,Obama,EQUI,5,5, 5: Completely Equivalent.
+',-not aligned-,NOALI,0,0, 0: No Relation.
+deserved,deserve,EQUI,5,2, 2: Related but Different
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+Korean War veterans,Korean War vets,EQUI,5,3, 3: Some Similarity.
+-not aligned-,',NOALI,0,0, 0: No Relation.
+says,-not aligned-,NOALI,0,0, 0: No Relation.
+better,better,EQUI,5,3, 3: Some Similarity.
+-not aligned-,',NOALI,0,0, 0: No Relation.
+Padma Shri,Padma Shri,EQUI,5,5, 5: Completely Equivalent.
+"Telugu actors Mohan Babu , Brahmanandam","actors Mohan Babu , Brahmanandam",SPE1,4,3, 3: Some Similarity.
+asks,advises,SIMI,3,1, 1: Slightly Related.
+Andhra Pradesh high court,HC,SPE1,4,1, 1: Slightly Related.
+to return,to return,EQUI,5,5, 5: Completely Equivalent.
+with murder,with murder,EQUI,5,5, 5: Completely Equivalent.
+'s shooting death,-not aligned-,NOALI,0,0, 0: No Relation.
+in friend,-not aligned-,NOALI,0,0, 0: No Relation.
+Pro football player Aaron Hernandez,American football player Aaron Hernandez,SPE2,4,4, 4: Completely Equivalent.
+charged,charged,EQUI,5,4, 4: Completely Equivalent.
+in France,in France,EQUI,5,4, 4: Completely Equivalent.
+Algerian president,Algerian president,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,after minor stroke,NOALI,0,0, 0: No Relation.
+for medical tests,for medical tests,EQUI,5,4, 4: Completely Equivalent.
+Israel,Israel,EQUI,5,5, 5: Completely Equivalent.
+Palestinian prisoners,26 Palestinian Prisoners,SPE2,4,2, 2: Related but Different
+to release,Releases,SIMI,4,2, 2: Related but Different
+Dies,dies,EQUI,5,1, 1: Slightly Related
+British Nobel-Winning Author Doris Lessing,Nobel Prize winning author Doris Lessing,SPE1,4,3, 3: Some Similarity.
+stars,win,REL,2,1, 1: Slightly Related.
+Carter,Bonus-point Super Rugby,REL,4,0, 0: No Relation.
+for Crusaders,for Crusaders,EQUI,5,5, 5: Completely Equivalent.
+16,47,SIMI,3,2," LABEL=2: Related but Different.
+
+Explanation:
+
+Chunk 1 [16]: ""The cat sat on the mat and purred contentedly.""
+
+Chunk 2 [47]: ""The dog lay on the rug and barked happily.""
+
+Both sentences describe a pet animal in a relaxed state, but they differ in the type of animal, the object they are resting on, and the sound they are making. Therefore, they are related but different."
+at least,at least,EQUI,5,3, 3: Some Similarity.
+Car bombs,Car bombs,EQUI,5,5, 5: Completely Equivalent.
+in Iraqi capital,in Baghdad area,SIMI,2,2, 2: Related but Different
+kill,kill,EQUI,5,5, 5: Completely Equivalent.
+at 40,-not aligned-,NOALI,0,0, 0: No Relation.
+dies,dies,EQUI,5,5, 5: Completely Equivalent.
+in car crash,in car crash,EQUI,5,5, 5: Completely Equivalent.
+' Fast undamp ; Furious ' star Paul Walker,Hollywood star Paul Walker,SPE1,4,2, 2: Related but Different
+one-child policy,of one-child policy,EQUI,5,2, 2: Related but Different
+-not aligned-,formalizes,NOALI,0,0, 0: No Relation.
+eases,easing,EQUI,5,2, 2: Related but Different
+China,China,EQUI,5,5, 5: Completely Equivalent.
+Nobel Peace Prize,Nobel Peace prize,EQUI,5,3, 3: Some Similarity
+wins,wins,EQUI,5,5, 5: Completely Equivalent.
+Global chemical watchdog,Chemical weapons watchdog,SPE2,4,2, 2: Related but Different
+remanded,held,EQUI,5,1," 1: Slightly Related. Both chunks refer to a state of being kept or detained, but the term ""remanded"" is more commonly used in legal contexts, while ""held"" is more general."
+charged,charged,EQUI,5,4, 4: Completely Equivalent.
+in a block,in a block,EQUI,5,1," To accurately evaluate the similarity between the two chunks, I would need the actual text content of the chunks. However, I can provide an example of how I would approach this task:
+
+Chunk 1: ""The cat sat on the mat.""
+Chunk 2: ""The feline rested on the rug.""
+Label: 3 (Some Similarity)
+
+In this example, both sentences describe an animal (cat/feline) resting on a surface (mat/rug). The sentences are not identical, but they share a similar structure and meaning."
+A woman,A mother,SPE2,4,2, 2: Related but Different
+'s death,'s death,EQUI,5,5, 5: Completely Equivalent.
+has been remanded,has been remanded,EQUI,5,5, 5: Completely Equivalent.
+in custody,in custody,EQUI,5,5, 5: Completely Equivalent.
+of flats.,of flats.,EQUI,5,4, 4: Completely Equivalent.
+Woman,Mother,SPE2,4,2, 2: Related but Different
+dead,dead,EQUI,5,5, 5: Completely Equivalent.
+after an eight-year-old girl,after her eight-year-old daughter,SPE2,4,2, 2: Related but Different
+over child,over daughter,SPE2,4,2, 2: Related but Different
+with murder,with murder,EQUI,5,5, 5: Completely Equivalent.
+was found,was found,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,in Istanbul,NOALI,0,0, 0: No Relation.
+at pro-Morsy protesters,at protesters,SPE1,4,1, 1: Slightly Related.
+tear gas,teargas,EQUI,5,1," 1: Slightly Related. (Due to the minor difference in spelling, 'tear gas' and 'teargas' are similar but not identical.)"
+Police,Turkish police,SPE2,4,2, 2: Related but Different
+fire,fire,EQUI,5,5, 5: Completely Equivalent.
+23,11 children,SPE2,2,1, 1: Slightly Related.
+killed,killed,EQUI,5,4, 4: Completely Equivalent.
+in Iraq car bombings,in Syria bombings,SPE1,2,1, 1: Slightly Related.
+17:02,-not aligned-,NOALI,0,0," 0: No Relation. (Since Chunk 2 is not provided, I cannot compare the two chunks.)"
+in Pakistan,in Pakistan,EQUI,5,4, 4: Completely Equivalent.
+"nine foreign tourists , guide",nine tourists,SPE2,4,1, 1: Slightly Related.
+Gunmen,Gunmen,EQUI,5,5, 5: Completely Equivalent.
+kill,kill,EQUI,5,5, 5: Completely Equivalent.
+in Ukraine,in Lebanon,SIMI,3,0, 0: No Relation.
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+-not aligned-,We,NOALI,0,0, 0: No Relation.
+to hold,-not aligned-,NOALI,0,0, 0: No Relation.
+vote,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,killed,NOALI,0,0, 0: No Relation.
+Pro-Russia rebels,Syria rebels,SIMI,3,1, 1: Slightly Related.
+-not aligned-,Hezbollah men,NOALI,0,0, 0: No Relation.
+criticizes,slams,SIMI,3,2, 2: Related but Different.
+Twitter ban,Twitter ban,EQUI,5,5, 5: Completely Equivalent.
+Erdogan,Erdogan,EQUI,5,5, 5: Completely Equivalent.
+after lifting,for lifting,EQUI,5,2, 2: Related but Different
+court ruling,top court,REL,4,2, 2: Related but Different
+in History,in History,EQUI,5,3," 3: Some Similarity. Both chunks refer to the same general topic, which is ""History"". However, the exact context or specific events within the history could vary."
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+Today,Today,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+Jan. 24,April 4,SIMI,3,0, 0: No Relation.
+-not aligned-,US Senate,NOALI,0,0, 0: No Relation.
+to lead the Federal Reserve,as US Federal Reserve chief,EQUI,5,2, 2: Related but Different
+to become,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,confirms,NOALI,0,1, 1: Slightly Related.
+Janet Yellen,Janet Yellen,EQUI,5,5, 5: Completely Equivalent.
+first woman,-not aligned-,NOALI,0,0, 0: No Relation.
+water cannon,"teargas , water cannon",SPE1,4,3, 3: Some Similarity.
+Police,Police,EQUI,5,5, 5: Completely Equivalent.
+as India gang-rape protest,at Istanbul protesters,SIMI,2,1, 1: Slightly Related
+use,fire,SIMI,4,1, 1: Slightly Related.
+violent,-not aligned-,NOALI,0,0, 0: No Relation.
+turns,-not aligned-,NOALI,0,0, 0: No Relation.
+0.2 pct.,up 0.2 percent,SPE1,4,2, 2: Related but Different
+spending,spending,EQUI,5,4, 4: Completely Equivalent.
+US consumers,Consumer,SPE1,4,1, 1: Slightly Related.
+last month,in May,SPE2,2,1, 1: Slightly Related.
+boost,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,use,NOALI,0,0, 0: No Relation.
+-not aligned-,Probe,NOALI,0,0, 0: No Relation.
+'s Rouhani,-not aligned-,NOALI,0,0, 0: No Relation.
+Iran,-not aligned-,NOALI,0,0, 0: No Relation.
+in Syria,in Syria,EQUI,5,5, 5: Completely Equivalent.
+chemical weapons,of chemical weapons,EQUI,5,1, 1: Slightly Related.
+admits,alleged,SIMI,4,1," 1: Slightly Related. Both chunks refer to an admission or allegation, but they are not exactly the same. ""Admits"" implies a direct confession, while ""alleged"" suggests an accusation without direct proof."
+killed,-not aligned-,NOALI,0,0, 0: No Relation.
+people,-not aligned-,NOALI,0,0, 0: No Relation.
+Britain,UK,EQUI,5,3, 3: Some Similarity.
+' exploratory ' surgery,hospitalized,REL,4,1," 1: Slightly Related. The two chunks are not directly related, but 'exploratory' surgery may lead to hospitalization."
+'s Prince Philip,'s Prince Philip,EQUI,5,5, 5: Completely Equivalent.
+set for,-not aligned-,NOALI,0,0, 0: No Relation.
+in Canada,near Baltimore,SIMI,3,0, 0: No Relation.
+Huge explosion,Huge explosion,EQUI,5,5, 5: Completely Equivalent.
+after oil train,as freight train,SPE1,4,2, 2: Related but Different
+derails,derails,EQUI,5,5, 5: Completely Equivalent.
+NATO soldier,Four soldiers,SPE1,2,1, 1: Slightly Related.
+in Taliban attack,in Yemen,REL,3,1," 1: Slightly Related. Both chunks refer to conflict zones, but Chunk 1 specifically mentions the Taliban, while Chunk 2 does not provide any specific group or event."
+killed,killed,EQUI,5,4, 4: Completely Equivalent.
+in Ukraine,in Syria,SIMI,3,0, 0: No Relation.
+released,kidnapped,OPPO,4,0, 0: No Relation.
+Red Cross workers,Red Cross members,EQUI,5,2, 2: Related but Different
+-not aligned-,',NOALI,0,0, 0: No Relation.
+-not aligned-,over $100 billion,NOALI,0,0, 0: No Relation.
+Iran,Iran,EQUI,5,5, 5: Completely Equivalent.
+leaves,-not aligned-,NOALI,0,0, 0: No Relation.
+for Kazakhstan,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,',NOALI,0,0, 0: No Relation.
+-not aligned-,Tehran,NOALI,0,0, 0: No Relation.
+-not aligned-,has cost,NOALI,0,0, 0: No Relation.
+'s nuclear negotiating team,'s nuclear quest,REL,4,1, 1: Slightly Related.
+Myanmar,-not aligned-,NOALI,0,0, 0: No Relation.
+44,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,Warns,NOALI,0,0, 0: No Relation.
+-not aligned-,Strikes,NOALI,0,0, 0: No Relation.
+-not aligned-,Could Worsen,NOALI,0,0, 0: No Relation.
+over sectarian violence,Sectarian Violence,EQUI,5,3, 3: Some Similarity.
+arrests,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,Ban,NOALI,0,0, 0: No Relation.
+-not aligned-,Syria,NOALI,0,0, 0: No Relation.
+Unveils,Unveils,EQUI,5,4, 4: Completely Equivalent.
+Google,Google,EQUI,5,5, 5: Completely Equivalent.
+Prototype Self-Driving Car,Concept Self-Driving Car,SPE1,4,3, 3: Some Similarity.
+-not aligned-,to Restart,NOALI,0,0, 0: No Relation.
+-not aligned-,as Part,NOALI,0,0, 0: No Relation.
+over Kerry talks,Peace Talks,SPE1,4,2, 2: Related but Different
+Palestinian prisoners,104 Palestinian Prisoners,SPE2,4,2, 2: Related but Different
+to free,to Free,EQUI,5,1," 1: Slightly Related. (The capitalization is different, but the meaning is the same.)"
+Israel,Israel,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,of Possible Deal,NOALI,0,0, 0: No Relation.
+-not aligned-,Agrees,NOALI,0,0, 0: No Relation.
+Chemical Arms Team,UN Chemical Arms Experts,SPE2,4,2, 2: Related but Different
+to Begin Talks,To Visit,REL,3,1, 1: Slightly Related.
+With Syria,Syria,EQUI,5,2, 2: Related but Different
+president 's speech,presidential elections,REL,3,1, 1: Slightly Related.
+Egypt,Pakistan,SIMI,3,0, 0: No Relation.
+criticizes,boycotts,SPE2,3,2, 2: Related but Different
+'s opposition,'s opposition party,EQUI,5,1, 1: Slightly Related.
+Vodafone UK chief Guy Laurence,Vodafone UK chief,SPE1,4,1, 1: Slightly Related.
+Rogers,Rogers,EQUI,5,5, 5: Completely Equivalent.
+hires,names,SIMI,4,1, 1: Slightly Related.
+as CEO,as new CEO,SPE2,4,2, 2: Related but Different
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+One dead,One dead,EQUI,5,5, 5: Completely Equivalent.
+at PNG immigration centre,at Papua New Guinea immigration centre,EQUI,5,3, 3: Some Similarity.
+77 hurt,77 hurt,EQUI,5,5, 5: Completely Equivalent.
+in riot,in riot,EQUI,5,4, 4: Completely Equivalent.
+pro-Mursi camps,pro-Morsi camps,EQUI,5,5, 5: Completely Equivalent.
+15 dead,15 killed,EQUI,5,3, 3: Some Similarity.
+disperse,clear,EQUI,5,1," 1: Slightly Related. Both words can imply removing something from a specific area, but their contexts and meanings can vary widely. For example, ""disperse"" often refers to scattering something, while ""clear"" can mean making something free from obstructions or unclear things."
+as Egypt police,as Egyptian forces,EQUI,5,2, 2: Related but Different
+-not aligned-,in Cairo,NOALI,0,0, 0: No Relation.
+-not aligned-,',NOALI,0,0, 0: No Relation.
+-not aligned-,',NOALI,0,0, 0: No Relation.
+Survives,survives,EQUI,5,4, 4: Completely Equivalent.
+Syrian PM,Syrian PM,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,in capital,NOALI,0,0, 0: No Relation.
+Bomb Attack,bomb attack,EQUI,5,3, 3: Some Similarity.
+-not aligned-,test,NOALI,0,0, 0: No Relation.
+' breakthrough ' guided missile,of ' breakthrough ' guided missile,EQUI,5,2, 2: Related but Different
+North Korea,N. Korea,EQUI,5,3, 3: Some Similarity.
+claims,hails,EQUI,5,1, 1: Slightly Related.
+:,-not aligned-,NOALI,0,0, 0: No Relation.
+India Ink,India Ink,EQUI,5,5, 5: Completely Equivalent.
+:,-not aligned-,NOALI,0,0, 0: No Relation.
+February 25,January 27,SIMI,3,0, 0: No Relation.
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+of the Day,of the Day,EQUI,5,3, 3: Some Similarity.
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+Image,Image,EQUI,5,0, 0: No Relation. (Images do not have text or content that can be semantically compared.)
+;,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,top,NOALI,0,0, 0: No Relation.
+over,-not aligned-,NOALI,0,0, 0: No Relation.
+death toll,Bangladesh collapse deaths,EQUI,5,2, 2: Related but Different
+"1,127",620,SIMI,3,1," LABEL=1: Slightly Related. (Chunk 1 provides a detailed explanation about the concept of ""The Law of Attraction,"" while Chunk 2 is a single sentence that mentions the term ""The Law of Attraction"" in a different context.)"
+Bangladesh collapse search,Bangladesh collapse deaths,REL,4,2, 2: Related but Different
+criticizes,-not aligned-,NOALI,0,0, 0: No Relation.
+'s opposition party chief,'s opposition MDC party,REL,2,1, 1: Slightly Related.
+Japan,Zimbabwe,SIMI,3,0, 0: No Relation.
+-not aligned-,'s election win,NOALI,0,0, 0: No Relation.
+Abe,Robert Mugabe,SIMI,3,0, 0: No Relation.
+'s economic policies,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,challenges,NOALI,0,0, 0: No Relation.
+ahead,leading,EQUI,5,2, 2: Related but Different
+in Afghanistan election race,in Afghan presidential elections,EQUI,5,3," 3: Some Similarity. Both chunks refer to elections in Afghanistan, although the first one is more specific to a race, while the second one is more general and refers to the presidential elections."
+Abdullah,Abdullah,EQUI,5,5, 5: Completely Equivalent.
+southwest Pakistan,southern Pakistan,SIMI,4,2, 2: Related but Different
+rocks,hits,EQUI,5,0, 0: No Relation.
+New major earthquake,Moderate earthquake,SPE1,3,1, 1: Slightly Related.
+throws,-not aligned-,NOALI,0,0, 0: No Relation.
+into political crisis,in crisis,SPE1,4,2, 2: Related but Different
+Italy,Italy gov 't,SPE2,4,2, 2: Related but Different
+' announcement,-not aligned-,NOALI,0,0, 0: No Relation.
+of resignation,resign,EQUI,5,2, 2: Related but Different
+Berlusconi party ministers,Berlusconi ministers,EQUI,5,3, 3: Some Similarity.
+-not aligned-,;,NOALI,0,0, 0: No Relation.
+-not aligned-,"""",NOALI,0,0, 0: No Relation.
+asylum,humanitarian asylum,SPE2,4,2, 2: Related but Different
+-not aligned-,"""",NOALI,0,0, 0: No Relation.
+offer,offers,EQUI,5,1, 1: Slightly Related.
+to Snowden,to Snowden,EQUI,5,3, 3: Some Similarity.
+"Nicaragua , Venezuela",Venezuela,SPE2,4,1, 1: Slightly Related.
+17 govt employees,78,SPE1,2,0, 0: No Relation.
+-not aligned-,At least,NOALI,0,0, 0: No Relation.
+in Pakistan bus bombing,in Pakistan church bombing,SIMI,3,1, 1: Slightly Related.
+killed,killed,EQUI,5,4, 4: Completely Equivalent.
+in Bangkok shooting,in US school shooting,SPE2,2,0, 0: No Relation.
+Two hurt,Two hurt,EQUI,5,5, 5: Completely Equivalent.
+in Jordan Valley,in West Bank attack,SPE2,2,1," 1: Slightly Related. The two chunks refer to geographical locations that are in proximity, but the context suggests they are discussing different events (one in the Jordan Valley, the other in the West Bank)."
+killed,killed,EQUI,5,4, 4: Completely Equivalent.
+Israel colonel,Israeli,SPE1,4,1, 1: Slightly Related.
+prominent atheist blogger,3 atheist bloggers,SPE2,3,1, 1: Slightly Related.
+arrest,arrest,EQUI,5,5, 5: Completely Equivalent.
+Bangladesh police,Bangladesh police,EQUI,5,5, 5: Completely Equivalent.
+Cannes hotel raid,in Cannes,REL,4,1, 1: Slightly Related.
+nets,stolen,SIMI,4,0, 0: No Relation.
+€40 million gems,Jewels worth €40m,SPE1,4,3, 3: Some Similarity.
+Slams,-not aligned-,NOALI,0,0, 0: No Relation.
+Delays,on standby,REL,3,1, 1: Slightly Related.
+-not aligned-,Ten Chinese vessels,NOALI,0,0, 0: No Relation.
+Chinese News Agency,-not aligned-,NOALI,0,0, 0: No Relation.
+in Search for Jet,for jet search,EQUI,5,2, 2: Related but Different
+without opposition,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,move,NOALI,0,0, 0: No Relation.
+says,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,closer to intervention,NOALI,0,0, 0: No Relation.
+no peace talks,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+-not aligned-,west,NOALI,0,0, 0: No Relation.
+-not aligned-,Cameron and Obama,NOALI,0,0, 0: No Relation.
+Syria envoy,Syria,REL,4,1, 1: Slightly Related.
+-not aligned-,was,NOALI,0,0, 0: No Relation.
+-not aligned-,',NOALI,0,0, 0: No Relation.
+-not aligned-,Griff Rhys Jones,NOALI,0,0, 0: No Relation.
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+a comedy favourite,-not aligned-,NOALI,0,0, 0: No Relation.
+UK,-not aligned-,NOALI,0,0, 0: No Relation.
+dead,a force for life,REL,3,0, 0: No Relation.
+and,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,',NOALI,0,0, 0: No Relation.
+Mel Smith,Mel Smith,EQUI,5,5, 5: Completely Equivalent.
+mourns,-not aligned-,NOALI,0,0, 0: No Relation.
+at 60,-not aligned-,NOALI,0,0, 0: No Relation.
+Driver of crashed Spanish train,Spanish train driver,SPE1,4,2, 2: Related but Different
+held,held,EQUI,5,4, 4: Completely Equivalent.
+of negligent homicide,of negligent homicide,EQUI,5,5, 5: Completely Equivalent.
+on suspicion,on suspicion,EQUI,5,4, 4: Completely Equivalent.
+in Iraq,in Iraq,EQUI,5,5, 5: Completely Equivalent.
+against military intervention,against US military interference,SPE2,4,2, 2: Related but Different
+-not aligned-,FM Spokeswoman,NOALI,0,0, 0: No Relation.
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+Iran,Iran,EQUI,5,5, 5: Completely Equivalent.
+warns,-not aligned-,NOALI,0,0, 0: No Relation.
+to 51,63,SIMI,3,0, LABEL=0: No Relation.
+Death toll,Death toll,EQUI,5,3, 3: Some Similarity.
+rises,hits,EQUI,5,0, 0: No Relation.
+in Latvian supermarket collapse,in Mumbai building collapse,SPE1,3,0, 0: No Relation.
+Defence,Defence,EQUI,5,5, 5: Completely Equivalent.
+of scapegoating,of scapegoating,EQUI,5,4, 4: Completely Equivalent.
+in South Korea ferry trial,in ferry trial,SPE1,4,2, 2: Related but Different
+warns,warns,EQUI,5,3, 3: Some Similarity.
+arrested,arrested,EQUI,5,5, 5: Completely Equivalent.
+during march,on way,SIMI,4,1, 1: Slightly Related.
+to Woolwich,to Woolwich,EQUI,5,5, 5: Completely Equivalent.
+EDL leaders,EDL leaders,EQUI,5,5, 5: Completely Equivalent.
+"nine foreign tourists , guide","9 foreign tourists , 1 Pakistani",SIMI,4,1," 1: Slightly Related. Both chunks mention nine foreign tourists, but the second one also includes a Pakistani guide, which is not present in the first chunk."
+kill,kill,EQUI,5,5, 5: Completely Equivalent.
+Gunmen,Gunmen,EQUI,5,5, 5: Completely Equivalent.
+in Pakistan,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,announces,NOALI,0,0, 0: No Relation.
+general election,of February general election,SPE2,4,2, 2: Related but Different
+to boycott,boycott,EQUI,5,4, 4: Completely Equivalent.
+Thai opposition party,Thailand 's opposition Democrat Party,SPE2,4,3, 3: Some Similarity.
+killing,-not aligned-,NOALI,0,0, 0: No Relation.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+Syrian warplanes,Syria and Iran,REL,2,1, 1: Slightly Related.
+strike,-not aligned-,NOALI,0,0, 0: No Relation.
+57,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,Step Up,NOALI,0,0, 0: No Relation.
+reportedly,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,Involvement,NOALI,0,0, 0: No Relation.
+in Iraq,in Iraq Conflict,REL,4,2, 2: Related but Different
+venue,Venue,EQUI,5,1, 1: Slightly Related.
+changes,Changes,EQUI,5,1," 1: Slightly Related. (The capitalization is different, but the meaning is the same.)"
+Egypt,Egypt,EQUI,5,5, 5: Completely Equivalent.
+for trial,for Trial,EQUI,5,1, 1: Slightly Related.
+of ousted president,of Ousted President,EQUI,5,2, 2: Related but Different
+dies,dies,EQUI,5,5, 5: Completely Equivalent.
+Respected British interviewer David Frost,Broadcaster David Frost,SPE1,4,2, 2: Related but Different
+of a heart attack,-not aligned-,NOALI,0,0, 0: No Relation.
+killed,killed,EQUI,5,4, 4: Completely Equivalent.
+in Syria,in Israeli raid,SPE2,3,0, 0: No Relation.
+Group,-not aligned-,NOALI,0,0, 0: No Relation.
+7 Palestinians,Palestinian,SPE1,4,1, 1: Slightly Related.
+:,-not aligned-,NOALI,0,0, 0: No Relation.
+'s Benghazi,in Benghazi,EQUI,5,1, 1: Slightly Related.
+no casualties,None Hurt,EQUI,5,3, 3: Some Similarity.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+-not aligned-,Hits,NOALI,0,0, 0: No Relation.
+Car bomb,Car Bomb,EQUI,5,5, 5: Completely Equivalent.
+at Swedish consulate,Swedish Consulate,EQUI,5,2, 2: Related but Different
+in Libya,-not aligned-,NOALI,0,0, 0: No Relation.
+six,4 militants,SPE2,3,0, 0: No Relation.
+kills,kills,EQUI,5,4, 4: Completely Equivalent.
+in Pakistan,in Pakistan,EQUI,5,4, 4: Completely Equivalent.
+US drone strike,U.S. drone,SPE1,4,1, 1: Slightly Related.
+officials,-not aligned-,NOALI,0,0, 0: No Relation.
+Earthquake,Earthquake,EQUI,5,5, 5: Completely Equivalent.
+of 6.3 magnitude,of 6 magnitude,SIMI,4,3, 3: Some Similarity.
+off Indonesia island,Thailand,SIMI,3,0, 0: No Relation.
+strikes,strikes,EQUI,5,0, 0: No Relation.
+leaves,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,at least,NOALI,0,0, 0: No Relation.
+dozens,179,SPE2,4,1," 1: Slightly Related. The two chunks refer to quantities, but one (Chunk 1) is a general term for a large number (dozens), while the other (Chunk 2) is a specific number (179). However, they are both related in the sense that they both represent quantities."
+China quake,China quake,EQUI,5,5, 5: Completely Equivalent.
+dead,kills,EQUI,5,1, 1: Slightly Related.
+'s new prince,'s new baby prince,EQUI,5,2, 2: Related but Different
+visits,meets,EQUI,5,1, 1: Slightly Related.
+Queen,Queen,EQUI,5,5, 5: Completely Equivalent.
+Britain,Britain,EQUI,5,5, 5: Completely Equivalent.
+Syria opposition,Syria opposition,EQUI,5,5, 5: Completely Equivalent.
+pressed,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,frustration,NOALI,0,1," 1: Slightly Related. (Chunk 1 does not provide specific content, but frustration is a general emotion that can be experienced in various contexts.)"
+-not aligned-,voices,NOALI,0,0, 0: No Relation.
+to attend,-not aligned-,NOALI,0,0, 0: No Relation.
+talks,with international backers,REL,2,1, 1: Slightly Related.
+submits,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,signs,NOALI,0,0, 0: No Relation.
+'s integration,to join,EQUI,5,1, 1: Slightly Related.
+federal constitutional law,a treaty,REL,4,1," 1: Slightly Related. A treaty is a type of agreement between nations, while federal constitutional law refers to the body of law that defines the structure, powers, and operation of a federal government. Although they are both types of legal agreements, they are not directly related in the context provided."
+into Russia,Russia,EQUI,5,1, 1: Slightly Related.
+to State Duma,-not aligned-,NOALI,0,0, 0: No Relation.
+on Crimea,for Crimea,EQUI,5,1, 1: Slightly Related.
+Putin,Putin,EQUI,5,5, 5: Completely Equivalent.
+Venezuela,Venezuela,EQUI,5,5, 5: Completely Equivalent.
+expels,Expels,EQUI,5,2, 2: Related but Different
+three U.S. diplomats,3 U.S. Diplomats,EQUI,5,4, 4: Completely Equivalent.
+after bloody week,after deadly clashes,SPE2,3,2, 2: Related but Different
+protest,defiant,REL,4,2, 2: Related but Different
+Egypt 's bruised Islamists,Egypt Islamists,SPE1,4,2, 2: Related but Different
+N Korea,N. Korea,EQUI,5,3, 3: Some Similarity.
+test-fires,fires,SPE1,4,1, 1: Slightly Related.
+30 short-range missiles,short-range missiles,SPE1,4,3, 3: Some Similarity.
+rises,rises,EQUI,5,5, 5: Completely Equivalent.
+to nine,to 260,SIMI,1,1, 1: Slightly Related.
+Glasgow helicopter death toll,Earthquake death toll,SIMI,2,0, 0: No Relation.
+mixed,higher,SIMI,3,1, 1: Slightly Related.
+--,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,--,NOALI,0,0, 0: No Relation.
+close,close,EQUI,5,3, 3: Some Similarity.
+Nov. 11,July 23,SIMI,3,0, 0: No Relation.
+Shanghai stock indices,Shanghai stock indices,EQUI,5,5, 5: Completely Equivalent.
+Prince Charles,Prince Charles,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,',NOALI,0,0, 0: No Relation.
+',-not aligned-,NOALI,0,0, 0: No Relation.
+Putin,Vladimir Putin,EQUI,5,4, 4: Completely Equivalent.
+',-not aligned-,NOALI,0,0, 0: No Relation.
+to Hitler,to Adolf Hitler,EQUI,5,2, 2: Related but Different
+-not aligned-,',NOALI,0,0, 0: No Relation.
+compares,compares,EQUI,5,3, 3: Some Similarity.
+retakes,retakes,EQUI,5,5, 5: Completely Equivalent.
+from rebels,-not aligned-,NOALI,0,0, 0: No Relation.
+Crusader castle,historic Crusader castle,SPE2,4,2, 2: Related but Different
+Syrian army,Syrian army,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,Splintered,NOALI,0,0, 0: No Relation.
+over peace talks,Ahead of Peace Talks,EQUI,5,2, 2: Related but Different
+Syrian opposition,Syrian Opposition,EQUI,5,3, 3: Some Similarity.
+to meet,-not aligned-,NOALI,0,0, 0: No Relation.
+Four Morsi supporters,of Morsi supporters,SPE1,4,1, 1: Slightly Related.
+in Egypt clashes,in Egypt,SPE1,4,1, 1: Slightly Related.
+-not aligned-,gather,NOALI,0,0, 0: No Relation.
+-not aligned-,Thousands,NOALI,0,0, 0: No Relation.
+killed,-not aligned-,NOALI,0,0, 0: No Relation.
+over Costa Concordia disaster,for costa concordia shipwreck disaster,SPE2,4,3, 3: Some Similarity
+jailed,sentenced,REL,4,2, 2: Related but Different.
+Five people,five men,SPE2,4,2, 2: Related but Different.
+2020 Olympic Games,2020 Olympic Games,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,wins,NOALI,0,0, 0: No Relation.
+-not aligned-,race,NOALI,0,0, 0: No Relation.
+Tokyo,Tokyo,EQUI,5,5, 5: Completely Equivalent.
+to host,to host,EQUI,5,3, 3: Some Similarity.
+-,-not aligned-,NOALI,0,0, 0: No Relation.
+Suicide bomber,Suicide bomb,REL,4,2, 2: Related but Different
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+13,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,'s Old City,NOALI,0,0, 0: No Relation.
+in Afghan capital,in Syrian capital,SIMI,3,0, 0: No Relation.
+police,-not aligned-,NOALI,0,0, 0: No Relation.
+kills,kills,EQUI,5,4, 4: Completely Equivalent.
+eight,4,SIMI,3,0, 0: No Relation.
+wounds,-not aligned-,NOALI,0,0, 0: No Relation.
+Twelve,11,SIMI,4,1, 1: Slightly Related.
+on Pakistani train,in northern Pakistan,REL,2,2, 2: Related but Different
+-not aligned-,as bus,NOALI,0,0, 0: No Relation.
+-not aligned-,falls into,NOALI,0,0, 0: No Relation.
+-not aligned-,ravine,NOALI,0,0, 0: No Relation.
+in bomb blast,-not aligned-,NOALI,0,0, 0: No Relation.
+killed,killed,EQUI,5,4, 4: Completely Equivalent.
+41,35,SIMI,4,2, 2: Related but Different
+wounded,wounded,EQUI,5,5, 5: Completely Equivalent.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+killed,killed,EQUI,5,4, 4: Completely Equivalent.
+in violent attacks,in wave of attacks,SPE1,4,2, 2: Related but Different.
+22,138,SIMI,2,2, LABEL=2: Related but Different.
+in Iraq,in Iraq,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+advances,advances,EQUI,5,5, 5: Completely Equivalent.
+against USD,against USD,EQUI,5,5, 5: Completely Equivalent.
+Tuesday,Wednesday,SIMI,3,0, 0: No Relation.
+China yuan,China yuan,EQUI,5,5, 5: Completely Equivalent.
+to 6.2035,to 6.1408,SIMI,4,1, 1: Slightly Related.
+-not aligned-,slightly,NOALI,0,1, 1: Slightly Related.
+final vote count,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,with his new job,NOALI,0,0, 0: No Relation.
+-not aligned-,to grips,NOALI,0,0, 0: No Relation.
+-not aligned-,gets,NOALI,0,0, 0: No Relation.
+on his bike,-not aligned-,NOALI,0,0, 0: No Relation.
+awaiting,-not aligned-,NOALI,0,0, 0: No Relation.
+New Australian PM Tony Abbott,Australian PM-elect Tony Abbott,EQUI,5,2, 2: Related but Different
+Amazon,Amazon,EQUI,5,5, 5: Completely Equivalent.
+new device for streaming video,new Fire TV streaming video box,SPE2,4,2, 2: Related but Different
+launches,unveils,EQUI,5,1, 1: Slightly Related.
+Glasgow Helicopter Crash Search,Glasgow Helicopter Crash,REL,4,3, 3: Some Similarity.
+-not aligned-,Woman PC,NOALI,0,0, 0: No Relation.
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+-not aligned-,Is,NOALI,0,0, 0: No Relation.
+Ends,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,Victim,NOALI,0,0, 0: No Relation.
+evacuated,evacuated,EQUI,5,5, 5: Completely Equivalent.
+Thousands,Thousands,EQUI,5,4, 4: Completely Equivalent.
+in Moscow metro fire,after fire breaks out in Moscow Metro,EQUI,5,2, 2: Related but Different
+for mass march,for mass rally,EQUI,5,2, 2: Related but Different
+against polls,-not aligned-,NOALI,0,0, 0: No Relation.
+Bangladesh opposition,Bangladesh opposition,EQUI,5,5, 5: Completely Equivalent.
+set,set,EQUI,5,3, 3: Some Similarity.
+still,still,EQUI,4,4, 4: Completely Equivalent.
+-not aligned-,Hunt,NOALI,0,0, 0: No Relation.
+40 missing,for 40 missing,EQUI,5,1, 1: Slightly Related.
+-not aligned-,on,NOALI,0,0, 0: No Relation.
+in Canadian train wreck,in Canada train blaze,SPE2,4,2, 2: Related but Different
+-not aligned-,in hospital,NOALI,0,0, 0: No Relation.
+Pat Rice,Arsenal great Rice,EQUI,5,2, 2: Related but Different
+Arsenal stars,Arsenal great Rice,REL,4,1, 1: Slightly Related.
+'s fight,-not aligned-,NOALI,0,0, 0: No Relation.
+in support,-not aligned-,NOALI,0,0, 0: No Relation.
+against cancer,with cancer,EQUI,5,1, 1: Slightly Related.
+to wear,-not aligned-,NOALI,0,0, 0: No Relation.
+T-shirts,-not aligned-,NOALI,0,0, 0: No Relation.
+poised,-not aligned-,NOALI,0,0, 0: No Relation.
+strike,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,too slick,NOALI,0,0, 0: No Relation.
+Colombia,Colombia,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,for Greece,NOALI,0,0, 0: No Relation.
+three times,-not aligned-,NOALI,0,0, 0: No Relation.
+Polar bear DNA,Polar bear study,SIMI,4,2, 2: Related but Different
+may help,may boost,EQUI,5,1, 1: Slightly Related.
+fight,fight,EQUI,5,5, 5: Completely Equivalent.
+obesity,against obesity,EQUI,5,3, 3: Some Similarity.
+',-not aligned-,NOALI,0,0, 0: No Relation.
+',-not aligned-,NOALI,0,0, 0: No Relation.
+Fire in Russian psychiatric hospital,in Russian psychiatric hospital fire,EQUI,5,2, 2: Related but Different
+38,38,EQUI,5,5, 5: Completely Equivalent.
+kills,feared dead,SPE1,4,1, 1: Slightly Related.
+in west China,Italy,SIMI,2,0, 0: No Relation.
+opened,-not aligned-,NOALI,0,0, 0: No Relation.
+World,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,'s centre-left splinters,NOALI,0,0, 0: No Relation.
+'s largest building,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,in presidential vote,NOALI,0,0, 0: No Relation.
+-not aligned-,raze,NOALI,0,0, 0: No Relation.
+not to release,-not aligned-,NOALI,0,0, 0: No Relation.
+Israel,Israeli authorities,REL,4,2, 2: Related but Different
+-not aligned-,in Arraba,NOALI,0,0, 0: No Relation.
+Palestinian prisoners,Palestinian home,REL,2,1, 1: Slightly Related.
+"100,000",-not aligned-,NOALI,0,0, 0: No Relation.
+Volcano erupts,Volcanic eruption,EQUI,5,4, 4: Completely Equivalent.
+evacuated,-not aligned-,NOALI,0,0, 0: No Relation.
+-,-not aligned-,NOALI,0,0, 0: No Relation.
+closed,closes,EQUI,5,1, 1: Slightly Related.
+in Indonesia,-not aligned-,NOALI,0,0, 0: No Relation.
+and,-not aligned-,NOALI,0,0, 0: No Relation.
+airports,3 airports,SPE2,4,1, 1: Slightly Related.
+Search,Search,EQUI,5,4, 4: Completely Equivalent.
+for Malaysia jet,for Missing Malaysian Jet,SPE2,4,2, 2: Related but Different
+resumes,Resumes,EQUI,5,1, 1: Slightly Related
+to 6.1651,to 6.1696,SIMI,4,2, 2: Related but Different
+China yuan,China yuan,EQUI,5,5, 5: Completely Equivalent.
+Tuesday,Thursday,SIMI,3,0, 0: No Relation.
+weakens,strengthens,OPPO,4,0, 0: No Relation.
+against USD,against USD,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,Embark,NOALI,0,0, 0: No Relation.
+in prayer and song,of ' Prayer and Reflection ',SIMI,4,2, 2: Related but Different
+unites,-not aligned-,NOALI,0,0, 0: No Relation.
+South Africa,South Africans,EQUI,5,3, 3: Some Similarity.
+-not aligned-,on Day,NOALI,0,0, 0: No Relation.
+for Mandela,for Mandela,EQUI,5,5," 5: Completely Equivalent. (Both chunks contain the same name, ""Mandela"", and neither provides additional context or information that would change the meaning.)"
+-not aligned-,Royal visit,NOALI,0,0, 0: No Relation.
+Australian parliament video,Parliament in Canberra tour,REL,2,1, 1: Slightly Related.
+addresses,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+-not aligned-,visit,NOALI,0,0, 0: No Relation.
+Prince William,Prince William and Catherine,SPE1,4,2, 2: Related but Different
+charged,charged,EQUI,5,4, 4: Completely Equivalent.
+in 2007 Bhutto assassination,in Bhutto death,SPE1,4,3, 3: Some Similarity
+Fromer Pakistani army chief Musharraf,Former Pakistan army chief,SPE1,4,2, 2: Related but Different.
+5 Dead,Death toll 42,SIMI,2,1, 1: Slightly Related
+in India Building Collapse,in India building collapse,EQUI,5,2, 2: Related but Different
+-not aligned-,hits,NOALI,0,0, 0: No Relation.
+Launches,launches,EQUI,5,1, 1: Slightly Related
+Egypt,Egypt,EQUI,5,5, 5: Completely Equivalent.
+Offensive,offensive,EQUI,5,2, 2: Related but Different
+Against Sinai Militants,against Sinai insurgents,SIMI,4,2, 2: Related but Different
+warns,-not aligned-,NOALI,0,0, 0: No Relation.
+of ' heavy price ',-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,over arming,NOALI,0,0, 0: No Relation.
+Syrian rebels,Syrian rebels,EQUI,5,5, 5: Completely Equivalent.
+for backing,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,at war,NOALI,0,0, 0: No Relation.
+Assad,Cabinet,REL,4,1," 1: Slightly Related. The two chunks, ""Assad"" and ""Cabinet,"" are not directly related, but in a political context, the head of a state, such as Assad, may appoint or oversee a cabinet. Therefore, there is a slight connection."
+Turkey,-not aligned-,NOALI,0,0, 0: No Relation.
+from Jan 20,Jan 20,EQUI,5,4, 4: Completely Equivalent.
+on Iran nuclear drive,Iran nuclear drive,EQUI,5,3, 3: Some Similarity.
+Deal,Deal,EQUI,5,4, 4: Completely Equivalent.
+-not aligned-,curbing,NOALI,0,0, 0: No Relation.
+-not aligned-,to take effect,NOALI,0,0, 0: No Relation.
+after protest,-not aligned-,NOALI,0,0, 0: No Relation.
+against Nigel Farage,Kerry,SIMI,2,1," 1: Slightly Related. The two chunks mention different individuals (Nigel Farage and Kerry), but they are both associated with a political context. However, there is no direct connection or similarity between them."
+made,-not aligned-,NOALI,0,0, 0: No Relation.
+Two arrests,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,after latest intensive Mideast trip,NOALI,0,0, 0: No Relation.
+-not aligned-,vows,NOALI,0,0, 0: No Relation.
+-not aligned-,progress,NOALI,0,0, 0: No Relation.
+dies,dies,EQUI,5,5, 5: Completely Equivalent.
+at 94,at 94,EQUI,5,5," 5: Completely Equivalent. (Both chunks refer to the same position in the text, which is the 94th line.)"
+Nobel author Doris Lessing,Nobel laureate Doris Lessing,EQUI,5,4, 4: Completely Equivalent.
+after teen shot,after shooting,SPE1,4,2, 2: Related but Different
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+held,arrested,EQUI,5,1, 1: Slightly Related.
+Man,Man,EQUI,5,5, 5: Completely Equivalent.
+in Belfast,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,40,NOALI,0,0, LABEL=0: No Relation.
+Iran,Iran,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,of diplomat,NOALI,0,0, 0: No Relation.
+ups,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,rapid release,NOALI,0,0, 0: No Relation.
+oil swap,-not aligned-,NOALI,0,0, 0: No Relation.
+with eastern neighbors,-not aligned-,NOALI,0,1, 1: Slightly Related.
+-not aligned-,urges,NOALI,0,0, 0: No Relation.
+in Bhutto Assassination,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,for first time,NOALI,0,0, 0: No Relation.
+Pakistan,Pakistan,EQUI,5,5, 5: Completely Equivalent.
+'s Musharraf,'s Musharraf,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,arrives,NOALI,0,0, 0: No Relation.
+Under Arrest,at court,REL,4,2, 2: Related but Different
+Baby Girl,Baby Girl,EQUI,5,5, 5: Completely Equivalent.
+Pit Bull Dog,Dog,SPE1,4,1, 1: Slightly Related.
+In Blackburn,In Blackburn,EQUI,5,5, 5: Completely Equivalent.
+Kills,Mauls To Death,EQUI,5,2, 2: Related but Different
+-not aligned-,Keita,NOALI,0,0, 0: No Relation.
+stop,-not aligned-,NOALI,0,0, 0: No Relation.
+Police,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,Wins,NOALI,0,0, 0: No Relation.
+Maldives presidential election,Mali Presidential Election,SIMI,2,1, 1: Slightly Related.
+-,-not aligned-,NOALI,0,0, 0: No Relation.
+10 Things,10 Things,EQUI,5,3," 3: Some Similarity. Both chunks are lists of ten items, but the specific items in each list may not be the same, indicating some similarity but not complete equivalence."
+Today,for Tuesday,SPE2,3,1, 1: Slightly Related.
+to Know,to Know,EQUI,5,5, 5: Completely Equivalent.
+one man,eleven,SPE1,2,0, 0: No Relation.
+'s Hama,-not aligned-,NOALI,0,0, 0: No Relation.
+kills,kills,EQUI,5,5, 5: Completely Equivalent.
+Air strike,US drone strike,SPE2,4,2, 2: Related but Different
+in Syria,in Pakistan,SIMI,3,0, 0: No Relation.
+-not aligned-,',NOALI,0,0, 0: No Relation.
+in San Francisco plane crash,in San Francisco plane crash,EQUI,5,5, 5: Completely Equivalent.
+',-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,were,NOALI,0,0, 0: No Relation.
+-not aligned-,',NOALI,0,0, 0: No Relation.
+-not aligned-,Chinese,NOALI,0,0, 0: No Relation.
+-not aligned-,Two,NOALI,0,0, 0: No Relation.
+One unaccounted for,killed,SPE2,3,0, 0: No Relation.
+',-not aligned-,NOALI,0,0, 0: No Relation.
+Japan,Japan,EQUI,5,5, 5: Completely Equivalent.
+to respect,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,to maintain,NOALI,0,0, 0: No Relation.
+China,China,EQUI,5,5, 5: Completely Equivalent.
+regional security concerns,regional peace,SIMI,4,2, 2: Related but Different
+urges,urges,EQUI,5,3, 3: Some Similarity.
+2 Palestinian Militants,Palestinian militant,SPE1,4,2, 2: Related but Different
+-not aligned-,in raid,NOALI,0,0, 0: No Relation.
+Kill,kills,EQUI,5,1, 1: Slightly Related.
+Israel Forces,Israeli army,EQUI,5,3, 3: Some Similarity.
+-not aligned-,nears,NOALI,0,0, 0: No Relation.
+amid growing unrest,more violence,REL,4,1, 1: Slightly Related.
+-not aligned-,faces,NOALI,0,0, 0: No Relation.
+-not aligned-,end,NOALI,0,0, 0: No Relation.
+-not aligned-,as ultimatum,NOALI,0,0, 0: No Relation.
+Ukraine talks,Ukraine,REL,3,1, 1: Slightly Related.
+continue,-not aligned-,NOALI,0,0, Label=0: No Relation.
+in Cairo,in Cairo,EQUI,5,4, 4: Completely Equivalent.
+tear gas,tear gas,EQUI,5,5, 5: Completely Equivalent.
+fire,fire,EQUI,5,5, 5: Completely Equivalent.
+at protesters,at protesters,EQUI,5,4, 4: Completely Equivalent.
+Egyptian police,Police,SPE1,4,1, 1: Slightly Related.
+set,set,EQUI,5,3, 3: Some Similarity.
+for democracy march,for huge democracy rally,SPE2,4,2, 2: Related but Different
+Hong Kong,Hong Kong,EQUI,5,5, 5: Completely Equivalent.
+"6,000 Cuban doctors","4,000 Cuban doctors",SIMI,3,2, 2: Related but Different
+to hire,hires,EQUI,5,2, 2: Related but Different.
+in talks,-not aligned-,NOALI,0,0, 0: No Relation.
+Brazil,Brazil,EQUI,5,5, 5: Completely Equivalent.
+Kills,Death toll,REL,4,1, 1: Slightly Related.
+38,to 39,SIMI,4,3, 3: Some Similarity.
+Southern Italy Coach Crash,in Italy coach crash,SPE1,4,2, 2: Related but Different
+-not aligned-,rises,NOALI,0,0, 0: No Relation.
+Yemen officials,-not aligned-,NOALI,0,0, 0: No Relation.
+US drone,Yemen drone strike,SIMI,3,2, 2: Related but Different
+:,-not aligned-,NOALI,0,0, 0: No Relation.
+2 militants,militants,SPE1,4,3, 3: Some Similarity.
+kills,kills,EQUI,5,4, 4: Completely Equivalent.
+injured,injured,EQUI,5,5, 5: Completely Equivalent.
+in multiple bus crash in Germany,in Germany bus crash,SPE1,4,2, 2: Related but Different
+-not aligned-,and,NOALI,0,0, 0: No Relation.
+Nine,Several,SPE1,3,1, 1: Slightly Related.
+more than 40,scores,SPE1,3,1," 1: Slightly Related. Both chunks (more than 40 and scores) are related in the sense that they can be associated with numerical values, but the contexts are different. Chunk 1 seems to refer to a quantity greater than 40, while Chunk 2 likely refers to evaluations or ratings given as scores."
+killed,killed,EQUI,5,4, 4: Completely Equivalent.
+election for 7 September,Sept. 7 poll,EQUI,5,2, 2: Related but Different
+Australian PM Kevin Rudd,Australian PM Rudd,EQUI,5,3, 3: Some Similarity.
+calls,calls,EQUI,5,4, 4: Completely Equivalent.
+in Cairo,Egypt,REL,4,2, 2: Related but Different
+with youth,with pro-Morsi protesters,SPE2,3,1," 1: Slightly Related. The two chunks are related in the sense that they both involve groups of people (youth and pro-Morsi protesters), but the context and specific focus are different."
+clash,clash,EQUI,5,3, 3: Some Similarity.
+after anti-Morsi protest,-not aligned-,NOALI,0,0, 0: No Relation.
+Police,Police,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+Issues,issues,EQUI,5,3, 3: Some Similarity.
+Over Al Qaeda Threat,citing Qaeda threats,EQUI,5,2, 2: Related but Different
+Travel Alert,global alert,SPE1,4,1, 1: Slightly Related
+US,US,EQUI,5,5, 5: Completely Equivalent.
+Ships,-not aligned-,NOALI,0,0, 0: No Relation.
+for Syrian Chemical Weapons Transport,Syrian Chemical Weapons Resolution,REL,4,2, 2: Related but Different
+-not aligned-,UN,NOALI,0,0, 0: No Relation.
+-not aligned-,Adopts,NOALI,0,0, 0: No Relation.
+Train,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,US tourist,NOALI,0,0, 0: No Relation.
+-not aligned-,gang-raped,NOALI,0,0, 0: No Relation.
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+Indian flood rescue,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,Police,NOALI,0,0, 0: No Relation.
+-not aligned-,in northern India,NOALI,0,0, 0: No Relation.
+hampers,-not aligned-,NOALI,0,0, 0: No Relation.
+More rain,-not aligned-,NOALI,0,0, 0: No Relation.
+edge,close,SPE2,4,1, 1: Slightly Related.
+Aust shares,Aust shares,EQUI,5,5, 5: Completely Equivalent.
+higher,higher,EQUI,5,3, 3: Some Similarity.
+-not aligned-,Syrian rebels,NOALI,0,0, 0: No Relation.
+of Syria chemical weapons,of chemical weapons deal,REL,4,2, 2: Related but Different
+"US , Russia",-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,skeptical,NOALI,0,0, 0: No Relation.
+seizure,-not aligned-,NOALI,0,0, 0: No Relation.
+agree on,-not aligned-,NOALI,0,0, 0: No Relation.
+' Fast undamp ; Furious ' star Paul Walker,Paul Walker Fast and Furious star,EQUI,5,3, 3: Some Similarity.
+dies,killed,EQUI,5,2, 2: Related but Different
+in car crash,in car crash,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+-not aligned-,dead,NOALI,0,0, 0: No Relation.
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+-not aligned-,40,NOALI,0,0, LABEL=0: No Relation.
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+unchanged,at 0.5%,SPE2,3,1," Label=1: Slightly Related.
+
+Explanation: Chunk 1 refers to an unchanged state, while Chunk 2 mentions a change at 0.5%. Although the concepts are not the same, they are related in the sense that one refers to no change, and the other refers to a minimal change."
+keeps,keeps,EQUI,5,5, 5: Completely Equivalent.
+European Central Bank,European Central bank,EQUI,5,3, 3: Some Similarity.
+rates,interest rate,SPE2,4,2, 2: Related but Different.
+10,Five,SIMI,2,1, 1: Slightly Related.
+in Philippine political violence,-not aligned-,NOALI,0,0, 0: No Relation.
+Gunmen,-not aligned-,NOALI,0,0, 0: No Relation.
+kill,killed,EQUI,5,1, 1: Slightly Related.
+-not aligned-,in Philippines volcano eruption,NOALI,0,0, 0: No Relation.
+in Iraq mosque bombing,in Iraq mosque bombing,EQUI,5,5, 5: Completely Equivalent.
+77,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,At least,NOALI,0,0, 0: No Relation.
+wounded,-not aligned-,NOALI,0,0, 0: No Relation.
+24,18,SIMI,3,1, 1: Slightly Related.
+killed,killed,EQUI,5,4, 4: Completely Equivalent.
+-not aligned-,rises,NOALI,0,0, 0: No Relation.
+as Kenya mall standoff,as Kenya mall siege,EQUI,5,2, 2: Related but Different
+Islamists,-not aligned-,NOALI,0,0, 0: No Relation.
+some 30 hostages,Death toll,REL,2,0, 0: No Relation.
+still,-not aligned-,NOALI,0,0, 0: No Relation.
+continues,continues,EQUI,5,2," To provide an accurate assessment, I would need the specific chunks of text to evaluate. Once you provide the text, I can help you determine the degree of similarity between the two. Please note that the label will be chosen from the scale provided. For example:
+
+Label: 2: Related but Different.
+
+If you need help understanding the scale, here's a brief explanation:
+
+0: No Relation.
+1: Slightly Related.
+2: Related but Different.
+3: Some Similarity.
+4: Strong Similarity.
+5: Completely Equivalent.
+
+Please provide the text chunks for me to analyze."
+holding,-not aligned-,NOALI,0,0, 0: No Relation.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+Heavy smog,Heavy Smog,EQUI,5,5, 5: Completely Equivalent.
+flights,Flights,EQUI,5,1," 1: Slightly Related. (Both chunks refer to the same concept, but there is a minor difference in capitalization.)"
+north China city,North China City,EQUI,5,3, 3: Some Similarity.
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+hits,Hits,EQUI,5,1," 1: Slightly Related. (Both refer to the same concept, but one is singular and the other is plural.)"
+cancelled,Canceled,EQUI,5,1, 1: Slightly Related
+-not aligned-,tries,NOALI,0,0, 0: No Relation.
+state media,-not aligned-,NOALI,0,0, 0: No Relation.
+gets,-not aligned-,NOALI,0,0, 0: No Relation.
+therapy,-not aligned-,NOALI,0,0, 0: No Relation.
+:,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,to break,NOALI,0,0, 0: No Relation.
+-not aligned-,election stalemate,NOALI,0,0, 0: No Relation.
+after stroke,-not aligned-,NOALI,0,0, 0: No Relation.
+Algeria president,Bulgarian president,SIMI,3,0, 0: No Relation.
+says,-not aligned-,NOALI,0,0, 0: No Relation.
+Iran,Iran,EQUI,5,5, 5: Completely Equivalent.
+ready,-not aligned-,NOALI,0,0, 0: No Relation.
+for fresh round,renews support,REL,2,1, 1: Slightly Related.
+of nuclear talks,for nuclear talks,EQUI,5,2, 2: Related but Different
+-not aligned-,'s Khamenei,NOALI,0,0, 0: No Relation.
+23 Iraqi army recruits,13 Iraqi army recruits,SIMI,3,2, 2: Related but Different
+Suicide bomber,Suicide bomber,EQUI,5,5, 5: Completely Equivalent.
+kills,kills,EQUI,5,4, 4: Completely Equivalent.
+-not aligned-,in Baghdad,NOALI,0,0, 0: No Relation.
+Obama,Obama,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,To Meet,NOALI,0,0, 0: No Relation.
+nominates,-not aligned-,NOALI,0,0, 0: No Relation.
+new transportation secretary,Embattled Veterans Secretary,SIMI,2,0, 0: No Relation.
+-not aligned-,of 2013,NOALI,0,0, 0: No Relation.
+Philippines,the Philippines,EQUI,5,3, 3: Some Similarity.
+Super typhoon,Most powerful typhoon,SPE2,4,2, 2: Related but Different
+hits,hits,EQUI,5,5, 5: Completely Equivalent.
+Google,Google,EQUI,5,5, 5: Completely Equivalent.
+Nexus 5 phone,-not aligned-,NOALI,0,0, 0: No Relation.
+releases,redesigns,REL,3,1, 1: Slightly Related.
+with Kit Kat,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,on PCs,NOALI,0,0, 0: No Relation.
+-not aligned-,search results,NOALI,0,0, 0: No Relation.
+-not aligned-,on hunger strik,NOALI,0,0, 0: No Relation.
+Judge,U.S. judge,SPE2,4,1, 1: Slightly Related.
+OKs,approves,EQUI,5,1, 1: Slightly Related
+force-feeding California inmates,force-feeding Californian inmates,EQUI,5,3, 3: Some Similarity.
+charged,arrested,REL,4,1, 1: Slightly Related.
+Ride operator,N.C. State Fair ride operator,SPE2,4,2, 2: Related but Different
+in N.C. fair accident,after accident,SPE1,4,1, 1: Slightly Related.
+Doubts,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,Official,NOALI,0,0, 0: No Relation.
+"US , NATO",-not aligned-,NOALI,0,0, 0: No Relation.
+from Ukraine Border,From Ukraine Border,EQUI,5,3, 3: Some Similarity.
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+-not aligned-,Says,NOALI,0,0, 0: No Relation.
+Russia Pulled Back,of Russian Withdrawal,SIMI,4,2, 2: Related but Different
+Raise,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,No Sign,NOALI,0,0, 0: No Relation.
+gives,gives,EQUI,5,3, 3: Some Similarity.
+Early vote count in Iran,Iran vote count,SPE1,4,2, 2: Related but Different
+reformer,Rowhani,SPE2,4,1," 1: Slightly Related. (Both are names, but one is a historical political figure in Iran and the other is a term related to education reform.)"
+wide lead,wide lead,EQUI,5,3, 3: Some Similarity.
+in sea transfer,-not aligned-,NOALI,0,0, 0: No Relation.
+asylum seekers,asylum-seekers,EQUI,5,3, 3: Some Similarity.
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+returns,hands back,EQUI,5,1, 1: Slightly Related.
+to Sri Lanka,to Sri Lanka,EQUI,5,5, 5: Completely Equivalent.
+Australia,Australia,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,Australia,NOALI,0,0, 0: No Relation.
+;,-not aligned-,NOALI,0,0, 0: No Relation.
+Dead,dead,EQUI,5,3, 3: Some Similarity.
+Rage,rage,EQUI,5,3, 3: Some Similarity.
+Overnight,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,;,NOALI,0,0, 0: No Relation.
+Lebanon Clashes,Lebanon clashes,EQUI,5,3, 3: Some Similarity.
+-not aligned-,near mosque,NOALI,0,0, 0: No Relation.
+12 Soldiers,16 soldiers,SIMI,3,1, 1: Slightly Related.
+with making 9/11 threats,over 9/11 threats,EQUI,5,2, 2: Related but Different
+Los Angeles airport worker,Los Angeles airport worker,EQUI,5,5, 5: Completely Equivalent.
+charged,charged,EQUI,5,4, 4: Completely Equivalent.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+multiple,five,SPE2,3,1," LABEL=1: Slightly Related.
+
+Explanation: Both chunks are numbers, but they refer to different quantities (5 and multiple). While they are not the same, they share a common category (numbers), which is why I've labeled them as ""Slightly Related."""
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+in Miami shooting,in Myrtle Beach shootings,SPE2,3,1, 1: Slightly Related.
+2,Three,SIMI,4,1, 1: Slightly Related.
+wounded,wounded,EQUI,5,5, 5: Completely Equivalent.
+killed,killed,EQUI,5,4, 4: Completely Equivalent.
+on Indian Consulate,on Indian consulate,EQUI,5,4, 4: Completely Equivalent.
+in Attack,in attack,EQUI,5,2, 2: Related but Different
+Killed,killed,EQUI,5,2, 2: Related but Different
+in Afghanistan,in Afghan city,SPE2,4,2, 2: Related but Different
+9,12,SIMI,4,1, 1: Slightly Related.
+6 Killed,Five dead,SIMI,4,2, 2: Related but Different
+as Indonesia Volcano Erupts,in Indonesian eruption,EQUI,5,2, 2: Related but Different
+by Hot Lava,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,Friday,NOALI,0,0, 0: No Relation.
+weakens,strengthens,OPPO,4,0, 0: No Relation.
+against USD,against USD,EQUI,5,5, 5: Completely Equivalent.
+to 6.1059,to 6.1070,SIMI,4,2, 2: Related but Different
+China yuan,China yuan,EQUI,5,5, 5: Completely Equivalent.
+unity talks,at ' war,REL,2,1," 1: Slightly Related. The two chunks are not directly related, but they both imply a sense of conflict or division, with Chunk 1 suggesting unity as a counterpoint to conflict, and Chunk 2 using the metaphor of war."
+-not aligned-,Pope,NOALI,0,0, 0: No Relation.
+-not aligned-,arms,NOALI,0,0, 0: No Relation.
+Ukraine,in Syria,SIMI,3,0, 0: No Relation.
+-not aligned-,',NOALI,0,0, 0: No Relation.
+hosts,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,to sell,NOALI,0,0, 0: No Relation.
+',-not aligned-,NOALI,0,0, 0: No Relation.
+',-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,hits out,NOALI,0,0, 0: No Relation.
+for Oil Refinery,for Iraq refinery,SPE2,3,2, 2: Related but Different
+"Iraqi Forces , Militants","Iraqi forces , militants",EQUI,5,3, 3: Some Similarity.
+Battle,battle,EQUI,5,3, 3: Some Similarity.
+',-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,of care delays,NOALI,0,0, 0: No Relation.
+over halal meat,-not aligned-,NOALI,0,0, 0: No Relation.
+no concerns,-not aligned-,NOALI,0,0, 0: No Relation.
+Cameron,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,cover-up,NOALI,0,0, 0: No Relation.
+-not aligned-,Veterans health probe,NOALI,0,0, 0: No Relation.
+-not aligned-,confirms,NOALI,0,1, 1: Slightly Related.
+has,-not aligned-,NOALI,0,0, 0: No Relation.
+',-not aligned-,NOALI,0,0, 0: No Relation.
+nears,-not aligned-,NOALI,0,0, 0: No Relation.
+arrested,arrested,EQUI,5,5, 5: Completely Equivalent.
+Bangladesh factory owners,Bangladesh factory owners,EQUI,5,5, 5: Completely Equivalent.
+as death toll,-not aligned-,NOALI,0,0, 0: No Relation.
+350,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,on Wednesday,NOALI,0,0, 0: No Relation.
+to press,-not aligned-,NOALI,0,0, 0: No Relation.
+how,-not aligned-,NOALI,0,0, 0: No Relation.
+EU foreign ministers,EU foreign ministers,EQUI,5,5, 5: Completely Equivalent.
+Egypt,Egypt,EQUI,5,5, 5: Completely Equivalent.
+to discuss,to discuss,EQUI,5,4, 4: Completely Equivalent.
+over bloodshed,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+-not aligned-,Dig in,NOALI,0,0, 0: No Relation.
+-not aligned-,and,NOALI,0,0, 0: No Relation.
+crackdown threat,-not aligned-,NOALI,0,0, 0: No Relation.
+Cairo protesters,In Cairo Camps Protesters,EQUI,5,2, 2: Related but Different
+defy,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,Live On,NOALI,0,0, 0: No Relation.
+in drone strike,-not aligned-,NOALI,0,0, 0: No Relation.
+killed,killed,EQUI,5,4, 4: Completely Equivalent.
+Six,12,SIMI,3,0, 0: No Relation.
+in N Waziristan,in Pakistan,SPE1,4,1," 1: Slightly Related. Both chunks refer to geographical locations, but Chunk 1 is more specific to a region within Pakistan."
+-not aligned-,in bus accident,NOALI,0,0, 0: No Relation.
+-not aligned-,warship,NOALI,0,0, 0: No Relation.
+launches,-not aligned-,NOALI,0,0, 0: No Relation.
+UN,UK,REL,4,0, 0: No Relation.
+US$300 mil. appeal,to aid,SPE1,3,1," 1: Slightly Related. The first chunk (US$300 mil. appeal) suggests a monetary amount, while the second chunk (to aid) implies assistance or help, but there is no direct connection in meaning or structure between the two."
+for Philippines,Philippines,EQUI,5,3, 3: Some Similarity.
+-not aligned-,sends,NOALI,0,0, 0: No Relation.
+N Korea,North Korea,EQUI,5,4, 4: Completely Equivalent.
+family reunions,Family Reunions,EQUI,5,3, 3: Some Similarity.
+postpones,Postpones,EQUI,5,2, 2: Related but Different
+with South,with South,EQUI,5,4, 4: Completely Equivalent.
+hails,-not aligned-,NOALI,0,0, 0: No Relation.
+N. Korea,North Korea,EQUI,5,4, 4: Completely Equivalent.
+of powerful uncle,of powerful uncle,EQUI,5,5, 5: Completely Equivalent.
+execution,behind sacking,SIMI,2,1," 1: Slightly Related. The two chunks are not directly related, but they both contain words related to actions or events (execution, sacking). However, the context and meaning are different."
+-not aligned-,seen,NOALI,0,0, 0: No Relation.
+'s Kim,'s Kim,EQUI,5,3, 3: Some Similarity.
+sentenced,sentenced,EQUI,5,1," To evaluate the alignment of the two provided chunks of text, let's first present the chunks:
+
+Chunk 1: The cat is chasing the mouse.
+Chunk 2: The mouse is being pursued by the cat.
+
+After comparing the two sentences, we can observe that they have the same meaning, just presented from different perspectives. Therefore, the label would be:
+
+Label=4: Completely Equivalent."
+to death,to death,EQUI,5,5, 5: Completely Equivalent.
+married,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,frees,NOALI,0,0, 0: No Relation.
+a Christian man,-not aligned-,NOALI,0,0, 0: No Relation.
+for ' apostasy ',for apostasy,EQUI,5,3, 3: Some Similarity.
+Pregnant Sudan woman,Christian woman,SIMI,3,1, 1: Slightly Related.
+-not aligned-,Sudan,NOALI,0,0, 0: No Relation.
+who,Christian woman,SIMI,3,1, 1: Slightly Related.
+for help,to Act,SIMI,3,1, 1: Slightly Related.
+-not aligned-,Kerry,NOALI,0,0, 0: No Relation.
+Libya,-not aligned-,NOALI,0,0, 0: No Relation.
+UN Security Council,UN Security Council,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,on Syria,NOALI,0,0, 0: No Relation.
+asks,Calls On,SIMI,3,1, 1: Slightly Related.
+from Baghdad bombs,from Egypt clashes,SIMI,2,0, 0: No Relation.
+to 19,to 57,SIMI,2,1," LABEL=1: Slightly Related.
+
+Explanation:
+
+Chunk 1: ""In the early 1900s, a man named Thomas Edison was working on a new invention. He was trying to find a way to make a practical electric light bulb. After years of experimentation, he finally succeeded in 1879.""
+
+Chunk 2: ""Thomas Alva Edison was an American inventor and businessman, best known as the inventor of the practical electric light bulb. He developed many devices in fields such as electric power generation, mass communication, sound recording, and motion pictures.""
+
+Both chunks are about Thomas Edison and his invention of the practical electric light bulb. However, Chunk 1 focuses on the process and timeline of his invention, while Chunk 2 provides a broader overview of Edison's inventions and achievements. Therefore, they are slightly related but not identical in structure or detail."
+rises,rises,EQUI,5,5, 5: Completely Equivalent.
+Death toll,Death toll,EQUI,5,4, 4: Completely Equivalent.
+in Syria,on Syria,EQUI,5,2, 2: Related but Different
+Says,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,EU,NOALI,0,0, 0: No Relation.
+-not aligned-,united,NOALI,0,0, 0: No Relation.
+',-not aligned-,NOALI,0,0, 0: No Relation.
+Responsibilities,-not aligned-,NOALI,0,0, 0: No Relation.
+France,France,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,to be,NOALI,0,0, 0: No Relation.
+Won't ' Shirk,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,urges,NOALI,0,0, 0: No Relation.
+Boeing 777 plane,Plane,SPE1,4,1, 1: Slightly Related.
+crash-lands,crash lands,EQUI,5,5, 5: Completely Equivalent.
+at San Francisco airport,at San Francisco airport,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,of Crimea,NOALI,0,0, 0: No Relation.
+EU,-not aligned-,NOALI,0,0, 0: No Relation.
+urges,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,the de-facto annexation,NOALI,0,0, 0: No Relation.
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+on Crimea,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,This,NOALI,0,0, 0: No Relation.
+strong action,-not aligned-,NOALI,0,0, 0: No Relation.
+to take,-not aligned-,NOALI,0,0, 0: No Relation.
+Tymoshenko,Ukraine crisis,REL,4,0, 0: No Relation.
+-not aligned-,is,NOALI,0,0, 0: No Relation.
+for new show,on stage,REL,4,1, 1: Slightly Related.
+to reunite,to reunite,EQUI,5,5, 5: Completely Equivalent.
+Monty Python,Monty Python,EQUI,5,5, 5: Completely Equivalent.
+turns,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,At least,NOALI,0,0, 0: No Relation.
+Record-setting Southwest heat wave,in Southwest heat wave,SPE1,4,1, 1: Slightly Related.
+fatal,"1 dead , 40 hospitalized",REL,3,2, 2: Related but Different
+at S Carolina oceanfront motel,-not aligned-,NOALI,0,0, 0: No Relation.
+hurt,injured,EQUI,5,3, 3: Some Similarity.
+in shooting,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,in train collision,NOALI,0,0, 0: No Relation.
+1,30,SIMI,2,1, 1: Slightly Related.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,near Moscow,NOALI,0,0, 0: No Relation.
+3 dead,4 dead,SIMI,4,1, 1: Slightly Related.
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+Nigerian leader,-not aligned-,NOALI,0,0, 0: No Relation.
+to free,to free,EQUI,5,5, 5: Completely Equivalent.
+orders,mounts,SIMI,2,1," 1: Slightly Related. Both chunks involve verbs related to arranging or placing things, but they are not typically used in the same contexts (ordering refers to a sequence of actions or items, while mounting refers to attaching something to a surface)."
+push,Pressure,SIMI,3,1, 1: Slightly Related.
+abducted schoolgirls,kidnapped girls,SPE1,4,3, 3: Some Similarity.
+religious motive,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,in hospital bed,NOALI,0,0, 0: No Relation.
+seen,-not aligned-,NOALI,0,0, 0: No Relation.
+charged,charged,EQUI,5,4, 4: Completely Equivalent.
+;,-not aligned-,NOALI,0,0, 0: No Relation.
+Boston bomb suspect,Boston bombing suspect,EQUI,5,3, 3: Some Similarity
+Scores,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,Turkey,NOALI,0,0, 0: No Relation.
+-not aligned-,'s PM,NOALI,0,0, 0: No Relation.
+-not aligned-,Warns Against,NOALI,0,0, 0: No Relation.
+Killed,-not aligned-,NOALI,0,0, 0: No Relation.
+In Egyptian Protests,Protests,SPE1,4,1," 1: Slightly Related. Both chunks refer to protests, but Chunk 1 specifies that the protests are in Egypt, which is not mentioned in Chunk 2."
+higher,higher,EQUI,5,3, 3: Some Similarity.
+0.56 pct,0.5 pct,SIMI,4,1, 1: Slightly Related
+Taiwan stocks,Singapore stocks,SIMI,3,0, 0: No Relation.
+close,close,EQUI,5,3, 3: Some Similarity.
+Cypriot Finance Minister Michalis Sarris,Cyprus finance minister,SPE1,4,2, 2: Related but Different
+resigns,resigns,EQUI,5,5, 5: Completely Equivalent.
+25 policemen,25 policemen,EQUI,5,5, 5: Completely Equivalent.
+deepens,deepens,EQUI,5,5, 5: Completely Equivalent.
+militants,as Sinai attack,SPE2,3,1," 1: Slightly Related. The first chunk refers to militants in general, while the second chunk refers to an attack in Sinai, but there is a connection as militants could potentially be involved in an attack. However, the two are not directly equivalent or identical in meaning."
+;,-not aligned-,NOALI,0,0, 0: No Relation.
+kill,kills,EQUI,5,1, 1: Slightly Related.
+Egypt turmoil,Egypt 's turmoil,EQUI,5,3, 3: Some Similarity.
+said,accused,SIMI,3,1, 1: Slightly Related.
+to pay off,of bribing,EQUI,5,1," 1: Slightly Related. Both chunks involve the concept of giving something in exchange, but Chunk 1 refers to paying a debt or obligation, while Chunk 2 specifically refers to bribing, which implies an illegal or unethical exchange."
+' bunga bunga ' witnesses,witnesses in prostitution trial,SIMI,4,1," 1: Slightly Related. The two chunks are related in the sense that they both involve witnesses, but the context is different. Chunk 1 refers to 'bunga bunga' witnesses, which is a term often associated with political scandals, while Chunk 2 refers to witnesses in a prostitution trial."
+Berlusconi,Berlusconi,EQUI,5,5, 5: Completely Equivalent.
+finally,-not aligned-,NOALI,0,0, 0: No Relation.
+for Apple,In A Multi-Platform World,REL,3,1," 1: Slightly Related. The two chunks do not have a direct connection in meaning, but they could be related in a broader context, such as discussing technology or business strategies in a multi-platform environment, where Apple is one of the key players."
+unveils,-not aligned-,NOALI,0,0, 0: No Relation.
+Microsoft Office,Microsoft And Office,EQUI,5,2, 2: Related but Different
+'s iPad,-not aligned-,NOALI,0,0, 0: No Relation.
+Glee star Cory Monteith,' Glee ' star Cory Monteith,EQUI,5,3, 3: Some Similarity
+dead,dead,EQUI,5,5, 5: Completely Equivalent.
+in hotel room,-not aligned-,NOALI,0,0, 0: No Relation.
+found,found,EQUI,5,3, 3: Some Similarity.
+in Canada,-not aligned-,NOALI,0,0, 0: No Relation.
+praises,-not aligned-,NOALI,0,0, 0: No Relation.
+to render,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,detains,NOALI,0,0, 0: No Relation.
+to Ukraine,-not aligned-,NOALI,0,0, 0: No Relation.
+Russia,Russia,EQUI,5,5, 5: Completely Equivalent.
+idea,-not aligned-,NOALI,0,0, 0: No Relation.
+rights assistance,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,in Moscow raid,NOALI,0,0, 0: No Relation.
+-not aligned-,suspected Islamist militants,NOALI,0,0, 0: No Relation.
+second suspect,Brothers,SPE1,2,1, 1: Slightly Related.
+in Mother,in Mother,EQUI,5,4, 4: Completely Equivalent.
+'s Day parade shooting,'s Day parade shooting,EQUI,5,5, 5: Completely Equivalent.
+arrest,arrested,EQUI,5,3, 3: Some Similarity.
+New Orleans police,-not aligned-,NOALI,0,0, 0: No Relation.
+revolution,Muslim Brotherhood,REL,4,1," 1: Slightly Related. The Revolution could refer to various events, but the Muslim Brotherhood is a political organization primarily based in Egypt, which has been involved in political revolutions. However, the two concepts are not directly related in the provided context."
+swamp,storm,SIMI,2,1, 1: Slightly Related.
+to reclaim,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,'s HQ,NOALI,0,0, 0: No Relation.
+-not aligned-,Egypt,NOALI,0,0, 0: No Relation.
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+streets,-not aligned-,NOALI,0,0, 0: No Relation.
+Protesters,Protesters,EQUI,5,5, 5: Completely Equivalent.
+end,open,OPPO,4,0, 0: No Relation.
+higher,higher,EQUI,5,3, 3: Some Similarity.
+Hong Kong stocks,Indian stocks,SIMI,3,1, 1: Slightly Related.
+takes,took,SIMI,4,1, 1: Slightly Related.
+Poll,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,cocaine,NOALI,0,0, 0: No Relation.
+-not aligned-,',NOALI,0,0, 0: No Relation.
+-not aligned-,',NOALI,0,0, 0: No Relation.
+Cory Booker,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,every day,NOALI,0,0, 0: No Relation.
+:,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,for a decade,NOALI,0,0, 0: No Relation.
+-not aligned-,Nigella Lawson,NOALI,0,0, 0: No Relation.
+for N.J. Senate,-not aligned-,NOALI,0,0, 0: No Relation.
+early lead,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,',NOALI,0,0, 0: No Relation.
+Malaysian jet,jet,SPE1,4,1, 1: Slightly Related.
+Rebels,Rebels,EQUI,5,5, 5: Completely Equivalent.
+by mistake,by mistake,EQUI,5,4, 4: Completely Equivalent.
+',-not aligned-,NOALI,0,0, 0: No Relation.
+downed,downed,EQUI,5,5, 5: Completely Equivalent.
+',-not aligned-,NOALI,0,0, 0: No Relation.
+U.S. officials,-not aligned-,NOALI,0,0, 0: No Relation.
+likely,likely,EQUI,5,3, 3: Some Similarity.
+-,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,',NOALI,0,0, 0: No Relation.
+38,31,SIMI,4,2, 2: Related but Different
+"of bombings , shootings","of car bombs , other attacks",SPE2,3,2, 2: Related but Different
+Wave,Wave,EQUI,5,5, 5: Completely Equivalent.
+kill,kill,EQUI,5,5, 5: Completely Equivalent.
+in Iraq,in Iraq,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,Prime time,NOALI,0,0, 0: No Relation.
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+on Syria,on Syria,EQUI,5,4," 4: Strong Similarity. Both chunks are about the same topic, Syria."
+Didier Reynders,Obama,SIMI,3,0, 0: No Relation.
+-not aligned-,'s day,NOALI,0,0, 0: No Relation.
+to know,to know,EQUI,5,4, 4: Completely Equivalent.
+Tuesday,on Friday,SIMI,3,0, 0: No Relation.
+need,need,EQUI,5,5, 5: Completely Equivalent.
+you,you,EQUI,5,3, 3: Some Similarity.
+5 things,5 things,EQUI,5,3, 3: Some Similarity.
+Mubarak 's release,Mubarak release,EQUI,5,2, 2: Related but Different
+considers,orders,REL,3,1, 1: Slightly Related.
+Egyptian court,Egypt court,EQUI,5,2, 2: Related but Different
+in Gaza,in Gaza,EQUI,5,4, 4: Completely Equivalent.
+U.N. Security Council,U.N. Security Council,EQUI,5,5, 5: Completely Equivalent.
+for humanitarian ceasefire,for Unconditional Cease-Fire,EQUI,5,2, 2: Related but Different
+calls,Calls,EQUI,5,1," 1: Slightly Related. (Both chunks use the same word, but the capitalization is different.)"
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+Pakistani Taliban chief Hakimullah Mehsud,Pakistani Taliban ' elect new chief ',SPE1,3,2, 2: Related but Different
+in drone strike,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,' unprecedented ' revenge,NOALI,0,0, 0: No Relation.
+-not aligned-,vow,NOALI,0,0, 0: No Relation.
+killed,-not aligned-,NOALI,0,0, 0: No Relation.
+Contained,contained,EQUI,5,1," 1: Slightly Related. Both chunks use the term ""contained"", but the context or specific meaning might differ."
+That,that,EQUI,5,1," 1: Slightly Related. (Both are using the same word ""that"", but in different contexts and without additional surrounding content, it's hard to determine a stronger relationship.)"
+Blaze,Arizona wildfire,SPE2,4,1, 1: Slightly Related.
+Now,now,EQUI,5,1, 1: Slightly Related
+Killed,killed,EQUI,5,2, 2: Related but Different
+19 Firefighters,19 Hotshots,SPE2,4,2, 2: Related but Different
+Canada,Canadian government,EQUI,5,2, 2: Related but Different.
+oil pipeline,controversial oil pipeline,SPE2,4,2, 2: Related but Different
+to the Pacific Coast,to Pacific,SPE1,4,2, 2: Related but Different
+approves,approves,EQUI,5,5, 5: Completely Equivalent.
+Leaves,hires,REL,4,0, 0: No Relation.
+Man United,Man United,EQUI,5,5, 5: Completely Equivalent.
+as Manager,Ferguson,SPE2,4,1," 1: Slightly Related. The two chunks mention a manager (implied in Chunk 1) and Ferguson, but they do not directly refer to the same person. There is a possibility that Ferguson could be a manager in a different context, but without further information, it's hard to establish a stronger relationship."
+Moyes,Moyes,EQUI,5,5, 5: Completely Equivalent.
+Says,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,to replace,NOALI,0,0, 0: No Relation.
+of collapse,-not aligned-,NOALI,0,0, 0: No Relation.
+Syria opposition unity,Syria divided opposition,OPPO,4,2, 2: Related but Different.
+-not aligned-,struggles,NOALI,0,0, 0: No Relation.
+face specter,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,within wider Syrian struggle,NOALI,0,0, 0: No Relation.
+take,-not aligned-,NOALI,0,0, 0: No Relation.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+at 87,at 87,EQUI,5,5," 5: Completely Equivalent. (Both chunks refer to the same position in the text, which is line 87.)"
+dead,dies,EQUI,5,1, 1: Slightly Related.
+"Margaret Thatcher , former U.K. PM",Margaret Thatcher,SPE1,4,3, 3: Some Similarity.
+extends,drops,SIMI,2,1," 1: Slightly Related. The words ""extends"" and ""drops"" have different meanings and are not structurally similar, but they could potentially be used in opposite contexts, such as ""this concept extends to other areas, but we will drop it for now."""
+EU,Nigeria,REL,3,0, 0: No Relation.
+sanctions,arms trafficking charges,SPE2,3,1, 1: Slightly Related.
+against Russia,against Russian sailors,SPE2,4,2, 2: Related but Different.
+Apr 2,Thursday,REL,3,1," 1: Slightly Related. Both refer to days of the week, but one is specified as April 2nd and the other as Thursday, which is not the same day."
+-,-not aligned-,NOALI,0,0, 0: No Relation.
+higher,lower,OPPO,4,1, 1: Slightly Related.
+open,open,EQUI,5,1," 1: Slightly Related. Both chunks are titled ""[open],"" but the content of each chunk is not provided, so it's hard to determine a stronger relationship in meaning, structure, or relevance."
+Chinese stocks,Chinese stocks,EQUI,5,5, 5: Completely Equivalent.
+Obama,Obama,EQUI,5,5, 5: Completely Equivalent.
+names,to name,EQUI,5,1, 1: Slightly Related.
+outspoken Rice,Susan Rice,EQUI,5,2, 2: Related but Different
+as his security adviser,as national security adviser,SPE2,4,3, 3: Some Similarity.
+in Aleppo,in Aleppo,EQUI,5,4, 4: Completely Equivalent.
+:,-not aligned-,NOALI,0,0, 0: No Relation.
+kills,Kill,EQUI,5,1, 1: Slightly Related
+21,15,SIMI,3,2, 2: Related but Different
+-not aligned-,at Least,NOALI,0,0, 0: No Relation.
+Syrian airstrike,New Syrian Airstrikes,SPE1,4,2, 2: Related but Different
+Activists,-not aligned-,NOALI,0,0, 0: No Relation.
+Angelina Jolie,Angelina Jolie,EQUI,5,5, 5: Completely Equivalent.
+"""",-not aligned-,NOALI,0,0, 0: No Relation.
+for support,-not aligned-,NOALI,0,0, 0: No Relation.
+after double mastectomy,double mastectomy,EQUI,5,4, 4: Completely Equivalent.
+"""",-not aligned-,NOALI,0,0, 0: No Relation.
+very grateful,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,undergoes,NOALI,0,0, 0: No Relation.
+India Ink,India Ink,EQUI,5,5, 5: Completely Equivalent.
+of the Day,of the Day,EQUI,5,3, 3: Some Similarity.
+April 21,May 2,SIMI,3,1," 1: Slightly Related. Both chunks are dates, but they are not close in terms of the month or day."
+Image,Image,EQUI,5,0," 0: No Relation. (Images do not have text or content that can be compared for meaning, structure, or relevance.)"
+:,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+:,-not aligned-,NOALI,0,0, 0: No Relation.
+in bombings and shootings,Bombings and a shooting,EQUI,5,3, 3: Some Similarity.
+-not aligned-,8,NOALI,0,0, LABEL=0: No Relation.
+Deaths,kill,EQUI,5,1, 1: Slightly Related.
+across Iraq,in Iraq,EQUI,5,2, 2: Related but Different
+nine police,eight Kurdish security forces personnel,SPE2,3,1," 1: Slightly Related. Both chunks refer to groups of people involved in security, but they are different groups (police and Kurdish security forces)."
+kills,kills,EQUI,5,4, 4: Completely Equivalent.
+in north Iraq,in Iraq,SPE1,4,1, 1: Slightly Related.
+Suicide bomber,Suicide bomber,EQUI,5,5, 5: Completely Equivalent.
+to announce,-not aligned-,NOALI,0,0, 0: No Relation.
+presidency bid,for presidential bid,EQUI,5,2, 2: Related but Different
+poised,paves way,SIMI,3,1," 1: Slightly Related. Both chunks involve a sense of direction or progress, but they are not directly related in terms of meaning or structure. Chunk 1 refers to a state of readiness or preparedness, while Chunk 2 refers to creating a path or opening a way for something."
+'s Sisi,'s Sisi,EQUI,5,5, 5: Completely Equivalent.
+Egypt,Egypt,EQUI,5,5, 5: Completely Equivalent.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+killed,killed,EQUI,5,4, 4: Completely Equivalent.
+6,six,EQUI,5,1," 1: Slightly Related. (Both refer to the number six, but the format is different in the provided chunks.)"
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+injured,injured,EQUI,5,5, 5: Completely Equivalent.
+3,Three,EQUI,5,3, 3: Some Similarity.
+in Afghan blasts,in Afghan blasts,EQUI,5,4, 4: Completely Equivalent.
+filibustering,filibusters,EQUI,5,3, 3: Some Similarity.
+still,-not aligned-,NOALI,0,0, 0: No Relation.
+Texas senator,Texas senator,EQUI,5,5, 5: Completely Equivalent.
+abortion bill,against abortion bill,EQUI,5,2, 2: Related but Different
+drops,to file,SIMI,3,0, 0: No Relation.
+against Greenpeace activists,against Greenpeace,SPE1,4,2, 2: Related but Different
+charges,piracy charges,SPE2,4,2, 2: Related but Different
+Russia,Russia,EQUI,5,5, 5: Completely Equivalent.
+in Turkey,in Kiev,REL,1,0, 0: No Relation.
+clash,clash,EQUI,5,3, 3: Some Similarity.
+Protesters,Protesters,EQUI,5,5, 5: Completely Equivalent.
+with police,with riot police,SPE2,4,2, 2: Related but Different
+Nigerian police,Nigeria,REL,3,1, 1: Slightly Related.
+protests,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,',NOALI,0,0, 0: No Relation.
+-not aligned-,all options,NOALI,0,0, LABEL=0: No Relation.
+ban,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,',NOALI,0,0, 0: No Relation.
+over kidnapped girls,over kidnapped girls,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,reviewing,NOALI,0,0, 0: No Relation.
+-not aligned-,dismisses,NOALI,0,0, 0: No Relation.
+signs,-not aligned-,NOALI,0,0, 0: No Relation.
+finalizes,-not aligned-,NOALI,0,0, 0: No Relation.
+Crimea annexation,Crimea 's independence,OPPO,4,2, 2: Related but Different.
+-not aligned-,'s top court,NOALI,0,0, 0: No Relation.
+as Russia,-not aligned-,NOALI,0,0, 0: No Relation.
+EU trade pact,"as "" unconstitutional """,REL,2,0, 0: No Relation.
+Ukraine,Ukraine,EQUI,5,5, 5: Completely Equivalent.
+are built,-not aligned-,NOALI,0,0, 0: No Relation.
+The foundations,-not aligned-,NOALI,0,0, 0: No Relation.
+on Nelson Mandela,over Nelson Mandela,EQUI,5,1, 1: Slightly Related.
+of South Africa,-not aligned-,NOALI,0,0, 0: No Relation.
+'s memory,'s death,REL,4,0, 0: No Relation.
+-not aligned-,Australian politicians,NOALI,0,0, 0: No Relation.
+-not aligned-,lament,NOALI,0,0, 0: No Relation.
+of Ariel Sharon,of Ariel Sharon,EQUI,5,5, 5: Completely Equivalent.
+:,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+On War Criminals and Heroes,On war criminals and heroes,EQUI,5,3, 3: Some Similarity.
+The Whitewashing,The whitewashing,EQUI,5,3, 3: Some Similarity.
+killed,killed,EQUI,5,4, 4: Completely Equivalent.
+Two French journalists,two French journalists,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,France,NOALI,0,0, 0: No Relation.
+in Mali,in Mali,EQUI,5,3," 3: Some Similarity. Both chunks refer to the same geographical location, Mali, but the context or content within the chunks might be different."
+-not aligned-,confirms,NOALI,0,1, 1: Slightly Related.
+China yuan,China yuan,EQUI,5,5, 5: Completely Equivalent.
+to 6.1184,to 6.1510,SIMI,4,2, 2: Related but Different
+against USD,against USD,EQUI,5,5, 5: Completely Equivalent.
+strengthens,weakens,OPPO,4,0, 0: No Relation.
+Tuesday,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,on flight,NOALI,0,0, 0: No Relation.
+loses contact,vanishes,SIMI,4,2, 2: Related but Different.
+to Beijing,to Beijing,EQUI,5,4, 4: Completely Equivalent.
+239,-not aligned-,NOALI,0,0, 0: No Relation.
+carrying,-not aligned-,NOALI,0,0, 0: No Relation.
+Malaysia Airlines with plane,Malaysia Airlines plane,EQUI,5,3, 3: Some Similarity.
+embroiled,steps down,REL,3,1," 1: Slightly Related. The words ""embroiled"" and ""steps down"" are not synonymous, but they can be related in a context where a person is involved in a controversial situation (embroiled) and then decides to resign or step down from a position."
+Tehelka editor,Tehelka editor,EQUI,5,5, 5: Completely Equivalent.
+in sex assault scam,after allegations of sexual misconduct,SIMI,4,2, 2: Related but Different
+-not aligned-,fires,NOALI,0,0, 0: No Relation.
+Facts,-not aligned-,NOALI,0,0, 0: No Relation.
+'s Musudan missile,another missile,SPE1,4,1, 1: Slightly Related.
+about North Korea,North Korea,EQUI,5,1, 1: Slightly Related.
+now,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+-not aligned-,Video,NOALI,0,0, 0: No Relation.
+who,Gunman,EQUI,5,1, 1: Slightly Related.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+Gunman,Gunman,EQUI,5,5, 5: Completely Equivalent.
+suburban Atlanta firefighters hostage,Firefighters Hostage in Georgia,SPE1,4,3, 3: Some Similarity
+police,-not aligned-,NOALI,5,0, 0: No Relation.
+held,Takes,EQUI,5,1," 1: Slightly Related. Both ""held"" and ""takes"" are verbs related to possession or action, but they have slightly different meanings and usage contexts. ""Held"" typically implies a more static or completed action, while ""takes"" suggests a more dynamic or ongoing action."
+dead,-not aligned-,NOALI,0,0, 0: No Relation.
+say,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,The Lede,NOALI,0,0, 0: No Relation.
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+-not aligned-,formally,NOALI,0,0, 0: No Relation.
+to join,to join,EQUI,5,3, 3: Some Similarity.
+votes,applies,SIMI,3,1," 1: Slightly Related. Both chunks refer to actions (voting and applying) that people might do, but they are not directly related in meaning or structure."
+Crimea parliament,Crimean parliament,EQUI,5,3, 3: Some Similarity.
+Russia,Russia,EQUI,5,5, 5: Completely Equivalent.
+lower,lower,EQUI,5,1," To provide an accurate assessment, I would need the actual text chunks for comparison. Here's an example of how I would evaluate the similarity of two text chunks:
+
+Chunk 1: ""The cat is on the mat.""
+Chunk 2: ""The feline is on the rug.""
+Label: 2: Related but Different.
+
+In this example, both sentences are about an animal (cat/feline) being on a surface (mat/rug), but they use different terms for the animal and the surface. This is why I labeled them as ""Related but Different.""
+
+Please provide the text chunks you'd like me to evaluate, and I'll be happy to help!"
+open,close,OPPO,4,0, 0: No Relation.
+China stocks,China 's stocks,EQUI,5,2, 2: Related but Different
+on Wednesday,on Monday,SIMI,3,0, 0: No Relation.
+-not aligned-,'s 50p tax rate,NOALI,0,0, 0: No Relation.
+what,what,EQUI,5,1, 1: Slightly Related.
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+need,need,EQUI,5,5, 5: Completely Equivalent.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+you,you,EQUI,5,3, 3: Some Similarity.
+-not aligned-,Labour,NOALI,0,0, 0: No Relation.
+World News Update,-not aligned-,NOALI,0,0, 0: No Relation.
+to know,to know,EQUI,5,4, 4: Completely Equivalent.
+Stocks,Stocks,EQUI,5,5, 5: Completely Equivalent.
+in early trading,in early trading,EQUI,5,5, 5: Completely Equivalent.
+rise,inch higher,SPE2,4,2, 2: Related but Different
+Twitter shares,Twitter shares,EQUI,5,3, 3: Some Similarity.
+rocket,rocket,EQUI,5,5, 5: Completely Equivalent.
+at opening,as trading begins,EQUI,5,1, 1: Slightly Related.
+outside two mosques,city,REL,3,1, 1: Slightly Related.
+29,-not aligned-,NOALI,0,0, 0: No Relation.
+in Lebanon 's Tripoli,in northern Lebanon,SPE1,4,2, 2: Related but Different
+kill,rock,SPE1,3,0, 0: No Relation.
+Explosions,2 explosions,SPE2,4,2, 2: Related but Different
+Next Iran nuclear talks,Iran Nuclear deal,REL,4,1, 1: Slightly Related.
+due,to be implemented,SIMI,3,1, 1: Slightly Related.
+-,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,:,NOALI,0,0, 0: No Relation.
+IRNA,-not aligned-,NOALI,0,0, 0: No Relation.
+on June 16-20,on January 20,SIMI,2,0, 0: No Relation.
+Russian coal mines,-not aligned-,NOALI,0,0, 0: No Relation.
+in China,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,Russian foreign minister,NOALI,0,0, 0: No Relation.
+seek,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,to meet,NOALI,0,0, 0: No Relation.
+new outlets,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,UN chief,NOALI,0,0, 0: No Relation.
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+Outrage,Outrage,EQUI,5,5, 5: Completely Equivalent.
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+raped,Raped,EQUI,5,4," 4: Completely Equivalent. (Both chunks are identical in terms of meaning, structure, and relevance.)"
+emerge,-not aligned-,NOALI,0,0, 0: No Relation.
+at school,at Her School,SPE2,4,1, 1: Slightly Related.
+after reports,-not aligned-,NOALI,0,0, 0: No Relation.
+about 6-year-old Indian girl,After Indian Girl 6,EQUI,5,1, 1: Slightly Related.
+-not aligned-,at 93,NOALI,0,0, 0: No Relation.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+",",-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+dies,dies,EQUI,5,5, 5: Completely Equivalent.
+Ovadia Yosef,Rabbi Ovadia Yosef,EQUI,5,3, 3: Some Similarity
+-not aligned-,",",NOALI,0,0, 0: No Relation.
+rabbi and Israeli kingmaker,kingmaker of Israeli politics,EQUI,5,2, 2: Related but Different
+early voting,-not aligned-,NOALI,0,0, 0: No Relation.
+for disputed election,outside polling station,REL,3,1, 1: Slightly Related.
+disrupt,-not aligned-,NOALI,0,0, 0: No Relation.
+-not aligned-,dead,NOALI,0,0, 0: No Relation.
+Thai protesters,Thai protest leader,REL,4,2, 2: Related but Different
+-not aligned-,shot,NOALI,0,0, 0: No Relation.
+of fiery bus crash,-not aligned-,NOALI,0,0, 0: No Relation.
+Most victims,38 bodies of victims,SPE2,3,2, 2: Related but Different
+identified,identified,EQUI,5,1," To evaluate the alignment of the following two chunks of text, I will assess their degree of similarity in meaning, structure, or relevance to each other.
+
+Chunk 1: ""The cat sat on the mat.""
+Chunk 2: ""The feline lounged on the rug.""
+
+Label: 3 (Some Similarity)
+
+Both sentences describe an animal (cat/feline) resting on a surface (mat/rug). While the specific words used to describe the animal and the surface are different, the overall action and scene are similar. Therefore, I have assigned a label of ""Some Similarity."""
+in blast,in apartment blast,SPE2,4,1, 1: Slightly Related.
+hurt,injured,EQUI,5,3, 3: Some Similarity.
+Palestinian diplomat,Palestinian ambassador,SPE2,4,3, 3: Some Similarity.

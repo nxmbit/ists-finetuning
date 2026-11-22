@@ -1,0 +1,21 @@
+% Requires in preamble: \usepackage{adjustbox}
+% (optional) also: \usepackage{booktabs}
+\begin{table}[t]
+\centering
+\scriptsize
+\setlength{\tabcolsep}{3pt}
+\begin{adjustbox}{width=\textwidth}
+\begin{tabular}{lllllllllll}
+\toprule
+Dataset & \multicolumn{3}{c}{answers-students} & \multicolumn{3}{c}{headlines} & \multicolumn{3}{c}{images} & Mean \\
+Metric & Type & Score & +TS & Type & Score & +TS & Type & Score & +TS & +TS \\
+\midrule
+Finetuning (best) & \shortstack{\underline{0.6977}\\{\scriptsize Mistral-7B-Instruct-v0.3}} & \shortstack{\underline{0.9202}\\{\scriptsize Mistral-7B-Instruct-v0.3}} & \shortstack{\underline{0.7360}\\{\scriptsize Mistral-7B-Instruct-v0.3}} & \shortstack{0.7239\\{\scriptsize Mistral-7B-Instruct-v0.3}} & \shortstack{\underline{0.9415}\\{\scriptsize Mistral-7B-Instruct-v0.3}} & \shortstack{\underline{0.7980}\\{\scriptsize Mistral-7B-Instruct-v0.3}} & \shortstack{\underline{0.7814}\\{\scriptsize Mistral-7B-Instruct-v0.3}} & \shortstack{\underline{0.9436}\\{\scriptsize Mistral-7B-Instruct-v0.3}} & \shortstack{\underline{0.8182}\\{\scriptsize Mistral-7B-Instruct-v0.3}} & \shortstack{\underline{0.7841}\\{\scriptsize }} \\
+\hline
+ICL simple (best) & \shortstack{0.5647\\{\scriptsize gpt-oss-120b}} & \shortstack{0.8664\\{\scriptsize gpt-oss-120b}} & \shortstack{0.6997\\{\scriptsize gpt-oss-120b}} & \shortstack{0.6956\\{\scriptsize gpt-oss-120b}} & \shortstack{0.9004\\{\scriptsize gpt-oss-120b}} & \shortstack{0.7486\\{\scriptsize gpt-oss-120b}} & \shortstack{0.6486\\{\scriptsize gpt-oss-120b}} & \shortstack{0.9056\\{\scriptsize gpt-oss-120b}} & \shortstack{0.7126\\{\scriptsize gpt-oss-120b}} & \shortstack{0.7203\\{\scriptsize }} \\
+ICL detailed (best) & \shortstack{0.6129\\{\scriptsize Llama-3.1-8B-Instruct}} & \shortstack{0.8589\\{\scriptsize gpt-oss-120b}} & \shortstack{0.7138\\{\scriptsize gpt-oss-120b}} & \shortstack{\underline{0.7417}\\{\scriptsize gpt-oss-120b}} & \shortstack{0.8941\\{\scriptsize gpt-oss-120b}} & \shortstack{0.7788\\{\scriptsize gpt-oss-120b}} & \shortstack{0.6711\\{\scriptsize gpt-oss-120b}} & \shortstack{0.8933\\{\scriptsize gpt-oss-120b}} & \shortstack{0.7375\\{\scriptsize gpt-oss-120b}} & \shortstack{0.7434\\{\scriptsize }} \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\caption{Best results per dataset. Each cell shows best F1 and the model achieving it. Underlined = best among the three rows.}
+\end{table}
