@@ -1,0 +1,25 @@
+dataset: "headlines"
+source: "wa"
+train_subset: "train"
+test_subset: "test"
+
+task_adaptation: "icl"
+task: "alignment"
+
+# model_name: "meta-llama/Llama-3.1-8B-Instruct"
+# model_name: "mistralai/Mistral-7B-Instruct-v0.3"
+model_name: "Qwen/Qwen2.5-7B-Instruct"
+lora_adapter: null
+
+use_cuda: True
+
+loader:
+  batch_size: 8
+
+prompt:
+  # description_level: "simple"
+  description_level: "detailed"
+  n_examples: 5
+
+generation:
+  max_new_tokens: 5

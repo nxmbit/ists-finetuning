@@ -1,0 +1,77 @@
+
+% Add in LaTeX preamble:
+% \usepackage{adjustbox}
+% \usepackage[T1]{fontenc}
+% \usepackage{lmodern}
+
+\begin{table}[t]
+\centering
+\scriptsize
+\setlength{\tabcolsep}{3.5pt}
+\begin{adjustbox}{width=\textwidth}
+\begin{tabular}{l l r r r r r r r r r}
+\hline
+\textbf{Model} & \textbf{Desc} & \multicolumn{3}{c}{\textbf{answers-students}} & \multicolumn{3}{c}{\textbf{headlines}} & \multicolumn{3}{c}{\textbf{images}} \\
+ &  & \textbf{Type} & \textbf{Score} & \textbf{Type+Score} & \textbf{Type} & \textbf{Score} & \textbf{Type+Score} & \textbf{Type} & \textbf{Score} & \textbf{Type+Score} \\
+\hline
+Mistral-7B-Instruct-v0.3 & best & \textbf{0.6977} & \textbf{0.9202} & \textbf{0.7360} & \textbf{0.7239} & \textbf{0.9415} & \textbf{0.7980} & \textbf{0.7814} & \textbf{0.9436} & \textbf{0.8182} \\
+\hline
+\end{tabular}
+\end{adjustbox}
+\caption{Finetuning: modele, które wygrywają w co najmniej jednej kolumnie (dataset×metryka). Wartości pogrubione = najlepsze w tej kolumnie.}
+\end{table}
+
+\begin{table}[t]
+\centering
+\scriptsize
+\setlength{\tabcolsep}{3.5pt}
+\begin{adjustbox}{width=\textwidth}
+\begin{tabular}{l l r r r r r r r r r}
+\hline
+\textbf{Model} & \textbf{Desc} & \multicolumn{3}{c}{\textbf{answers-students}} & \multicolumn{3}{c}{\textbf{headlines}} & \multicolumn{3}{c}{\textbf{images}} \\
+ &  & \textbf{Type} & \textbf{Score} & \textbf{Type+Score} & \textbf{Type} & \textbf{Score} & \textbf{Type+Score} & \textbf{Type} & \textbf{Score} & \textbf{Type+Score} \\
+\hline
+Llama-3.1-8B-Instruct & simple & 0.5110 & \textbf{0.8303} & \textbf{0.6100} & 0.5574 & \textbf{0.8690} & \textbf{0.6855} & 0.5164 & \textbf{0.8772} & \textbf{0.6359} \\
+Mistral-7B-Instruct-v0.3 & simple & \textbf{0.5414} & 0.8198 & 0.5976 & \textbf{0.6051} & 0.8476 & 0.6760 & \textbf{0.5446} & 0.8319 & 0.6097 \\
+\hline
+\end{tabular}
+\end{adjustbox}
+\caption{ICL (bez gpt-oss 120b), desc=simple: modele wygrywające w co najmniej jednej kolumnie. Pogrubione = najlepsze w kolumnie.}
+\end{table}
+
+\begin{table}[t]
+\centering
+\scriptsize
+\setlength{\tabcolsep}{3.5pt}
+\begin{adjustbox}{width=\textwidth}
+\begin{tabular}{l l r r r r r r r r r}
+\hline
+\textbf{Model} & \textbf{Desc} & \multicolumn{3}{c}{\textbf{answers-students}} & \multicolumn{3}{c}{\textbf{headlines}} & \multicolumn{3}{c}{\textbf{images}} \\
+ &  & \textbf{Type} & \textbf{Score} & \textbf{Type+Score} & \textbf{Type} & \textbf{Score} & \textbf{Type+Score} & \textbf{Type} & \textbf{Score} & \textbf{Type+Score} \\
+\hline
+Llama-3.1-8B-Instruct & detailed & \textbf{0.6129} & \textbf{0.8448} & 0.6258 & 0.5781 & \textbf{0.8851} & \textbf{0.6790} & \textbf{0.5412} & \textbf{0.8646} & \textbf{0.6258} \\
+Mistral-7B-Instruct-v0.3 & detailed & 0.5597 & 0.8102 & 0.5917 & \textbf{0.6020} & 0.8528 & 0.6565 & 0.5244 & 0.8153 & 0.5467 \\
+Qwen2.5-7B-Instruct & detailed & 0.5270 & 0.8222 & \textbf{0.6265} & 0.5525 & 0.8311 & 0.6157 & 0.5071 & 0.8240 & 0.5767 \\
+\hline
+\end{tabular}
+\end{adjustbox}
+\caption{ICL (bez gpt-oss 120b), desc=detailed: modele wygrywające w co najmniej jednej kolumnie. Pogrubione = najlepsze w kolumnie.}
+\end{table}
+
+\begin{table}[t]
+\centering
+\scriptsize
+\setlength{\tabcolsep}{3.5pt}
+\begin{adjustbox}{width=\textwidth}
+\begin{tabular}{l l r r r r r r r r r}
+\hline
+\textbf{Model} & \textbf{Desc} & \multicolumn{3}{c}{\textbf{answers-students}} & \multicolumn{3}{c}{\textbf{headlines}} & \multicolumn{3}{c}{\textbf{images}} \\
+ &  & \textbf{Type} & \textbf{Score} & \textbf{Type+Score} & \textbf{Type} & \textbf{Score} & \textbf{Type+Score} & \textbf{Type} & \textbf{Score} & \textbf{Type+Score} \\
+\hline
+gpt-oss-120b & simple & 0.5647 & 0.8664 & 0.6997 & 0.6956 & 0.9004 & 0.7486 & 0.6486 & 0.9056 & 0.7126 \\
+gpt-oss-120b & detailed & 0.5848 & 0.8589 & 0.7138 & 0.7417 & 0.8941 & 0.7788 & 0.6711 & 0.8933 & 0.7375 \\
+\hline
+\end{tabular}
+\end{adjustbox}
+\caption{ICL — gpt-oss-120b: tylko dwa wiersze (simple/detailed).}
+\end{table}

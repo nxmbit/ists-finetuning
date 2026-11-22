@@ -1,0 +1,1841 @@
+text_source,text_translation,alignment,score,preds,response
+both,Bulbs A and C,EQUI,5,SIMI, SIMI (Similar)
+have,are,EQUI,5,NOALI, NOALI (No Alignment)
+still,still,EQUI,5,EQUI, [EQUI]
+bulbs a and c,Bulbs A and C,EQUI,5,SIMI, [SIMI]
+a closed path,in closed paths,SPE1,4,SIMI," The label for this pair is ""SIMI"" (Similar). Both chunks refer to ""closed paths"", with the second one being more general."
+are connected.,are separated,OPPO,4,OPPO, OPPO
+-not aligned-,by the gap,NOALI,0,NOALI, NOALI (Not Aligned)
+terminal 1 and the positive terminal,Terminal 1 and the positive terminal,EQUI,5,EQUI, EQUI
+positive battery from terminal 2,Terminal 2 and the positive terminal,EQUI,5,SIMI, SIMI
+by a gap,by the gap,EQUI,5,SIMI," The label for this pair is SIMI (Similar). Both chunks refer to the same concept, the gap, but use different prepositions."
+is seperated,are separated,EQUI,5,OPPO," The label for this pair is OPPO (Opposite). While both chunks refer to the action of being separated, the first one uses the singular form ""is separated"" and the second one uses the plural form ""are separated"". This difference indicates an opposite relationship between the two chunks."
+There,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+no difference,in the same state.,SIMI,3,SIMI, [SIMI]
+is,are,EQUI,5,NOALI, NOALI (No Alignment)
+between the two terminals.,The terminals,SPE1,4,SPE2," The label for this pair is SPE2 (Specific-2). This is because Chunk 1 is more specific about the relationship between Chunk 2, specifying that the relationship is between ""the two terminals."""
+in the same path,in the same path,EQUI,5,EQUI, [EQUI]
+has to be contained,have to be,EQUI,5,NOALI," The label for this pair is ""NOALI"" as there is no semantic relation between ""has to be contained"" and ""have to be""."
+the switch the bulb and the battery,The switch and the bulb,SPE2,4,SIMI, SIMI (Similar)
+as,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+in terminal 1,Terminals 1 and 2,SPE1,4,OPPO," The label for this pair is OPPO (Opposite). Chunk 1 refers to ""Terminal 1"" while Chunk 2 refers to ""Terminals 1 and 2"", which implies that Chunk 2 includes more than just Chunk 1, making them opposites."
+there,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+a gap,in the same electrical state,REL,2,NOALI," The label for this pair is ""NOALI"" as there is no apparent semantic relation between ""a gap"" and ""in the same electrical state""."
+is,are,SIMI,3,NOALI, NOALI (No Alignment)
+uses,uses,EQUI,5,EQUI, [EQUI]
+to create,to maintain,SIMI,2,NOALI, [NOALI]
+the chemical reation,a chemical reaction,EQUI,5,SIMI, [SIMI]
+voltage,different electrical states,REL,3,OPPO, [OPPO]
+-not aligned-,at the terminals,NOALI,0,NOALI, NOALI (Not Aligned)
+The battery,A battery,EQUI,5,EQUI, [EQUI]
+uses,uses,EQUI,5,EQUI, [EQUI]
+to create,to maintain,SIMI,2,NOALI, [NOALI]
+voltage,different electrical states,REL,3,OPPO, [OPPO]
+a chemical reaction,a chemical reaction,EQUI,5,EQUI, [EQUI]
+a batter,A battery,EQUI,5,NOALI, NOALI (No Alignment)
+-not aligned-,at the terminals,NOALI,0,NOALI, NOALI (Not Aligned)
+the battery,The battery,EQUI,5,EQUI, [EQUI]
+is,is contained,EQUI,5,NOALI, [NOALI]
+in a closed path,in a path,EQUI,5,SIMI, SIMI (Similar)
+alone,does not contain any other components,EQUI,5,NOALI, [NOALI]
+in a closed path,which,EQUI,5,NOALI," The label for this pair is NOT APPLICABLE (NOALI). The word ""which"" does not have a clear semantic relation to ""in a closed path"". It is used to introduce a relative clause, but the relation between the two chunks is not one of equivalence (EQUI), opposition (OPPO), similarity (SIMI), relation (REL), or specific types of similarity (SPE1 or SPE2)."
+there,there,EQUI,5,NOALI, NOALI (No Alignment)
+a gap,a gap,EQUI,5,NOALI, NOALI (No Alignment)
+Because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+in the circuit.,in the circuit,EQUI,5,EQUI," The label for this pair of chunks is [EQUI]. Both chunks are semantically equivalent, meaning they have the same meaning."
+is,is,EQUI,5,NOALI, NOALI (No Alignment)
+within the same path,in a separate path,REL,4,OPPO, OPPO
+are not,is,OPPO,4,OPPO, OPPO (Opposite)
+as,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+Bulbs A and B,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+bulb C.,Bulb C,EQUI,5,EQUI," The label for this pair is ""EQUI"". Both chunks refer to the same thing, ""Bulb C"", and are spelled slightly differently."
+-not aligned-,Terminals 1 and 2,NOALI,0,NOALI, NOALI (Not Aligned)
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+was,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+there,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+two negative connections,are connected,REL,2,OPPO, OPPO (Opposite)
+-not aligned-,B and C,NOALI,0,NOALI, NOALI (Not Aligned)
+with the battery,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,a different path,NOALI,0,NOALI, NOALI
+-not aligned-,containing,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+is,containing,SIMI,3,NOALI," The label for this pair is NOT APPLICABLE (NOALI). The words ""is"" and ""containing"" do not have a semantic relation that can be categorized as EQUI, OPPO, SPE1, SPE2, SIMI, or REL."
+-not aligned-,and,NOALI,0,NOALI, NOALI (Not Aligned)
+on a closed path,a path,EQUI,5,SPE2, [SPE2]
+bulb a,A,EQUI,5,NOALI," The label for this pair is NOALI, as there is no apparent semantic relation between ""bulb a"" and ""A""."
+to the positive terminal.,to the positive battery terminal,EQUI,5,EQUI, [EQUI]
+the other terminals,"Terminals 4, 5 and 6",SPE2,3,SIMI, SIMI (Similar)
+are connected,are connected,EQUI,5,EQUI, [EQUI]
+the path.,an open path,OPPO,4,SIMI, SIMI (Similar)
+takes away,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+The bulb,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+no gap,by the gap,OPPO,4,NOALI, NOALI (No Alignment)
+is,are not separated,OPPO,4,NOALI, NOALI (Not Aligned)
+between the positive terminal and terminal 4,Terminal 4 and the positive terminal,EQUI,5,EQUI, EQUI (Equivalent)
+There,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,"burns out,",NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,neither B nor C,NOALI,0,NOALI, NOALI
+Bulb a,bulb A,EQUI,5,SPE2, [SPE2]
+a gap,in a closed path,REL,4,NOALI, NOALI (No Alignment)
+-not aligned-,If,NOALI,0,NOALI, NOALI (Not Aligned)
+created,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+terminal 6 to the positive terminal,Terminal 6 and the positive terminal,EQUI,5,EQUI," The label for this pair of chunks is ""EQUI"" (Equivalent). Both chunks refer to the same entity, Terminal 6, in relation to the positive terminal."
+of the battery,-not aligned-,NOALI,0,NOALI, NOALI
+is connected,are connected,EQUI,5,SIMI," The label for this pair is ""SIMI"". Both chunks have a similar meaning, although the first one is singular and the second one is plural."
+the bulb,the battery,REL,4,NOALI, NOALI (No Alignment)
+is,is,EQUI,5,NOALI, NOALI (No Alignment)
+in a closed circuit,in an open path,REL,4,NOALI, NOALI (No Alignment)
+is not closed,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+around the battery.,The battery,EQUI,5,SPE2, [SPE2]
+-not aligned-,is not,NOALI,0,NOALI, NOALI
+-not aligned-,in 2,NOALI,0,NOALI, NOALI (Not Aligned)
+The circuit,in a closed path,REL,4,OPPO," The label for this pair is [OPPO]. This is because the circuit is typically open, not closed, while the given chunk ""in a closed path"" implies a closed circuit."
+in a closed path.,which,EQUI,5,NOALI," The label for this pair is NOT APPLICABLE (NOALI). The word ""which"" does not have a clear semantic relation to ""in a closed path."" in terms of equality, opposition, similarity, relation, or specific semantic roles (SPE1, SPE2)."
+the bulb,The battery,REL,4,NOALI, NOALI (No Alignment)
+-not aligned-,any other components,NOALI,0,NOALI, NOALI (Not Aligned)
+in a closed path.,in a path,EQUI,5,OPPO," The label for this pair is OPPO (Opposite). Chunk 1: ""in a closed path"" implies a continuous loop, while Chunk 2: ""in a path"" generally refers to a non-looping direction."
+-not aligned-,does not contain,NOALI,0,NOALI, NOALI
+is not contained,is contained,OPPO,4,OPPO, OPPO (Opposite)
+There,there,EQUI,5,EQUI," The label for this pair is EQUI (Equivalent). Both chunks, ""There"" and ""there"", are used to refer to the same location or point in a text."
+in the circuit.,in a circuit,EQUI,5,EQUI, [EQUI]
+a gap,a gap,EQUI,5,NOALI, NOALI (No Alignment)
+is,is,EQUI,5,NOALI, NOALI (No Alignment)
+Bulb B and bulb C,bulbs A and B,SIMI,4,SIMI, SIMI (Similar)
+are,are,EQUI,5,NOALI, NOALI (No Alignment)
+with the battery.,with the battery,EQUI,5,EQUI, [EQUI]
+on closed paths,in closed paths,EQUI,5,EQUI," The label for this pair is EQUI (Equivalent). Both chunks are referring to the same concept, which is paths that are closed."
+still,still,EQUI,5,EQUI, [EQUI]
+has,was contained,SIMI,4,OPPO, [OPPO]
+Bulb A,Bulb A,EQUI,5,EQUI, [EQUI]
+-not aligned-,with the battery.,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,still,NOALI,0,NOALI, NOALI (Not Aligned)
+a closed pathway,in the same closed path,SPE2,4,SIMI, SIMI
+as,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+in the same closed path,in a separate path,REL,4,OPPO, OPPO
+are not,is,OPPO,4,OPPO, OPPO (Opposite)
+bulbs a and c,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+bulb b,Bulb B,EQUI,5,EQUI," The label for this pair is ""EQUI"" (Equivalent). Both chunks refer to the same object, a bulb, with minor differences in capitalization and spacing."
+-not aligned-,in 2,NOALI,0,NOALI, NOALI (Not Aligned)
+in the circuit.,in a closed path,REL,4,SPE2," The label for this pair is [SPE2]. This is because Chunk 1: [in the circuit.] and Chunk 2: [in a closed path] are semantically related in the sense that both refer to a specific path or route, but the second one (closed path) provides a more specific detail about the first one (circuit). However, it's not exactly equivalent (EQUI), opposite (OPPO), related (REL), or unrelated (NOALI), and it's not a similar but distinct concept (SIMI). Instead, it's a more specific instance of the same concept (SPE2)."
+is involved,is not,OPPO,4,NOALI, NOALI
+Only one terminal,The battery,REL,3,NOALI," The label for this pair is NOALI, as there is no semantic relation between ""Only one terminal"" and ""The battery""."
+-not aligned-,still,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,was,NOALI,0,NOALI, NOALI (Not Aligned)
+between the battery,with the battery.,SIMI,4,EQUI," The label for this pair of chunks is ""EQUI"" as both chunks refer to the battery, but in slightly different ways. However, the meaning is the same."
+-not aligned-,Bulb A,NOALI,0,NOALI, NOALI (Not Aligned)
+was,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+there,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,contained,NOALI,0,NOALI, NOALI (Not Aligned)
+closed paths,in the same closed path,SPE2,3,SIMI, SIMI
+separates,are separated,EQUI,5,EQUI," The label for this pair is EQUI (Equivalent). Both chunks express the idea of being separated, but they are phrased differently."
+the positive battery terminal from terminal 2,Terminal 2 and the positive terminal,EQUI,5,SIMI, SIMI
+the gap,by the gap,EQUI,5,SIMI," The label for this pair is SIMI (Similar). Both chunks refer to the same location or space, albeit with slightly different wordings."
+in differentclosed paths.,in different paths,EQUI,5,OPPO," The label for this pair is OPPO (Opposite). Chunk 1: ""in different closed paths"" implies a more restricted or confined movement compared to Chunk 2: ""in different paths"", which suggests a broader or less confined movement. Therefore, they are opposite in meaning."
+"bulb a, bulb b, and bulb c",A and C,SPE2,3,SIMI, SIMI (Similar)
+-not aligned-,with the battery,NOALI,0,NOALI, NOALI (Not Aligned)
+are contained,are,EQUI,5,NOALI, NOALI (No Alignment)
+any bulb,each bulb,SPE2,3,SIMI, SIMI (Similar)
+If,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is blocked,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+everything,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+the whole system,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+from the battery.,-not aligned-,NOALI,0,NOALI, NOALI
+affects,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+"out,",in its own path,OPPO,4,NOALI," The label for this pair is NOALI, as there is no apparent semantic relation between ""out"" and ""in its own path""."
+is,is,EQUI,5,NOALI, NOALI (No Alignment)
+and,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+it,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,still,NOALI,0,NOALI, NOALI (Not Aligned)
+in the same path.,in a closed path,SPE1,4,OPPO," The label for this pair is OPPO (Opposite). While both chunks are related to the concept of a path, Chunk 1 refers to an open path, and Chunk 2 refers to a closed path, which are opposite concepts."
+-not aligned-,with the battery,NOALI,0,NOALI, NOALI (Not Aligned)
+is not,is,OPPO,4,NOALI, NOALI (No Alignment)
+-not aligned-,Bulb A,NOALI,0,NOALI, NOALI (Not Aligned)
+it,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+a gap in the path,in a closed path,OPPO,4,NOALI, NOALI (No Alignment)
+-not aligned-,neither B nor C,NOALI,0,NOALI, NOALI
+-not aligned-,If,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,"burns out,",NOALI,0,NOALI, NOALI (Not Aligned)
+There,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+will be,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,bulb A,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+Bulb B and C,bulbs B and C,EQUI,5,SIMI, SIMI (Similar)
+still,still,EQUI,5,EQUI, [EQUI]
+are contained,are,EQUI,5,NOALI, NOALI (No Alignment)
+in a path,in closed paths,SPE1,4,OPPO," The label for this pair is OPPO (Opposite). Chunk 1: [in a path] suggests an open path, while Chunk 2: [in closed paths] suggests a closed path, which are opposite concepts."
+with the battery,with the battery,EQUI,5,EQUI, [EQUI]
+with the battery.,with the battery,EQUI,5,EQUI, [EQUI]
+are contained,are,EQUI,5,NOALI, NOALI (No Alignment)
+bulbs a and c,Bulbs A and C,EQUI,5,SIMI, [SIMI]
+still,still,EQUI,5,EQUI, [EQUI]
+in a closed path,in closed paths,EQUI,5,NOALI," The label for this pair is ""NOALI"" as there is no semantic relation between ""in a closed path"" and ""in closed paths"". The second chunk is a plural form of the first, but semantically, they do not have a direct relationship."
+Terminal one to the positive battery terminal,Terminal 1 and the positive terminal,EQUI,5,SIMI, SIMI (Similar)
+is not connected,are not connected,EQUI,5,NOALI, NOALI
+bulb A and switch Z,Bulb A with the battery and switch Z.,SPE1,3,SIMI, SIMI (Similar)
+-not aligned-,still,NOALI,0,NOALI, NOALI (Not Aligned)
+are,is contained,EQUI,5,NOALI, NOALI (No Alignment)
+in a closed path,in a closed path,EQUI,5,EQUI, [EQUI]
+is connected,are connected,EQUI,5,SIMI," The label for this pair is ""SIMI"". Both chunks have a similar meaning, although the first one is singular and the second one is plural."
+Terminal 5 to the postitive battery terminal,Terminal 5 and the positive terminal,EQUI,5,SIMI, SIMI (Similar)
+is connected,are connected,EQUI,5,SIMI," The label for this pair is SIMI (Similar). Both chunks refer to the action of connecting, but the first one is singular and the second one is plural. However, the meaning remains the same."
+Terminal 6 to the positive battery terminal,Terminal 6 and the positive terminal,EQUI,5,SIMI, SIMI (Similar)
+that,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+the circuit,a short circuit,REL,4,OPPO, OPPO (Opposite)
+the red x,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+safe.,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+means,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+is not,-not aligned-,NOALI,0,NOALI, NOALI
+bulb A,bulb A,EQUI,5,EQUI, [EQUI]
+-not aligned-,"burns out,",NOALI,0,NOALI, NOALI (Not Aligned)
+are,is,EQUI,5,NOALI, NOALI (No Alignment)
+both,neither B nor C,OPPO,4,NOALI," The label for this pair is NOALI. This is because neither Chunk 1 (both) nor Chunk 2 (neither B nor C) have a semantic relation that can be categorized as EQUI, OPPO, SPE1, SPE2, SIMI, or REL. NOALI is used when there is no semantic alignment between the two chunks."
+in the same path,in a closed path,SPE1,4,OPPO," The label for this pair is OPPO (Opposite). While both chunks are related to the concept of a path, ""in the same path"" and ""in a closed path"" are opposite in meaning."
+as,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,If,NOALI,0,NOALI, NOALI (Not Aligned)
+bulbs B and C,neither B nor C,OPPO,4,NOALI, NOALI
+you,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,means,NOALI,0,NOALI, NOALI (Not Aligned)
+the electrical state non-zero,A non-zero voltage,REL,4,SIMI, SIMI
+in the circuit,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+can find,is,REL,3,NOALI, NOALI (No Alignment)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,that,NOALI,0,NOALI, NOALI (Not Aligned)
+the gap,a gap,EQUI,5,NOALI, [NOALI]
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+if,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is,does not contain,OPPO,4,NOALI, NOALI (No Alias)
+and,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is contained,is contained,EQUI,5,EQUI, [EQUI]
+there,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+in its pathway,which,EQUI,5,NOALI," The label for this pair is NOT APPLICABLE (NOALI). The word ""which"" does not have a clear semantic relation to ""in its pathway"". It is used to ask for more specific information, but the given chunk does not provide such specific information."
+in a closed circuit,in a closed path,REL,4,SIMI, [SIMI]
+nothing,any other components,EQUI,5,NOALI, NOALI (No Alignment)
+The battery,The battery,EQUI,5,EQUI, [EQUI]
+is not connected,are connected,OPPO,4,OPPO, OPPO
+A terminal to the positive battery terminal.,Terminals 1 and 4,SPE2,2,SIMI, SIMI (Similar)
+a gap,are connected,OPPO,4,NOALI, NOALI (No Alignment)
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+in the circuit,Terminals 1 and 4,REL,3,SIMI, [SIMI]
+there,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is not seperated,are not separated,EQUI,5,OPPO, OPPO
+the positive terminal from terminal 5,Terminal 5 and the positive terminal,EQUI,5,SIMI," The label for this pair of chunks is SIMI (Similar). Both chunks refer to Terminal 5, although the first one specifies it as the positive terminal from Terminal 5, while the second one includes the entire Terminal 5 and the positive terminal. Despite the slight difference in phrasing, the core reference is the same."
+by a gap,by the gap,EQUI,5,SIMI," The label for this pair is SIMI (Similar). Both chunks refer to the same concept, the gap, but use different prepositions."
+-not aligned-,whether,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,Measuring,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,voltage,NOALI,0,NOALI, NOALI (Not Aligned)
+can,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,two terminals,NOALI,0,NOALI, NOALI (Not Aligned)
+there,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is,are separated,SPE2,2,NOALI, NOALI (No Alignment)
+find,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+a gap,by a gap.,EQUI,5,NOALI, NOALI (No Alignment)
+-not aligned-,indicates,NOALI,0,NOALI, NOALI (Not Aligned)
+You,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+where,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+with a gap,by the gap,EQUI,5,SIMI," The label for this pair is SIMI (Similar). Both chunks are referring to a spatial location, one is ""with a gap"" and the other is ""by the gap"", which are semantically similar."
+has to do,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+something,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,Terminal 2 and the positive terminal,NOALI,0,NOALI, [NOALI]
+-not aligned-,are separated,NOALI,0,NOALI, NOALI
+Because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+has,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+a voltage,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,by the gap,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,are separated,NOALI,0,NOALI, NOALI
+of 1.5 volts.,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+the positive circuit,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,Terminal 1 and the positive terminal,NOALI,0,OPPO," The label for this pair is OPPO (Opposite). Chunk 1 refers to ""not aligned"" while Chunk 2 refers to ""Terminal 1 and the positive terminal"", which are opposites in this context."
+-not aligned-,to maintain,NOALI,0,NOALI, NOALI (Not Aligned)
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+a chemical reaction.,a chemical reaction,EQUI,5,EQUI, [EQUI]
+-not aligned-,uses,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,A battery,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,at the terminals,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,different electrical states,NOALI,0,OPPO," The label for this pair is OPPO (Opposite). Chunk 1: [-not aligned-] does not provide a specific semantic relation, but Chunk 2: [different electrical states] is opposite to the general concept of alignment."
+There,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+the,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+in a closed path,in the same path,SPE2,4,SIMI, SIMI
+when,When,EQUI,5,EQUI," The label for this pair is EQUI (Equivalent). Both chunks are using the same word ""when"" to indicate a time reference."
+the switch with the bulb,the switch and the bulb,EQUI,5,SIMI, SIMI (Similar)
+is,are contained,EQUI,5,NOALI," The label for this pair is NOT APPLICABLE (NOALI). The verb ""is"" is a singular form, while ""are contained"" is a plural form, and they do not have a semantic relation that fits any of the other labels (EQUI, OPPO, SPE1, SPE2, SIMI, REL)."
+are,are,EQUI,5,NOALI, NOALI (No Alignment)
+bulb b and c,B and C,EQUI,5,SIMI," The label for this pair is ""SIMI"". Both chunks refer to the same set of items (bulb B and C, and B and C) but in different ways, indicating a similar semantic relation."
+in a closed path,in the same path,SPE2,4,SIMI, SIMI
+There,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+a difference,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+in electrical states.,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+-not aligned-,are not connected,NOALI,0,NOALI, NOALI
+-not aligned-,the terminals,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,between the terminals,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,no gap,NOALI,0,NOALI, NOALI (Not Aligned)
+will not light,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+the bulb,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+bulb a and c,A and C,EQUI,5,EQUI," The label for this pair is [EQUI]. Both chunks refer to the same set of items (bulb a and bulb c, and A and C) and are equal in meaning."
+with the battery,with the battery,EQUI,5,EQUI, [EQUI]
+on the same path,in the same path,EQUI,5,EQUI, [EQUI]
+are contained,are not,OPPO,4,NOALI, NOALI
+The path does not close,in an open path,EQUI,5,OPPO, OPPO (Opposite)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,the battery,NOALI,0,NOALI, NOALI (Not Aligned)
+The difference,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+between the electrical states,Terminal 1 and the positive terminal,REL,3,OPPO, [OPPO]
+-not aligned-,by the gap,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,are separated,NOALI,0,NOALI, NOALI
+1.5 volts,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is,are,SIMI,4,NOALI, NOALI (No Alignment)
+there,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+still,still,EQUI,5,EQUI, [EQUI]
+-not aligned-,"burns out,",NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,If,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,bulbs B and C,NOALI,0,NOALI, NOALI (Not Aligned)
+a closed path,in a closed path,EQUI,5,EQUI, [EQUI]
+-not aligned-,bulb A,NOALI,0,NOALI, NOALI (Not Aligned)
+a lost connection,are not connected.,EQUI,5,OPPO, OPPO (Opposite)
+-not aligned-,that,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,the terminals,NOALI,0,NOALI, NOALI (Not Aligned)
+causes,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+a gap,A non-zero voltage,REL,4,NOALI, NOALI (No Alignment)
+-not aligned-,means,NOALI,0,NOALI, NOALI (Not Aligned)
+are connected,are connected,EQUI,5,EQUI, [EQUI]
+the positive terminal and terminal 6,Terminal 6 and the positive terminal,EQUI,5,OPPO, [OPPO]
+is connected,are connected,EQUI,5,SIMI," The label for this pair is ""SIMI"" (Similar). Both chunks express the idea of connection, but the first one is singular and the second one is plural. However, the meaning remains the same."
+the positive terminal to terminal 6,Terminal 6 and the positive terminal,EQUI,5,SIMI, SIMI (Similar)
+there,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,to the negative battery terminal,NOALI,0,NOALI, NOALI (Not Aligned)
+at terminal 1,terminal 1,EQUI,5,EQUI," The label for this pair is EQUI (Equivalent). Both chunks refer to the same location, ""terminal 1""."
+is no gap,is connected,EQUI,5,NOALI, NOALI (No Alignment)
+Because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+terminal 6 to the positive terminal,Terminal 6 and the positive terminal,EQUI,5,EQUI," The label for this pair of chunks is ""EQUI"" (Equivalent). Both chunks refer to the same entity, Terminal 6, in relation to the positive terminal."
+is conncted,are connected,EQUI,5,EQUI," The label for this pair is ""EQUI"" as both chunks have the same semantic meaning."
+the switch the bulb.,the switch and the bulb,EQUI,5,SIMI, SIMI (Similar)
+When,When,EQUI,5,NOALI, NOALI (No Alignment)
+in the same papth,in the same path,EQUI,5,EQUI, [EQUI]
+as,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is,are contained,EQUI,5,NOALI," The label for this pair is NOT APPLICABLE (NOALI). The verb ""is"" is a singular form, while ""are contained"" is a plural form, so they do not semantically relate in the ways defined by the provided labels (EQUI, OPPO, SPE1, SPE2, SIMI, REL). However, they are not directly contradictory or unrelated either, hence NOALI is the appropriate label."
+Bulbs A and C,A and C,EQUI,5,EQUI," The label for this pair is [EQUI]. This is because both chunks refer to the same entities, albeit with different wordings."
+are,are,EQUI,5,NOALI, NOALI (No Alignment)
+in separate paths.,in different paths,EQUI,5,OPPO, OPPO
+are,are,EQUI,5,NOALI, NOALI (No Alignment)
+with the battery.,with the battery,EQUI,5,EQUI, [EQUI]
+in a closed path,in closed paths,SPE1,4,NOALI, [NOALI]
+bulb a and bulb b,bulbs A and B,EQUI,5,SIMI, SIMI
+still,still,EQUI,5,EQUI, [EQUI]
+The positive battery terminal from terminal 6,Terminal 6 and the positive terminal,EQUI,5,SIMI, SIMI (Similar)
+by a gap,by the gap,EQUI,5,SIMI," The label for this pair is SIMI (Similar). Both chunks refer to the same concept, the gap, but use slightly different wordings."
+was not separted,are not separated,SIMI,4,OPPO, OPPO (Opposite)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,in a closed path,NOALI,0,NOALI, NOALI (Not Aligned)
+WIL BE CREATED,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,bulb A,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,neither B nor C,NOALI,0,NOALI, The label for this pair is [NOALI].
+-not aligned-,"burns out,",NOALI,0,NOALI, NOALI (Not Aligned)
+A GAP,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,If,NOALI,0,NOALI, NOALI (Not Aligned)
+with the battery,with the battery,EQUI,5,EQUI, [EQUI]
+in different paths,in different paths,EQUI,5,EQUI, [EQUI]
+are contained,are,EQUI,5,NOALI, NOALI (No Alignment)
+bulb a and c,A and C,EQUI,5,EQUI," The label for this pair is [EQUI]. Both chunks refer to the same items (bulb a and bulb C, and A and C) in a different order, indicating an equal relationship."
+is connected,are connected,EQUI,5,SIMI," The label for this pair is ""SIMI"" (Similar). Both chunks have a similar meaning, although one is singular and the other is plural."
+The positive terminal to terminal 4.,Terminal 4 and the positive terminal,EQUI,5,SIMI, SIMI (Similar)
+-not aligned-,"burns out,",NOALI,0,NOALI, NOALI (Not Aligned)
+inthe same path,in a closed path.,SPE1,4,NOALI, [NOALI]
+-not aligned-,If,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,A and B,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,then,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,C,NOALI,0,NOALI, NOALI (Not Aligned)
+not contained,are,OPPO,4,NOALI, NOALI (No Alignment)
+-not aligned-,still,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,If,NOALI,0,NOALI, NOALI (Not Aligned)
+a gap in the path,in a closed path,OPPO,4,NOALI, NOALI (No Alignment)
+-not aligned-,still,NOALI,0,NOALI, NOALI (Not Aligned)
+does not create,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+bulb c,C,EQUI,5,NOALI," The label for this pair is NOALI, as there is no apparent semantic relation between ""bulb c"" and the letter ""C""."
+for bulb b and a,A and B,SPE1,4,SIMI," The label for this pair is SIMI (Similar). Both chunks refer to the same two entities, 'bulb b' and 'bulb A', using different ways of referring to them. The common entities are 'bulb b' and 'bulb A', which are similar in meaning."
+-not aligned-,are,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,"damaged,",NOALI,0,NOALI, NOALI (Not Aligned)
+the other terminals to the positive battery terminal,"Terminals 4, 5 and 6 to the positive battery terminal",SPE2,2,SIMI, SIMI (Similar)
+becuase,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+are connected,are connected,EQUI,5,EQUI, [EQUI]
+terminal one and the positive battery terminal,terminal 1 to the negative battery terminal,SIMI,4,OPPO, OPPO (Opposite)
+are on a closed path,is connected,SIMI,4,NOALI," The label for this pair is NOT APPLICABLE (NOALI). The first chunk, ""are on a closed path,"" refers to a specific type of layout, while the second chunk, ""is connected,"" refers to a relationship between two or more entities. These two concepts are not directly related or opposite to each other, so there is no clear semantic alignment label (EQUI, OPPO, SPE1, SPE2, SIMI, REL) that applies to this pair."
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+will,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+have,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+Battery,A battery,EQUI,5,EQUI, [EQUI]
+-not aligned-,uses,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,to maintain,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,a chemical reaction,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,at the terminals,NOALI,0,NOALI, NOALI (Not Aligned)
+voltage.,different electrical states,REL,4,NOALI, [NOALI]
+always,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+the terminals,Terminal 1 and the positive terminal,SPE2,3,OPPO," The label for this pair is OPPO (Opposite). The first chunk refers to ""the terminals,"" while the second chunk mentions ""Terminal 1 and the positive terminal."" In an electrical context, terminals are typically neutral, and the positive terminal is the opposite of the negative terminal. Therefore, they are opposite or OPPO in this case."
+are not connected,are not connected,EQUI,5,NOALI, NOALI
+the positive battery terminal to terminal 6,Terminal 6 and the positive terminal,EQUI,5,SIMI, SIMI (Similar)
+is connected,are connected,EQUI,5,SIMI," The label for this pair is ""SIMI"". Both chunks have a similar meaning, although the first one is singular and the second one is plural."
+-not aligned-,still,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,with the battery.,NOALI,0,NOALI, NOALI (Not Aligned)
+bulb a,Bulb A,EQUI,5,SPE1, [SPE1]
+on a closed path,in a closed path,EQUI,5,EQUI, [EQUI]
+was,is contained,SIMI,4,NOALI, NOALI (No Alignment)
+terminal 4 to the negative terminal,Terminal 4 and the positive battery terminal,SIMI,4,OPPO, OPPO (Opposite)
+is connected,are in the same electrical state,REL,3,SIMI," The label for this pair is SIMI (Similar). Both chunks are discussing a state or condition, although they might not be exactly the same, they are semantically similar."
+Because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+bulb c,Bulb C,EQUI,5,EQUI," The label for this pair is ""EQUI"" (Equivalent). Both chunks refer to the same object, ""Bulb C"", with a slight variation in capitalization."
+is,is,EQUI,5,NOALI, NOALI (No Alignment)
+in its own pathway,in a separate path,REL,3,OPPO, The label for this pair is OPPO (Opposite). Chunk 1: [in its own pathway] and Chunk 2: [in a separate path] are opposite to each other in terms of the path they are referring to.
+-not aligned-,indicates,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,Measuring,NOALI,0,NOALI, NOALI (Not Aligned)
+nearest the burnt out bulb,a damaged bulb.,SPE1,3,SIMI, SIMI (Similar)
+-not aligned-,due to,NOALI,0,NOALI, NOALI (Not Aligned)
+the voltage,voltage,EQUI,5,EQUI, [EQUI]
+-not aligned-,the electrical state,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,the place,NOALI,0,NOALI, NOALI (Not Aligned)
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,where,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,changes,NOALI,0,NOALI, NOALI (Not Aligned)
+You,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+and,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+must be,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+both,both,EQUI,5,EQUI, [EQUI]
+"with the same path,",a closed path,SPE1,4,OPPO, OPPO (Opposite)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+needed,-not aligned-,NOALI,0,NOALI, [NOALI]
+-not aligned-,containing,NOALI,0,NOALI, NOALI (Not Aligned)
+a battery and a blub,the bulb and a battery,EQUI,5,OPPO, OPPO (Opposite)
+"with the same path,",-not aligned-,NOALI,0,NOALI, NOALI
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+the path closed,a closed path,EQUI,5,EQUI, EQUI
+Because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+the battery,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+runs,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+in a closed circuit.,an incomplete circuit,SIMI,3,OPPO, OPPO (Opposite)
+"damaged,",-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+closed.,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+bulb B,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+If,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+then,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+no longer,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+is,is,EQUI,5,NOALI, NOALI (No Alignment)
+the circut,no closed path,REL,2,NOALI, NOALI (No Alias)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+"terminal 1, terminal 2, and terminal 3","Terminals 1, 2 and 3",EQUI,5,EQUI," The label for this pair of chunks is ""EQUI"". Both chunks refer to the same set of terminals (1, 2, and 3), hence the semantic relation is equivalent."
+o the negative battery,to the negative battery terminal,EQUI,5,SPE2, [SPE2]
+are connected,are connected,EQUI,5,EQUI, [EQUI]
+it,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+"didn""""t cause",-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,in its own path,NOALI,0,NOALI, NOALI (Not Aligned)
+"a gap.""",-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,each bulb,NOALI,0,NOALI, NOALI (Not Aligned)
+"""Because",-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+a gap,a gap,EQUI,5,NOALI, NOALI (No Alignment)
+is,is,EQUI,5,NOALI, NOALI (No Alignment)
+there,There,EQUI,5,NOALI, NOALI (No Alignment)
+between terminal 1 and terminal 6.,between terminals 1 and 6,EQUI,5,EQUI," The label for this pair of chunks is [EQUI]. Both chunks have the same semantic relation, expressing that the connection is between terminal 1 and terminal 6."
+-not aligned-,still,NOALI,0,NOALI, NOALI (Not Aligned)
+bulbs b and c,Bulb B and Bulb C,EQUI,5,EQUI," The label for this pair is EQUI (Equivalent). Both chunks refer to the same bulbs (b and c, and B and C) but with different naming conventions."
+on a closed path,in the same closed path,SPE2,4,SIMI, SIMI
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+with the battery,with the battery.,EQUI,5,EQUI, The label for this pair of chunks is [EQUI]. Both chunks have the same semantic relation as they both refer to the battery.
+are,were contained,SIMI,4,NOALI, NOALI (No Alignment)
+determines,affects,SIMI,2,SIMI," The label for this pair is SIMI (Similar). Both ""determines"" and ""affects"" suggest a causal relationship, where one thing influences another. However, they are not exactly the same, so they are similar but not identical."
+The switch,the switch,EQUI,5,EQUI, [EQUI]
+the path,in the same path,SPE2,4,SIMI, SIMI
+whether,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,a bulb and a switch,NOALI,0,NOALI, NOALI (Not Aligned)
+open or closed.,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,If,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,are,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,the bulb,NOALI,0,NOALI, NOALI (Not Aligned)
+by a gap,in the same electrical state,REL,3,NOALI, [NOALI]
+the positive battery terminal from terminal 4,Terminal 4 and the positive battery terminal,EQUI,5,SIMI, SIMI (Similar)
+is separated,are,REL,2,NOALI, NOALI (No Alignment)
+-not aligned-,A battery,NOALI,0,NOALI, NOALI (Not Aligned)
+between the terminals.,at the terminals,EQUI,5,NOALI, NOALI (No Alignment)
+-not aligned-,uses,NOALI,0,NOALI, NOALI (Not Aligned)
+an incomplete circuit,a chemical reaction,REL,3,NOALI, NOALI (No Alignment)
+would not effect,to maintain,SIMI,2,NOALI, NOALI (No Alignment)
+the the electrical state,different electrical states,SPE1,4,OPPO, OPPO (Opposite)
+to the positive battery terminal,to the positive battery terminal,EQUI,5,EQUI, [EQUI]
+"terminals 4, 5, and 6","Terminals 4, 5 and 6",EQUI,5,EQUI," The label for the given chunks is [EQUI]. This is because both chunks refer to the same terminals (4, 5, and 6), indicating an equal or identical relationship."
+are connected,are connected,EQUI,5,EQUI, [EQUI]
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+was,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+The path,a path,EQUI,5,SIMI, SIMI (Similar)
+-not aligned-,containing,NOALI,0,NOALI, NOALI (Not Aligned)
+on,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+it,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,both,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,Z and C,NOALI,0,NOALI, NOALI (Not Aligned)
+on the same closed path,in the same path,SPE1,3,EQUI," The label for this pair is [EQUI]. Both chunks, ""on the same closed path"" and ""in the same path"", convey the same meaning, indicating that they are on the same route or path."
+the bulb,The damaged bulb and the other bulb,SPE1,3,SIMI, SIMI
+If,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is,must be contained,SIMI,3,NOALI, NOALI (No Alignment)
+in a closed path,in the same closed path,SPE2,4,SIMI, SIMI
+bulb a,Bulb A,EQUI,5,SPE1, [SPE1]
+still,still,EQUI,5,EQUI, [EQUI]
+with the battery.,with the battery.,EQUI,5,EQUI, [EQUI]
+was,was,EQUI,5,NOALI, NOALI (No Alignment)
+contained,contained,EQUI,5,EQUI, [EQUI]
+one bulb,A and C,SPE2,2,NOALI, NOALI (No Alignment)
+-not aligned-,in the same closed path,NOALI,0,NOALI," The label for this pair is [NOALI]. This is because Chunk 1 states that the items are not aligned, while Chunk 2 describes a situation that is not related to alignment."
+the others,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+"is removed,",-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+stop,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+working,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,are,NOALI,0,NOALI, NOALI (Not Aligned)
+If,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+an open switch,the open switch,EQUI,5,EQUI, [EQUI]
+are connected,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+all the terminals,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+"to other terminals,",-not aligned-,NOALI,0,NOALI, NOALI
+disrupts that.,creates a gap,SPE2,3,OPPO, OPPO (Opposite)
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is a gap,are separated by a gap,EQUI,5,OPPO," The label for this pair is OPPO (Opposite). Chunk 1: [is a gap] and Chunk 2: [are separated by a gap] are opposites because one refers to a single gap, while the other refers to multiple gaps that separate a gap."
+There,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+between the two bulb terminals,the terminals,SPE1,2,SIMI, SIMI (Similar)
+has occured,is,SIMI,4,NOALI, NOALI (No Alignment)
+a short circuit,a short circuit,EQUI,5,EQUI, [EQUI]
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+thus,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+of the circuit,-not aligned-,NOALI,0,NOALI, NOALI
+will be,creates,SIMI,2,SIMI," The label for this pair is SIMI (Similar). Both ""will be"" and ""creates"" indicate future actions or states."
+"at bulb b,",bulb B,EQUI,5,SIMI, [SIMI]
+the rest,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+there,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+a gap,a gap,EQUI,5,NOALI, NOALI (No Alignment)
+affecting,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+terminal 3 and the positie terminal,Terminal 3 and the positive terminal,EQUI,5,SIMI, SIMI (Similar)
+are not connected.,are not connected,EQUI,5,NOALI, NOALI
+by a gap,by the gap,EQUI,5,SIMI," The label for this pair is SIMI (Similar). Both chunks refer to the same concept, the gap, but use slightly different wordings."
+The positive battery terminal from terminal 4.,Terminal 4 and the positive terminal,EQUI,5,SIMI, SIMI (Similar)
+was not seperated,are not separated,SIMI,4,OPPO, OPPO (opposite)
+to the negative terminal.,to the negative battery terminal,EQUI,5,OPPO, OPPO (Opposite)
+is connected,is connected,EQUI,5,EQUI, [EQUI]
+Terminal 1,terminal 1,EQUI,5,EQUI, [EQUI]
+A terminal to the positive battery terminal.,Terminals 1 and 2,SIMI,2,SIMI, SIMI (Similar)
+is not connected,are connected,OPPO,4,OPPO, OPPO
+are seperated,are separated,EQUI,5,EQUI, [EQUI]
+the positive terminal and terminal 2,Terminal 2 and the positive terminal,EQUI,5,OPPO," The labels for the given chunks are OPPO (Opposite) for Chunk 1 and Chunk 2. This is because Terminal 1 is the positive terminal, and Terminal 2 is the other terminal, so they are opposite in that context."
+by a gap,by the gap,EQUI,5,SIMI," The label for this pair is SIMI (Similar). Both chunks refer to the same concept, the gap, but with slight variations in wording."
+there,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+between the terminals,terminal 1 to the negative battery terminal,SPE2,3,OPPO, [OPPO]
+is not gap,is connected,EQUI,5,NOALI, NOALI (No Alignment)
+a gap,in the same electrical state,REL,3,NOALI," The label for this pair is ""NOALI"" as there is no apparent semantic relation between ""a gap"" and ""in the same electrical state""."
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+there,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,are,NOALI,0,NOALI, NOALI (Not Aligned)
+between teh positive battery terminal and terminal 4.,Terminal 4 and the positive battery terminal,EQUI,5,EQUI, EQUI (Equivalent)
+The positive battery to terminal one.,Terminal 1 and the positive terminal,EQUI,5,SIMI, SIMI (Similar)
+was not connected,are not connected,SIMI,4,OPPO, OPPO (opposite)
+Bulbs A and B,bulbs A and B,EQUI,5,EQUI, [EQUI]
+to the battery.,with the battery,EQUI,5,EQUI," The label for this pair is ""EQUI"" as both chunks refer to the same entity, the battery, but in slightly different contexts."
+still,still,EQUI,5,EQUI, [EQUI]
+will be contained,are,SIMI,4,NOALI, NOALI (No Alignment)
+in a closed path,in closed paths,SPE1,4,NOALI," The label for this pair is ""NOALI"" as there is no semantic relation between ""in a closed path"" and ""in closed paths"". The second chunk is a plural form of the first, but semantically, they do not have a direct relationship."
+the two components,Terminal 1 and the positive terminal,SPE2,2,SIMI, SIMI (Similar)
+are seperated.,are separated,EQUI,5,EQUI," The label for this pair is ""EQUI"". Both chunks have the same meaning and are grammatically equivalent."
+-not aligned-,by the gap,NOALI,0,NOALI, NOALI (Not Aligned)
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+directly,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is connected,are connected,EQUI,5,SIMI," The label for this pair is ""SIMI"". Both chunks have similar meanings, although the first one is singular and the second one is plural."
+terminal 1 to terminal 4,Terminals 1 and 4,EQUI,5,SIMI," The label for this pair of chunks is SIMI (Similar). Both chunks refer to the same set of terminals, although Chunk 1 includes all terminals from 1 to 4, while Chunk 2 specifically mentions terminals 1 and 4."
+the positive battery terminal and terminal 4,Terminal 4 and the positive terminal,EQUI,5,SIMI, SIMI (Similar)
+are connected,are connected,EQUI,5,EQUI, [EQUI]
+Terminal 1 and terminal 2,Terminals 1 and 2,EQUI,5,EQUI," The label for the given pair of chunks is [EQUI]. This is because ""Terminal 1 and terminal 2"" and ""Terminals 1 and 2"" both refer to the same two entities, hence they are equivalent."
+are on the same side.,are connected,REL,3,SIMI," The label for this pair is SIMI (Similar). Both chunks describe a relationship between two entities, one of being on the same side and the other being connected, which can be considered similar in context."
+to positive battery,Terminal 2 and the positive terminal,SPE1,3,SIMI, SIMI (Similar)
+not connected,are not connected,EQUI,5,NOALI, NOALI
+to maintain,to maintain,EQUI,5,EQUI, [EQUI]
+a chemical reaction,a chemical reaction,EQUI,5,EQUI, [EQUI]
+"the voltage,",different electrical states,REL,4,OPPO, [OPPO]
+-not aligned-,at the terminals,NOALI,0,NOALI, NOALI (Not Aligned)
+The battery,A battery,EQUI,5,EQUI, [EQUI]
+uses,uses,EQUI,5,EQUI, [EQUI]
+does not have,is not,SIMI,4,NOALI, NOALI (No Alignment)
+the bulb,The bulb,EQUI,5,EQUI, [EQUI]
+-not aligned-,containing,NOALI,0,NOALI, NOALI (Not Aligned)
+a closed path.,in the closed path,EQUI,5,SIMI," The label for this pair is SIMI (Similar). Both chunks are referring to the same concept, which is a ""closed path""."
+Because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,the battery,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,the terminals,NOALI,0,NOALI, NOALI (Not Aligned)
+a difference,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,are separated,NOALI,0,NOALI, NOALI
+-not aligned-,by a gap,NOALI,0,NOALI, NOALI (Not Aligned)
+in electrical states,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+there,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is connected,are connected,EQUI,5,SIMI," The label for this pair is ""SIMI"" (Similar). Both chunks have a similar meaning, although one is singular and the other is plural."
+terminal to postive terminal of the battery,Terminal 6 and the positive terminal,SPE2,3,SIMI, SIMI (Similar)
+is seperated,are separated,EQUI,5,OPPO," The label for this pair is OPPO (Opposite). While both chunks refer to the action of being separated, the first one uses the singular form ""is separated"" and the second one uses the plural form ""are separated"". This difference in number indicates an opposite relationship between the two chunks."
+Terminal 1 from the positive terminal,Terminal 1 and the positive terminal,EQUI,5,SPE1," The label for this pair would be ""SPE1"" (Specific-1), as Chunk 1 refers to a specific part of Chunk 2, which is Terminal 1."
+-not aligned-,by the gap,NOALI,0,NOALI, NOALI (Not Aligned)
+is not contained,is not,EQUI,5,NOALI, NOALI
+Battery,The battery,EQUI,5,EQUI, [EQUI]
+i a closed path.,in a closed path,EQUI,5,EQUI, [EQUI]
+-not aligned-,in 4,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,by the gap,NOALI,0,NOALI, NOALI (Not Aligned)
+terminal 1 to the positive battery terminal,Terminal 1 and the positive terminal,EQUI,5,SIMI, SIMI (Similar)
+was connected,are separated,OPPO,4,OPPO, OPPO
+-not aligned-,containing,NOALI,0,NOALI, NOALI (Not Aligned)
+2 paths,a path,SPE2,2,SIMI, SIMI (Similar)
+-not aligned-,containing,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,A,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,and,NOALI,0,NOALI, NOALI (Not Aligned)
+are,is,EQUI,5,NOALI, NOALI (No Alignment)
+-not aligned-,B and C,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,a different path,NOALI,0,NOALI, NOALI (Not Aligned)
+There,there,EQUI,5,EQUI," The label for this pair is EQUI (Equivalent). Both chunks, ""There"" and ""there"", are used to refer to the same location or position."
+in this diagram,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+the switch,switch Y and bulb A,SPE1,2,SIMI," The label for this pair is SIMI (Similar). The switch in Chunk 1 is a generic term for a device that controls an electrical circuit, while Chunk 2 refers to a specific switch (switch Y) and a specific bulb (bulb A). However, both chunks are referring to the same type of device (a switch) and are used in a similar context (to control an electrical circuit)."
+Because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,containing,NOALI,0,NOALI, NOALI (Not Aligned)
+was connected,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+the switch,both,SPE1,2,NOALI, [NOALI]
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+to the closed circuit,no path,REL,2,NOALI, NOALI (No Alignment)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+creates,creates,EQUI,5,EQUI, [EQUI]
+a gap.,a gap,EQUI,5,NOALI, NOALI (No Alignment)
+damaged bulb,a damaged bulb,EQUI,5,EQUI, EQUI
+that,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+the battery connection does not work,a short circuit,REL,3,OPPO, OPPO (Opposite)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,to maintain,NOALI,0,NOALI, NOALI (Not Aligned)
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,different electrical states,NOALI,0,OPPO," The label for this pair is OPPO (Opposite). Chunk 1: [-not aligned-] does not provide a specific semantic relation, but Chunk 2: [different electrical states] is opposite to the general concept of alignment."
+-not aligned-,A battery,NOALI,0,NOALI, NOALI (Not Aligned)
+the terminals,at the terminals,EQUI,5,SPE1," The label for this pair is ""SPE1"" (Semantically similar, Part of the same entity or location). Both chunks refer to the same location, ""the terminals""."
+are not connected,-not aligned-,NOALI,0,NOALI, NOALI
+-not aligned-,a chemical reaction,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,uses,NOALI,0,NOALI, NOALI (Not Aligned)
+Terminal 5 to teh positive battery terminal,Terminal 5 and the positive terminal,EQUI,5,SIMI, SIMI (Similar)
+is connected,are connected,EQUI,5,SIMI," The label for this pair is ""SIMI"" (Similar). Both chunks express the idea of connection, but the first one is singular and the second one is plural. However, the meaning remains similar."
+was connected,are separated,OPPO,4,OPPO, OPPO
+terminal 1 to the positive terminal,Terminal 1 and the positive terminal,EQUI,5,EQUI," The label for this pair of chunks is ""EQUI"" as both terminals 1 and the positive terminal refer to the same electrical point in a circuit."
+-not aligned-,by the gap,NOALI,0,NOALI, NOALI (Not Aligned)
+between terminal one and two and the positive battery terminal,Terminals 1 and 2,SPE2,3,SIMI, SIMI (Similar)
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+a gap,in the same electrical state,REL,2,SIMI," The label for this pair is SIMI (Similar). The semantic relation between ""a gap"" and ""in the same electrical state"" is that a gap, in terms of electrical conductivity, would typically imply no electrical state, but in this context, it seems to be used to mean a state of non-connection or isolation, which is similar to being in the same electrical state (non-conducting). However, it's important to note that the exact interpretation can depend on the specific context and the exact meaning of ""a gap"" in this context."
+there,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,are,NOALI,0,NOALI, NOALI (Not Aligned)
+with the battery,with the battery,EQUI,5,EQUI, [EQUI]
+are contained,are,EQUI,5,NOALI, NOALI (No Alignment)
+bulbs b and c,B and C,EQUI,5,EQUI," The label for this pair is ""EQUI"". Both chunks refer to the same bulbs (b and c, and B and C)."
+on the same path,in the same path,EQUI,5,EQUI, [EQUI]
+there,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is no closed path,the path is not closed,EQUI,5,NOALI, NOALI (No Alignment)
+to the battery,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+terminal 1 to the positive battery terminal,Terminal 1 and the positive terminal,EQUI,5,SIMI, SIMI (Similar)
+is not connected,are not connected,EQUI,5,NOALI, NOALI
+-not aligned-,in 2,NOALI,0,NOALI, NOALI (Not Aligned)
+alone,-not aligned-,NOALI,0,NOALI, [NOALI]
+is not,is not,EQUI,5,NOALI, NOALI (No Alignment)
+the battery,The battery,EQUI,5,EQUI, [EQUI]
+in a closed bath,in a closed path,EQUI,5,NOALI, NOALI (No Alignment)
+is connected,are connected,EQUI,5,SIMI," The label for this pair is ""SIMI"" (Similar). Both chunks have a similar meaning, although one is singular and the other is plural."
+terminal 5 to postive terminal of the battery,Terminal 5 and the positive terminal,EQUI,5,SIMI, SIMI (Similar)
+are closed,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+x and z,"A, C, Z and X",SPE1,2,SIMI, SIMI (Similar)
+then,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,containing,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+a closed path,a path,EQUI,5,SIMI, SIMI (Similar)
+it,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+will create,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+if,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,by the gap,NOALI,0,NOALI, NOALI (Not Aligned)
+positive terminal from terminal 2,Terminal 2 and the positive terminal,EQUI,5,SIMI, SIMI (Similar)
+is serperated,are separated,EQUI,5,OPPO," The label for this pair is OPPO (Opposite). While both chunks refer to the action of being separated, the first one uses the singular form ""is separated"" and the second one uses the plural form ""are separated"". This difference in form indicates an opposite relationship between the two chunks."
+-not aligned-,in 2,NOALI,0,NOALI, NOALI (Not Aligned)
+is not closed,in a closed path,REL,3,OPPO, OPPO (Opposite)
+the bulb,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,is not,NOALI,0,NOALI, NOALI
+is.,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+the battery,The battery,EQUI,5,EQUI, [EQUI]
+there,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,the terminals,NOALI,0,NOALI, NOALI (Not Aligned)
+is not,are not separated,SIMI,4,NOALI, NOALI (No Alignment)
+a gap,by a gap,EQUI,5,NOALI, NOALI (No Alignment)
+in the connection,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+will affect,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+the bulb.,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+if,When,SIMI,3,NOALI, NOALI (No Alignment)
+is,are contained,EQUI,5,NOALI," The label for this pair is NOT APPLICABLE (NOALI). The verb ""is"" is a singular form, while ""are contained"" is a plural form, so they do not have a semantic relation in terms of equivalence, opposition, similarity, or relationship."
+a bulb with a battery and a switch,the switch and the bulb,SPE2,3,SIMI, SIMI (Similar)
+the switch,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+in a closed circuit,in the same path,REL,4,SIMI, SIMI
+with the battery.,with the battery.,EQUI,5,EQUI, [EQUI]
+in a closed path,in the same closed path,SPE2,4,SIMI, SIMI
+were contained,were contained,EQUI,5,EQUI, [EQUI]
+bulbs b and c,Bulb B and Bulb C,EQUI,5,SIMI, [SIMI]
+-not aligned-,still,NOALI,0,NOALI, NOALI (Not Aligned)
+are,has,SIMI,2,NOALI, NOALI (No Alignment)
+in closed paths.,no closed paths,OPPO,4,NOALI, NOALI (No Alignment)
+Because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+neither components,Circuit 4,REL,3,NOALI, NOALI (No Alignment)
+-not aligned-,the electrical state,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,indicates,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,voltage,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,due to,NOALI,0,NOALI, NOALI (Not Aligned)
+the gap,a gap.,EQUI,5,NOALI, NOALI (No Alignment)
+-not aligned-,changes,NOALI,0,NOALI, NOALI (Not Aligned)
+you,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+can,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,the place,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,Measuring,NOALI,0,NOALI, NOALI (Not Aligned)
+where,where,EQUI,5,NOALI, NOALI (No Alignment)
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+see,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+there,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,that,NOALI,0,NOALI, NOALI (Not Aligned)
+in the circuit,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+if,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+a gap,are not connected.,REL,4,NOALI, NOALI
+-not aligned-,A non-zero voltage,NOALI,0,NOALI, NOALI (Not Aligned)
+will not light up.,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+-not aligned-,means,NOALI,0,NOALI, NOALI (Not Aligned)
+there,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+the bulb,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,the terminals,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,then,NOALI,0,NOALI, NOALI (Not Aligned)
+Bulb A and Bulb B and the battery,A and B with the battery.,EQUI,5,SIMI, SIMI (Similar)
+in a closed path.,in a closed path,EQUI,5,EQUI, [EQUI]
+-not aligned-,"burns out,",NOALI,0,NOALI, NOALI (Not Aligned)
+are,are still,SPE2,4,OPPO, [OPPO]
+-not aligned-,C,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,If,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,between the terminals,NOALI,0,NOALI, NOALI (Not Aligned)
+a gap,no gap,OPPO,4,NOALI, NOALI (No Alignment)
+is,is,EQUI,5,NOALI, NOALI (No Alignment)
+That,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+there,there,EQUI,5,NOALI, NOALI (No Alignment)
+the bulb.,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+are contained,are contained,EQUI,5,EQUI, [EQUI]
+"in the same path,",in the same path,EQUI,5,EQUI, [EQUI]
+will affect,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+if,When,SIMI,3,NOALI, NOALI (No Alignment)
+the switch,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+the switch and bulb,the switch and the bulb,EQUI,5,SIMI, SIMI (Similar)
+Voltage,terminal 1,REL,2,SPE1, [SPE1]
+the difference,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+between a positive and negative end on a battery.,to the negative battery terminal,SPE2,2,OPPO, OPPO (Opposite)
+-not aligned-,is connected,NOALI,0,NOALI, NOALI (Not Aligned)
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+passes,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+through the switch,the switch,EQUI,5,REL," The label for this pair is ""REL"" (Related). The second chunk, ""the switch,"" is the object of the action described in the first chunk, ""through the switch."""
+the path,in the same path,SPE2,4,SIMI, SIMI
+-not aligned-,a bulb and a switch,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,are,NOALI,0,NOALI, NOALI (Not Aligned)
+the energy,the bulb,REL,2,SIMI, SIMI (Similar)
+-not aligned-,affects,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,If,NOALI,0,NOALI, NOALI (Not Aligned)
+that,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+are,are,EQUI,5,NOALI, NOALI (No Alignment)
+the bulb terminal and battery terminal,The terminals,SPE1,3,SIMI, SIMI (Similar)
+on the same side of a disconnected circut,in the same state.,REL,2,SIMI, SIMI (Similar)
+the battery,The battery,EQUI,5,EQUI, [EQUI]
+in a closed path.,in a closed path,EQUI,5,EQUI, [EQUI]
+-not aligned-,in 4,NOALI,0,NOALI, NOALI (Not Aligned)
+is not,is not,EQUI,5,NOALI, NOALI (No Alignment)
+Because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+switch x with bulb a,Bulb A with the battery and switch X.,SPE1,3,OPPO, OPPO (Opposite)
+-not aligned-,still,NOALI,0,NOALI, NOALI (Not Aligned)
+in the closed path,in a closed path,EQUI,5,EQUI, [EQUI]
+is,is contained,EQUI,5,NOALI, [NOALI]
+-not aligned-,still,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+a closed circuit,in a closed path,REL,4,SIMI, [SIMI]
+There,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+was,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,with the battery.,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,Bulb A,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,contained,NOALI,0,NOALI, NOALI (Not Aligned)
+"switch z in bulb c""""s",both,EQUI,5,NOALI," The label for this pair is ""NOALI"" as there is no semantic relation between ""switch z in bulb c""""s"" and ""both""."
+"closed path""",a path,EQUI,5,NOALI, [NOALI]
+is,containing,SIMI,3,NOALI," The label for this pair is NOT APPLICABLE (NOALI). The words ""is"" and ""containing"" do not have a semantic relation that can be categorized as EQUI, OPPO, SPE1, SPE2, SIMI, or REL."
+"switch z in bulb c""""s",Z and C,EQUI,5,NOALI," The label for this pair is ""NOALI"" (No Alignment). The semantic relation between ""switch z in bulb c""""s"" and ""Z and C"" is not directly related or equivalent, opposing, similar, or relating in any specific way."
+"""because",-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,with the battery and switch X.,NOALI,0,NOALI, NOALI (Not Aligned)
+Bulb A,Bulb A,EQUI,5,EQUI, [EQUI]
+in a closed path,in a closed path,EQUI,5,EQUI, [EQUI]
+was,is contained,SIMI,4,NOALI, NOALI (No Alignment)
+still,still,EQUI,5,EQUI, [EQUI]
+-not aligned-,from the positive battery terminal,NOALI,0,NOALI, NOALI (Not Aligned)
+due to,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+Because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,"Terminals 1, 2 and 3",NOALI,0,NOALI, NOALI (Not Aligned)
+a gap,by a gap,EQUI,5,NOALI, NOALI (No Alignment)
+-not aligned-,are separated,NOALI,0,NOALI, NOALI
+a damaged bulb.,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+there,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+was,was contained,EQUI,5,NOALI, NOALI (No Alignment)
+in a closed path,in the same closed path,SPE2,4,SIMI, SIMI
+still,still,EQUI,5,EQUI, [EQUI]
+Bulb A,Bulb A,EQUI,5,EQUI, [EQUI]
+with the battery,with the battery.,EQUI,5,EQUI, The label for this pair of chunks is [EQUI]. Both chunks have the same semantic relation as they both refer to the battery.
+-not aligned-,in 4,NOALI,0,NOALI, NOALI (Not Aligned)
+The battery and light bulb,The battery,SPE2,3,NOALI, [NOALI]
+in a close path,in a closed path,EQUI,5,EQUI, EQUI
+are not contained,is not,EQUI,5,NOALI, NOALI
+and,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is closed,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+the circut,in the same closed path,REL,4,SIMI, SIMI (Similar)
+-not aligned-,are,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,A and C,NOALI,0,NOALI, NOALI (Not Aligned)
+is,is,EQUI,5,NOALI, NOALI (No Alignment)
+"on it""""s own pathway.""",in a separate path,REL,4,SIMI, SIMI (Similar)
+bulb C,Bulb C,EQUI,5,EQUI, [EQUI]
+"""becuase",-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+bulb A,bulb A,EQUI,5,EQUI, [EQUI]
+in a closed path.,in a closed path,EQUI,5,EQUI, [EQUI]
+bulbs B and C,neither B nor C,EQUI,5,NOALI, NOALI
+burns out,"burns out,",EQUI,5,EQUI," The label for this pair of chunks is ""EQUI"" as both chunks have the same semantic relation (burns out)."
+then,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+if,If,EQUI,5,NOALI, NOALI (No Alignment)
+will no longer be,is,SPE1,4,NOALI, NOALI (No Alignment)
+is not connected,are not connected,EQUI,5,NOALI, NOALI
+Terminal 1 to the positive terminal.,Terminal 1 and the positive terminal,EQUI,5,EQUI, EQUI (Equivalent)
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,in 2,NOALI,0,NOALI, NOALI (Not Aligned)
+is not,is not,EQUI,5,NOALI, NOALI (No Alignment)
+in a closed circuit,in a closed path,REL,4,SIMI, [SIMI]
+the battery,The battery,EQUI,5,EQUI, [EQUI]
+the terminal,between the terminals,SPE1,4,OPPO," The label for this pair is OPPO (Opposite). The first chunk refers to a single terminal, while the second chunk refers to the space between terminals, which is the opposite of a terminal."
+is not working,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+is connected,is no gap,REL,4,NOALI, NOALI (No Alignment)
+it,between the terminals,SPE1,4,NOALI, NOALI (No Alignment)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+to,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+a closed path and a battery.,a closed path containing both the bulb and a battery,SPE1,3,SIMI, SIMI
+There,there,EQUI,5,EQUI," The label for this pair is EQUI (Equivalent). Both chunks, ""There"" and ""there"", are used to refer to the same location or position."
+must be,is,SIMI,4,EQUI," The label for this pair is [EQUI]. Both ""must be"" and ""is"" express some form of equality or identity, albeit with different levels of certainty or necessity."
+is connected,are not connected,OPPO,4,OPPO, OPPO
+terminal to terminal 6,Terminals 1 and 6,SPE2,4,SIMI," The label for this pair is ""SIMI"" (Similar). Both chunks refer to the same terminals, although in different orders."
+is,is contained,EQUI,5,NOALI," The label for this pair is NOT APPLICABLE (NOALI). The semantic relation between ""is"" and ""is contained"" is not directly equivocal, oppositional, similar, or relational. The term ""is contained"" is a more specific form of ""is"" in the context of a container-content relationship, but it does not fit into the provided categories of EQUI, OPPO, SPE1, SPE2, SIMI, or REL."
+with the battery and switch x,with the battery and switch X.,EQUI,5,SIMI, SIMI (Similar)
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+bulb a,Bulb A,EQUI,5,SPE1, [SPE1]
+in a closed circuit,in a closed path,REL,4,SIMI, [SIMI]
+-not aligned-,still,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,a bulb and a switch,NOALI,0,NOALI, NOALI (Not Aligned)
+If,If,EQUI,5,NOALI, NOALI (No Alignment)
+the bbulb,the bulb,EQUI,5,EQUI, [EQUI]
+the switch,the switch,EQUI,5,EQUI, [EQUI]
+-not aligned-,are,NOALI,0,NOALI, NOALI (Not Aligned)
+is not,-not aligned-,NOALI,0,NOALI, NOALI
+the path,in the same path,SPE2,4,SIMI, SIMI
+will not affect,affects,OPPO,4,OPPO, OPPO (Opposite)
+"closed,",-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,If,NOALI,0,NOALI, NOALI (Not Aligned)
+are,are,EQUI,5,NOALI, NOALI (No Alignment)
+-not aligned-,bulb A,NOALI,0,NOALI, NOALI (Not Aligned)
+on a closed path,in a closed path,EQUI,5,EQUI, [EQUI]
+-not aligned-,still,NOALI,0,NOALI, NOALI (Not Aligned)
+bulb b and c,bulbs B and C,EQUI,5,SIMI, SIMI
+to the battery,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+-not aligned-,"burns out,",NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,"Terminals 1, 2 and 3",NOALI,0,NOALI, NOALI (Not Aligned)
+a a gap,by a gap,EQUI,5,NOALI, NOALI (No Alignment)
+does not affect,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,are separated,NOALI,0,NOALI, NOALI (Not Aligned)
+the voltage of a battery,from the positive battery terminal,REL,3,SPE1, [SPE1]
+since,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+Because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,in a closed path,NOALI,0,NOALI, NOALI (Not Aligned)
+a light bulb,The battery,REL,3,NOALI, NOALI (No Alignment)
+there,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,is not,NOALI,0,NOALI, NOALI
+-not aligned-,in 2,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,must be contained,NOALI,0,NOALI, NOALI (Not Aligned)
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,in the same path,NOALI,0,NOALI, NOALI (Not Aligned)
+will be burned out,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+the bulb,The damaged bulb and the other bulb,SPE1,3,SIMI, SIMI
+the terminals,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+the positive batter terminal and terminal 6,Terminal 6 and the positive terminal,EQUI,5,SIMI, SIMI (Similar)
+Because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+were connected.,are connected,SIMI,4,OPPO, OPPO (Opposite)
+the the circuit,the path,REL,4,NOALI, [NOALI]
+is complete.,is not closed,REL,3,NOALI, NOALI (No Alignment)
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+still,still,EQUI,5,EQUI, [EQUI]
+with the battery,with the battery,EQUI,5,EQUI, [EQUI]
+on closed paths,in closed paths,EQUI,5,EQUI," The label for this pair is EQUI (Equivalent). Both chunks are referring to the same concept, ""closed paths,"" but are expressed in slightly different ways."
+will be,are,SIMI,4,NOALI, NOALI (No Alignment)
+Bulbs B and C,bulbs B and C,EQUI,5,EQUI, [EQUI]
+the bulb,a bulb and a switch,SPE1,3,SIMI, SIMI (Similar)
+in an closed circuit,in the same path,SPE2,4,SIMI, SIMI (Similar)
+-not aligned-,If,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,the bulb,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,the switch,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,affects,NOALI,0,NOALI, NOALI (Not Aligned)
+is contained,are,EQUI,5,NOALI, NOALI (No Alignment)
+THE,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+ARE,are,EQUI,5,NOALI, NOALI (No Alignment)
+-not aligned-,A and C,NOALI,0,NOALI, NOALI (Not Aligned)
+ON THE SAME PATH,in the same path,EQUI,5,SIMI, SIMI (Similar)
+Bulb a and switch Y,Switch Y and bulb A,EQUI,5,SIMI, SIMI (Similar)
+are not,are not,EQUI,5,NOALI, NOALI (No Alignment)
+in the same path.,in the same closed path,EQUI,5,SIMI," The label for this pair is SIMI (Similar). Both chunks are discussing the idea of being in the same path, although the second one specifies a closed path. However, the general idea remains the same: they are both referring to a shared location or direction."
+the electrical states different,different electrical states,EQUI,5,SIMI, SIMI (Similar)
+of the positive and negative terminals,at the terminals,SPE1,3,SIMI, SIMI (Similar)
+inside the battery,A battery,EQUI,5,SPE2, [SPE2]
+-not aligned-,uses,NOALI,0,NOALI, NOALI (Not Aligned)
+makes,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+A chemical reaction,a chemical reaction,EQUI,5,EQUI, [EQUI]
+-not aligned-,to maintain,NOALI,0,NOALI, NOALI (Not Aligned)
+at all times.,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+"the terminals 4,5, and 6","Terminals 4, 5 and 6",EQUI,5,EQUI, [EQUI]
+are connected,are connected,EQUI,5,EQUI, [EQUI]
+becasue,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+to the positive terminal of the battery,to the positive battery terminal,EQUI,5,EQUI, EQUI
+does not effect,are not,SIMI,2,NOALI, NOALI
+switch Y bulb A,Switch Y and bulb A,EQUI,5,EQUI," The label for this pair is ""EQUI"" (Equivalent). Both chunks are expressing the same action, just with slightly different wording."
+-not aligned-,in the same closed path,NOALI,0,NOALI," The label for this pair is [NOALI]. This is because the two chunks are not aligned semantically. While Chunk 1 is not aligned with any specific semantic relation, Chunk 2 refers to a specific spatial relationship (being in the same closed path), which is not directly related to Chunk 1."
+bulb c,C,EQUI,5,NOALI," The label for this pair is NOALI, as there is no apparent semantic relation between ""bulb c"" and the letter ""C""."
+-not aligned-,then,NOALI,0,NOALI, NOALI (Not Aligned)
+creates,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,are,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,A and B,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,still,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,If,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,with the battery.,NOALI,0,NOALI, NOALI (Not Aligned)
+a gap,"burns out,",REL,3,NOALI, NOALI (No Alignment)
+-not aligned-,in a closed path,NOALI,0,NOALI, NOALI (Not Aligned)
+are not contained,was no longer,SPE2,4,OPPO, OPPO (Opposite)
+in a closed pathway,in a closed path,EQUI,5,SPE2, [SPE2]
+Bulb C and the battery,Bulb C with the battery,EQUI,5,SIMI, SIMI (Similar)
+both,The terminals,EQUI,4,SIMI, SIMI (Similar)
+the two terminals,The terminals,SPE1,4,EQUI," The label for this pair is EQUI (Equivalent). Both chunks refer to the same concept, ""the terminals,"" with slight variations in phrasing."
+will be,are,SIMI,4,NOALI, NOALI (No Alignment)
+0,in the same state.,SPE1,3,NOALI, NOALI (No Alignment)
+is not,is,OPPO,4,NOALI, NOALI (No Alignment)
+with bulbs a and c.,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+in the same path,in a separate path,REL,4,OPPO, OPPO
+bulb b,Bulb B,EQUI,5,EQUI," The label for this pair is ""EQUI"" (Equivalent). Both chunks refer to the same object, a bulb, with minor differences in capitalization and spacing."
+-not aligned-,the terminals,NOALI,0,NOALI, NOALI (Not Aligned)
+with.,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,are not connected.,NOALI,0,NOALI, NOALI
+-not aligned-,means,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,that,NOALI,0,NOALI, NOALI (Not Aligned)
+is interferred,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+The electrical state,A non-zero voltage,REL,3,SIMI, SIMI (Similar)
+the battery and the bulb,The battery,SPE2,3,NOALI, [NOALI]
+Because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+in a closed path.,in a closed path,EQUI,5,EQUI, [EQUI]
+-not aligned-,in 4,NOALI,0,NOALI, NOALI (Not Aligned)
+are not,is not,EQUI,5,OPPO, OPPO (opposite)
+by measuring,Measuring,EQUI,5,EQUI," The label for this pair is ""EQUI"". Both chunks refer to the action of measuring, although they may have different contexts or specific details."
+"in electrical states.""",the electrical state,SPE2,4,NOALI, [NOALI]
+the gap,due to a gap.,EQUI,5,REL," The label for this pair is ""REL"". This is because Chunk 1: [the gap] and Chunk 2: [due to a gap.] are related in that the second chunk explains or provides more information about the first one. However, it's not a perfect match for any of the exact labels provided (EQUI, OPPO, SPE1, SPE2, SIMI, REL, NOALI), so we choose the closest fit, which is ""REL""."
+-not aligned-,the place,NOALI,0,NOALI, NOALI (Not Aligned)
+you,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+"there""""s a difference",changes,SIMI,3,OPPO, OPPO (opposite)
+where,where,EQUI,5,NOALI, NOALI (No Alignment)
+"""because",-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+find,indicates,SIMI,3,SPE2, [SPE2]
+"voltage,",voltage,EQUI,5,EQUI, [EQUI]
+"again,",-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,then,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,"burns out,",NOALI,0,NOALI, NOALI (Not Aligned)
+will be contained,are still,SPE2,4,NOALI, NOALI (No Alignment)
+-not aligned-,If,NOALI,0,NOALI, NOALI (Not Aligned)
+on a closed path,in a closed path.,EQUI,5,EQUI, [EQUI]
+-not aligned-,C,NOALI,0,NOALI, NOALI (Not Aligned)
+bulbs a and b,A and B,SPE1,4,EQUI," The label for the given pair is ""EQUI"". This is because both chunks refer to the same entities (bulbs A and B) using different names (bulbs a and b, A and B)."
+in the the same path,in the same path,EQUI,5,EQUI, [EQUI]
+with the battery.,with the battery,EQUI,5,EQUI, [EQUI]
+are contiained,are not,OPPO,4,NOALI, NOALI
+bulbs b and c,A and C,EQUI,5,OPPO," The label for this pair is OPPO (Opposite). While both chunks contain bulbs B and C, the difference lies in the inclusion of another bulb (A in Chunk 2, which is not present in Chunk 1)."
+There,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+a gap,in the same electrical state,REL,2,SIMI," The label for this pair is SIMI (Similar). The semantic relation between ""a gap"" and ""in the same electrical state"" is that a gap, in terms of electrical conductivity, would typically imply non-conductivity, which is the opposite of being in the same electrical state. However, in this context, if we interpret ""a gap"" as a physical separation that does not necessarily imply non-conductivity, then the two chunks can be considered similar because they are both related to the electrical domain. But since the question asks for the most direct semantic relation, the label SIMI (Similar) is the most appropriate choice."
+in the path.,Terminals 1 and 2,REL,2,NOALI, [NOALI]
+-not aligned-,are,NOALI,0,NOALI, NOALI (Not Aligned)
+is,is,EQUI,5,NOALI, NOALI (No Alignment)
+with a battery,with the battery,EQUI,5,EQUI, [EQUI]
+bulb a,Bulb A,EQUI,5,SPE1, [SPE1]
+-not aligned-,still,NOALI,0,NOALI, NOALI (Not Aligned)
+in a closed path,in a closed path,EQUI,5,EQUI, [EQUI]
+Bulb A and bulb C,A and C,EQUI,5,EQUI, The label for this pair is [EQUI]. This is because both chunks refer to the same entities (Bulb A and Bulb C) in an equivalent manner.
+-not aligned-,in the same closed path,NOALI,0,NOALI," The label for this pair is [NOALI]. This is because the two chunks are not aligned semantically. While Chunk 1 is not aligned with any specific semantic relation, Chunk 2 refers to a physical location or direction (being in the same closed path), which does not align with the semantic meaning of Chunk 1."
+each other.,-not aligned-,NOALI,0,NOALI, NOALI
+affect,are,SIMI,2,NOALI, NOALI (No Alignment)
+in a closed path,a path,EQUI,5,SIMI, SIMI (Similar)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+is contained,containing,EQUI,5,EQUI, EQUI
+switch z,Z and C,SPE1,3,NOALI," The label for this pair is NOALI, as there is no apparent semantic relation between ""switch z"" and ""Z and C""."
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+switch z,both,SPE1,3,NOALI," The label for this pair is NOT APPLICABLE (NOALI). The word ""switch"" refers to changing from one state to another, while ""both"" refers to two entities. In this context, there is no semantic relation between ""switch"" and ""both""."
+the bulb terminal and the negative battery terminal,between the terminals,SPE1,3,NOALI, [NOALI]
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+by a gap,no gap,OPPO,4,NOALI, NOALI (No Alignment)
+are separated,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+are,are contained,EQUI,5,NOALI," The label for this pair is NOT APPLICABLE (NOALI). The semantic relation between ""are"" and ""are contained"" is not directly equivocal, oppositional, similar, or relational. The first chunk is a general verb, while the second chunk describes a state or condition."
+with the battery.,with the battery,EQUI,5,EQUI, [EQUI]
+Bulb A and C,Bulbs A and C,EQUI,5,SIMI, SIMI (Similar)
+still,still,EQUI,5,EQUI, [EQUI]
+in a closed path,in closed paths,SPE1,4,NOALI," The label for this pair is ""NOALI"" as there is no semantic relation between ""in a closed path"" and ""in closed paths"". The second chunk is a plural form of the first, but semantically, they do not have a direct relationship."
+switch and bulb,the switch and the bulb,EQUI,5,SIMI, [SIMI]
+are contained,are contained,EQUI,5,EQUI, [EQUI]
+in the same closed path,in the same path,EQUI,5,SIMI," The label for this pair is SIMI (Similar). Both chunks refer to being in the same path, although Chunk 1 specifies it as a closed path, while Chunk 2 does not. However, the main idea is the same, which is being in the same path."
+if,When,SIMI,3,NOALI, NOALI (No Alignment)
+between the positive battery connection and the bulb terminal.,between the terminals,SPE1,3,SIMI, SIMI (Similar)
+a gap,no gap,OPPO,4,NOALI, NOALI (No Alignment)
+is,is,EQUI,5,NOALI, NOALI (No Alignment)
+there,there,EQUI,5,NOALI, NOALI (No Alignment)
+on the same path,a different path,SIMI,4,OPPO, OPPO
+that,a different path,SIMI,4,NOALI, NOALI (No Alignment)
+on the same path,a path,REL,3,SIMI, SIMI (Similar)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+Bulb A,A,EQUI,5,EQUI," The label for this pair is ""EQUI"" (Equivalent). Both ""Bulb A"" and ""A"" refer to the same entity."
+are.,containing,SIMI,4,NOALI," The label for this pair is NOT APPLICABLE (NOALI). The words ""are."" and ""containing"" do not have a semantic relation that can be categorized as EQUI, OPPO, SPE1, SPE2, SIMI, or REL."
+-not aligned-,and,NOALI,0,NOALI, NOALI (Not Aligned)
+Bulb B and bulb C,B and C,EQUI,5,SIMI," The label for the given pair is ""SIMI"". This is because both chunks refer to the same entities (bulb B and bulb C), just in different ways."
+is not,containing,SIMI,2,NOALI, NOALI (No Alignment)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+it,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,then,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,with the battery.,NOALI,0,NOALI, NOALI (Not Aligned)
+on a different current,in a closed path,REL,4,OPPO, OPPO (Opposite)
+runs,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,C,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,A and B,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,are,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,still,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,"burns out,",NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,If,NOALI,0,NOALI, NOALI (Not Aligned)
+to the difference,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is connected,are connected,EQUI,5,SIMI," The label for this pair is ""SIMI"" (Similar). Both chunks are expressing the idea of connection, but the first one is singular and the second one is plural. However, the meaning remains similar."
+terminal 6,Terminal 6 and the positive terminal,SPE2,3,OPPO," The label for this pair is ""OPPO"". This is because ""Terminal 6"" and ""Terminal 6 and the positive terminal"" are opposites, as one refers to a single terminal, while the other includes the positive terminal in addition to Terminal 6."
+the batteries terminals,Circuit 4,REL,4,NOALI, [NOALI]
+are not connected,has no closed paths,REL,4,NOALI, NOALI
+-not aligned-,Measuring,NOALI,0,NOALI, NOALI (Not Aligned)
+there,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,the place,NOALI,0,NOALI, NOALI (Not Aligned)
+a gap,a gap.,EQUI,5,NOALI, NOALI (No Alignment)
+-not aligned-,changes,NOALI,0,NOALI, NOALI (Not Aligned)
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+a voltage,voltage,EQUI,5,EQUI, [EQUI]
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,the electrical state,NOALI,0,NOALI, NOALI (Not Aligned)
+there,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+if,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+that,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+means,indicates,SIMI,4,SIMI, SIMI (Similar)
+-not aligned-,due to,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,where,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,due to a gap.,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,voltage,NOALI,0,NOALI, NOALI (Not Aligned)
+there,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,the place,NOALI,0,NOALI, NOALI (Not Aligned)
+different electrical states,the electrical state changes,SIMI,4,OPPO, OPPO (Opposite)
+Find,indicates,REL,2,SIMI, SIMI (Similar)
+are,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,Measuring,NOALI,0,NOALI, NOALI (Not Aligned)
+where,where,EQUI,5,NOALI, NOALI (No Alignment)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,containing,NOALI,0,NOALI, NOALI (Not Aligned)
+to the battery,the battery,EQUI,5,SPE2, [SPE2]
+is connected,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+circuit 2,no closed path,REL,3,NOALI, NOALI (No Alias)
+to be,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+an open circuit,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+causes,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+the circuit,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+in the circuit,in a circuit,EQUI,5,EQUI, [EQUI]
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+the gap,a gap,EQUI,5,NOALI, [NOALI]
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+a gap,by the gap,EQUI,5,NOALI, NOALI (No Alignment)
+there,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,are separated,NOALI,0,NOALI, NOALI (Not Aligned)
+in the circuit,Terminal 1 and the positive terminal,REL,3,SIMI, SIMI (Similar)
+-not aligned-,affects,NOALI,0,NOALI, NOALI (Not Aligned)
+to light up,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,are,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,a bulb and a switch,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,the switch,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,If,NOALI,0,NOALI, NOALI (Not Aligned)
+the path,in the same path,SPE2,4,SIMI, SIMI
+has to be closed,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+for the bulb,the bulb,EQUI,5,EQUI, [EQUI]
+in voltage,between the terminals,REL,4,SIMI," The label for this pair is [SIMI]. This is because both chunks, ""in voltage"" and ""between the terminals"", are related to the electrical property of a circuit, specifically voltage. However, it's important to note that this is a simplified interpretation and the actual semantic relation could be more complex in a real-world context."
+is,is,EQUI,5,EQUI, [EQUI]
+no gap,no gap,EQUI,5,NOALI," NOALI (No Alignment) - Since both chunks have no gap, there is no semantic relation between them."
+so,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+there,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+no difference,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+There,there,EQUI,5,EQUI," The label for this pair is EQUI (Equivalent). Both chunks, ""There"" and ""there"", are used to refer to the same location or point in a text."
+the difference,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+between a positive and negative end on the battery.,Terminal 1 and the positive terminal,SIMI,2,SIMI, [SIMI]
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+Voltage,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,are separated,NOALI,0,NOALI, NOALI
+-not aligned-,by the gap,NOALI,0,NOALI, NOALI (Not Aligned)
+a short circuit,a complete circuit,OPPO,4,OPPO, OPPO (Opposite)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+had,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+bulb,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+Bulb A and bulb C,Bulb B and Bulb C,EQUI,5,OPPO," [OPPO] (Opposite) - Both pairs consist of one common bulb (Bulb C), but the first pair includes Bulb A, while the second pair includes Bulb B, which are opposites."
+are,were still contained,SPE2,4,NOALI, NOALI (No Alignment)
+with the battery.,with the battery.,EQUI,5,EQUI, [EQUI]
+in a closed path,in the same closed path,SPE2,4,SIMI, SIMI
+are connected,are connected,EQUI,5,EQUI, [EQUI]
+"Terminals 4, 5, and 6","Terminals 4, 5 and 6",EQUI,5,EQUI," The label for the given chunks is [EQUI]. This is because both chunks refer to the same terminals (4, 5, and 6)."
+only,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+to the positive battery terminal.,to the positive battery terminal,EQUI,5,EQUI, [EQUI]
+a terminal to the positive battery terminal,the terminals,SPE1,3,SPE2, [SPE2]
+is connected,are not connected,OPPO,4,OPPO, OPPO
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+in the same state,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+the terminals,terminal 1 to the negative battery terminal,SPE2,3,NOALI, [NOALI]
+are,is connected,SIMI,2,NOALI, [NOALI]
+"isn""""t included",are not,EQUI,5,OPPO, OPPO
+"""because",-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+"switch y in bulb A""""s",Switch Y and bulb A,EQUI,5,OPPO, OPPO (Opposite)
+"closed path""",in the same closed path,EQUI,5,SIMI, SIMI
+the negative battery terminal,from the negative battery terminal,EQUI,5,NOALI, [NOALI]
+by a gap,by a gap,EQUI,5,NOALI, NOALI (No Alignment)
+is seperated,is separated,EQUI,5,EQUI, [EQUI]
+from terminal 6,terminal 6,EQUI,5,EQUI, [EQUI]
+the bulb terminal to one of the battery terminals,between the terminals,SPE1,3,NOALI, [NOALI]
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+only,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+that,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is connected,is no gap,REL,4,NOALI, NOALI (No Alignment)
+-not aligned-,terminal 4,NOALI,0,NOALI, NOALI (Not Aligned)
+there,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,from the negative battery terminal,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,is separated,NOALI,0,NOALI, NOALI (Not Aligned)
+was,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+a negavtive gap,by a gap,SPE1,4,NOALI, NOALI (No Alignment)
+is connected,are connected,EQUI,5,SIMI," The label for this pair is ""SIMI"". Both chunks have a similar meaning, although the first one is singular and the second one is plural."
+terminal,"Terminals 4, 5 and 6",SPE1,2,NOALI, NOALI (No Alignment)
+to postive end of battery,to the positive battery terminal,EQUI,5,SIMI, [SIMI]
+is connected,is connected,EQUI,5,EQUI, [EQUI]
+to the 1.5 volt battery.,to the negative battery terminal,REL,4,NOALI, [NOALI]
+terminal 1,terminal 1,EQUI,5,EQUI, [EQUI]
+-not aligned-,the switch,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,the bulb,NOALI,0,NOALI, NOALI (Not Aligned)
+must be,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,a bulb and a switch,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,If,NOALI,0,NOALI, NOALI (Not Aligned)
+closed,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+The path,in the same path,SPE2,4,SIMI, SIMI
+-not aligned-,are,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,affects,NOALI,0,NOALI, NOALI (Not Aligned)
+on the same path,in the same path,EQUI,5,EQUI, [EQUI]
+are contained,are,EQUI,5,NOALI, NOALI (No Alignment)
+with the battery.,with the battery,EQUI,5,EQUI, [EQUI]
+Bulbs B and C,B and C,EQUI,5,SPE1, The label for this pair is [SPE1]. This indicates that the two chunks are semantically identical.
+of the battery,-not aligned-,NOALI,0,NOALI, NOALI
+is connected,are connected,EQUI,5,SIMI," The label for this pair is ""SIMI"" (Similar). Both chunks are expressing the idea of connection, but in different forms (singular and plural)."
+a terminal to the positive terminal,Terminal 6 and the positive terminal,SPE2,4,OPPO, [OPPO]
+are,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,then,NOALI,0,NOALI, NOALI (Not Aligned)
+in parallel,in a closed path.,REL,3,OPPO," The label for this pair is OPPO (Opposite). While both chunks are related to the concept of movement or direction, ""in parallel"" implies moving side by side, while ""in a closed path"" implies moving in a loop or circle, which are opposite concepts."
+-not aligned-,"burns out,",NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,If,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,still,NOALI,0,NOALI, NOALI (Not Aligned)
+in series,in a closed path.,REL,3,OPPO," The label for this pair is OPPO (Opposite). While both chunks are related to the concept of a sequence or path, ""in series"" implies a continuous sequence, while ""in a closed path"" implies a loop or cycle, which are opposite concepts."
+a and b,A and B,EQUI,5,SIMI, SIMI (Similar)
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+are,are,EQUI,5,NOALI, NOALI (No Alignment)
+and,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+a and c,C,SPE2,3,NOALI," The label for this pair is ""NOALI"" as there is no apparent semantic relation between ""a and c"" and ""C""."
+is connected,are connected,EQUI,5,SIMI," The label for this pair is ""SIMI"". Both chunks, ""is connected"" and ""are connected"", have a similar semantic meaning, which is to denote a state of being linked or joined."
+of the battery,-not aligned-,NOALI,0,NOALI, NOALI
+a terminal to the positive terminal,Terminal 5 and the positive terminal,SPE2,4,NOALI, [NOALI]
+the bulb,The bulb,EQUI,5,EQUI, [EQUI]
+is not contained,is not,EQUI,5,NOALI, NOALI
+in the path,in the closed path,EQUI,5,OPPO, OPPO (Opposite)
+-not aligned-,containing,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,the battery,NOALI,0,NOALI, NOALI (Not Aligned)
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+gap,by the gap,EQUI,5,NOALI, NOALI (No Alignment)
+positive charge,Terminal 1 and the positive terminal,REL,3,SPE1, [SPE1]
+-not aligned-,are separated,NOALI,0,NOALI, NOALI
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+before,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+Because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,still,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,If,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,bulb A,NOALI,0,NOALI, NOALI (Not Aligned)
+on the same path,in a closed path,SPE1,4,OPPO," The label for this pair is OPPO (Opposite). While both chunks are related to paths, ""on the same path"" and ""in a closed path"" are opposite concepts. In an open path, you can continue moving, but in a closed path, you return to the starting point, which is the opposite of being on the same path."
+-not aligned-,"burns out,",NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,bulbs B and C,NOALI,0,NOALI, NOALI (Not Aligned)
+it,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is not,are,OPPO,4,NOALI, NOALI
+-not aligned-,no longer,NOALI,0,NOALI, NOALI (Not Aligned)
+connected,-not aligned-,NOALI,0,NOALI," The label for this pair is NOALI, as Chunk 2 is not aligned with Chunk 1."
+Seperate paths,in a closed path,REL,4,OPPO, OPPO (Opposite)
+-not aligned-,bulb A,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,"burns out,",NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,B and C,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,are,NOALI,0,NOALI, NOALI (Not Aligned)
+to the battery,with the battery,EQUI,5,SIMI," The label for this pair is ""SIMI"" (Similar). Both chunks are referring to the battery, but in slightly different ways."
+-not aligned-,If,NOALI,0,NOALI, NOALI (Not Aligned)
+means,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+the battery,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+A red X,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is,is,EQUI,5,EQUI, [EQUI]
+in a short circuit.,a short circuit,EQUI,5,EQUI, [EQUI]
+in a closed path.,no closed paths,REL,4,NOALI, NOALI (No Alignment)
+The battery,Circuit 4,REL,3,NOALI, NOALI (No Alignment)
+is not closed,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+-not aligned-,has,NOALI,0,NOALI, NOALI (Not Aligned)
+to the battery,to the negative battery terminal,SPE2,4,SPE2, [SPE2]
+is connected,are connected,EQUI,5,SIMI," The label for this pair is ""SIMI"" (Similar). Both chunks have a similar meaning, although one is singular and the other is plural."
+terminal,"Terminals 1, 2 and 3",SPE1,2,NOALI, NOALI (No Alignment)
+in the same closed path,in the same path,EQUI,5,SIMI," The label for this pair is SIMI (Similar). Both chunks refer to being in the same path, although Chunk 1 specifies it as a closed path, while Chunk 2 does not. However, the main idea is the same, which is being in the same path."
+Bulb A and Bulb C,A and C,EQUI,5,EQUI," The label for the given pair is ""EQUI"" (Equivalent). Both chunks refer to the same pair of bulbs (A and C)."
+are not contained,are not,EQUI,5,NOALI, NOALI
+on the same closed path.,in the same path,EQUI,5,EQUI," The label for the given pair is ""EQUI"". Both chunks are describing the same situation, that the entities are on or in the same path."
+are not,are not,EQUI,5,NOALI, NOALI (No Alignment)
+bulbs A and C,A and C,EQUI,5,EQUI," The label for this pair is [EQUI]. This is because both chunks refer to the same entities, bulbs A and C, just in different orders."
+-not aligned-,When,NOALI,0,NOALI, NOALI (Not Aligned)
+"bulb, battery, and switch",the switch and the bulb,SPE2,3,SIMI, SIMI (Similar)
+are,are contained,EQUI,5,NOALI," The label for this pair is NOT APPLICABLE (NOALI). The semantic relation between ""are"" and ""are contained"" is not directly equivocal, oppositional, similar, or relational. The first chunk is a verb form, while the second chunk is a phrase describing a state or condition."
+in closed path,in the same path,SPE2,4,SIMI, SIMI
+are no longer,is,OPPO,4,NOALI, NOALI (No Alignment)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+the paths of the circuit complete,an incomplete circuit,REL,4,NOALI, NOALI (No Alignment)
+is,has,SIMI,3,NOALI, NOALI (No Alignment)
+no closed path,no closed paths,SPE1,4,NOALI, [NOALI]
+in circuit 4.,Circuit 4,EQUI,5,EQUI," The label for this pair is EQUI (Equivalent). Both chunks refer to the same circuit, which is Circuit 4."
+there,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+a chemical reaction reaction.,a chemical reaction,EQUI,5,SIMI, [SIMI]
+-not aligned-,at the terminals,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,to maintain,NOALI,0,NOALI, NOALI (Not Aligned)
+keeps,uses,SIMI,4,OPPO, OPPO (Opposite)
+The battery,A battery,EQUI,5,EQUI, [EQUI]
+-not aligned-,different electrical states,NOALI,0,OPPO," The label for this pair is OPPO (Opposite). Chunk 1: [-not aligned-] does not provide a specific semantic relation, but when paired with Chunk 2: [different electrical states], it can be inferred that they are opposite, as one implies no alignment and the other implies different electrical states."
+-not aligned-,to maintain,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,uses,NOALI,0,NOALI, NOALI (Not Aligned)
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+between two battery terminals.,at the terminals,SPE1,3,SIMI, The label for this pair is SIMI (Similar). Both chunks refer to the location of something at or near the terminals.
+a difference in voltage,different electrical states,SIMI,3,OPPO, OPPO (opposite)
+-not aligned-,a chemical reaction,NOALI,0,NOALI, NOALI (Not Aligned)
+always,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+There,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,A battery,NOALI,0,NOALI, NOALI (Not Aligned)
+terminal 1is to terminal 4,Terminals 1 and 4,EQUI,5,SIMI, SIMI (Similar)
+connected,are connected,EQUI,5,EQUI, EQUI
+-not aligned-,then,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,"burns out,",NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,C,NOALI,0,NOALI, NOALI (Not Aligned)
+will be,are,SIMI,4,NOALI, NOALI (No Alignment)
+Bulb A and B,A and B,EQUI,5,EQUI, The label for this pair is [EQUI]. This is because both chunks refer to the same entities (Bulb A and B) and they are equal.
+-not aligned-,If,NOALI,0,NOALI, NOALI (Not Aligned)
+still,still,EQUI,5,EQUI, [EQUI]
+in a contained path.,in a closed path.,EQUI,5,OPPO, OPPO (Opposite)
+bulb a,Bulb A,EQUI,5,SPE1, [SPE1]
+-not aligned-,still,NOALI,0,NOALI, NOALI (Not Aligned)
+with the battery,with the battery,EQUI,5,EQUI, [EQUI]
+is,is,EQUI,5,NOALI, NOALI (No Alignment)
+in a closed circuit,in a closed path,REL,4,SIMI, [SIMI]
+without the y switch.,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+different paths,in the same path,REL,4,OPPO, OPPO
+-not aligned-,B and C,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,are,NOALI,0,NOALI, NOALI (Not Aligned)
+with the battery,with the battery,EQUI,5,EQUI, [EQUI]
+matches,-not aligned-,NOALI,0,SIMI, SIMI (Similar)
+at the terminal,terminal 1,SPE2,4,SPE1," The label for this pair is ""SPE1"" (Specific-1). Chunk 1: [at the terminal] is a more specific description of Chunk 2: [terminal 1]."
+-not aligned-,is connected,NOALI,0,NOALI, NOALI (Not Aligned)
+"electrical state""",-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+"""The electrical state",-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,to the negative battery terminal,NOALI,0,NOALI, NOALI (Not Aligned)
+"the battery""""s",-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+the battery,The battery,EQUI,5,EQUI, [EQUI]
+is not,-not aligned-,NOALI,0,NOALI, NOALI
+in a closed path,in a closed path,EQUI,5,EQUI, [EQUI]
+a short circuit,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+Circuit 2,in 2,EQUI,5,SPE1," The label for this pair is [SPE1]. This indicates that the two chunks refer to the same entity, but with different attributes. In this case, ""Circuit 2"" and ""in 2"" both refer to the same circuit, but the first describes what it is, and the second describes its location or position."
+is not,is not,EQUI,5,NOALI, NOALI (No Alignment)
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+with itself.,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,still,NOALI,0,NOALI, NOALI (Not Aligned)
+is,was contained,SIMI,4,NOALI, [NOALI]
+on a closed circut path,in the same closed path,SPE2,4,SIMI, SIMI
+-not aligned-,with the battery.,NOALI,0,NOALI, NOALI (Not Aligned)
+Bulb A,Bulb A,EQUI,5,EQUI, [EQUI]
+Bulb B and bulb C,B and C,EQUI,5,SIMI," The label for the given pair is ""SIMI"". This is because both chunks refer to the same entities (bulbs B and C), although they are expressed in slightly different ways."
+are contained,are,EQUI,5,NOALI, NOALI (No Alignment)
+in different paths,in the same path,REL,4,OPPO, OPPO (Opposite)
+with the battery,with the battery,EQUI,5,EQUI, [EQUI]
+-not aligned-,to maintain,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,a chemical reaction,NOALI,0,NOALI, NOALI (Not Aligned)
+the battery,A battery,EQUI,5,EQUI, [EQUI]
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+and,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+a positive terminal a negative terminal.,at the terminals,SPE1,3,NOALI," The label for this pair of chunks is ""NOALI"" as there is no apparent semantic relation between ""a positive terminal a negative terminal"" and ""at the terminals""."
+there,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+always,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+a voltage,different electrical states,REL,3,OPPO, [OPPO]
+has,uses,SIMI,2,OPPO, [OPPO]
+there,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+between 3 and positive battery,Terminal 3 and the positive terminal,EQUI,5,SIMI, SIMI (Similar)
+gap,by the gap,EQUI,5,NOALI, NOALI (No Alignment)
+-not aligned-,are separated,NOALI,0,NOALI, NOALI (Not Aligned)
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+bulbs A and C,A and C,EQUI,5,SIMI," The label for this pair is [SIMI]. Both chunks refer to the same bulbs (A and C), although the first one includes an additional descriptive term (""bulbs"")."
+in different paths,in different paths,EQUI,5,EQUI, [EQUI]
+with the battery,with the battery,EQUI,5,EQUI, [EQUI]
+are contained,are,EQUI,5,NOALI, NOALI (No Alignment)
+because of the gap,by a gap,EQUI,5,SIMI," The label for this pair is ""SIMI"" (Similar). Both chunks are referring to a gap, although they use slightly different wordings."
+at bulb b,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+-not aligned-,"Terminals 1, 2 and 3",NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,from the positive battery terminal,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,are separated,NOALI,0,NOALI, NOALI (Not Aligned)
+in an open path,in a closed path,OPPO,4,OPPO, OPPO (Opposite)
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+bulb c,Bulb C,EQUI,5,EQUI, [EQUI]
+was,was not,OPPO,4,OPPO, OPPO
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+in the closed path,in a closed path,EQUI,5,EQUI, EQUI
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+switch y,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is not conatined,-not aligned-,NOALI,0,NOALI, NOALI
+of bulb a and the battery.,Bulb A with the battery,EQUI,5,SIMI, SIMI
+-not aligned-,still,NOALI,0,NOALI, NOALI (Not Aligned)
+is not connected,are not connected,EQUI,5,NOALI, NOALI
+A terminal to the negative battery terminal.,Terminals 1 and 6,SPE2,2,NOALI, [NOALI]
+bulb B and C,bulbs B and C,EQUI,5,SIMI, SIMI (Similar)
+both,bulbs B and C,EQUI,5,SIMI, SIMI
+with the battery,with the battery,EQUI,5,EQUI, [EQUI]
+are,are,EQUI,5,NOALI, NOALI (No Alignment)
+still,still,EQUI,5,EQUI, [EQUI]
+on a closed path,in closed paths,SPE1,4,NOALI, [NOALI]
+terminal 1 and terminal 6,Terminals 1 and 6,EQUI,5,EQUI," The label for the given pair of chunks is ""EQUI"". This is because both chunks refer to the same entities, terminals 1 and 6, but with slight variations in the way they are phrased."
+by a gap,by the gap,EQUI,5,SIMI," The label for this pair is SIMI (Similar). Both chunks refer to the same concept, the gap, but use different prepositions."
+are seperated,are separated,EQUI,5,EQUI, [EQUI]
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+in a closed path.,in a closed path,EQUI,5,EQUI, [EQUI]
+in a closed path.,in which,EQUI,5,SPE2," The label for this pair is ""SPE2"". This indicates that Chunk 1 provides additional information about the subject or object mentioned in Chunk 2. In this case, ""in a closed path"" is additional information about ""in which""."
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,no bulb,NOALI,0,NOALI, NOALI (Not Aligned)
+is,is contained,EQUI,5,NOALI," The label for this pair is NOT APPLICABLE (NOALI). The semantic relation between ""is"" and ""is contained"" is not directly equivocal, oppositional, similar, or relational. The term ""is contained"" implies a more specific relationship, such as ""is a part of"" or ""is included in"", which are not included in the provided labels."
+the battery,the battery,EQUI,5,EQUI, [EQUI]
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+a battery and a bulb,the bulb and a battery,EQUI,5,OPPO, OPPO (Opposite)
+including,containing,EQUI,5,SIMI," The label for this pair is SIMI (Similar). Both ""including"" and ""containing"" imply a relationship of enclosure or inclusion."
+complete path,a closed path,EQUI,5,NOALI, NOALI (No Alignment)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+a battery and a bulb,both,EQUI,5,SIMI, [SIMI]
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+creat,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+bulbs b and c,Bulb B,SPE2,3,SIMI," The label for this pair is SIMI (Similar). Both chunks refer to bulbs, and while the first chunk mentions bulbs B and C, the second chunk specifically mentions Bulb B, which is still similar as it is a part of the group."
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+a gap,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+in the path,in a separate path,REL,4,OPPO, OPPO
+are connected,are connected,EQUI,5,EQUI, [EQUI]
+the positive battery terminal and terminal 5,Terminal 5 and the positive terminal,EQUI,5,SIMI, SIMI (Similar)
+the the bulb terminal from the battery terminal,the terminals,SPE1,4,SIMI, [SIMI]
+disconnected,are not connected,EQUI,5,OPPO, OPPO (Opposite)
+the battery,the battery,EQUI,5,EQUI, [EQUI]
+and,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+the light bulb,no bulb,OPPO,4,NOALI, NOALI
+in the circuit,in a path,REL,4,SIMI, SIMI (Similar)
+in the circuit,in which,REL,4,REL," The label for this pair is [REL]. The word ""in the circuit"" and ""in which"" are related as ""in the circuit"" is a more specific description of the context in which something is happening, and ""in which"" is asking for that context."
+is contained,is contained,EQUI,5,EQUI, [EQUI]
+is not,is,OPPO,4,NOALI, NOALI (No Alignment)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+do not connect,in an open path,REL,4,NOALI, NOALI (No Alignment)
+of the battery,the battery,EQUI,5,EQUI, [EQUI]
+to one another,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+the two ends,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+open,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+the circuit is no longer complete,an incomplete circuit,EQUI,5,OPPO, OPPO (Opposite)
+When,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+a switch,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+if,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+both bulbs,The damaged bulb and the other bulb,SPE2,3,SIMI, SIMI
+are contained,must be contained,SIMI,4,OPPO, OPPO (Opposite)
+within a closed path,in the same path,SPE2,4,SIMI, SIMI
+-not aligned-,in 2,NOALI,0,NOALI, NOALI (Not Aligned)
+and,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+in that circuit,in a closed path,REL,4,SPE2, [SPE2]
+in a closed circuit,in a closed path,REL,4,SIMI, [SIMI]
+the battery,The battery,EQUI,5,EQUI, [EQUI]
+The bulb,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+exists,is not,REL,3,NOALI, NOALI (No Alignment)
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,still,NOALI,0,NOALI, NOALI (Not Aligned)
+to the light bulb,Bulb A,SPE2,4,SPE1, [SPE1]
+is connected,was contained,SIMI,3,NOALI, [NOALI]
+-not aligned-,with the battery.,NOALI,0,NOALI, NOALI (Not Aligned)
+the closed path,in the same closed path,SPE2,4,SIMI, SIMI
+"the electrical states the same,",in the same state.,EQUI,5,EQUI, [EQUI]
+resulting,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is,are,EQUI,5,NOALI, NOALI (No Alignment)
+in 0,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+between the terminals,The terminals,EQUI,5,SIMI, SIMI (Similar)
+bulb b and bulb c,B and C,EQUI,5,SIMI," The label for the given chunks is ""SIMI"". This is because both chunks refer to the same pairs of items (bulb b and bulb c, and B and C) in a different way, indicating a similar semantic relation."
+are contained,are,EQUI,5,NOALI, NOALI (No Alignment)
+-not aligned-,with the battery,NOALI,0,NOALI, NOALI (Not Aligned)
+within a closed path,in the same path,SPE2,4,SIMI, SIMI
+circuit 5,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+in a closed path.,in a closed path,EQUI,5,EQUI, [EQUI]
+in a closed path.,in which,EQUI,5,SPE2," The label for this pair is ""SPE2"". This indicates that Chunk 1 provides additional information about the subject or object mentioned in Chunk 2. In this case, ""in a closed path"" is additional information about ""in which""."
+is,is contained,EQUI,5,NOALI," The label for this pair is NOT APPLICABLE (NOALI). The semantic relation between ""is"" and ""is contained"" is not directly equivocal, oppositional, similar, or relational. The term ""is contained"" implies a more specific relationship, such as ""is a part of"" or ""is included in"", but ""is"" is a general linking verb and does not have a specific semantic relation with ""is contained""."
+-not aligned-,the battery,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,no bulb,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,by the gap,NOALI,0,NOALI, NOALI (Not Aligned)
+is connected,are separated,OPPO,4,OPPO, OPPO
+terminal 6 to terminal 1,Terminals 1 and 6,EQUI,5,EQUI," The label for the given chunks is ""EQUI"" (Equivalent). Both chunks refer to the same set of terminals, just with different orderings."
+in the circuit,in a circuit,EQUI,5,EQUI, [EQUI]
+is,is,EQUI,5,NOALI, NOALI (No Alignment)
+bulb B,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is damaged,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+there,there,EQUI,5,NOALI, NOALI (No Alignment)
+If,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+a gap,a gap,EQUI,5,NOALI, NOALI (No Alignment)
+when,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+in a complete circuit,in a closed path,REL,4,EQUI, [EQUI]
+-not aligned-,still,NOALI,0,NOALI, NOALI (Not Aligned)
+is closed.,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+is,is contained,EQUI,5,NOALI," The label for this pair is NOT APPLICABLE (NOALI). The semantic relation between ""is"" and ""is contained"" is not directly equivocal, oppositional, similar, or relational. The term ""is contained"" is a more specific form of ""is"" in the context of a container-content relationship, but it does not fit neatly into the provided categories."
+with the battery switch z,with the battery and switch Z.,EQUI,5,EQUI," The label for this pair of chunks is ""EQUI"" (Equivalent). Both chunks are describing the same thing, but the second one is more detailed."
+bulb a,Bulb A,EQUI,5,SPE1, [SPE1]
+-not aligned-,still,NOALI,0,NOALI, NOALI (Not Aligned)
+is,is,EQUI,5,NOALI, NOALI (No Alignment)
+bulb a,Bulb A,EQUI,5,SPE1, [SPE1]
+with the battery,with the battery,EQUI,5,EQUI, [EQUI]
+on a closed path,in a closed path,EQUI,5,EQUI, [EQUI]
+those terminals,"Terminals 4, 5 and 6",SPE2,2,SIMI, SIMI (Similar)
+to the positive terminal of the battery.,to the positive battery terminal,EQUI,5,EQUI, EQUI (Equivalent)
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+are connected,are connected,EQUI,5,EQUI, [EQUI]
+-not aligned-,Bulb C,NOALI,0,NOALI, NOALI (Not Aligned)
+in a closed path,in a closed path,EQUI,5,EQUI, [EQUI]
+Not contained,was not,EQUI,5,NOALI, NOALI (No Alignment)
+to positive charge,to the positive battery terminal,REL,4,EQUI, [EQUI]
+terminal,"Terminals 4, 5 and 6",SPE2,2,NOALI, NOALI (No Alignment)
+connected,are connected,EQUI,5,EQUI, EQUI
+voltage,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+measures,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,are separated,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,by the gap,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,Terminal 1 and the positive terminal,NOALI,0,NOALI, [NOALI]
+the difference between two points,-not aligned-,NOALI,0,OPPO, OPPO (Opposite)
+Bulbs a and c,"A, B and C",SPE1,3,SIMI, SIMI (Similar)
+are,are,EQUI,5,NOALI, NOALI (No Alignment)
+in separate paths.,in different paths,EQUI,5,OPPO, OPPO
+of battery,-not aligned-,NOALI,0,NOALI, NOALI
+terminal 6 to postive terminal,Terminals 1 and 6,SIMI,2,NOALI, [NOALI]
+is connected,are not connected,OPPO,4,OPPO, OPPO
+a terminal to the negative battery terminal,the terminals,SPE1,3,EQUI, [EQUI]
+is connected,are not connected,OPPO,4,OPPO, OPPO
+is,is contained,EQUI,5,NOALI," The label for this pair is NOT APPLICABLE (NOALI). The semantic relation between ""is"" and ""is contained"" is not directly equivocal, oppositional, similar, or relational. The first chunk is a copula verb, while the second chunk describes a relationship between two entities."
+bulb A,Bulb A,EQUI,5,EQUI, [EQUI]
+in the same path,in a closed path,SPE1,4,OPPO," The label for this pair is OPPO (Opposite). While both chunks are related to the concept of a path, ""in the same path"" and ""in a closed path"" are opposite in meaning."
+as,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+Switch Z,with the battery and switch Z.,SPE1,3,EQUI," The label for this pair of chunks is ""EQUI"" (Equivalent). Both chunks refer to the same entity, ""Switch Z""."
+-not aligned-,still,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,If,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,neither B nor C,NOALI,0,NOALI, The label for this pair is [NOALI].
+-not aligned-,"burns out,",NOALI,0,NOALI, NOALI (Not Aligned)
+there,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+will be,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+a gap,in a closed path,REL,4,NOALI, NOALI (No Alignment)
+-not aligned-,bulb A,NOALI,0,NOALI, NOALI (Not Aligned)
+each bulb,each bulb,EQUI,5,EQUI, [EQUI]
+its own complete path,in its own path,EQUI,5,SIMI," The label for this pair is ""SIMI"". Both chunks are referring to the concept of ""its own path"", although the second chunk is more specific, stating that it is ""in"" its own path. This implies a similar semantic relation, but not an exact match (EQUI), opposition (OPPO), or a relationship (REL). The terms ""SPE1"" and ""SPE2"" are not applicable here, and ""NOALI"" would not be appropriate as there is a semantic relation between the two chunks."
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+has,is,SIMI,4,NOALI, [NOALI]
+have,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+separate paths,in a closed path,REL,4,OPPO, OPPO (Opposite)
+-not aligned-,"burns out,",NOALI,0,NOALI, NOALI (Not Aligned)
+within the closed circuit,with the battery,REL,3,NOALI, [NOALI]
+-not aligned-,If,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,bulb A,NOALI,0,NOALI, NOALI (Not Aligned)
+bulbs b and c,B and C,EQUI,5,EQUI," The label for this pair is ""EQUI"". Both chunks refer to the same bulbs (b and c, and B and C), so they are equivalent."
+-not aligned-,are,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,no longer,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,by a gap,NOALI,0,NOALI, NOALI (Not Aligned)
+A terminal,"Terminals 1, 2 and 3",SPE2,2,NOALI, [NOALI]
+-not aligned-,from the positive battery terminal,NOALI,0,NOALI, NOALI (Not Aligned)
+is connected,are separated,OPPO,4,OPPO, OPPO
+to a bulb.,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+the positive battery terminal from terminal 4,Terminal 4 and the positive terminal,EQUI,5,SIMI, SIMI
+are,are contained,EQUI,5,NOALI," The label for this pair is NOT APPLICABLE (NOALI). The semantic relation between ""are"" and ""are contained"" is not directly equivocal, oppositional, similar, or relational. The first chunk is a verb form, while the second chunk is a phrase describing a state or condition."
+a switch and bulb,the switch and the bulb,EQUI,5,SIMI, [SIMI]
+when,When,EQUI,5,EQUI," The label for this pair is EQUI (Equivalent). Both chunks are using the same word ""when"" to indicate a time reference."
+whithin a closed path,in the same path,SPE2,4,SIMI, SIMI
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,is not closed,NOALI,0,NOALI, NOALI
+short,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+the path,the path,EQUI,5,EQUI, [EQUI]
+Bulb A,bulb A,EQUI,5,EQUI, [EQUI]
+-not aligned-,"burns out,",NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,neither B nor C,NOALI,0,NOALI, NOALI
+will,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+be completing,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,If,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+the circuts.,in a closed path,REL,4,NOALI," The label for this pair is [NOALI], as there is no apparent semantic relation between ""the circuits."" and ""in a closed path""."
+no longer,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+a gap,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+Bulb C,each bulb,SPE1,3,SIMI, SIMI (Similar)
+will create,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+in the path,in its own path,SPE2,4,OPPO, OPPO (Opposite)
+was contained,was contained,EQUI,5,EQUI, [EQUI]
+with the battery,with the battery.,EQUI,5,EQUI, The label for this pair of chunks is [EQUI]. Both chunks have the same semantic relation as they both refer to the battery.
+-not aligned-,still,NOALI,0,NOALI, NOALI (Not Aligned)
+on a closed path,in the same closed path,SPE2,4,SIMI, SIMI
+bulb a,Bulb A,EQUI,5,SPE1, [SPE1]
+Terminal 1 to terminl 4.,Terminals 1 and 4,EQUI,5,OPPO," The label for this pair of chunks is ""OPPO"". This is because Chunk 1 refers to terminals 1 to 4, while Chunk 2 specifically mentions terminals 1 and 4, implying that terminals 2 and 3 are excluded, making them opposites."
+is connected,are connected,EQUI,5,SIMI," The label for this pair is ""SIMI"" (Similar). Both chunks express the idea of connection, but the first one is singular and the second one is plural. However, the meaning remains similar."
+on the same path,in a separate path,REL,4,OPPO, OPPO
+Bulb C.,Bulb C,EQUI,5,EQUI," The label for this pair of chunks is [EQUI]. Both chunks refer to the same thing, ""Bulb C""."
+Bulbs A and B,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+are not,is,OPPO,4,OPPO, OPPO (Opposite)
+as,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+Each circuit,a complete circuit,SPE2,3,SIMI, [SIMI]
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+a connection.,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+must have,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+with a bulb and a battery,a bulb and a switch,SIMI,3,SIMI, SIMI (Similar)
+in a closed path,in the same path,SPE2,4,SIMI, SIMI
+contained,are,SIMI,4,NOALI," The label for this pair is NOT APPLICABLE (NOALI). The word ""are"" does not have a semantic relation to ""contained"" in this context."
+A switch,the switch,EQUI,5,EQUI, [EQUI]
+will affect,affects,SIMI,4,EQUI, [EQUI]
+-not aligned-,If,NOALI,0,NOALI, NOALI (Not Aligned)
+the bulb.,the bulb,EQUI,5,EQUI, [EQUI]
+-not aligned-,are separated,NOALI,0,NOALI, NOALI
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+the difference,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+between a positive and negative terminal,Terminal 1 and the positive terminal,SIMI,3,SIMI," The label for this pair is SIMI (Similar). Both chunks refer to the concept of a terminal, with Chunk 1 specifying a positive and negative terminal, and Chunk 2 referring to Terminal 1, which could be one of the two terminals."
+Voltage,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+on the battery.,-not aligned-,NOALI,0,NOALI, NOALI
+-not aligned-,by the gap,NOALI,0,NOALI, NOALI (Not Aligned)
+with the battery.,with the battery.,EQUI,5,EQUI, [EQUI]
+in a closed paty,in the same closed path,SPE2,4,EQUI," The label for this pair is ""EQUI""."
+bulbs b and c,Bulb B and Bulb C,EQUI,5,SIMI, [SIMI]
+-not aligned-,still,NOALI,0,NOALI, NOALI (Not Aligned)
+were,were contained,EQUI,5,NOALI, NOALI (No Alignment)
+z,"A, C, Z and X",SPE1,2,NOALI, NOALI (No Alignment)
+complete,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+the path,a path,EQUI,5,SIMI, SIMI (Similar)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+be closed,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+can,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,containing,NOALI,0,NOALI, NOALI (Not Aligned)
+by having,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,When,NOALI,0,NOALI, NOALI (Not Aligned)
+the bulb and the switch,the switch and the bulb,EQUI,5,OPPO, OPPO (Opposite)
+as,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+A switch,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+are,are contained,EQUI,5,NOALI," The label for this pair is NOT APPLICABLE (NOALI). The semantic relation between ""are"" and ""are contained"" is not directly equivocal, oppositional, similar, or relational. The first chunk is a general verb, while the second chunk is a more specific phrase describing a state or condition."
+it,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+will affect,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+in the path,in the same path,SPE2,4,SIMI, SIMI
+the battery,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+a bulb,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+the positive battery terminal,between terminal 6 and the positive terminal,SPE1,3,SIMI, [SIMI]
+is not connected,is no gap,OPPO,4,NOALI, NOALI
+-not aligned-,There,NOALI,0,NOALI, NOALI (Not Aligned)
+are,are,EQUI,5,NOALI, NOALI (No Alignment)
+on a closed path,in closed paths,SPE1,4,NOALI, [NOALI]
+contains the battery.,with the battery,EQUI,5,SPE1, [SPE1]
+still,still,EQUI,5,EQUI, [EQUI]
+that,in closed paths,SPE1,4,NOALI, NOALI (No Alignment)
+Bulb A and bulb C,Bulbs A and C,EQUI,5,SIMI, SIMI (Similar)
+on their own completed circuts.,in a closed path,REL,3,NOALI, [NOALI]
+still,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+will be,are,SIMI,4,NOALI, NOALI (No Alignment)
+Bulbs A and C,Bulbs A and C,EQUI,5,EQUI, [EQUI]
+in the path,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+it,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+the charge,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,by a gap,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,are separated,NOALI,0,NOALI, NOALI
+The damaged bulb B,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+so,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+can not reach,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+a gap,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,"Terminals 1, 2 and 3",NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,from the positive battery terminal,NOALI,0,NOALI, NOALI (Not Aligned)
+has left,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is separated,are separated,EQUI,5,SIMI," The label for this pair is ""SIMI"". Both chunks are semantically similar as they both express the idea of being separated, but the difference is in the number of items being separated (singular vs plural)."
+-not aligned-,by a gap,NOALI,0,NOALI, NOALI (Not Aligned)
+the terminal from the battery terminal,the terminals,SPE1,3,SPE2, [SPE2]
+a terminal to another terminal,"Terminals 4, 5 and 6 to the positive battery terminal",SPE2,2,OPPO, [OPPO]
+is connected,are connected,EQUI,5,SIMI, [SIMI]
+is connected,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+-not aligned-,There,NOALI,0,NOALI, NOALI (Not Aligned)
+bulb A to switch Z,both,SIMI,3,NOALI," The label for this pair is ""NOALI"" as there is no specific semantic relation between ""bulb A to switch Z"" and ""both""."
+-not aligned-,containing,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,no path,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+bulb A to switch Z,switch Y and bulb A,SIMI,3,OPPO, OPPO (Opposite)
+"a closed path,",a path,EQUI,5,SIMI, SIMI (Similar)
+is,is,EQUI,5,EQUI, [EQUI]
+there,there,EQUI,5,NOALI, NOALI (No Alignment)
+contains,containing,EQUI,5,SIMI," The label for this pair is SIMI (Similar). Both chunks refer to the concept of 'containing' or 'being contained', although they are phrased slightly differently."
+"with switch z, bulb a and the battery","A, C, Z and the battery",SPE1,3,SIMI, SIMI (Similar)
+that,a path,EQUI,5,NOALI, NOALI (No Alignment)
+to the positive terminal,to the positive battery terminal,EQUI,5,EQUI, [EQUI]
+are connected,are connected,EQUI,5,EQUI, [EQUI]
+"Terminal 4, terminal 5, and terminal 6","Terminals 4, 5 and 6",EQUI,5,EQUI," The label for the given chunks is [EQUI]. This is because both chunks refer to the same set of terminals (4, 5, and 6), hence they are equal."
+is not connected,is not,SPE1,3,NOALI, NOALI
+is not,-not aligned-,NOALI,0,NOALI, NOALI
+Circuit 2,in 2,EQUI,5,SPE1," The label for this pair is [SPE1]. This indicates that the two chunks refer to the same entity, but with different attributes. In this case, ""Circuit"" and ""2"" are different attributes of the same entity, which is the second circuit."
+to itself.,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+the battery,The battery,EQUI,5,EQUI, [EQUI]
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+a short circuit,in a closed path,REL,4,OPPO, OPPO (Opposite)
+terminal 1 from the positive battery terminal.,Terminal 1 and the positive terminal,EQUI,5,SIMI, SIMI (Similar)
+Because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is seperated,are separated,EQUI,5,OPPO," The label for this pair is OPPO (Opposite). While both chunks are about separation, the first one uses the singular form ""is separated"" and the second one uses the plural form ""are separated"", which implies opposite meanings."
+-not aligned-,by the gap,NOALI,0,NOALI, NOALI (Not Aligned)
+bulb a and bulb c,A and C,EQUI,5,EQUI," The label for the given pair is ""EQUI"". This is because both chunks refer to the same entities (bulb A and bulb C) in the same relationship (and)."
+in different paths,in different paths,EQUI,5,EQUI, [EQUI]
+are contained,are,EQUI,5,NOALI, NOALI (No Alignment)
+with the bttery.,with the battery,EQUI,5,EQUI, [EQUI]
+with the battery.,with the battery,EQUI,5,EQUI, [EQUI]
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,still,NOALI,0,NOALI, NOALI (Not Aligned)
+in a closed path,in a closed path,EQUI,5,EQUI, [EQUI]
+bulb a,Bulb A,EQUI,5,SPE1, [SPE1]
+is,is,EQUI,5,NOALI, NOALI (No Alignment)
+is connected,are separated,OPPO,4,OPPO, OPPO
+the positive terminal,Terminal 1 and the positive terminal,SPE1,3,OPPO," The label for this pair is OPPO (Opposite). The positive terminal and Terminal 1 are opposites in this context, as one is a type of electrical connection and the other is a specific type of terminal."
+to the bulb,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,by the gap,NOALI,0,NOALI, NOALI (Not Aligned)
+bulb a and bulb c,Bulbs A and C,EQUI,5,SIMI, SIMI
+-not aligned-,still,NOALI,0,NOALI, NOALI (Not Aligned)
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,are separated,NOALI,0,NOALI, NOALI
+-not aligned-,by the gap,NOALI,0,NOALI, NOALI (Not Aligned)
+The positive terminal,Terminal 1 and the positive terminal,SPE1,3,OPPO," The label for this pair is ""OPPO"". This is because Chunk 1 refers to ""The positive terminal"", while Chunk 2 refers to ""Terminal 1 and the positive terminal"", which implies that they are not the same, hence ""OPPO""."
+has,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+1.5 V,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,different electrical states,NOALI,0,OPPO," The label for this pair is OPPO (Opposite). Chunk 1: [-not aligned-] does not provide a specific semantic relation, but when paired with Chunk 2: [different electrical states], it can be inferred that they are opposite, as one is a general statement and the other is a specific electrical state."
+in the battery,A battery,EQUI,5,SPE2, [SPE2]
+-not aligned-,uses,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,at the terminals,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,to maintain,NOALI,0,NOALI, NOALI (Not Aligned)
+because of the chemical,a chemical reaction,SIMI,4,SIMI, [SIMI]
+in closed paths.,in a closed path,SPE2,4,EQUI, The label for this pair is EQUI (Equivalent). Both chunks are referring to paths being closed.
+need to be,are,SIMI,4,NOALI, NOALI (No Alignment)
+Both components,the bulb and the battery,SPE2,4,SIMI, SIMI
+bulb a and bulb c,A and C,EQUI,5,EQUI," The label for the given pair is ""EQUI"". This is because both chunks refer to the same entities (bulb A and bulb C) in the same relationship (and)."
+in parallel,-not aligned-,NOALI,0,NOALI, The label for this pair is NOALI (Not Aligned). Chunk 1: [in parallel] and Chunk 2: [-not aligned-] do not have a semantic relation to each other.
+are wired,in different paths,REL,3,OPPO, OPPO (Opposite)
+-not aligned-,are,NOALI,0,NOALI, NOALI (Not Aligned)
+Bulb terminals 3 and 4,Terminal 1 and the positive terminal,SIMI,2,OPPO, [OPPO]
+-not aligned-,by the gap,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,are separated,NOALI,0,NOALI, NOALI
+-not aligned-,in the same path,NOALI,0,NOALI, NOALI (Not Aligned)
+the other bulb,The damaged bulb and the other bulb,SPE1,3,OPPO, [OPPO]
+-not aligned-,must be contained,NOALI,0,NOALI, NOALI (Not Aligned)
+will not light.,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+there,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+in the terminals,both,REL,4,NOALI," The label for this pair is ""NOALI"" as there is no semantic relation between ""in the terminals"" and ""both""."
+in the terminals,switch Y and bulb A,REL,4,NOALI," The label for this pair is NOT APPLICABLE (NOALI). The semantic relation between ""in the terminals"" and ""switch Y and bulb A"" is not directly clear or definable using the provided labels (EQUI, OPPO, SPE1, SPE2, SIMI, REL)."
+-not aligned-,containing,NOALI,0,NOALI, NOALI (Not Aligned)
+was,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,no path,NOALI,0,NOALI, NOALI
+a gap,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+the switch with the battery and bulb.,the switch and the bulb,SPE2,3,SIMI, SIMI (Similar)
+open,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+if,When,SIMI,3,NOALI, NOALI (No Alignment)
+in a path,in the same path,SPE2,4,SIMI, SIMI
+-not aligned-,are contained,NOALI,0,NOALI, NOALI (Not Aligned)
+to the positive side,to the positive battery terminal,SPE2,4,SIMI, SIMI (Similar)
+"4, 5, and 6","Terminals 4, 5 and 6",EQUI,5,SIMI, SIMI (Similar)
+are connected,are connected,EQUI,5,EQUI, [EQUI]
+in the circuit.,-not aligned-,NOALI,0,NOALI, NOALI
+indicates,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,between the terminals,NOALI,0,NOALI, NOALI (Not Aligned)
+of 0 volts,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+a gap,no gap,OPPO,4,NOALI, NOALI (No Alignment)
+a voltage reading,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+are not connected,are not connected,EQUI,5,NOALI, NOALI
+4 5 and 6,"Terminals 4, 5 and 6",EQUI,5,SIMI, SIMI (Similar)
+to negative battery terminal,to the negative battery terminal,EQUI,5,EQUI, [EQUI]
+on a closed path,in a closed path,EQUI,5,EQUI, [EQUI]
+bulbs a and b,A and B,EQUI,5,EQUI," The label for the given pair is ""EQUI"". This is because both chunks refer to the same entities (bulbs A and B) using different names (bulbs a and b, A and B)."
+-not aligned-,burns out,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,then,NOALI,0,NOALI, NOALI (Not Aligned)
+still,still,EQUI,5,EQUI, [EQUI]
+with the battery,with the battery,EQUI,5,EQUI, [EQUI]
+are contained,are,EQUI,5,NOALI," The label for this pair is NOT_ALI (NOALI). Chunk 1: [are contained] implies a more specific relationship than Chunk 2: [are]. However, they are not in an equivocal, opposite, similar, or relational context."
+-not aligned-,C,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,If,NOALI,0,NOALI, NOALI (Not Aligned)
+are,are,EQUI,5,NOALI, NOALI (No Alignment)
+"bulbs a, b, and c",A and C,SPE2,3,SIMI, SIMI (Similar)
+in the same path.,in the same path,EQUI,5,EQUI, [EQUI]
+all,A and C,SPE2,3,NOALI," The label for this pair is NOALI, as there is no semantic relation between ""all"" and ""A and C""."
+are,are,EQUI,5,NOALI, NOALI (No Alignment)
+with the battery,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+a and c,A and C,EQUI,5,EQUI," The label for this pair is EQUI (Equivalent). Both chunks represent the same concept with the same elements (a and c, A and C) in the same order."
+on the same closed path,in the same closed path,EQUI,5,EQUI, EQUI
+open,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+then,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is included,are,EQUI,5,NOALI," The label for this pair is NOT APPLICABLE (NOALI). The reason is that the verb ""is included"" requires a singular subject, while ""are"" is a plural verb form. Neither ""is included"" nor ""are"" express a semantic relationship such as equivalence (EQUI), opposition (OPPO), similarity (SIMI), relation (REL), or specific semantic roles (SPE1, SPE2)."
+"closed path,",in the same path,SIMI,4,SIMI, SIMI
+"the bulb""",the bulb,EQUI,5,EQUI, [EQUI]
+being,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+"""if",If,EQUI,5,NOALI, NOALI (No Alignment)
+will affect,affects,SIMI,4,EQUI, [EQUI]
+the switch,the switch,EQUI,5,EQUI, [EQUI]
+"the switch in the bulb""""s",a bulb and a switch,EQUI,5,SIMI, SIMI
+will not affect,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+each other,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+the outcome,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,are not,NOALI,0,NOALI, NOALI
+-not aligned-,with the battery,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,in the same path,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,A and C,NOALI,0,NOALI, NOALI (Not Aligned)
+of the bulb,-not aligned-,NOALI,0,NOALI, NOALI (No Alignment)
+by a gap,by the gap,EQUI,5,SIMI," The label for this pair is SIMI (Similar). Both chunks refer to the same concept, the gap, but with slight variations in wording."
+not seperated,are not separated,EQUI,5,EQUI, The label for this pair of chunks is EQUI (Equivalent). Both chunks have the same meaning and express that something is not separated.
+-not aligned-,Terminal 6 and the positive terminal,NOALI,0,NOALI, [NOALI]
+-not aligned-,by the gap,NOALI,0,NOALI, NOALI (Not Aligned)
+are seperated.,are separated,EQUI,5,EQUI," The label for this pair of chunks is ""EQUI"" (Equivalent). Both chunks have the same meaning and are grammatically equivalent."
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+terminal 1 and the neavtive terminal,Terminal 1 and the positive terminal,SIMI,4,OPPO, OPPO (Opposite)
+a gap,an incomplete circuit,REL,4,NOALI, NOALI (No Alignment)
+is,is,EQUI,5,NOALI, NOALI (No Alignment)
+now.,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+between A and C,-not aligned-,NOALI,0,NOALI, The label for this pair is [NOALI]. The second chunk is not aligned with the first one as it does not provide any semantic relation.
+their,there,EQUI,5,NOALI, NOALI (No Alignment)
+Because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,then,NOALI,0,NOALI, NOALI (Not Aligned)
+Bulb A and bulb b,A and B,EQUI,5,EQUI," The label for this pair is ""EQUI"" (Equivalent). Both chunks are describing the same pair of items (A and B) in different ways."
+-not aligned-,burns out,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,C,NOALI,0,NOALI, NOALI (Not Aligned)
+still,still,EQUI,5,EQUI, [EQUI]
+with the battery,with the battery,EQUI,5,EQUI, [EQUI]
+-not aligned-,If,NOALI,0,NOALI, NOALI (Not Aligned)
+in closed paths,in a closed path,SPE2,4,EQUI, The label for this pair is EQUI (Equivalent). Both chunks are referring to a path that is closed.
+are contained,are,EQUI,5,NOALI, NOALI (No Alignment)
+as,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+in the same circuit,in its own path,REL,3,OPPO, OPPO (Opposite)
+B and C,each bulb,SPE1,3,SIMI," The label for the given chunks is SIMI (Similar). The semantic relation between ""B and C"" and ""each bulb"" is that they both refer to specific items, although ""B and C"" refers to two specific items, while ""each bulb"" refers to multiple items. However, in the context of similarity, they both represent individual items."
+are not,is,OPPO,4,OPPO, OPPO (Opposite)
+A.,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+to 1.5.,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+from 0,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+there terminals,the terminals,EQUI,5,EQUI," The label for this pair of chunks is [EQUI]. This is because both chunks refer to the same concept, ""the terminals,"" and they are equivalent in meaning."
+are separated,are separated,EQUI,5,EQUI, [EQUI]
+the voltage,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+jumps,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+when,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+by a gap,by a gap,EQUI,5,NOALI, NOALI (No Alignment)
+bulbs a b and c,A and C,SPE2,3,SIMI, SIMI (Similar)
+on a closed path,in the same closed path,SPE2,4,SIMI, SIMI
+are,are,EQUI,5,NOALI, NOALI (No Alignment)
+think,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+means,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+this,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+I,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+that,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+should,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+and,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+something,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+dangerous,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,a short circuit,NOALI,0,NOALI, NOALI (Not Aligned)
+is,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+the red X,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+never,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+happen,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+unless,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+seriously,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+wrong.,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+there,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+no gap,by the gap,OPPO,4,NOALI, NOALI (No Alignment)
+from the positive terminal,Terminal 1 and the positive terminal,SPE1,3,OPPO," The label for this pair is OPPO (Opposite). The first chunk refers to the positive terminal, while the second chunk refers to Terminal 1, which is likely the negative terminal in an electrical context, making them opposites."
+because,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+was,are separated,SIMI,2,NOALI, NOALI (No Alignment)
+of the battery,-not aligned-,NOALI,0,NOALI, NOALI
+-not aligned-,then,NOALI,0,NOALI, NOALI (Not Aligned)
+bulbs A and B,A and B,EQUI,5,SIMI," The label for this pair is [SIMI]. Both chunks refer to the same entities, 'A' and 'B', although the first one provides more specific information by mentioning 'bulbs'. However, the second chunk still maintains a similar semantic relation to the first one by referring to the same entities."
+still,still,EQUI,5,EQUI, [EQUI]
+-not aligned-,C,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,burns out,NOALI,0,NOALI, NOALI (Not Aligned)
+to the closed path,in a closed path,EQUI,5,SIMI, [SIMI]
+containing the battery,with the battery,EQUI,5,EQUI," The label for the given chunks is ""EQUI"" (Equivalent). Both chunks refer to the same object, the battery."
+are connected,are,SIMI,4,NOALI," The label for this pair is NOT_APPLICABLE (NOALI). The word ""are"" is a verb in the present tense, indicating existence or identity, while ""are connected"" is a phrase describing a relationship between two things. Since ""are"" does not have a semantic relation that can be categorized as EQUI, OPPO, SPE1, SPE2, SIMI, or REL, the label NOALI (NOT_APPLICABLE) is appropriate."
+-not aligned-,If,NOALI,0,NOALI, NOALI (Not Aligned)
+if,When,SIMI,3,NOALI, NOALI (No Alignment)
+are,are contained,EQUI,5,NOALI," The label for this pair is NOT APPLICABLE (NOALI). The semantic relation between ""are"" and ""are contained"" is not directly equivocal, oppositional, similar, or relational. The first chunk is a general verb, while the second chunk is a more specific phrase describing a state or condition."
+the switch and the bulb,the switch and the bulb,EQUI,5,EQUI, [EQUI]
+in the same path,in the same path,EQUI,5,EQUI, [EQUI]
+bulb c and switch z,both,EQUI,5,SIMI, SIMI
+bulb c and switch z,Z and C,EQUI,5,OPPO, [OPPO]
+in the same closed path,a path,SPE1,4,SIMI, SIMI
+are,containing,SIMI,4,NOALI, NOALI (No Alignment)
+-not aligned-,there,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,is,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,is contained,NOALI,0,NOALI, NOALI (Not Aligned)
+only,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+the bulb,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+connected,-not aligned-,NOALI,0,NOALI," The label for this pair is NOALI, as Chunk 2 is not aligned with Chunk 1."
+one terminal,-not aligned-,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,The battery,NOALI,0,NOALI, NOALI (Not Aligned)
+has,does not contain,OPPO,4,NOALI, NOALI (No Alias)
+-not aligned-,which,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,in a path,NOALI,0,NOALI, NOALI (Not Aligned)
+-not aligned-,any other components,NOALI,0,NOALI, NOALI (Not Aligned)

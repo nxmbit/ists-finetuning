@@ -1,0 +1,2223 @@
+text_source,text_translation,alignment,score,preds,response
+for the Philippines,to Philippines,EQUI,5,3, 3
+departs,sends,SIMI,3,1, 1
+Thursday,-not aligned-,NOALI,0,0, 0
+China,China,EQUI,5,5, 5 (The two chunks have identical content and are perfectly aligned in meaning and structure.)
+'s Peace Ark,aid team,REL,4,1, 1
+Conservatives,Conservative opposition,SPE2,4,5, 5
+to Australia election victory,wins Australian election,EQUI,5,5, 5
+sweep,-not aligned-,NOALI,0,0, 0
+"draws wide condemnation , criticism",angers,SIMI,4,2, 2
+'s shrine visit,'s war shrine visit,SPE2,4,2, 2
+-not aligned-,neighbours,NOALI,0,0, 0
+Abe,Japanese PM Shinzo Abe,SPE2,4,5, 5
+revokes,to repeal,EQUI,5,3, 3
+resigns,-not aligned-,NOALI,0,0, 0
+",",-not aligned-,NOALI,0,0, 0
+PM,-not aligned-,NOALI,0,0, 0
+anti-protest law,anti-protest laws,SPE1,4,4, 4
+Ukraine,Ukraine,EQUI,5,5, 5
+detects,-not aligned-,NOALI,0,0, 0
+says,says,EQUI,5,1," Alignment=1
+
+Explanation: Both chunks are simple statements that express an action (says) but they do not provide any context or shared information, so they are only slightly aligned in structure."
+from Mediterranean Sea,in Mediterranean,SPE1,4,3, 3
+fired,fired,EQUI,5,5, 5
+missiles,ballistic missiles,SPE2,4,5, 5
+Russia,Russia,EQUI,5,5, 5
+-not aligned-,as Kiev,NOALI,0,0, 0
+new police station,Police Station,SPE1,4,5, 5
+Pro-Russian protesters,Pro-Russian Protesters,EQUI,5,5," 5 (Both chunks have identical text with no variations in spelling, capitalization, or punctuation.)"
+-not aligned-,U.N.,NOALI,0,0, 0
+in east Ukraine,in Ukraine,SPE1,4,4, 4
+-not aligned-,over unrest,NOALI,0,0, 0
+-not aligned-,Urges,NOALI,0,0, 0
+storm,Storm,EQUI,5,5," 5 (Both chunks have identical words and meaning, with only minor differences in capitalization.)"
+in India,Indian villagers,REL,3,4, 4
+Cyclone,Cyclone Phailin evacuation,REL,3,3, 3
+of destruction,alive,REL,3,0, 0
+-not aligned-,kept,NOALI,0,0, 0
+leaves,-not aligned-,NOALI,0,0, 0
+trail,-not aligned-,NOALI,0,0, 0
+among 9 killed,among dead,SPE1,4,4, 4
+in Kabul hotel attack,in Kabul hotel attack,EQUI,5,5, 5
+4 foreigners,Foreigners,SPE1,4,4, 4
+-not aligned-,Mandela,NOALI,0,0, 0
+as asylum boat,-not aligned-,NOALI,0,0, 0
+-not aligned-,third day,NOALI,0,0, 0
+off Australia,-not aligned-,NOALI,0,0, 0
+Many dead,-not aligned-,NOALI,0,0, 0
+-not aligned-,in hospital,NOALI,0,0, 0
+sinks,-not aligned-,NOALI,0,0, 0
+-not aligned-,spends,NOALI,0,0, 0
+Palestinian captives,Palestinian prisoner release,REL,4,4, 4
+Israeli calls,Israel,REL,4,3, 3
+to execute,-not aligned-,NOALI,0,0, 0
+instead of releasing them,Palestinian prisoner release,OPPO,4,2, 2
+-not aligned-,allows,NOALI,0,0, 0
+for better ties,-not aligned-,NOALI,0,0, 0
+DPRK leader,North Korea,REL,3,3, 3
+-not aligned-,to leave,NOALI,0,0, 0
+calls,-not aligned-,NOALI,0,0, 0
+with S.Korea,South Korea,EQUI,5,5, 5
+-not aligned-,foreigners,NOALI,0,0, 0
+-not aligned-,urges,NOALI,0,0, 0
+"'s oldest person , and oldest man",'s Oldest Man,SPE1,4,3, 3
+",",-not aligned-,NOALI,0,0, 0
+at 116,Aged 116,EQUI,5,5," 5 (Both chunks are identical in meaning and structure, indicating a perfect alignment.)"
+ever,Ever,EQUI,5,5," 5 (Both chunks have identical text, case-insensitive)"
+World,World,EQUI,5,5," 5 (Both chunks have identical text, indicating a perfect match in meaning, structure, and relevance.)"
+dies,Dies,EQUI,5,5," 5 (Both chunks have identical text and meaning, with no differences in spelling, capitalization, or punctuation.)"
+-not aligned-,:,NOALI,0,0, 0
+-not aligned-,Japan,NOALI,0,0, 0
+expert nuclear talks,talks,SPE1,4,1, 1
+to resume,to resume,EQUI,5,5," 5 (Both chunks have identical meaning and structure, indicating a perfect alignment.)"
+on Dec. 30,next week,SPE1,3,0, 0
+World powers and Iran,"Iran nuclear experts , world powers",SPE2,4,4, 4
+-not aligned-,',NOALI,0,0, 0
+to stop,to stop,EQUI,5,5, 5
+it's,-not aligned-,NOALI,0,0, 0
+for Russia,for Russia,EQUI,5,5, 5
+-not aligned-,',NOALI,0,0, 0
+acting,acting,EQUI,5,5," 5 (Both chunks have the exact same term, ""acting"", indicating a high degree of similarity in meaning, structure, and relevance.)"
+and,and,EQUI,5,5," 5 (Both chunks are identical in structure and meaning, consisting only of the word ""and"".)"
+warns,-not aligned-,NOALI,0,0, 0
+-not aligned-,tension,NOALI,0,0, 0
+-not aligned-,to reduce,NOALI,0,0, 0
+start,start,EQUI,5,1," To evaluate the alignment of the two provided chunks, I would need the actual text within the chunks. However, based on the format you've provided, I can suggest a general approach:
+
+1. Identify the main topic or theme of each chunk.
+2. Compare the main topics or themes to determine the degree of similarity.
+3. Assign a score based on the similarity:
+   - 0: Completely unrelated
+   - 1: Slightly related
+   - 2: Somewhat related
+   - 3: Fairly related
+   - 4: Highly related
+   - 5: Identical or exact match
+
+Without the actual text, I can't provide a specific score, but this approach should help you evaluate the alignment of your text chunks."
+',-not aligned-,NOALI,0,0, 0
+time,Time,EQUI,5,5," 5 (Both chunks have the same word, ""Time"", and the same part of speech, indicating a high degree of similarity in meaning and structure.)"
+in Ukraine,in Ukraine,EQUI,5,5," 5 (Both chunks have identical meaning and context, as they both refer to a specific location.)"
+Biden,Biden,EQUI,5,5," 5 (Both chunks are identical in meaning and structure, with perfect alignment)"
+talking,talking,EQUI,5,5," 5 (Both chunks are about the same topic, ""talking"", and have the same structure, both are simple and straightforward.)"
+',-not aligned-,NOALI,0,0, 0
+-not aligned-,:,NOALI,0,0, 0
+:,-not aligned-,NOALI,0,0, 0
+-not aligned-,:,NOALI,0,0, 0
+:,-not aligned-,NOALI,0,0, 0
+Image,Image,EQUI,5,2," In this case, since both chunks are referring to images, they are semantically similar. However, without specific information about the content of the images, it's difficult to determine a high degree of structural or thematic alignment. Therefore, I would label the alignment as a 2."
+-not aligned-,:,NOALI,0,0, 0
+of the Day,of the Day,EQUI,5,5," 5 (Both chunks have identical meaning and structure, they are exactly the same)"
+February 25,April 21,SIMI,3,0, 0
+India Ink,India Ink,EQUI,5,5, 5 (Identical)
+on Taiwan fisher attack,in Kenya mall attack,SIMI,1,0, 0
+-not aligned-,Bin Laden,NOALI,0,0, 0
+-not aligned-,shown,NOALI,0,0, 0
+-not aligned-,'s continuing sway,NOALI,0,0, 0
+comment,-not aligned-,NOALI,0,0, 0
+Philippines,-not aligned-,NOALI,0,0, 0
+defers,-not aligned-,NOALI,0,0, 0
+set,votes,SIMI,4,0, 0
+to legalise,to legalise,EQUI,5,5," 5 (Both chunks have identical meaning and structure, indicating a perfect alignment.)"
+New Zealand,New Zealand,EQUI,5,5," 5 (The two chunks have identical meaning and content, with no differences in structure or relevance.)"
+gay marriage,same-sex marriage,EQUI,5,5, 5
+Israel 's ex-PM Ariel Sharon,Former Israeli Prime Minister Sharon,EQUI,5,5, 5
+dies,dies,EQUI,5,5, 5
+Peace talks,killed,REL,3,0, 0
+:,-not aligned-,NOALI,0,0, 0
+months,-not aligned-,NOALI,0,0, 0
+Israel official,in Israeli raid,REL,3,2, 2
+with Palestinians,Palestinian girl,SPE2,2,3, 3
+-not aligned-,3yo,NOALI,0,0, 0
+would take,-not aligned-,NOALI,0,0, 0
+Portugal,Portugal,EQUI,5,5, 5
+sends,fires,SIMI,4,2, 2
+Ronaldo 's hat trick,Ronaldo hat-trick,EQUI,5,5, 5
+to World Cup,to World Cup,EQUI,5,5, 5
+After China Earthquake,in China earthquakes,SPE1,4,3, 3
+At Least,At least,EQUI,5,5, 5
+22 Dead,89 dead,SIMI,3,1, 1
+to rise,-not aligned-,NOALI,0,0, 0
+-not aligned-,Canadian government,NOALI,0,0, 0
+hits,monitoring,REL,2,2," 2 (Moderate alignment)
+
+Explanation: Both chunks, ""hits"" and ""monitoring"", can be related to the concept of tracking or observing, albeit in different contexts. ""Hits"" could refer to successes or occurrences in a digital or sports context, while ""monitoring"" generally refers to the act of observing or tracking something over time. However, they are not directly synonymous or closely related in structure or meaning."
+-not aligned-,',NOALI,0,0, 0
+-not aligned-,',NOALI,0,0, 0
+",",-not aligned-,NOALI,0,0, 0
+Canadian freight train blast death toll,train blast situation,REL,3,3, 3
+three,-not aligned-,NOALI,0,0, 0
+in Bohol landslide,-not aligned-,NOALI,0,0, 0
+buried,die,REL,4,1, 1
+-not aligned-,in Afghanistan attack,NOALI,0,0, 0
+-not aligned-,in attack,NOALI,0,0, 0
+Five children,Nine children,SIMI,3,0, 0
+alive,-not aligned-,NOALI,0,0, 0
+-not aligned-,stays,NOALI,0,0, 0
+-not aligned-,:,NOALI,0,0, 0
+-not aligned-,FORMULA 1,NOALI,0,0, 0
+-not aligned-,modest,NOALI,0,0, 0
+father,-not aligned-,NOALI,0,0, 0
+emulates,-not aligned-,NOALI,0,0, 0
+with Monaco win,despite Monaco win,EQUI,5,2, 2
+Rosberg,Rosberg,EQUI,5,5, 5 (Identical)
+in northern Iraq,in northern Iraq,EQUI,5,5," 5 (Both chunks have identical text, indicating a perfect match in meaning, structure, and relevance.)"
+11,12,SIMI,4,2," Alignment=2
+
+Explanation:
+
+Chunk 1: [11] - ""The cat sat on the mat.""
+Chunk 2: [12] - ""The dog lay on the rug.""
+
+Both sentences describe a pet animal resting on a piece of furniture, but they differ in the type of animal and the specific item of furniture. Therefore, they have some similarity but are not identical, which is why I've assigned a score of 2."
+kills,kills,EQUI,5,5, 5
+Suicide truck bomber,Suicide car bomb,SIMI,4,4, 4
+heads,-not aligned-,NOALI,0,0, 0
+",",-not aligned-,NOALI,0,0, 0
+off Mexico,on Mexico,EQUI,5,3, 3
+bringing,dumps,SIMI,4,0, 0
+toward Veracruz,-not aligned-,NOALI,0,0, 0
+-not aligned-,",",NOALI,0,0, 0 (not aligned)
+'s coast,-not aligned-,NOALI,0,0, 0
+forms,weakens,REL,2,0, 0
+Tropical Storm Barry,Tropical Storm Barry,EQUI,5,5, 5
+as it,-not aligned-,NOALI,0,0, 0
+heavy rain,rain,SPE2,4,4, 4
+military airports,in military airport,SPE2,4,2, 2
+-not aligned-,Syrian troops,NOALI,0,0, 0
+Syrian rebels,by rebels,SPE1,4,3, 3
+target,confront,REL,4,2," 2 (Moderate alignment)
+
+Explanation: Both chunks, ""target"" and ""confront,"" suggest some form of interaction or action, but they are not directly related in terms of meaning or structure. ""Target"" implies aiming or focusing on something, while ""confront"" means to deal directly with a difficult or challenging situation or person. However, they both involve some form of action or interaction, which is why I've assigned a moderate alignment score of 2."
+-not aligned-,fierce attacks,NOALI,0,0, 0
+South Atlantic Ocean,-not aligned-,NOALI,0,0, 0
+6.6-magnitude quake,Magnitude-5.1 quake,SIMI,4,2, 2
+USGS,USGS,EQUI,5,5, 5 (Identical)
+-not aligned-,southern Iran,NOALI,0,0, 0
+hits,hits,EQUI,5,5, 5 (Both chunks have identical meaning and are exactly the same)
+--,-not aligned-,NOALI,0,0, 0
+-not aligned-,--,NOALI,0,0, 0
+Poverty stats,-not aligned-,NOALI,0,0, 0
+doubt,-not aligned-,NOALI,0,0, 0
+-not aligned-,Aug 1,NOALI,0,0, 0
+-not aligned-,recall compensation claims,NOALI,0,0, 0
+Modi,-not aligned-,NOALI,0,0, 0
+-not aligned-,GM,NOALI,0,0, 0
+'s development claims,-not aligned-,NOALI,0,0, 0
+-not aligned-,to start,NOALI,0,0, 0
+-not aligned-,taking,NOALI,0,0, 0
+access,Access,EQUI,5,5," 5 (Both chunks have identical text and case, indicating a perfect match in meaning, structure, and relevance.)"
+blocks,Blocks,EQUI,5,4," 4 (Both chunks have the same meaning and structure, with only a minor difference in capitalization.)"
+North Korea,North Korea,EQUI,5,5, 5 (The two chunks have identical content and are perfectly aligned in meaning and structure.)
+to joint industrial zone,to Key Industrial Zone,SIMI,4,3, 3
+over Bhutto murder,In Bhutto Death,EQUI,5,3, 3
+charged,Charged,EQUI,5,5," 5 (Both chunks have identical text and meaning, with no differences in spelling or grammar.)"
+Pakistan,Pakistan,EQUI,5,5, 5
+'s Musharraf,'s Musharraf,EQUI,5,5, 5 (Identical)
+in streets,in Kiev,REL,2,1, 1
+-not aligned-,Lenin statue,NOALI,0,0, 0
+back,-not aligned-,NOALI,0,0, 0
+Ukrainian protesters,Ukraine protesters,EQUI,5,5, 5
+for anti-government rally,topple,REL,2,2, 2
+'s win,Landslide Win,SPE2,4,2, 2
+Jamaican connection,-not aligned-,NOALI,0,0, 0
+-not aligned-,:,NOALI,0,0, 0
+in Liverpool,-not aligned-,NOALI,0,0, 0
+-not aligned-,Shinzo Abe,NOALI,0,0, 0
+-not aligned-,Japan Election,NOALI,0,0, 0
+-not aligned-,Hails,NOALI,0,0, 0
+debris,-not aligned-,NOALI,0,0, 0
+-not aligned-,images,NOALI,0,0, 0
+after India buildings collapse,from Bangladesh building collapse,SIMI,3,0, 0
+scour,-not aligned-,NOALI,0,0, 0
+-not aligned-,Select,NOALI,0,0, 0
+Rescuers,-not aligned-,NOALI,0,0, 0
+makes,Makes,EQUI,5,5," 5 (Both chunks have identical text, with only minor differences in capitalization, which does not affect the meaning or structure.)"
+Rock bands,Rock Bands,EQUI,5,5, 5
+emergency landing,Emergency Landing,EQUI,5,5, 5
+in Ill.,in Ill.,EQUI,5,5," 5 (Both chunks are identical in meaning, structure, and location, indicating a perfect alignment.)"
+' plane,' Plane,EQUI,5,3," 3 (Chunks have the same meaning, but one has a capitalized first letter where the other does not)"
+in hospital,in hospital bed,SPE2,4,3, 3
+-not aligned-,charged,NOALI,0,0, 0
+remains,-not aligned-,NOALI,0,0, 0
+Boston bombing suspect,Boston bombing suspect,EQUI,5,5, 5
+elected,takes oath,REL,4,3, 3
+'s Shehla Raza,Shehla Raza,EQUI,5,5, 5
+PPP,-not aligned-,NOALI,0,0, 0
+Deputy Speaker of SA,as Sindh Assembly deputy speaker,EQUI,5,3, 3
+'s last child,'s youngest child Lady Soames,SPE2,4,1, 1
+Churchill,Churchill,EQUI,5,5," 5 (Both chunks have identical content, referring to the same person, Winston Churchill.)"
+dies,dies,EQUI,5,5, 5
+11:42,-not aligned-,NOALI,0,0, 0
+aged 91,aged 91,EQUI,5,5, 5
+-not aligned-,it,NOALI,0,0, 0
+30 short-range missiles,new land-to-sea missile,SIMI,2,2, 2
+N. Korea,Iran,SIMI,3,0, 0
+test-fires,test-fires,EQUI,5,5, 5 (Identical)
+:,-not aligned-,NOALI,0,0, 0
+-not aligned-,says,NOALI,0,0, 0
+into sea,in Gulf,SPE2,3,2, 2
+Yonhap,-not aligned-,NOALI,0,0, 0
+higher,lower,OPPO,4,0, 0
+Chinese shares,Chinese shares,EQUI,5,5, 5
+close,close,EQUI,5,5," 5 (Both chunks, ""close"", are identical in meaning, structure, and relevance.)"
+Tuesday,on Wednesday,SIMI,3,0, 0
+offer,-not aligned-,NOALI,0,0, 0
+-not aligned-,shoots,NOALI,0,0, 0
+shuns,-not aligned-,NOALI,0,0, 0
+North Korea,North Korea,EQUI,5,5, 5
+of talks,-not aligned-,NOALI,0,0, 0
+-not aligned-,2 rockets,NOALI,0,0, 0
+Obama,Obama,EQUI,5,5, 5 (Identical)
+me,-not aligned-,NOALI,0,0, 0
+troops,-not aligned-,NOALI,0,0, 0
+In surprise visit,Surprise Visit,EQUI,5,5, 5
+to Afghanistan,To Afghanistan,EQUI,5,5, 5
+-not aligned-,Makes,NOALI,0,0, 0
+',-not aligned-,NOALI,0,0, 0
+",",-not aligned-,NOALI,0,0, 0
+tells,-not aligned-,NOALI,0,0, 0
+inspire,-not aligned-,NOALI,0,0, 0
+you,-not aligned-,NOALI,0,0, 0
+',-not aligned-,NOALI,0,0, 0
+awaits,-not aligned-,NOALI,0,0, 0
+high court judgment,Ark. high court,REL,3,3, 3
+-not aligned-,suspends,NOALI,0,0, 0
+on gay marriage,gay marriage,EQUI,5,5, 5
+US,-not aligned-,NOALI,0,0, 0
+-not aligned-,again,NOALI,0,0, 0
+from West,-not aligned-,NOALI,0,0, 0
+Sisi,'s Sisi,EQUI,5,5," 5 (Both chunks have the exact same text, just a minor difference in capitalization)"
+cool reception,-not aligned-,NOALI,0,0, 0
+",",-not aligned-,NOALI,0,0, 0
+'s president,as president,EQUI,5,5, 5
+sworn in,sworn in,EQUI,5,5," 5 (Both chunks have identical meaning and structure, they are exactly the same.)"
+as Egypt,Egypt,EQUI,5,5, 5
+-not aligned-,heats up,NOALI,0,0, 0
+China,-not aligned-,NOALI,0,0, 0
+to investigate,-not aligned-,NOALI,0,0, 0
+-not aligned-,Christie investigation,NOALI,0,0, 0
+EU wine exports,-not aligned-,NOALI,0,0, 0
+",",-not aligned-,NOALI,0,0, 0
+to 12.1%,12.2%,SIMI,4,1," Alignment=1 (Chunks have some similarity in topic, but the connection is loose)"
+Eurozone 's unemployment,Eurozone unemployment,EQUI,5,5, 5
+a fresh record high,record,SPE1,4,3, 3
+-not aligned-,in September,NOALI,0,0, 0
+climbs,hit,SIMI,3,0, 0
+Sorry,sorry,EQUI,5,5, 5
+South Korean President,S. Korean president,EQUI,5,5, 5
+For Ferry Response,for ferry disaster,EQUI,5,2, 2
+-not aligned-,',NOALI,0,0, 0
+-not aligned-,',NOALI,0,0, 0
+49,49,EQUI,5,5, 5 (Identical)
+killed,carrying,SPE1,2,0, 0
+Pro-Russian rebels,Ukraine Rebels,SIMI,3,3, 3
+shoot down,shoot down,EQUI,5,5, 5
+Ukrainian plane,plane,SPE1,4,3, 3
+",",-not aligned-,NOALI,0,0, 0
+on Syria abuse,on Syrian chemical arms,SPE2,3,2, 2
+Saudi,Cameron,REL,3,0, 0
+pushes,pushes,EQUI,5,5," 5 (Both chunks have identical text and meaning, indicating a perfect alignment.)"
+UN resolution,U.N. resolution,EQUI,5,5, 5
+At least,-not aligned-,NOALI,0,0, 0
+45,78,SIMI,2,4," To evaluate the alignment of the two chunks, I would need to understand the context and content of the chunks. However, since the chunks are just numbers (45 and 78), it's difficult to determine any meaningful similarity, structure, or relevance. Therefore, I would label the alignment as 0, indicating no similarity."
+-not aligned-,:,NOALI,0,0, 0
+killed,killed,EQUI,5,5, 5
+-not aligned-,Update 2,NOALI,0,0, 0
+in Spain train crash,in Spanish train disaster,SPE1,4,4, 4
+19 hurt,17 Hurt,SIMI,4,5, 5
+in New Orleans shooting,at New Orleans Parade Shooting,SPE2,4,5, 5
+by mortar fire,by mortar,EQUI,5,3, 3
+Vatican Embassy,Vatican embassy,EQUI,5,5, 5
+hit,hit,EQUI,5,5, 5 (Both chunks have identical meaning and are exactly the same)
+in Syria,in Syria,EQUI,5,5," 5 (Both chunks have identical meaning and context, as they both refer to a specific location: Syria.)"
+-not aligned-,no injuries,NOALI,0,0, 0
+-not aligned-,;,NOALI,0,0, 0
+'s Must-Reads,'s Must-Reads,EQUI,5,5," 5 (Both chunks have identical text, meaning they are perfectly aligned)"
+"May 24 , 2013","October 29 , 2013",SIMI,3,0, 0
+for Friday,for Tuesday,SIMI,3,0, 0
+The Note,The Note,EQUI,5,5, LABEL=5 (Identical)
+Nato,-not aligned-,NOALI,0,0, 0
+-not aligned-,bonds,NOALI,0,0, 0
+-not aligned-,in region,NOALI,0,0, 0
+-not aligned-,best,NOALI,0,0, 0
+condemns,-not aligned-,NOALI,0,0, 0
+-not aligned-,Thai,NOALI,0,0, 0
+Ukraine crackdown,-not aligned-,NOALI,0,0, 0
+-not aligned-,pressure,NOALI,0,0, 0
+-not aligned-,keeps up,NOALI,0,0, 0
+to peace talks,-not aligned-,NOALI,0,0, 0
+'s Peres,Gonsalves,SIMI,2,0, 0
+return,-not aligned-,NOALI,0,0, 0
+Israel,on Dom Rep,SIMI,2,0, 0 (No alignment)
+urges,-not aligned-,NOALI,0,0, 0
+92,96,SIMI,4,2," Alignment=2
+
+Explanation:
+
+Chunk 1: [92] - ""The cat sat on the mat.""
+
+Chunk 2: [96] - ""The dog lay on the rug.""
+
+Both sentences describe a pet animal resting on a piece of furniture, but they differ in the type of animal and the specific item of furniture. Therefore, they share some similarities but are not identical, which is why I've assigned a score of 2."
+Kill,kill,EQUI,5,5, 5
+Assault,Assault,EQUI,5,5, 5
+",",-not aligned-,NOALI,0,0, 0
+Other Attacks,other attacks,EQUI,5,5, 5
+on Iraq Funeral,on Iraq funeral,EQUI,5,5, 5
+-not aligned-,",",NOALI,0,0, 0 (not aligned)
+in Afghanistan,in Benghazi clashes,SPE2,1,0, 0
+Two NATO soldiers,Five Libyan soldiers,SIMI,2,0, 0
+killed,killed,EQUI,5,5, 5
+US top diplomat Kerry,US Secretary of State John Kerry,EQUI,5,5, 5
+rushed,rushed,EQUI,5,5, 5
+'s wife,'s wife,EQUI,5,5," 5 (Both chunks have identical meaning and structure, with no differences in context or relevance.)"
+to hospital,to hospital,EQUI,5,5, 5
+-not aligned-,Day,NOALI,0,0, 0
+march of anger,of Rage rallies,EQUI,5,4, 4
+"""",-not aligned-,NOALI,0,0, 0
+'s Brotherhood,'s Brotherhood,EQUI,5,5, 5
+"""",-not aligned-,NOALI,0,0, 0
+Egypt,Egypt,EQUI,5,5," 5 (The two chunks have identical meaning and content, with no differences in structure or relevance.)"
+to hold,holds,EQUI,5,5, 5
+to observe,Accept,SIMI,3,0, 0
+brief Gaza truce,Temporary Truce,SPE1,2,5, 5
+Israel and Hamas,Israel And Hamas,EQUI,5,5, 5
+-not aligned-,',NOALI,0,0, 0
+-not aligned-,',NOALI,0,0, 0
+Foreign exchange rates,Foreign exchange rates,EQUI,5,5, 5
+in Singapore,in India,SIMI,3,0, 0
+'s oldest man,'s Oldest Man,EQUI,5,4," 4 (Both chunks have the same structure and meaning, with only a minor difference in capitalization.)"
+dies,Dies,EQUI,5,5," 5 (Both chunks have identical text and meaning, with no differences in spelling, capitalization, or punctuation.)"
+-not aligned-,Ever,NOALI,0,0, 0
+World,World,EQUI,5,5," 5 (Both chunks have identical text, indicating a perfect match in meaning, structure, and relevance.)"
+-not aligned-,:,NOALI,0,0, 0
+-not aligned-,Japan,NOALI,0,0, 0
+at 116,Aged 116,EQUI,5,5," 5 (Both chunks refer to the same age, albeit with different phrasing)"
+Iran nuclear agreement,Iran 's nuclear deal,EQUI,5,5, 5
+welcomes,welcomes,EQUI,5,5, 5
+Germany,Syria,SIMI,3,0, 0
+with North,With North,EQUI,5,5," 5 (Both chunks have identical text, indicating a perfect match in meaning, structure, and relevance.)"
+-not aligned-,Says,NOALI,0,0, 0
+talks,Talks,EQUI,5,5," 5 (Both chunks have identical words and meaning, with only minor differences in capitalization)"
+-not aligned-,Scrapped,NOALI,0,0, 0
+proposes,-not aligned-,NOALI,0,0, 0
+South Korea,South Korea,EQUI,5,5," 5 (The two chunks have identical meaning and content, with no differences in structure or relevance.)"
+Video,Security video,SPE2,4,4, 4
+in mall,mall,EQUI,5,5, 5
+casually,-not aligned-,NOALI,0,0, 0
+Kenya jihadis,Kenyan soldiers,SIMI,3,1, 1
+shows,shows,EQUI,5,5," 5 (Both chunks have the same structure and meaning, as they both use the verb ""shows"" in the present simple tense.)"
+killing,looting,SIMI,3,2, 2
+UN inspectors,U.S.,REL,3,0, 0
+progress,-not aligned-,NOALI,0,0, 0
+-not aligned-,-White House,NOALI,0,0, 0
+-not aligned-,used,NOALI,0,0, 0
+-not aligned-,has not concluded,NOALI,0,0, 0
+over Syria chemical weapons,Syria chemical weapons,EQUI,5,5, 5
+hail,-not aligned-,NOALI,0,0, 0
+on chlorine bombs,on nuclear site,REL,3,0, 0
+rejects,rejects,EQUI,5,5, 5
+claim,MKO claim,SPE2,4,3," 3 (Similar)
+
+Explanation: Both chunks are claims, and they are related to a specific group (Claim and MKO Claim). MKO is an abbreviation for the ""Mujahideen-e-Khalq Organization,"" a political-militant group based in Iran. Therefore, they share a similar context and subject matter. However, the specific details or content within each claim may vary."
+Iran,Iran,EQUI,5,5," 5 (Both chunks have identical text, indicating a perfect match in meaning, structure, and relevance.)"
+One dead,Six killed,SIMI,2,2, 2
+in US building collapse,in US building collapse,EQUI,5,5," 5 (Both chunks have identical meaning and structure, referring to the same event in the same location.)"
+-not aligned-,Wall Street,NOALI,0,0, 0
+Fallen US firefighters,-not aligned-,NOALI,0,0, 0
+-not aligned-,slightly lower,NOALI,0,1, 1
+-not aligned-,ends,NOALI,0,0, 0
+brought home,-not aligned-,NOALI,0,0, 0
+hunting for,trawls for,SIMI,4,3, 3
+in missing Malaysian plane search,from missing Malaysia plane,REL,4,1, 1
+Ship,Australian ship,SPE2,4,3, 3
+more pings,signals,SIMI,4,2, 2
+Tehran-London ties,Tehran-London ties,EQUI,5,5," 5 (Both chunks have identical meaning, structure, and relevance)"
+",",-not aligned-,NOALI,0,0, 0
+Afkham,-not aligned-,NOALI,0,0, 0
+to improve,to improve,EQUI,5,5, 5
+-not aligned-,.,NOALI,0,0, 0
+',-not aligned-,NOALI,0,0, 0
+to treatment,to treatment,EQUI,5,5, 5
+',-not aligned-,NOALI,0,0, 0
+Mandela,Mandela,EQUI,5,5," 5 (Both chunks are identical, meaning is exactly the same)"
+-not aligned-,Wife,NOALI,0,0, 0
+-not aligned-,:,NOALI,0,0, 0
+responding,is responding,EQUI,5,3, 3
+Gunmen,Gunmen,EQUI,5,5, 5
+Libyan deputy industry minister,Libyan deputy industry minister,EQUI,5,5, 5 (Identical)
+assassinate,kill,EQUI,5,4, 4
+against USD,against USD,EQUI,5,5, 5
+to 6.1535,to new high,SPE1,2,2," 2 (Moderate alignment)
+
+Explanation: Both chunks are referring to reaching a peak or maximum point, although the first one is more specific with the numerical value. However, the context or subject matter is not clearly defined in either chunk, making the alignment moderate."
+China yuan,China yuan,EQUI,5,5, 5
+weakens,strengthens,OPPO,4,0, 0
+burn,Confronts,SPE1,3,0, 0
+Australian flags,Australian Ambassador,REL,3,1, 1
+Indonesians,Indonesia,EQUI,5,5, 5
+over spying reports,on Reports of Spying,EQUI,5,5, 5
+More Deaths,Five dead,SPE2,3,2, 2
+Expected,-not aligned-,NOALI,0,0, 0
+in Canada Oil Train Explosion,in Canada train crash,SIMI,3,3, 3
+Egypt court,-not aligned-,NOALI,0,0, 0
+-not aligned-,tells,NOALI,0,0, 0
+to death,-not aligned-,NOALI,0,0, 0
+-not aligned-,to prepare,NOALI,0,0, 0
+10 Brotherhood supporters,supporters,SPE1,2,4, 4
+-,-not aligned-,NOALI,0,0, 0
+sources,-not aligned-,NOALI,0,0, 0
+-not aligned-,Turkish PM,NOALI,0,0, 0
+sentences,-not aligned-,NOALI,0,0, LABEL=0
+-not aligned-,for rallies,NOALI,0,0, 0
+moderate,lower,SIMI,3,2, 2
+-not aligned-,sends,NOALI,0,0, 0
+in US stock market,Asian stock markets,SIMI,3,0, 0
+Declines,Tech sell-off,SPE2,2,1, 1
+to Know,to Know,EQUI,5,5, 5 (Both chunks have identical meaning and structure)
+:,-not aligned-,NOALI,0,0, 0
+10 Things,10 Things,EQUI,5,5, 5 (Both chunks have the same structure and similar meaning as they both list 10 things.)
+This Week,for Today,SPE2,3,2, 2
+'s Takeaways,-not aligned-,NOALI,0,0, 0
+-not aligned-,it,NOALI,0,0, 0 (not aligned)
+-not aligned-,in Crimea,NOALI,0,0, 0
+name,-not aligned-,NOALI,0,0, 0
+Ukraine protest leaders,Ukraine,REL,3,1, 1
+",",-not aligned-,NOALI,0,0, 0
+ministers,-not aligned-,NOALI,0,0, 0
+-not aligned-,says,NOALI,0,0, 0
+Russian troops,"to Russian "" provocations """,REL,4,2, 2
+-not aligned-,will not bow,NOALI,0,0, 0
+on alert,-not aligned-,NOALI,0,0, 0
+"US , Russia",US and Russia,EQUI,5,5, 5
+enter,-not aligned-,NOALI,0,0, LABEL=0
+third day,-not aligned-,NOALI,0,0, 0
+-not aligned-,agree,NOALI,0,0, 0
+of Syria talks,Syria arms deal,REL,3,1, 1
+-not aligned-,in Geneva,NOALI,0,0, 0
+U.S factory,German factory,SIMI,3,0, 0
+in January,in January,EQUI,5,5," 5 (Both chunks have identical meaning and structure, as they both specify the month of the year as January.)"
+down,rebound,OPPO,4,2, 2
+0.7 pct,-not aligned-,NOALI,0,0, 0 (Not Aligned)
+orders,orders,EQUI,5,5," 5 (Both chunks have the exact same term, ""orders"", indicating a high degree of similarity in meaning and structure.)"
+-not aligned-,Worker,NOALI,0,0, 0
+-not aligned-,:,NOALI,0,0, 0
+-not aligned-,Made,NOALI,0,0, 0
+-not aligned-,Suggestive Comments,NOALI,0,0, 0
+San Diego Mayor Bob Filner,San Diego Mayor,SPE1,4,4, 4
+'s accusers,-not aligned-,NOALI,0,0, 0
+In Oklahoma City,Oklahoma City Airport,SPE2,4,1, 1
+Hit,-not aligned-,NOALI,0,0, 0
+After Tornadoes,During Tornado...,SIMI,3,3, 3
+Nine Dead,Evacuated,REL,3,1, 1
+-not aligned-,says,NOALI,0,0, 0
+Kenyan forces,Kenyan forces,EQUI,5,5, 5 (Identical)
+mall collapse,mall collapse,EQUI,5,5, 5
+caused,caused,EQUI,5,5, 5
+-not aligned-,Official,NOALI,0,0, 0
+unilateral ceasefire,unilateral ceasefire,EQUI,5,5," 5 (Both chunks have identical meaning and structure, indicating a perfect alignment.)"
+Ukraine,Ukraine,EQUI,5,5, 5
+to implement,offers,SIMI,3,1, 1
+in Egypt,in Egypt,EQUI,5,5," 5 (Both chunks have identical text and location, indicating a perfect match.)"
+-not aligned-,holds,NOALI,0,0, 0
+-not aligned-,upper hand,NOALI,0,0, 0
+banned,-not aligned-,NOALI,0,0, 0
+-not aligned-,Military,NOALI,0,0, 0
+Muslim Brotherhood,-not aligned-,NOALI,0,0, 0
+on French soldier,on French soldier,EQUI,5,5," 5 (Both chunks have identical meaning and subject, so they are perfectly aligned.)"
+Suspect,Man,SPE2,4,3, 3
+arrested,arrested,EQUI,5,5, 5
+in attack,over attack,EQUI,5,2, 2
+Obama,Obama,EQUI,5,5," 5 (Both chunks have identical content and are perfectly aligned in meaning, structure, and relevance.)"
+"from Israelis , Palestinians","Israeli , Palestinian negotiators",SPE2,3,4, 4
+-not aligned-,meets,NOALI,0,0, 0
+Restraint,-not aligned-,NOALI,0,0, 0
+Urges,-not aligned-,NOALI,0,0, 0
+to greet,to greet,EQUI,5,5, 5
+-not aligned-,",",NOALI,0,0, 0 (not aligned)
+pope,Pope Francis,SPE2,4,5, 5
+Brazilians,In Brazil thousands,SPE1,4,1, 1
+throng streets,turn out,SIMI,4,1, 1
+shakes,hits,EQUI,5,0, 0
+no tsunami risk,no tsunami warning,REL,4,5, 5
+-not aligned-,",",NOALI,0,0, 0 (not aligned)
+northeastern Japan,Japan,SPE1,4,5, 5
+",",-not aligned-,NOALI,0,0, 0
+Quake,Quake,EQUI,5,5," 5 (Both chunks have identical meaning and content, indicating a perfect alignment.)"
+Detroit,Detroit,EQUI,5,5, 5
+:,-not aligned-,NOALI,0,0, 0
+eligible,eligible,EQUI,5,5, 5
+for bankruptcy protection,for bankruptcy protection,EQUI,5,5, 5
+U.S. judge,-not aligned-,NOALI,0,0, 0
+signals,search area,REL,4,1," 1 (Low Alignment)
+
+Explanation: Chunk 1 refers to ""signals"" which could be related to various contexts such as communication, technology, or physics. On the other hand, Chunk 2 refers to ""search area,"" which is typically associated with finding or locating something. While there might be some indirect connections between the two (e.g., searching for signals in a specific area), the primary meanings and structures of the two chunks are not closely related."
+Vietnam,China,SIMI,3,0, 0
+-not aligned-,expands,NOALI,0,0, 0
+detects,-not aligned-,NOALI,0,0, 0
+from missing plane,for missing plane,EQUI,5,2, 2
+in Afghanistan,in Afghanistan,EQUI,5,5," 5 (Both chunks have identical content and location, indicating a perfect match.)"
+Six US soldiers,Six U.S. soldiers,EQUI,5,5, 5
+killed,killed,EQUI,5,5, 5
+in aircraft crash,in helicopter crash,SPE2,4,1, 1
+EU,Germany,REL,4,1, 1
+destroy,in destroying,EQUI,5,3, 3
+offers,offers,EQUI,5,5, 5
+Syria weapons,Syria weapons,EQUI,5,5, 5
+to help,help,EQUI,5,5, 5
+arrests,Arrests,EQUI,5,5, 5
+Egypt,Egypt,EQUI,5,5," 5 (The two chunks have identical meaning and content, with no differences in structure or relevance.)"
+Muslim Brotherhood 's top leader,Muslim Brotherhood Supporters,REL,4,3, 3
+-not aligned-,Under Terror Law,NOALI,0,0, 0
+Arsenal,Tottenham,SIMI,3,0, 0
+-,-not aligned-,NOALI,0,0, 0
+v,v,EQUI,5,1," To provide an accurate score, I would need the actual text chunks for comparison. However, I can give you an example of how the process works:
+
+For instance, if Chunk 1 is ""The cat is on the mat"" and Chunk 2 is ""The feline is on the rug"", the score would be 4, as both sentences have similar meaning and structure, but use different words to describe the subject and the object.
+
+If Chunk 1 is ""The cat is on the mat"" and Chunk 2 is ""The cat is sleeping"", the score would be 2, as both sentences have the same subject, but the second sentence describes a different action.
+
+If Chunk 1 is ""The cat is on the mat"" and Chunk 2 is ""The dog is barking"", the score would be 0, as both sentences have no common meaning or structure."
+-not aligned-,-,NOALI,0,0, 0
+live!,live!,EQUI,5,5, 5
+Stoke City,Manchester City,SIMI,3,0, 0
+honour,observes silence,SIMI,4,1, 1
+Boston victims,for Boston victims,EQUI,5,5, 5
+London Marathon runners,London Marathon,SPE1,4,4, 4
+Dec. 2,April 23,SIMI,3,0, 0
+-not aligned-,",",NOALI,0,0, 0 (not aligned)
+in History,in History,EQUI,5,5," 5 (Both chunks are identical in meaning, structure, and relevance, indicating a perfect alignment.)"
+Today,Today,EQUI,5,5," 5 (Both chunks have identical meaning and structure, as they both refer to the current day using the same word ""Today"".)"
+",",-not aligned-,NOALI,0,0, 0
+will attend,will attend,EQUI,5,5, 5
+Desmond Tutu,Tutu,EQUI,5,5, 5
+he,-not aligned-,NOALI,0,0, 0
+says,says,EQUI,5,1," Alignment=1
+
+Explanation: Both chunks are simple statements that express an action (says) but they do not provide any context or shared information, hence the alignment score is 1."
+Mandela funeral,Mandela funeral,EQUI,5,5," 5 (Both chunks have identical meaning and are exactly the same, so the alignment score is 5.)"
+kill,kill,EQUI,5,5, 5
+-not aligned-,:,NOALI,0,0, 0
+in wedding convoy,in wedding convoy,EQUI,5,5," 5 (Both chunks have identical meaning and structure, they are exactly the same.)"
+-not aligned-,Nigeria official,NOALI,0,0, 0
+Nigerian gunmen,Gunmen,SPE1,4,5, 5
+"groom , 30 others",30,SPE2,4,2, 2 (Moderate alignment)
+on Gaza,on Gaza,EQUI,5,5," 5 (Both chunks have identical meaning and context, referring to the same geographical location, Gaza.)"
+rise,rise,EQUI,5,5, 5 (Identical)
+in Israeli air strikes,in air strikes,SPE1,4,4, 4
+Deaths,Deaths,EQUI,5,5," 5 (Both chunks have the exact same content and meaning, so they have a perfect alignment.)"
+in Pakistan,in Pakistan,EQUI,5,5," 5 (Both chunks have identical text and context, indicating a perfect match.)"
+11,16,SIMI,3,1," Alignment=1 (Similarity in meaning is moderate, as both chunks discuss the concept of time, but Chunk 1 focuses on the concept of time dilation in physics, while Chunk 2 discusses the concept of time management in a more general context.)"
+US drone strike,US drone,SPE1,4,1, 1
+kills,kills,EQUI,5,5, 5
+kill,Kill,EQUI,5,5, 5 (Both chunks have identical words and meaning)
+-not aligned-,in Pakistan,NOALI,0,0, 0
+"9 foreign tourists , 1 Pakistani",11 Foreign Tourists,SPE2,3,2, 2
+Islamic militants,Gunmen,SPE1,4,3, 3
+fire shuts,catches fire,SPE1,4,3, 3
+Boeing 787 Dreamliner,Boeing 787 Dreamliner,EQUI,5,5, 5 (Identical)
+Heathrow,at London Heathrow airport,EQUI,5,5, 5
+again,-not aligned-,NOALI,0,0, 0
+arrested,granted bail,REL,4,1, 1
+Former Pakistan President Pervez Musharraf,Former Pakistan military ruler Pervez Musharraf,EQUI,5,5, 5
+brings,to Bring,EQUI,5,2, 2
+more snow,More Snow,EQUI,5,5, 5
+to US East Coast,to East Coast,SPE1,4,5, 5
+Latest storm,Latest Storm,EQUI,5,5, 5
+strikes,strikes,EQUI,5,0, 0 (No similarity)
+off Solomons,off California coast,SIMI,3,1, 1
+Powerful 7.6 quake,Powerful 6.9 quake,SIMI,4,2, 2
+-not aligned-,:,NOALI,0,0, 0
+-not aligned-,Typhoon Haiyan,NOALI,0,0, 0
+World,world,EQUI,5,5, 5
+sends,sends,EQUI,5,5," 5 (Both chunks have identical words and meaning, indicating a perfect alignment.)"
+emergency relief,relief,SPE1,4,4, 4
+to battered Philippines,to battered Philippines,EQUI,5,5, 5 (Identical)
+-not aligned-,",",NOALI,0,0, 0 (not aligned)
+over Juncker appointment,to Juncker,SPE1,4,2, 2
+argue,give thumbs up,REL,3,0, 0
+"EU , Britain",EU leaders Britain,EQUI,5,3, 3
+-not aligned-,isolated,NOALI,0,0, 0
+Dozens,-not aligned-,NOALI,0,0, 0
+-not aligned-,Indian minister,NOALI,0,0, 0
+in Connecticut train collision,in head-on collision,SIMI,1,3, 3
+injured,killed,REL,3,0, 0
+-not aligned-,preconditions,NOALI,0,0, 0
+-not aligned-,setting,NOALI,0,0, 0
+Russian Prime Minister,Russia,REL,4,1, 1
+Of Crimea Visit,-not aligned-,NOALI,0,0, 0
+-not aligned-,for Syria,NOALI,0,0, 0
+On Second Day,-not aligned-,NOALI,0,0, 0
+-not aligned-,warns against,NOALI,0,0, 0
+cancels,drops,EQUI,5,3, 3
+Barack Obama,Barack Obama,EQUI,5,5," 5 (Both chunks have identical text, meaning there is a perfect alignment in terms of similarity, structure, and relevance.)"
+over Edward Snowden,over Ed Snowden affair,EQUI,5,3, 3
+meeting,meeting,EQUI,5,5," 5 (Both chunks have the exact same term and are discussing the same concept, indicating a high degree of similarity in meaning, structure, and relevance.)"
+with Vladimir Putin,with Vladimir Putin,EQUI,5,5," 5 (Both chunks have identical text and are exactly the same, indicating a perfect match.)"
+petrol pumps,petrol stations,REL,4,5, 5
+at night,at night,EQUI,5,5," 5 (Both chunks have identical text and meaning, indicating a perfect alignment.)"
+to shut,to shut,EQUI,5,5, 5 (Both chunks have identical meaning and structure)
+India govt,India oil minister,SPE2,4,5, 5
+proposal,for plan,SIMI,4,3, 3 (Similar)
+rejects,slammed,REL,2,2, 2
+on northern Gaza,on sourthern Gaza town,SPE2,3,0, 0
+-not aligned-,kills,NOALI,0,0, 0
+-not aligned-,seven,NOALI,0,0, 0
+Israeli war jet strikes,Israeli air strike,SPE1,4,5, 5
+-not aligned-,as it,NOALI,0,0, 0
+Tropical Storm Karen,Tropical Storm Karen,EQUI,5,5, 5 (Identical)
+-not aligned-,weakens,NOALI,0,0, 0
+US Gulf Coast,U.S. Gulf Coast,EQUI,5,5, 5
+targets,nears,SIMI,4,0," The provided chunks are about different topics, so they do not have a high degree of similarity in meaning or structure. Therefore, the label would be: 0"
+after airbag fault,over airbag,SPE1,4,1, 1
+3 million Japanese cars,3.4m vehicles,SPE1,4,2, 2
+"Toyota , Honda , Nissan and Mazda","Toyota , 3 other Japan carmakers",SPE1,4,5, 5
+recall,to recall,EQUI,5,3, 3
+-not aligned-,waters,NOALI,0,0, 0
+yet,-not aligned-,NOALI,0,0, 0
+sends,enter,SIMI,3,0," The provided chunks do not have a significant degree of similarity in meaning, structure, or relevance. Therefore, the label would be 0."
+China largest fleet,China ships,SPE1,4,3, 3
+to disputed islands,off disputed islands,EQUI,5,3, 3
+drought emergency,drought emergency,EQUI,5,5, 5
+-not aligned-,continue,NOALI,0,0, 0
+-not aligned-,as wildfires,NOALI,0,0, 0
+-not aligned-,to burn,NOALI,0,0, 0
+declares,declares,EQUI,5,5," 5 (Both chunks declare something, indicating a high degree of similarity in meaning and structure.)"
+California governor,California governor,EQUI,5,5," 5 (The two chunks have identical meaning and structure, as they both refer to the same position in the same location.)"
+',-not aligned-,NOALI,0,0, 0
+Ukraine rebels,Ukraine Rebels,EQUI,5,5, 5
+',-not aligned-,NOALI,0,0, 0
+eastern stronghold,from Main Stronghold,SPE1,3,1, 1
+flee,Flushed,EQUI,5,0, 0
+-not aligned-,Claims,NOALI,0,0, 0
+of extremists,extremists,EQUI,5,5, 5
+from Egypt violence,from Egypt violence,EQUI,5,5, 5
+benefiting,will benefit,EQUI,5,5, 5
+France,France,EQUI,5,5, 5
+warns,fears,REL,2,2, 2
+to fill,-not aligned-,NOALI,0,0," Label=0 (not aligned)
+
+Explanation: Chunk 1 (to fill) and Chunk 2 (-not aligned-) do not seem to have any similarity in meaning, structure, or relevance to each other. Therefore, the label is 0, indicating no alignment."
+-not aligned-,on budget,NOALI,0,0, 0
+-not aligned-,willingness,NOALI,0,0, 0
+taps,-not aligned-,NOALI,0,0, 0
+Obama,Obama,EQUI,5,5, 5 (Identical)
+Fischer,-not aligned-,NOALI,0,0, 0
+moves,-not aligned-,NOALI,0,0, 0
+",",-not aligned-,NOALI,0,0, 0
+-not aligned-,to talk,NOALI,0,0, 0
+Fed board,with GOP,REL,3,0, 0
+No. 2,-not aligned-,NOALI,0,0, 0
+to be,-not aligned-,NOALI,0,0, 0
+-not aligned-,voices,NOALI,0,0, 0
+42,44,SIMI,4,," The provided chunks do not contain any text, so it is not possible to evaluate their alignment. Please provide the actual text for a meaningful response."
+wounded,wounded,EQUI,5,5, 5
+in violence,'s violence,EQUI,5,2," 2 (Moderate alignment)
+
+Explanation: Both chunks refer to the concept of violence, but they differ in the use of the definite article 'the'. This slight difference in wording does not significantly impact the overall meaning, making the alignment moderate."
+killed,killed,EQUI,5,5, 5
+63,133,SIMI,3,1," To evaluate the alignment of the two chunks, I will analyze their content for similarity in meaning, structure, or relevance.
+
+Chunk 1: [63] - ""The cat sat on the mat.""
+Chunk 2: [133] - ""The dog ran through the park.""
+
+While both sentences contain animals and locations, they do not share a common subject, action, or context. Therefore, the alignment between these two chunks is low.
+
+Label: 1"
+-not aligned-,",",NOALI,0,0, 0 (not aligned)
+",",-not aligned-,NOALI,0,0, 0
+in Iraq,in Iraq,EQUI,5,5," 5 (Both chunks have identical text and location, indicating a perfect match.)"
+after almost five years captivity,after 5 years in captivity,SPE2,4,5, 5
+U.S. soldier,US soldier,EQUI,5,5," 5 (Both chunks have identical meaning and spelling, indicating a perfect match.)"
+free,freed,EQUI,5,3," 3 (Chunks 1 and 2 are very similar as they both contain the concept of freedom, with only a minor difference in verb tense.)"
+in Afghanistan,in Afghanistan,EQUI,5,5," 5 (Both chunks have identical text and are highly similar in meaning, structure, and relevance)"
+Thousands,Thousands,EQUI,5,5," 5 (Both chunks have the exact same meaning and structure, as they both refer to the number 'Thousands'.)"
+dole,-not aligned-,NOALI,0,0, 0
+of Britons,-not aligned-,NOALI,0,0, 0
+-not aligned-,of white-clad Amsterdammers march,NOALI,0,0, 0
+-not aligned-,for MH17,NOALI,0,0, 0
+claim,-not aligned-,NOALI,0,0, 0
+in Germany,-not aligned-,NOALI,0,0, 0
+the enemy,the enemy,EQUI,5,5, 5
+acquitted,acquitted,EQUI,5,5, 5
+Bradley Manning,Wikileaks soldier Bradley Manning,SPE2,4,5, 5
+of aiding,of aiding,EQUI,5,5, 5
+With Anticipation,-not aligned-,NOALI,0,0, 0
+for Pope Francis,Pope Francis,EQUI,5,5, 5
+-not aligned-,greet,NOALI,0,0, 0
+Buzzing,-not aligned-,NOALI,0,0, 0
+Brazil,Brazil crowds,SPE2,4,3, 3
+in Pakistan,in NW Pakistan,SPE2,4,3, 3
+a Seminary,-not aligned-,NOALI,0,0, 0
+-not aligned-,kills,NOALI,0,0, 0
+Drone Strikes,US drone strike,SPE2,4,3, 3
+-not aligned-,8,NOALI,0,0, LABEL=0
+10 foreign tourists,"9 foreign tourists , 1 Pakistani",SPE1,3,2, 2
+kill,kill,EQUI,5,5, 5
+in northern Pakistan,-not aligned-,NOALI,0,0, 0
+Gunmen,Islamic militants,SPE2,4,2, 2
+rises,rises,EQUI,5,5, 5
+Death toll,Death toll,EQUI,5,5," 5 (Both chunks have identical meaning and structure, referring to the same concept: death toll.)"
+to 59,to 638,SIMI,2,1," To accurately evaluate and score the alignment of the two provided chunks of text, I would need to understand the context and content of the texts. However, since I don't have that information, I'll provide a general score based on the length of the texts.
+
+Chunk 1: [to 59]
+Chunk 2: [to 638]
+
+Given the significant difference in the length of the two texts, a lower score would be more appropriate.
+
+Label: 1"
+in Nairobi attack,from Egypt violence,SIMI,2,0, 0
+',-not aligned-,NOALI,0,0, 0
+',-not aligned-,NOALI,0,0, 0
+-not aligned-,White House,NOALI,0,0, 0
+Syrian regime,Syria,EQUI,5,3, 3
+using,uses,EQUI,5,4, 4
+chemical weapons,chemical weapons,EQUI,5,5, 5
+-not aligned-,says,NOALI,0,0, 0
+on a small scale,-not aligned-,NOALI,0,0, 0
+-not aligned-,in conflict,NOALI,0,0, 0
+sought,-not aligned-,NOALI,0,0, 0
+-not aligned-,for Showdown,NOALI,0,0, 0
+Venezuelan opposition leader,"Venezuela Government , Opposition Head",SPE1,4,4, 4
+-not aligned-,',NOALI,0,0, 0
+'s Cameron,Cameron,EQUI,5,5, 5
+-not aligned-,',NOALI,0,0, 0
+seriously,seriously,EQUI,5,5, 5
+UK,-not aligned-,NOALI,0,0, 0
+by Gibraltar/Spain row,over Gibraltar events,SPE1,2,4, 4
+concerned,concerned,EQUI,5,5, 5
+",",-not aligned-,NOALI,0,0, 0
+the Papers,the Papers,EQUI,5,5, 5 (Identical)
+Say,Say,EQUI,5,3," To evaluate the alignment of the two chunks, I would need the actual text within the square brackets to compare. However, based on the context provided, both chunks seem to be asking for someone to say something, which suggests a similar structure and meaning.
+
+Since the provided text is quite generic, I'll assign a score of 3 on the given scale, as the chunks share a similar structure and meaning, but they might not be very specific or detailed in their context.
+
+If you provide the actual text within the square brackets, I can give a more accurate score based on the specific content of the chunks.
+
+LABEL=3"
+What,What,EQUI,5,5," To evaluate the alignment of the two chunks, I would need the actual text in the chunks to compare. However, based on the placeholders, it seems that both chunks are asking the same question, so I would assign a score of 5, which indicates a high degree of similarity in meaning and structure."
+"Nov. 19 , 2013","Sept. 26 , 2013",SIMI,3,0, 0
+at Critical Time,-not aligned-,NOALI,0,0, 0
+-not aligned-,'s Nuclear Program,NOALI,0,0, 0
+in Munich,-not aligned-,NOALI,0,0, 0
+-not aligned-,Iran,NOALI,0,0, 0
+Top Diplomats,Top Diplomats,EQUI,5,5, 5 (Identical)
+Meet,Discuss,SPE2,3,2, 2
+-not aligned-,report,NOALI,0,0, 0
+Iranian nuclear talks,New Iran nuclear talks,SPE2,4,4, 4
+to November,in November,EQUI,5,3, 3
+-not aligned-,probably,NOALI,0,2, 2 (probably)
+-not aligned-,:,NOALI,0,0, 0
+to be extended,-not aligned-,NOALI,0,0, 0
+Mulls,confirms,REL,2,1, 1
+in Peace Talks,in peace talks,EQUI,5,5, 5
+Participation,participation,EQUI,5,5, 5
+Syrian Opposition,Syrian opposition,EQUI,5,5, 5
+sworn in,sworn in,EQUI,5,5, 5
+Rudd,Rudd,EQUI,5,5, 5 (Identical)
+as Australian PM,as Australia 's new Prime Minister,SPE2,4,5, 5
+',-not aligned-,NOALI,0,0, 0
+Obama,Obama,EQUI,5,5," 5 (The two chunks have identical content and are exactly the same, so the alignment score is 5.)"
+',-not aligned-,NOALI,0,0, 0
+deserved,deserve,EQUI,5,5, 5
+-not aligned-,:,NOALI,0,0, 0
+Korean War veterans,Korean War vets,EQUI,5,5, 5
+-not aligned-,',NOALI,0,0, 0
+says,-not aligned-,NOALI,0,0, 0
+better,better,EQUI,5,5," 5 (Both chunks have the same word ""better"", indicating a high degree of similarity in meaning.)"
+-not aligned-,',NOALI,0,0, 0
+Padma Shri,Padma Shri,EQUI,5,5, 5
+"Telugu actors Mohan Babu , Brahmanandam","actors Mohan Babu , Brahmanandam",SPE1,4,5, 5
+asks,advises,SIMI,3,1, 1
+Andhra Pradesh high court,HC,SPE1,4,3, 3
+to return,to return,EQUI,5,5, 5
+with murder,with murder,EQUI,5,5, 5
+'s shooting death,-not aligned-,NOALI,0,0, 0
+in friend,-not aligned-,NOALI,0,0, 0
+Pro football player Aaron Hernandez,American football player Aaron Hernandez,SPE2,4,5, 5
+charged,charged,EQUI,5,5, 5
+in France,in France,EQUI,5,5," 5 (Both chunks have identical meaning and context, as they both refer to a specific location in France.)"
+Algerian president,Algerian president,EQUI,5,5," 5 (Both chunks have identical meaning and refer to the same subject, with no differences in structure or relevance.)"
+-not aligned-,after minor stroke,NOALI,0,0, 0
+for medical tests,for medical tests,EQUI,5,5," 5 (Both chunks have the same meaning and are directly related to the same topic, medical tests.)"
+Israel,Israel,EQUI,5,5," 5 (Both chunks have identical text, indicating a perfect match in meaning, structure, and relevance.)"
+Palestinian prisoners,26 Palestinian Prisoners,SPE2,4,5, 5
+to release,Releases,SIMI,4,4, 4
+Dies,dies,EQUI,5,5, 5
+British Nobel-Winning Author Doris Lessing,Nobel Prize winning author Doris Lessing,SPE1,4,5, 5
+stars,win,REL,2,0," The provided chunks do not have a clear relationship in meaning, structure, or relevance. Therefore, the alignment score would be low. I would assign a score of 0 or 1, depending on the specific context, but for general purposes, a score of 0 seems more appropriate.
+
+Label=0"
+Carter,Bonus-point Super Rugby,REL,4,0, 0 (No relevance or similarity)
+for Crusaders,for Crusaders,EQUI,5,5, 5 (Identical)
+16,47,SIMI,3,1," To evaluate the alignment of the two chunks, I will compare the meaning, structure, and relevance of the text.
+
+Chunk 1: [16] - ""The cat sat on the mat.""
+Chunk 2: [47] - ""The dog ran through the park.""
+
+While both sentences contain animals and locations, they do not share a common theme or structure. The first sentence describes a static scene, while the second sentence describes an action. Therefore, the alignment score between these two chunks is relatively low.
+
+Label: 1"
+at least,at least,EQUI,5,5," 5 (Both chunks have the exact same structure and meaning, with the same word ""at least"" used in both.)"
+Car bombs,Car bombs,EQUI,5,5, 5
+in Iraqi capital,in Baghdad area,SIMI,2,4, 4
+kill,kill,EQUI,5,5, 5
+at 40,-not aligned-,NOALI,0,0, 0
+dies,dies,EQUI,5,5, 5
+in car crash,in car crash,EQUI,5,5," 5 (Both chunks have identical meaning and structure, indicating a perfect alignment.)"
+' Fast undamp ; Furious ' star Paul Walker,Hollywood star Paul Walker,SPE1,4,4, 4
+one-child policy,of one-child policy,EQUI,5,5, 5
+-not aligned-,formalizes,NOALI,0,0, 0
+eases,easing,EQUI,5,5," 5 (Both chunks contain the same word with minor spelling difference, indicating a high degree of similarity in meaning and structure.)"
+China,China,EQUI,5,5," 5 (The two chunks have identical content and are perfectly aligned in meaning, structure, and relevance.)"
+Nobel Peace Prize,Nobel Peace prize,EQUI,5,5, 5
+wins,wins,EQUI,5,5," 5 (Both chunks have identical meaning and structure, indicating a perfect alignment.)"
+Global chemical watchdog,Chemical weapons watchdog,SPE2,4,2, 2
+remanded,held,EQUI,5,2, 2
+charged,charged,EQUI,5,5, 5
+in a block,in a block,EQUI,5,1," To evaluate the alignment of the two provided chunks, I will analyze their meaning, structure, and relevance.
+
+Chunk 1: [in a block]
+Chunk 2: [in a block]
+
+After careful examination, I find that the two chunks do not share a significant degree of similarity in meaning, structure, or relevance. Therefore, the label for their alignment would be:
+
+Label=0"
+A woman,A mother,SPE2,4,3, 3
+'s death,'s death,EQUI,5,5," 5 (Both chunks have identical meaning and structure, as they both refer to the same event - someone's death.)"
+has been remanded,has been remanded,EQUI,5,5, 5 (Identical)
+in custody,in custody,EQUI,5,5, 5
+of flats.,of flats.,EQUI,5,5," 5 (Both chunks have identical text and meaning, indicating a perfect alignment.)"
+Woman,Mother,SPE2,4,3, 3
+dead,dead,EQUI,5,5, 5
+after an eight-year-old girl,after her eight-year-old daughter,SPE2,4,4, 4
+over child,over daughter,SPE2,4,4, 4
+with murder,with murder,EQUI,5,5, 5
+was found,was found,EQUI,5,5, 5
+-not aligned-,in Istanbul,NOALI,0,0, 0
+at pro-Morsy protesters,at protesters,SPE1,4,3, 3
+tear gas,teargas,EQUI,5,5, 5
+Police,Turkish police,SPE2,4,3, 3
+fire,fire,EQUI,5,5, 5
+23,11 children,SPE2,2,1, Alignment=1
+killed,killed,EQUI,5,5, 5
+in Iraq car bombings,in Syria bombings,SPE1,2,1, 1
+17:02,-not aligned-,NOALI,0,0, 0
+in Pakistan,in Pakistan,EQUI,5,5," 5 (Both chunks have identical text and context, indicating a perfect match.)"
+"nine foreign tourists , guide",nine tourists,SPE2,4,2, 2
+Gunmen,Gunmen,EQUI,5,5, 5
+kill,kill,EQUI,5,5, 5
+in Ukraine,in Lebanon,SIMI,3,0, 0
+-not aligned-,:,NOALI,0,0, 0
+-not aligned-,We,NOALI,0,0, 0
+to hold,-not aligned-,NOALI,0,0, 0
+vote,-not aligned-,NOALI,0,0, 0
+-not aligned-,killed,NOALI,0,0, 0
+Pro-Russia rebels,Syria rebels,SIMI,3,2, 2
+-not aligned-,Hezbollah men,NOALI,0,0, 0
+criticizes,slams,SIMI,3,4, 4
+Twitter ban,Twitter ban,EQUI,5,5," 5 (Both chunks have identical meaning and structure, they are exactly the same.)"
+Erdogan,Erdogan,EQUI,5,5," 5 (Both chunks are identical, meaning is exactly the same)"
+after lifting,for lifting,EQUI,5,3, 3
+court ruling,top court,REL,4,3," 3 (Moderate Alignment)
+
+Explanation: Both chunks refer to a court, but Chunk 1 is more specific about the ruling, while Chunk 2 is more general, referring to the top court. The connection between the two is that a top court might issue a ruling."
+in History,in History,EQUI,5,5," 5 (Both chunks are about the same topic, ""History"", and are located in the same context, so they have a high degree of alignment.)"
+",",-not aligned-,NOALI,0,0, 0
+Today,Today,EQUI,5,5," 5 (Both chunks have identical meaning and structure, as they both refer to the current day using the same word ""Today"".)"
+-not aligned-,",",NOALI,0,0, 0
+Jan. 24,April 4,SIMI,3,0, 0
+-not aligned-,US Senate,NOALI,0,0, 0
+to lead the Federal Reserve,as US Federal Reserve chief,EQUI,5,4, 4
+to become,-not aligned-,NOALI,0,0, 0
+-not aligned-,confirms,NOALI,0,5, 5 (confirms)
+Janet Yellen,Janet Yellen,EQUI,5,5, 5 (Identical)
+first woman,-not aligned-,NOALI,0,0, 0
+water cannon,"teargas , water cannon",SPE1,4,5, 5
+Police,Police,EQUI,5,5," 5 (The two chunks have identical content and meaning, indicating a perfect alignment.)"
+as India gang-rape protest,at Istanbul protesters,SIMI,2,0, 0
+use,fire,SIMI,4,0, 0
+violent,-not aligned-,NOALI,0,0, 0
+turns,-not aligned-,NOALI,0,0, 0
+0.2 pct.,up 0.2 percent,SPE1,4,3, 3
+spending,spending,EQUI,5,5," 5 (Both chunks have the exact same term, ""spending"", indicating a high degree of similarity in meaning and structure.)"
+US consumers,Consumer,SPE1,4,3, 3
+last month,in May,SPE2,2,2, 2
+boost,-not aligned-,NOALI,0,0, 0
+-not aligned-,use,NOALI,0,0, 0
+-not aligned-,Probe,NOALI,0,0, 0
+'s Rouhani,-not aligned-,NOALI,0,0, 0
+Iran,-not aligned-,NOALI,0,0, 0
+in Syria,in Syria,EQUI,5,5," 5 (Both chunks have identical meaning and context, as they both refer to a specific location: Syria.)"
+chemical weapons,of chemical weapons,EQUI,5,1, 1
+admits,alleged,SIMI,4,2, 2
+killed,-not aligned-,NOALI,0,0, 0
+people,-not aligned-,NOALI,0,0, 0
+Britain,UK,EQUI,5,5, 5
+' exploratory ' surgery,hospitalized,REL,4,1, 1
+'s Prince Philip,'s Prince Philip,EQUI,5,5," 5 (Both chunks have identical text, indicating a perfect match in meaning, structure, and relevance.)"
+set for,-not aligned-,NOALI,0,0, 0
+in Canada,near Baltimore,SIMI,3,0, 0
+Huge explosion,Huge explosion,EQUI,5,5, 5
+after oil train,as freight train,SPE1,4,2, 2
+derails,derails,EQUI,5,5, 5
+NATO soldier,Four soldiers,SPE1,2,2, 2
+in Taliban attack,in Yemen,REL,3,1, 1
+killed,killed,EQUI,5,5, 5
+in Ukraine,in Syria,SIMI,3,0, 0
+released,kidnapped,OPPO,4,0, 0
+Red Cross workers,Red Cross members,EQUI,5,4, 4
+-not aligned-,',NOALI,0,0, 0
+-not aligned-,over $100 billion,NOALI,0,0, 0
+Iran,Iran,EQUI,5,5, 5
+leaves,-not aligned-,NOALI,0,0, 0
+for Kazakhstan,-not aligned-,NOALI,0,0, 0
+-not aligned-,',NOALI,0,0, 0
+-not aligned-,Tehran,NOALI,0,0, 0
+-not aligned-,has cost,NOALI,0,0, 0
+'s nuclear negotiating team,'s nuclear quest,REL,4,2, 2
+Myanmar,-not aligned-,NOALI,0,0, 0
+44,-not aligned-,NOALI,0,0, 0
+-not aligned-,Warns,NOALI,0,0, 0
+-not aligned-,Strikes,NOALI,0,0, 0
+-not aligned-,Could Worsen,NOALI,0,0, 0
+over sectarian violence,Sectarian Violence,EQUI,5,5, 5
+arrests,-not aligned-,NOALI,0,0, 0
+-not aligned-,Ban,NOALI,0,0, 0
+-not aligned-,Syria,NOALI,0,0, 0
+Unveils,Unveils,EQUI,5,5," 5 (Both chunks have identical meaning and structure, they are exactly the same.)"
+Google,Google,EQUI,5,5, 5 (Identical)
+Prototype Self-Driving Car,Concept Self-Driving Car,SPE1,4,5, 5
+-not aligned-,to Restart,NOALI,0,0, 0
+-not aligned-,as Part,NOALI,0,0, 0
+over Kerry talks,Peace Talks,SPE1,4,3, 3
+Palestinian prisoners,104 Palestinian Prisoners,SPE2,4,5, 5
+to free,to Free,EQUI,5,5, 5
+Israel,Israel,EQUI,5,5," 5 (Both chunks have identical text, indicating a perfect match in meaning, structure, and relevance.)"
+-not aligned-,of Possible Deal,NOALI,0,0, 0
+-not aligned-,Agrees,NOALI,0,0, 0
+Chemical Arms Team,UN Chemical Arms Experts,SPE2,4,4, 4
+to Begin Talks,To Visit,REL,3,0, 0
+With Syria,Syria,EQUI,5,5, 5
+president 's speech,presidential elections,REL,3,2, 2
+Egypt,Pakistan,SIMI,3,0, 0
+criticizes,boycotts,SPE2,3,2, 2
+'s opposition,'s opposition party,EQUI,5,2, 2
+Vodafone UK chief Guy Laurence,Vodafone UK chief,SPE1,4,4, 4
+Rogers,Rogers,EQUI,5,5, 5 (Identical)
+hires,names,SIMI,4,0, 0
+as CEO,as new CEO,SPE2,4,3, 3
+-not aligned-,",",NOALI,0,0, 0
+",",-not aligned-,NOALI,0,0, 0
+One dead,One dead,EQUI,5,5, 5
+at PNG immigration centre,at Papua New Guinea immigration centre,EQUI,5,5, 5
+77 hurt,77 hurt,EQUI,5,5, 5
+in riot,in riot,EQUI,5,5, 5
+pro-Mursi camps,pro-Morsi camps,EQUI,5,5, 5
+15 dead,15 killed,EQUI,5,5, 5
+disperse,clear,EQUI,5,3, 3
+as Egypt police,as Egyptian forces,EQUI,5,4, 4
+-not aligned-,in Cairo,NOALI,0,0, 0
+-not aligned-,',NOALI,0,0, 0
+-not aligned-,',NOALI,0,0, 0
+Survives,survives,EQUI,5,5, 5
+Syrian PM,Syrian PM,EQUI,5,5," 5 (Both chunks have identical meaning and refer to the same subject, so the alignment score is 5.)"
+-not aligned-,in capital,NOALI,0,0, [0]
+Bomb Attack,bomb attack,EQUI,5,5, 5
+-not aligned-,test,NOALI,0,0, 0
+' breakthrough ' guided missile,of ' breakthrough ' guided missile,EQUI,5,5, 5
+North Korea,N. Korea,EQUI,5,5, 5
+claims,hails,EQUI,5,0, 0
+:,-not aligned-,NOALI,0,0, 0
+India Ink,India Ink,EQUI,5,5, 5 (Identical)
+:,-not aligned-,NOALI,0,0, 0
+February 25,January 27,SIMI,3,0, 0
+-not aligned-,:,NOALI,0,0, 0
+of the Day,of the Day,EQUI,5,5," 5 (Both chunks have identical meaning and structure, referring to the same concept.)"
+-not aligned-,:,NOALI,0,0, 0
+Image,Image,EQUI,5,2," In this case, since both chunks are referring to images, they are semantically similar but lack specific content or context to determine a strong structural or thematic relationship. Therefore, I would assign a score of 2 for moderate similarity.
+
+LABEL=2"
+;,-not aligned-,NOALI,0,0, 0
+-not aligned-,top,NOALI,0,0, 0
+over,-not aligned-,NOALI,0,0, 0
+death toll,Bangladesh collapse deaths,EQUI,5,4, 4
+"1,127",620,SIMI,3,0," Alignment=0 (Since Chunk 1 and Chunk 2 are not related or similar in meaning, structure, or relevance.)"
+Bangladesh collapse search,Bangladesh collapse deaths,REL,4,4, 4
+criticizes,-not aligned-,NOALI,0,0, 0
+'s opposition party chief,'s opposition MDC party,REL,2,3, 3
+Japan,Zimbabwe,SIMI,3,0, 0
+-not aligned-,'s election win,NOALI,0,0, 0
+Abe,Robert Mugabe,SIMI,3,0, 0
+'s economic policies,-not aligned-,NOALI,0,0, 0
+-not aligned-,challenges,NOALI,0,0, 0
+ahead,leading,EQUI,5,3, 3
+in Afghanistan election race,in Afghan presidential elections,EQUI,5,5, 5
+Abdullah,Abdullah,EQUI,5,5, 5 (Identical)
+southwest Pakistan,southern Pakistan,SIMI,4,3, 3
+rocks,hits,EQUI,5,0," 0 (No relevance or similarity in meaning, structure, or content)"
+New major earthquake,Moderate earthquake,SPE1,3,2, 2
+throws,-not aligned-,NOALI,0,0, 0
+into political crisis,in crisis,SPE1,4,3, 3
+Italy,Italy gov 't,SPE2,4,3, 3
+' announcement,-not aligned-,NOALI,0,0, 0
+of resignation,resign,EQUI,5,3, 3
+Berlusconi party ministers,Berlusconi ministers,EQUI,5,5, 5
+-not aligned-,;,NOALI,0,0, 0
+-not aligned-,"""",NOALI,0,0, 0
+asylum,humanitarian asylum,SPE2,4,5, 5
+-not aligned-,"""",NOALI,0,0, 0
+offer,offers,EQUI,5,3, 3
+to Snowden,to Snowden,EQUI,5,5," 5 (Both chunks are identical in meaning, structure, and relevance, with no differences.)"
+"Nicaragua , Venezuela",Venezuela,SPE2,4,3, 3
+17 govt employees,78,SPE1,2,1," The provided chunks do not have a clear relationship in meaning, structure, or relevance. Therefore, the alignment score would be low. Label=1."
+-not aligned-,At least,NOALI,0,0, 0
+in Pakistan bus bombing,in Pakistan church bombing,SIMI,3,0, 0
+killed,killed,EQUI,5,5, 5
+in Bangkok shooting,in US school shooting,SPE2,2,0, 0
+Two hurt,Two hurt,EQUI,5,5, 5
+in Jordan Valley,in West Bank attack,SPE2,2,0, 0
+killed,killed,EQUI,5,5, 5
+Israel colonel,Israeli,SPE1,4,3, 3
+prominent atheist blogger,3 atheist bloggers,SPE2,3,3, 3
+arrest,arrest,EQUI,5,5, 5
+Bangladesh police,Bangladesh police,EQUI,5,5, 5 (Identical)
+Cannes hotel raid,in Cannes,REL,4,1, 1
+nets,stolen,SIMI,4,0, 0
+€40 million gems,Jewels worth €40m,SPE1,4,5, 5
+Slams,-not aligned-,NOALI,0,0, 0
+Delays,on standby,REL,3,2, 2
+-not aligned-,Ten Chinese vessels,NOALI,0,0, 0
+Chinese News Agency,-not aligned-,NOALI,0,0, 0
+in Search for Jet,for jet search,EQUI,5,3, 3
+without opposition,-not aligned-,NOALI,0,0, 0
+-not aligned-,move,NOALI,0,0, 0
+says,-not aligned-,NOALI,0,0, 0
+-not aligned-,closer to intervention,NOALI,0,0, 0
+no peace talks,-not aligned-,NOALI,0,0, 0
+-not aligned-,:,NOALI,0,0, 0
+-not aligned-,west,NOALI,0,0, 0
+-not aligned-,Cameron and Obama,NOALI,0,0, 0
+Syria envoy,Syria,REL,4,1, 1
+-not aligned-,was,NOALI,0,0, 0
+-not aligned-,',NOALI,0,0, 0
+-not aligned-,Griff Rhys Jones,NOALI,0,0, 0
+-not aligned-,:,NOALI,0,0, 0
+a comedy favourite,-not aligned-,NOALI,0,0, 0
+UK,-not aligned-,NOALI,0,0, 0
+dead,a force for life,REL,3,0, 0
+and,-not aligned-,NOALI,0,0, 0
+-not aligned-,',NOALI,0,0, 0
+Mel Smith,Mel Smith,EQUI,5,5, 5 (Identical)
+mourns,-not aligned-,NOALI,0,0, 0
+at 60,-not aligned-,NOALI,0,0, 0
+Driver of crashed Spanish train,Spanish train driver,SPE1,4,5, 5
+held,held,EQUI,5,5," 5 (Both chunks have identical words and meanings, indicating a perfect alignment.)"
+of negligent homicide,of negligent homicide,EQUI,5,5," 5 (Both chunks have identical meaning and are directly related to the same topic, negligent homicide.)"
+on suspicion,on suspicion,EQUI,5,5, 5
+in Iraq,in Iraq,EQUI,5,5," 5 (Both chunks have identical text, indicating a perfect match in meaning, structure, and relevance.)"
+against military intervention,against US military interference,SPE2,4,5, 5
+-not aligned-,FM Spokeswoman,NOALI,0,0, 0
+-not aligned-,:,NOALI,0,0, 0
+Iran,Iran,EQUI,5,5, 5
+warns,-not aligned-,NOALI,0,0, 0
+to 51,63,SIMI,3,0," The provided chunks do not contain enough context to accurately assess their alignment. Both chunks are single numbers, and without additional information, it is impossible to determine if they are related in meaning, structure, or relevance.
+
+Label: 0 (No alignment)"
+Death toll,Death toll,EQUI,5,5, 5
+rises,hits,EQUI,5,0, 0
+in Latvian supermarket collapse,in Mumbai building collapse,SPE1,3,0, 0
+Defence,Defence,EQUI,5,5," 5 (The two chunks have identical meaning and are exactly the same, indicating a perfect alignment.)"
+of scapegoating,of scapegoating,EQUI,5,5, 5
+in South Korea ferry trial,in ferry trial,SPE1,4,4, 4
+warns,warns,EQUI,5,5, 5
+arrested,arrested,EQUI,5,5, 5
+during march,on way,SIMI,4,1, 1
+to Woolwich,to Woolwich,EQUI,5,5," 5 (Both chunks have identical text, indicating a perfect match in meaning, structure, and relevance.)"
+EDL leaders,EDL leaders,EQUI,5,5," 5 (Both chunks have identical text, indicating a perfect match in meaning, structure, and relevance.)"
+"nine foreign tourists , guide","9 foreign tourists , 1 Pakistani",SIMI,4,1, 1
+kill,kill,EQUI,5,5, 5
+Gunmen,Gunmen,EQUI,5,5, 5
+in Pakistan,-not aligned-,NOALI,0,0, 0
+-not aligned-,announces,NOALI,0,0, 0
+general election,of February general election,SPE2,4,4, 4
+to boycott,boycott,EQUI,5,5, 5
+Thai opposition party,Thailand 's opposition Democrat Party,SPE2,4,5, 5
+killing,-not aligned-,NOALI,0,0, 0
+",",-not aligned-,NOALI,0,0, 0
+Syrian warplanes,Syria and Iran,REL,2,1, 1
+strike,-not aligned-,NOALI,0,0, 0
+57,-not aligned-,NOALI,0,0, 0
+-not aligned-,Step Up,NOALI,0,0, 0
+reportedly,-not aligned-,NOALI,0,0, 0
+-not aligned-,Involvement,NOALI,0,0, 0
+in Iraq,in Iraq Conflict,REL,4,3, 3
+venue,Venue,EQUI,5,5," 5 (Both chunks have identical words and meaning, with only minor differences in capitalization)"
+changes,Changes,EQUI,5,4," 4 (Both chunks have the same meaning and structure, with only minor differences in capitalization.)"
+Egypt,Egypt,EQUI,5,5," 5 (The two chunks have identical meaning and content, with no differences in structure or relevance.)"
+for trial,for Trial,EQUI,5,3," 3 (Similar in meaning, with minor differences in capitalization and word order)"
+of ousted president,of Ousted President,EQUI,5,5, 5
+dies,dies,EQUI,5,5, 5
+Respected British interviewer David Frost,Broadcaster David Frost,SPE1,4,5, 5
+of a heart attack,-not aligned-,NOALI,0,0, 0
+killed,killed,EQUI,5,5, 5
+in Syria,in Israeli raid,SPE2,3,0, 0
+Group,-not aligned-,NOALI,0,0, 0
+7 Palestinians,Palestinian,SPE1,4,2, 2
+:,-not aligned-,NOALI,0,0, 0
+'s Benghazi,in Benghazi,EQUI,5,5, 5
+no casualties,None Hurt,EQUI,5,5, 5
+",",-not aligned-,NOALI,0,0, 0
+-not aligned-,",",NOALI,0,0, 0 (not aligned)
+-not aligned-,Hits,NOALI,0,0, 0
+Car bomb,Car Bomb,EQUI,5,5, 5
+at Swedish consulate,Swedish Consulate,EQUI,5,5, 5
+in Libya,-not aligned-,NOALI,0,0, 0
+six,4 militants,SPE2,3,0, 0
+kills,kills,EQUI,5,5, 5
+in Pakistan,in Pakistan,EQUI,5,5," 5 (Both chunks have identical text and context, indicating a perfect match.)"
+US drone strike,U.S. drone,SPE1,4,1, 1
+officials,-not aligned-,NOALI,0,0, 0
+Earthquake,Earthquake,EQUI,5,5, 5
+of 6.3 magnitude,of 6 magnitude,SIMI,4,5, 5
+off Indonesia island,Thailand,SIMI,3,0, 0
+strikes,strikes,EQUI,5,0, 0 (No Alignment)
+leaves,-not aligned-,NOALI,0,0, 0
+-not aligned-,at least,NOALI,0,0, 0
+dozens,179,SPE2,4,0," The provided chunks do not share a direct relationship in meaning, structure, or relevance. Therefore, the label would be 0."
+China quake,China quake,EQUI,5,5, 5
+dead,kills,EQUI,5,1, 1
+'s new prince,'s new baby prince,EQUI,5,4, 4
+visits,meets,EQUI,5,2, 2
+Queen,Queen,EQUI,5,5, 5 (Identical)
+Britain,Britain,EQUI,5,5," 5 (Both chunks have identical text and refer to the same topic, so the alignment is perfect.)"
+Syria opposition,Syria opposition,EQUI,5,5, 5
+pressed,-not aligned-,NOALI,0,0, 0
+-not aligned-,frustration,NOALI,0,0, 0
+-not aligned-,voices,NOALI,0,0, 0
+to attend,-not aligned-,NOALI,0,0, 0
+talks,with international backers,REL,2,1, 1
+submits,-not aligned-,NOALI,0,0, 0
+-not aligned-,signs,NOALI,0,0, 0
+'s integration,to join,EQUI,5,3, 3
+federal constitutional law,a treaty,REL,4,1, 1
+into Russia,Russia,EQUI,5,3, 3
+to State Duma,-not aligned-,NOALI,0,0, 0
+on Crimea,for Crimea,EQUI,5,2, 2
+Putin,Putin,EQUI,5,5, 5
+Venezuela,Venezuela,EQUI,5,5," 5 (Both chunks have identical content and are perfectly aligned in meaning, structure, and relevance.)"
+expels,Expels,EQUI,5,5," 5 (Both chunks have identical words and spelling, indicating a perfect match in this case.)"
+three U.S. diplomats,3 U.S. Diplomats,EQUI,5,5," 5 (Both chunks have identical text, with no differences in spelling, grammar, or structure.)"
+after bloody week,after deadly clashes,SPE2,3,3, 3
+protest,defiant,REL,4,3, 3
+Egypt 's bruised Islamists,Egypt Islamists,SPE1,4,4, 4
+N Korea,N. Korea,EQUI,5,5," 5 (Both chunks have identical text, with only minor differences in capitalization and punctuation, indicating a perfect match in meaning and structure.)"
+test-fires,fires,SPE1,4,2, 2
+30 short-range missiles,short-range missiles,SPE1,4,5, 5
+rises,rises,EQUI,5,5, 5
+to nine,to 260,SIMI,1,0, 0
+Glasgow helicopter death toll,Earthquake death toll,SIMI,2,0, 0
+mixed,higher,SIMI,3,2," 2 (Moderate alignment)
+
+Explanation: While the words ""mixed"" and ""higher"" do not have a direct semantic relationship, the concept of ""mixed"" can be interpreted as a combination of various elements, some of which might be higher in certain aspects. Therefore, there is a moderate level of alignment in the sense that one could potentially discuss a mixed situation where some elements are higher than others. However, the alignment is not strong as the two chunks do not directly discuss the same topic or share a clear structural similarity."
+--,-not aligned-,NOALI,0,0, 0
+-not aligned-,--,NOALI,0,0, 0
+close,close,EQUI,5,5," 5 (Both chunks, ""close"", are identical in meaning, structure, and relevance.)"
+Nov. 11,July 23,SIMI,3,0, 0
+Shanghai stock indices,Shanghai stock indices,EQUI,5,5," 5 (Both chunks have identical meaning, structure, and relevance)"
+Prince Charles,Prince Charles,EQUI,5,5, 5 (Identical)
+-not aligned-,',NOALI,0,0, 0
+',-not aligned-,NOALI,0,0, 0
+Putin,Vladimir Putin,EQUI,5,5, 5
+',-not aligned-,NOALI,0,0, 0
+to Hitler,to Adolf Hitler,EQUI,5,5, 5
+-not aligned-,',NOALI,0,0, 0
+compares,compares,EQUI,5,5," 5 (Both chunks compare something, indicating a high degree of similarity in meaning and structure.)"
+retakes,retakes,EQUI,5,5, 5 (Identical)
+from rebels,-not aligned-,NOALI,0,0, 0
+Crusader castle,historic Crusader castle,SPE2,4,4, 4
+Syrian army,Syrian army,EQUI,5,5, 5 (Identical)
+-not aligned-,Splintered,NOALI,0,0, 0
+over peace talks,Ahead of Peace Talks,EQUI,5,3, 3
+Syrian opposition,Syrian Opposition,EQUI,5,5," 5 (Both chunks have identical text, with no spelling or grammatical errors, and the meaning, structure, and relevance are exactly the same.)"
+to meet,-not aligned-,NOALI,0,0, 0
+Four Morsi supporters,of Morsi supporters,SPE1,4,3, 3
+in Egypt clashes,in Egypt,SPE1,4,1, 1
+-not aligned-,gather,NOALI,0,0, 0
+-not aligned-,Thousands,NOALI,0,0, 0
+killed,-not aligned-,NOALI,0,0, 0
+over Costa Concordia disaster,for costa concordia shipwreck disaster,SPE2,4,5, 5
+jailed,sentenced,REL,4,3, 3
+Five people,five men,SPE2,4,4, 4
+2020 Olympic Games,2020 Olympic Games,EQUI,5,5," 5 (Both chunks have identical text, indicating a perfect match in meaning, structure, and relevance.)"
+-not aligned-,wins,NOALI,0,0, 0
+-not aligned-,race,NOALI,0,0, 0
+Tokyo,Tokyo,EQUI,5,5, 5
+to host,to host,EQUI,5,5, 5
+-,-not aligned-,NOALI,0,0, 0
+Suicide bomber,Suicide bomb,REL,4,5, 5
+",",-not aligned-,NOALI,0,0, 0
+13,-not aligned-,NOALI,0,0, 0
+-not aligned-,'s Old City,NOALI,0,0, 0
+in Afghan capital,in Syrian capital,SIMI,3,0, 0
+police,-not aligned-,NOALI,0,0, 0
+kills,kills,EQUI,5,5, 5
+eight,4,SIMI,3,0, 0
+wounds,-not aligned-,NOALI,0,0, 0
+Twelve,11,SIMI,4,0, 0
+on Pakistani train,in northern Pakistan,REL,2,3, 3
+-not aligned-,as bus,NOALI,0,0, 0
+-not aligned-,falls into,NOALI,0,0, 0
+-not aligned-,ravine,NOALI,0,0, 0
+in bomb blast,-not aligned-,NOALI,0,0, 0
+killed,killed,EQUI,5,5, 5
+41,35,SIMI,4,2," Alignment=2
+
+Explanation:
+
+Chunk 1: [41] - ""The cat sat on the mat.""
+
+Chunk 2: [35] - ""The dog lay on the rug.""
+
+Both sentences describe a pet animal resting on a piece of furniture, but they differ in the specific animal and object involved. Therefore, they have some similarity in structure and subject matter, but not a high degree of alignment in meaning. A score of 2 seems appropriate for this level of similarity."
+wounded,wounded,EQUI,5,5, 5
+",",-not aligned-,NOALI,0,0, 0
+killed,killed,EQUI,5,5, 5
+in violent attacks,in wave of attacks,SPE1,4,3, 3
+22,138,SIMI,2,1," To evaluate the alignment of the two chunks, I will analyze their content for similarity in meaning, structure, or relevance.
+
+Chunk 1: [22] - ""The cat sat on the mat.""
+Chunk 2: [138] - ""The dog ran through the park.""
+
+While both sentences contain animals and locations, they do not share a common subject, action, or context. Therefore, the alignment between the two chunks is low.
+
+Label: 1 (Low alignment)"
+in Iraq,in Iraq,EQUI,5,5," 5 (Both chunks have identical text and location, indicating a perfect match.)"
+-not aligned-,",",NOALI,0,0, 0 (not aligned)
+advances,advances,EQUI,5,5, 5
+against USD,against USD,EQUI,5,5, 5
+Tuesday,Wednesday,SIMI,3,0, 0
+China yuan,China yuan,EQUI,5,5, 5
+to 6.2035,to 6.1408,SIMI,4,4," ALIGNMENT=4 (This score indicates a high degree of similarity between the two chunks, as they both refer to specific decimal numbers close to 6.2 and 6.1, which are very near each other.)"
+-not aligned-,slightly,NOALI,0,1, 1 (slightly)
+final vote count,-not aligned-,NOALI,0,0, 0
+-not aligned-,with his new job,NOALI,0,0, 0
+-not aligned-,to grips,NOALI,0,0, 0
+-not aligned-,gets,NOALI,0,0, 0
+on his bike,-not aligned-,NOALI,0,0, 0
+awaiting,-not aligned-,NOALI,0,0, 0
+New Australian PM Tony Abbott,Australian PM-elect Tony Abbott,EQUI,5,5, 5
+Amazon,Amazon,EQUI,5,5, 5 (Identical)
+new device for streaming video,new Fire TV streaming video box,SPE2,4,4, 4
+launches,unveils,EQUI,5,2, 2
+Glasgow Helicopter Crash Search,Glasgow Helicopter Crash,REL,4,5, 5
+-not aligned-,Woman PC,NOALI,0,0, 0
+-not aligned-,:,NOALI,0,0, 0
+-not aligned-,Is,NOALI,0,0, 0
+Ends,-not aligned-,NOALI,0,0, 0
+-not aligned-,Victim,NOALI,0,0, 0
+evacuated,evacuated,EQUI,5,5," 5 (Both chunks have identical meaning and structure, indicating a perfect alignment.)"
+Thousands,Thousands,EQUI,5,5," 5 (Both chunks have the exact same meaning and structure, as they both refer to the same quantity.)"
+in Moscow metro fire,after fire breaks out in Moscow Metro,EQUI,5,5, 5
+for mass march,for mass rally,EQUI,5,3, 3
+against polls,-not aligned-,NOALI,0,0, 0
+Bangladesh opposition,Bangladesh opposition,EQUI,5,5," 5 (Both chunks have identical meaning and are exactly the same, so the alignment score is 5.)"
+set,set,EQUI,5,5," 5 (Both chunks are sets, and they share the same structure, meaning they are identical in content.)"
+still,still,EQUI,4,5, 5
+-not aligned-,Hunt,NOALI,0,0, 0
+40 missing,for 40 missing,EQUI,5,0, 0 (No Alignment)
+-not aligned-,on,NOALI,0,0, 0
+in Canadian train wreck,in Canada train blaze,SPE2,4,3, 3
+-not aligned-,in hospital,NOALI,0,0, 0
+Pat Rice,Arsenal great Rice,EQUI,5,5, 5
+Arsenal stars,Arsenal great Rice,REL,4,2, 2
+'s fight,-not aligned-,NOALI,0,0, 0
+in support,-not aligned-,NOALI,0,0, 0
+against cancer,with cancer,EQUI,5,0, 0
+to wear,-not aligned-,NOALI,0,0, 0
+T-shirts,-not aligned-,NOALI,0,0, 0
+poised,-not aligned-,NOALI,0,0, 0
+strike,-not aligned-,NOALI,0,0, 0
+-not aligned-,too slick,NOALI,0,0, 0
+Colombia,Colombia,EQUI,5,5, 5
+-not aligned-,for Greece,NOALI,0,0, 0
+three times,-not aligned-,NOALI,0,0, 0
+Polar bear DNA,Polar bear study,SIMI,4,4, 4
+may help,may boost,EQUI,5,2, 2
+fight,fight,EQUI,5,5, 5
+obesity,against obesity,EQUI,5,5, 5
+',-not aligned-,NOALI,0,0, 0
+',-not aligned-,NOALI,0,0, 0
+Fire in Russian psychiatric hospital,in Russian psychiatric hospital fire,EQUI,5,5, 5
+38,38,EQUI,5,5, 5 (Identical)
+kills,feared dead,SPE1,4,4, 4
+in west China,Italy,SIMI,2,0, 0
+opened,-not aligned-,NOALI,0,0, 0
+World,-not aligned-,NOALI,0,0, 0
+-not aligned-,'s centre-left splinters,NOALI,0,0, 0
+'s largest building,-not aligned-,NOALI,0,0, 0
+-not aligned-,in presidential vote,NOALI,0,0, 0
+-not aligned-,raze,NOALI,0,0, 0
+not to release,-not aligned-,NOALI,0,0, 0
+Israel,Israeli authorities,REL,4,4, 4
+-not aligned-,in Arraba,NOALI,0,0, 0
+Palestinian prisoners,Palestinian home,REL,2,0, 0
+"100,000",-not aligned-,NOALI,0,0, 0
+Volcano erupts,Volcanic eruption,EQUI,5,5, 5
+evacuated,-not aligned-,NOALI,0,0, 0
+-,-not aligned-,NOALI,0,0, 0
+closed,closes,EQUI,5,3, 3
+in Indonesia,-not aligned-,NOALI,0,0, 0
+and,-not aligned-,NOALI,0,0, 0
+airports,3 airports,SPE2,4,3, 3
+Search,Search,EQUI,5,5," 5 (Both chunks have the exact same term and are about the same topic, indicating a high degree of similarity)"
+for Malaysia jet,for Missing Malaysian Jet,SPE2,4,5, 5
+resumes,Resumes,EQUI,5,5," 5 (Both chunks have identical text and case, indicating a perfect match in meaning, structure, and relevance.)"
+to 6.1651,to 6.1696,SIMI,4,5, ALIGNMENT=5
+China yuan,China yuan,EQUI,5,5, 5
+Tuesday,Thursday,SIMI,3,0, 0
+weakens,strengthens,OPPO,4,0, 0
+against USD,against USD,EQUI,5,5, 5
+-not aligned-,Embark,NOALI,0,0, 0
+in prayer and song,of ' Prayer and Reflection ',SIMI,4,3, 3
+unites,-not aligned-,NOALI,0,0, 0
+South Africa,South Africans,EQUI,5,5, 5
+-not aligned-,on Day,NOALI,0,0, 0
+for Mandela,for Mandela,EQUI,5,5," 5 (The texts are identical, sharing the exact same meaning, structure, and relevance)"
+-not aligned-,Royal visit,NOALI,0,0, 0
+Australian parliament video,Parliament in Canberra tour,REL,2,1, 1
+addresses,-not aligned-,NOALI,0,0, 0
+-not aligned-,:,NOALI,0,0, [0]
+-not aligned-,visit,NOALI,0,0, 0
+Prince William,Prince William and Catherine,SPE1,4,4, 4
+charged,charged,EQUI,5,5, 5
+in 2007 Bhutto assassination,in Bhutto death,SPE1,4,4, 4
+Fromer Pakistani army chief Musharraf,Former Pakistan army chief,SPE1,4,4, 4
+5 Dead,Death toll 42,SIMI,2,2, 2
+in India Building Collapse,in India building collapse,EQUI,5,5, 5
+-not aligned-,hits,NOALI,0,0, 0
+Launches,launches,EQUI,5,5, 5
+Egypt,Egypt,EQUI,5,5," 5 (Both chunks have identical content and are perfectly aligned in meaning, structure, and relevance.)"
+Offensive,offensive,EQUI,5,5, 5
+Against Sinai Militants,against Sinai insurgents,SIMI,4,4, 4
+warns,-not aligned-,NOALI,0,0, 0
+of ' heavy price ',-not aligned-,NOALI,0,0, 0
+-not aligned-,over arming,NOALI,0,0, 0
+Syrian rebels,Syrian rebels,EQUI,5,5, 5 (Identical)
+for backing,-not aligned-,NOALI,0,0, 0
+-not aligned-,at war,NOALI,0,0, 0
+Assad,Cabinet,REL,4,0, 0
+Turkey,-not aligned-,NOALI,0,0, 0
+from Jan 20,Jan 20,EQUI,5,5, 5 (Identical)
+on Iran nuclear drive,Iran nuclear drive,EQUI,5,5, 5
+Deal,Deal,EQUI,5,5," 5 (Both chunks have identical meaning and structure, indicating a perfect alignment.)"
+-not aligned-,curbing,NOALI,0,0, 0
+-not aligned-,to take effect,NOALI,0,0, 0
+after protest,-not aligned-,NOALI,0,0, 0
+against Nigel Farage,Kerry,SIMI,2,0, 0 (No relevance or similarity)
+made,-not aligned-,NOALI,0,0, 0
+Two arrests,-not aligned-,NOALI,0,0, 0
+-not aligned-,after latest intensive Mideast trip,NOALI,0,0, 0
+-not aligned-,vows,NOALI,0,0, 0
+-not aligned-,progress,NOALI,0,0, 0
+dies,dies,EQUI,5,5, 5
+at 94,at 94,EQUI,5,5, 5 (Identical)
+Nobel author Doris Lessing,Nobel laureate Doris Lessing,EQUI,5,5, 5
+after teen shot,after shooting,SPE1,4,4, 4
+-not aligned-,",",NOALI,0,0, 0
+-not aligned-,",",NOALI,0,0, 0 (not aligned)
+held,arrested,EQUI,5,1, 1
+Man,Man,EQUI,5,5," 5 (Both chunks have identical content and meaning, with perfect alignment.)"
+in Belfast,-not aligned-,NOALI,0,0, 0
+-not aligned-,40,NOALI,0,0, LABEL=0
+Iran,Iran,EQUI,5,5, 5
+-not aligned-,of diplomat,NOALI,0,0, 0
+ups,-not aligned-,NOALI,0,0, 0
+-not aligned-,rapid release,NOALI,0,0, 0
+oil swap,-not aligned-,NOALI,0,0, 0
+with eastern neighbors,-not aligned-,NOALI,0,0, 0
+-not aligned-,urges,NOALI,0,0, 0
+in Bhutto Assassination,-not aligned-,NOALI,0,0, 0
+-not aligned-,for first time,NOALI,0,0, 0
+Pakistan,Pakistan,EQUI,5,5," 5 (The two chunks have identical meaning and content, with no differences in structure or relevance.)"
+'s Musharraf,'s Musharraf,EQUI,5,5, 5 (Identical)
+-not aligned-,arrives,NOALI,0,0, 0
+Under Arrest,at court,REL,4,3, 3
+Baby Girl,Baby Girl,EQUI,5,5, 5
+Pit Bull Dog,Dog,SPE1,4,2, 2
+In Blackburn,In Blackburn,EQUI,5,5," 5 (Both chunks are identical in meaning, structure, and location, indicating a perfect match.)"
+Kills,Mauls To Death,EQUI,5,4, 4
+-not aligned-,Keita,NOALI,0,0, 0
+stop,-not aligned-,NOALI,0,0, 0
+Police,-not aligned-,NOALI,0,0, 0
+-not aligned-,Wins,NOALI,0,0, 0
+Maldives presidential election,Mali Presidential Election,SIMI,2,0, 0
+-,-not aligned-,NOALI,0,0, 0
+10 Things,10 Things,EQUI,5,5," 5 (Both chunks have the same structure and similar topic, listing 10 things.)"
+Today,for Tuesday,SPE2,3,1, 1
+to Know,to Know,EQUI,5,5, 5 (Both chunks have identical meaning and structure)
+one man,eleven,SPE1,2,0, 0
+'s Hama,-not aligned-,NOALI,0,0, 0
+kills,kills,EQUI,5,5, 5
+Air strike,US drone strike,SPE2,4,3, 3
+in Syria,in Pakistan,SIMI,3,0, 0
+-not aligned-,',NOALI,0,0, 0
+in San Francisco plane crash,in San Francisco plane crash,EQUI,5,5, 5
+',-not aligned-,NOALI,0,0, 0
+-not aligned-,were,NOALI,0,0, 0
+-not aligned-,',NOALI,0,0, 0
+-not aligned-,Chinese,NOALI,0,0, 0
+-not aligned-,Two,NOALI,0,0, 0
+One unaccounted for,killed,SPE2,3,0, 0
+',-not aligned-,NOALI,0,0, 0
+Japan,Japan,EQUI,5,5," 5 (The two chunks have identical meaning and content, indicating a perfect alignment.)"
+to respect,-not aligned-,NOALI,0,0, 0
+-not aligned-,to maintain,NOALI,0,0, 0
+China,China,EQUI,5,5," 5 (The two chunks have identical content and are perfectly aligned in meaning, structure, and relevance.)"
+regional security concerns,regional peace,SIMI,4,4, 4
+urges,urges,EQUI,5,5, 5
+2 Palestinian Militants,Palestinian militant,SPE1,4,3, 3
+-not aligned-,in raid,NOALI,0,0, 0
+Kill,kills,EQUI,5,3, 3
+Israel Forces,Israeli army,EQUI,5,5, 5
+-not aligned-,nears,NOALI,0,0, 0
+amid growing unrest,more violence,REL,4,2, 2
+-not aligned-,faces,NOALI,0,0, 0
+-not aligned-,end,NOALI,0,0, 0
+-not aligned-,as ultimatum,NOALI,0,0, 0
+Ukraine talks,Ukraine,REL,3,5, 5
+continue,-not aligned-,NOALI,0,0, LABEL=0
+in Cairo,in Cairo,EQUI,5,5," 5 (Both chunks are identical in meaning, structure, and location, indicating a perfect match.)"
+tear gas,tear gas,EQUI,5,5, 5
+fire,fire,EQUI,5,5, 5
+at protesters,at protesters,EQUI,5,5, 5
+Egyptian police,Police,SPE1,4,3, 3
+set,set,EQUI,5,5," 5 (Both chunks are sets, and they share the same structure, meaning they are identical in content and structure.)"
+for democracy march,for huge democracy rally,SPE2,4,4, 4
+Hong Kong,Hong Kong,EQUI,5,5, 5
+"6,000 Cuban doctors","4,000 Cuban doctors",SIMI,3,4, 4
+to hire,hires,EQUI,5,4, 4
+in talks,-not aligned-,NOALI,0,0, 0
+Brazil,Brazil,EQUI,5,5," 5 (Both chunks have identical text, indicating a perfect match in meaning, structure, and relevance.)"
+Kills,Death toll,REL,4,3, 3
+38,to 39,SIMI,4,5," Alignment=5 (Both chunks are consecutive and form a continuous sequence, so they have a perfect alignment in terms of structure and meaning.)"
+Southern Italy Coach Crash,in Italy coach crash,SPE1,4,3, 3
+-not aligned-,rises,NOALI,0,0, 0
+Yemen officials,-not aligned-,NOALI,0,0, 0
+US drone,Yemen drone strike,SIMI,3,3, 3
+:,-not aligned-,NOALI,0,0, 0
+2 militants,militants,SPE1,4,5, 5
+kills,kills,EQUI,5,5, 5
+injured,injured,EQUI,5,5, 5
+in multiple bus crash in Germany,in Germany bus crash,SPE1,4,5, 5
+-not aligned-,and,NOALI,0,0, 0
+Nine,Several,SPE1,3,1, 1
+more than 40,scores,SPE1,3,2," 2 (Moderate Alignment)
+
+Explanation: Both chunks contain numerical values, but the first chunk refers to a quantity greater than 40, while the second chunk refers to scores. While the numerical aspect is present in both, the specific meaning and context are different. Therefore, the alignment is moderate."
+killed,killed,EQUI,5,5, 5
+election for 7 September,Sept. 7 poll,EQUI,5,5, 5
+Australian PM Kevin Rudd,Australian PM Rudd,EQUI,5,5, 5
+calls,calls,EQUI,5,5," 5 (Both chunks have the exact same word and meaning, indicating a perfect alignment.)"
+in Cairo,Egypt,REL,4,4, 4
+with youth,with pro-Morsi protesters,SPE2,3,0, 0
+clash,clash,EQUI,5,5, 5
+after anti-Morsi protest,-not aligned-,NOALI,0,0, 0
+Police,Police,EQUI,5,5," 5 (Both chunks have identical content and meaning, indicating a perfect alignment.)"
+-not aligned-,:,NOALI,0,0, 0
+-not aligned-,",",NOALI,0,0, 0 (not aligned)
+Issues,issues,EQUI,5,5, 5
+Over Al Qaeda Threat,citing Qaeda threats,EQUI,5,3, 3
+Travel Alert,global alert,SPE1,4,4, 4
+US,US,EQUI,5,5," 5 (Both chunks are identical in meaning, structure, and content, indicating a perfect alignment.)"
+Ships,-not aligned-,NOALI,0,0, 0
+for Syrian Chemical Weapons Transport,Syrian Chemical Weapons Resolution,REL,4,3, 3
+-not aligned-,UN,NOALI,0,0, 0
+-not aligned-,Adopts,NOALI,0,0, 0
+Train,-not aligned-,NOALI,0,0, 0
+-not aligned-,US tourist,NOALI,0,0, 0
+-not aligned-,gang-raped,NOALI,0,0, 0
+-not aligned-,:,NOALI,0,0, 0
+Indian flood rescue,-not aligned-,NOALI,0,0, 0
+-not aligned-,Police,NOALI,0,0, 0
+-not aligned-,in northern India,NOALI,0,0, 0
+hampers,-not aligned-,NOALI,0,0, 0
+More rain,-not aligned-,NOALI,0,0, 0
+edge,close,SPE2,4,2," 2 (Similar, but not identical)"
+Aust shares,Aust shares,EQUI,5,5," 5 (Both chunks have identical text, indicating a perfect match in meaning, structure, and relevance.)"
+higher,higher,EQUI,5,5," 5 (Both chunks have the same word ""higher"", indicating a high degree of similarity in meaning and structure.)"
+-not aligned-,Syrian rebels,NOALI,0,0, 0
+of Syria chemical weapons,of chemical weapons deal,REL,4,3, 3
+"US , Russia",-not aligned-,NOALI,0,0, 0
+-not aligned-,skeptical,NOALI,0,0, 0
+seizure,-not aligned-,NOALI,0,0, 0
+agree on,-not aligned-,NOALI,0,0, 0
+' Fast undamp ; Furious ' star Paul Walker,Paul Walker Fast and Furious star,EQUI,5,5, 5
+dies,killed,EQUI,5,3, 3
+in car crash,in car crash,EQUI,5,5," 5 (Both chunks have identical meaning and structure, they are exactly the same.)"
+-not aligned-,",",NOALI,0,0, 0 (not aligned)
+-not aligned-,dead,NOALI,0,0, 0
+-not aligned-,:,NOALI,0,0, 0
+-not aligned-,40,NOALI,0,0, LABEL=0
+-not aligned-,",",NOALI,0,0, 0 (not aligned)
+unchanged,at 0.5%,SPE2,3,1," Alignment=1 (Chunk 1: [unchanged], Chunk 2: [at 0.5%]) indicates a slight similarity in meaning or structure, as the second chunk is a very small percentage of the first. However, without more context, it's difficult to provide a precise score."
+keeps,keeps,EQUI,5,5," 5 (Both chunks have identical text, indicating a perfect match in meaning, structure, and relevance.)"
+European Central Bank,European Central bank,EQUI,5,5, 5
+rates,interest rate,SPE2,4,5, 5
+10,Five,SIMI,2,2, ALIGNMENT=2
+in Philippine political violence,-not aligned-,NOALI,0,0, 0
+Gunmen,-not aligned-,NOALI,0,0, 0
+kill,killed,EQUI,5,4, 4
+-not aligned-,in Philippines volcano eruption,NOALI,0,0, 0
+in Iraq mosque bombing,in Iraq mosque bombing,EQUI,5,5," 5 (Both chunks have identical meaning, structure, and relevance)"
+77,-not aligned-,NOALI,0,0, 0
+-not aligned-,At least,NOALI,0,0, 0
+wounded,-not aligned-,NOALI,0,0, 0
+24,18,SIMI,3,1," Alignment=1
+
+Explanation:
+
+Chunk 1: [24] refers to a specific number, which could be a year, a page number, or any other context where a number is used.
+
+Chunk 2: [18] is also a specific number, but without additional context, it's hard to determine if it's related to Chunk 1 in any way. However, since both chunks are numbers, they share a similar structure, which is why I've assigned a score of 1. If more context were provided, the score might change."
+killed,killed,EQUI,5,5, 5
+-not aligned-,rises,NOALI,0,0, 0
+as Kenya mall standoff,as Kenya mall siege,EQUI,5,3," 3 (Similar in meaning, both refer to a tense situation in a mall in Kenya)"
+Islamists,-not aligned-,NOALI,0,0, 0
+some 30 hostages,Death toll,REL,2,0, 0
+still,-not aligned-,NOALI,0,0, 0
+continues,continues,EQUI,5,1," To provide an accurate score, I would need the specific chunks of text to evaluate. However, I can give you an example of how I would approach this task:
+
+Let's say Chunk 1 is: ""The cat is on the mat.""
+Chunk 2 is: ""The feline is on the rug.""
+
+In this case, the chunks are similar in meaning (both describe an animal on a surface), but not identical in structure or exact words used. So, a score of 3 might be appropriate.
+
+If Chunk 1 is: ""The cat is on the mat.""
+Chunk 2 is: ""The cat is sitting on the mat.""
+
+In this case, the chunks are very similar in meaning and structure, so a score of 4 or 5 might be appropriate.
+
+If Chunk 1 is: ""The cat is on the mat.""
+Chunk 2 is: ""The dog is barking.""
+
+In this case, the chunks have no similarity in meaning or structure, so a score of 0 might be appropriate."
+holding,-not aligned-,NOALI,0,0, 0
+",",-not aligned-,NOALI,0,0, 0
+Heavy smog,Heavy Smog,EQUI,5,5, 5
+flights,Flights,EQUI,5,5," 5 (Both chunks have identical words and capitalization, indicating a high degree of similarity in meaning, structure, and relevance.)"
+north China city,North China City,EQUI,5,5, 5
+-not aligned-,",",NOALI,0,0, 0 (not aligned)
+hits,Hits,EQUI,5,5," 5 (Both chunks have identical words and case, indicating a perfect match in meaning and structure.)"
+cancelled,Canceled,EQUI,5,5, 5
+-not aligned-,tries,NOALI,0,0, 0
+state media,-not aligned-,NOALI,0,0, 0
+gets,-not aligned-,NOALI,0,0, 0
+therapy,-not aligned-,NOALI,0,0, 0
+:,-not aligned-,NOALI,0,0, 0
+-not aligned-,to break,NOALI,0,0, 0
+-not aligned-,election stalemate,NOALI,0,0, 0
+after stroke,-not aligned-,NOALI,0,0, 0
+Algeria president,Bulgarian president,SIMI,3,0, 0
+says,-not aligned-,NOALI,0,0, 0
+Iran,Iran,EQUI,5,5, 5
+ready,-not aligned-,NOALI,0,0, 0
+for fresh round,renews support,REL,2,2, 2
+of nuclear talks,for nuclear talks,EQUI,5,3, 3
+-not aligned-,'s Khamenei,NOALI,0,0, 0
+23 Iraqi army recruits,13 Iraqi army recruits,SIMI,3,4, 4
+Suicide bomber,Suicide bomber,EQUI,5,5, 5
+kills,kills,EQUI,5,5, 5
+-not aligned-,in Baghdad,NOALI,0,0, 0
+Obama,Obama,EQUI,5,5, 5 (The two chunks have identical content and are perfectly aligned in meaning and structure.)
+-not aligned-,To Meet,NOALI,0,0, 0
+nominates,-not aligned-,NOALI,0,0, 0
+new transportation secretary,Embattled Veterans Secretary,SIMI,2,0, 0
+-not aligned-,of 2013,NOALI,0,0, 0
+Philippines,the Philippines,EQUI,5,5, 5
+Super typhoon,Most powerful typhoon,SPE2,4,5, 5
+hits,hits,EQUI,5,5, 5 (Both chunks have identical meaning and are exactly the same)
+Google,Google,EQUI,5,5, 5 (Identical)
+Nexus 5 phone,-not aligned-,NOALI,0,0, 0
+releases,redesigns,REL,3,1, 1
+with Kit Kat,-not aligned-,NOALI,0,0, 0
+-not aligned-,on PCs,NOALI,0,0, 0
+-not aligned-,search results,NOALI,0,0, 0
+-not aligned-,on hunger strik,NOALI,0,0, 0
+Judge,U.S. judge,SPE2,4,3, 3
+OKs,approves,EQUI,5,2, 2
+force-feeding California inmates,force-feeding Californian inmates,EQUI,5,5, 5
+charged,arrested,REL,4,1, 1
+Ride operator,N.C. State Fair ride operator,SPE2,4,4, 4
+in N.C. fair accident,after accident,SPE1,4,1, 1
+Doubts,-not aligned-,NOALI,0,0, 0
+-not aligned-,Official,NOALI,0,0, 0
+"US , NATO",-not aligned-,NOALI,0,0, 0
+from Ukraine Border,From Ukraine Border,EQUI,5,5, 5
+-not aligned-,",",NOALI,0,0, 0
+-not aligned-,Says,NOALI,0,0, 0
+Russia Pulled Back,of Russian Withdrawal,SIMI,4,5, 5
+Raise,-not aligned-,NOALI,0,0, 0
+-not aligned-,No Sign,NOALI,0,0, 0
+gives,gives,EQUI,5,5," 5 (Both chunks have the same word and similar meaning, structure, and relevance)"
+Early vote count in Iran,Iran vote count,SPE1,4,5, 5
+reformer,Rowhani,SPE2,4,1," The provided chunks do not have a clear semantic, structural, or thematic relationship. Therefore, the alignment score would be low.
+
+LABEL=1"
+wide lead,wide lead,EQUI,5,5," 5 (Both chunks have the exact same phrase, indicating a perfect match in meaning, structure, and relevance.)"
+in sea transfer,-not aligned-,NOALI,0,0, 0
+asylum seekers,asylum-seekers,EQUI,5,5, 5
+-not aligned-,:,NOALI,0,0, 0
+returns,hands back,EQUI,5,2, 2
+to Sri Lanka,to Sri Lanka,EQUI,5,5," 5 (Both chunks have identical text, indicating a perfect match in meaning, structure, and relevance.)"
+Australia,Australia,EQUI,5,5," 5 (The two chunks have identical meaning and content, with no differences in structure or relevance.)"
+-not aligned-,Australia,NOALI,0,0, 0
+;,-not aligned-,NOALI,0,0, 0
+Dead,dead,EQUI,5,5, 5
+Rage,rage,EQUI,5,5, 5
+Overnight,-not aligned-,NOALI,0,0, 0
+-not aligned-,;,NOALI,0,0, 0
+Lebanon Clashes,Lebanon clashes,EQUI,5,5, 5
+-not aligned-,near mosque,NOALI,0,0, 0
+12 Soldiers,16 soldiers,SIMI,3,1, 1
+with making 9/11 threats,over 9/11 threats,EQUI,5,5, 5
+Los Angeles airport worker,Los Angeles airport worker,EQUI,5,5," 5 (Both chunks have identical meaning and structure, referring to the same subject and location.)"
+charged,charged,EQUI,5,5, 5
+",",-not aligned-,NOALI,0,0, 0
+multiple,five,SPE2,3,1," Alignment=1 (Chunk 1: [multiple], Chunk 2: [five])"
+-not aligned-,",",NOALI,0,0, 0
+in Miami shooting,in Myrtle Beach shootings,SPE2,3,0, 0
+2,Three,SIMI,4,1," The provided chunks do not have a clear relationship in meaning, structure, or relevance. Therefore, the alignment score would be low. Label=1."
+wounded,wounded,EQUI,5,5, 5
+killed,killed,EQUI,5,5, 5
+on Indian Consulate,on Indian consulate,EQUI,5,5, 5
+in Attack,in attack,EQUI,5,5, 5
+Killed,killed,EQUI,5,5, 5
+in Afghanistan,in Afghan city,SPE2,4,3, 3
+9,12,SIMI,4,1," Alignment=1 (Similarity in topic, but different in detail or perspective)"
+6 Killed,Five dead,SIMI,4,3, 3
+as Indonesia Volcano Erupts,in Indonesian eruption,EQUI,5,5, 5
+by Hot Lava,-not aligned-,NOALI,0,0, 0
+-not aligned-,Friday,NOALI,0,0, 0
+weakens,strengthens,OPPO,4,0, 0
+against USD,against USD,EQUI,5,5, 5
+to 6.1059,to 6.1070,SIMI,4,5," Alignment=5 (Both chunks are referring to the same specific location, with a very small difference in the decimal point)"
+China yuan,China yuan,EQUI,5,5, 5
+unity talks,at ' war,REL,2,0, 0
+-not aligned-,Pope,NOALI,0,0, 0
+-not aligned-,arms,NOALI,0,0, 0
+Ukraine,in Syria,SIMI,3,0, 0
+-not aligned-,',NOALI,0,0, 0
+hosts,-not aligned-,NOALI,0,0, 0
+-not aligned-,to sell,NOALI,0,0, 0
+',-not aligned-,NOALI,0,0, 0
+',-not aligned-,NOALI,0,0, 0
+-not aligned-,hits out,NOALI,0,0, 0
+for Oil Refinery,for Iraq refinery,SPE2,3,2, 2
+"Iraqi Forces , Militants","Iraqi forces , militants",EQUI,5,5, 5
+Battle,battle,EQUI,5,5, 5
+',-not aligned-,NOALI,0,0, 0
+-not aligned-,of care delays,NOALI,0,0, 0
+over halal meat,-not aligned-,NOALI,0,0, 0
+no concerns,-not aligned-,NOALI,0,0, 0
+Cameron,-not aligned-,NOALI,0,0, 0
+-not aligned-,cover-up,NOALI,0,0, 0
+-not aligned-,Veterans health probe,NOALI,0,0, 0
+-not aligned-,confirms,NOALI,0,5, 5 (confirms)
+has,-not aligned-,NOALI,0,0, 0
+',-not aligned-,NOALI,0,0, 0
+nears,-not aligned-,NOALI,0,0, 0
+arrested,arrested,EQUI,5,5, 5
+Bangladesh factory owners,Bangladesh factory owners,EQUI,5,5," 5 (Both chunks have identical text, so the alignment score is 5, the maximum on the given scale.)"
+as death toll,-not aligned-,NOALI,0,0, 0
+350,-not aligned-,NOALI,0,0, 0
+-not aligned-,on Wednesday,NOALI,0,0, 0
+to press,-not aligned-,NOALI,0,0, 0
+how,-not aligned-,NOALI,0,0, 0
+EU foreign ministers,EU foreign ministers,EQUI,5,5, 5 (Identical)
+Egypt,Egypt,EQUI,5,5," 5 (The two chunks have identical meaning and content, with no differences in structure or relevance.)"
+to discuss,to discuss,EQUI,5,5, 5
+over bloodshed,-not aligned-,NOALI,0,0, 0
+-not aligned-,",",NOALI,0,0, 0 (not aligned)
+-not aligned-,Dig in,NOALI,0,0, 0
+-not aligned-,and,NOALI,0,0, 0
+crackdown threat,-not aligned-,NOALI,0,0, 0
+Cairo protesters,In Cairo Camps Protesters,EQUI,5,4, 4
+defy,-not aligned-,NOALI,0,0, 0
+-not aligned-,Live On,NOALI,0,0, 0
+in drone strike,-not aligned-,NOALI,0,0, 0
+killed,killed,EQUI,5,5, 5
+Six,12,SIMI,3,0," The provided chunks do not share a significant degree of similarity in meaning, structure, or relevance. Therefore, the label would be 0."
+in N Waziristan,in Pakistan,SPE1,4,4, 4
+-not aligned-,in bus accident,NOALI,0,0, 0
+-not aligned-,warship,NOALI,0,0, 0
+launches,-not aligned-,NOALI,0,0, 0
+UN,UK,REL,4,0, 0
+US$300 mil. appeal,to aid,SPE1,3,1, 1
+for Philippines,Philippines,EQUI,5,5, 5
+-not aligned-,sends,NOALI,0,0, 0
+N Korea,North Korea,EQUI,5,5, 5
+family reunions,Family Reunions,EQUI,5,5, 5
+postpones,Postpones,EQUI,5,5, 5
+with South,with South,EQUI,5,5," 5 (The two chunks have identical meaning and are exactly the same, indicating a perfect alignment.)"
+hails,-not aligned-,NOALI,0,0, 0
+N. Korea,North Korea,EQUI,5,5, 5
+of powerful uncle,of powerful uncle,EQUI,5,5, 5
+execution,behind sacking,SIMI,2,1, 1
+-not aligned-,seen,NOALI,0,0, 0
+'s Kim,'s Kim,EQUI,5,5," 5 (Both chunks have identical text, indicating a perfect match in meaning, structure, and relevance.)"
+sentenced,sentenced,EQUI,5,1," To evaluate the alignment of the two provided chunks of text, I will analyze their degree of similarity in meaning, structure, or relevance to each other.
+
+Chunk 1: The cat is playing with a ball.
+Chunk 2: The dog is chasing its tail.
+
+Label: 1
+
+The two sentences are about different animals performing different actions, so they have a low degree of similarity in meaning and structure. However, they are both simple sentences describing an action performed by an animal, so they share a common structure to some extent. Therefore, I assign a score of 1 on the provided scale."
+to death,to death,EQUI,5,5, 5
+married,-not aligned-,NOALI,0,0, 0
+-not aligned-,frees,NOALI,0,0, 0
+a Christian man,-not aligned-,NOALI,0,0, 0
+for ' apostasy ',for apostasy,EQUI,5,5, 5
+Pregnant Sudan woman,Christian woman,SIMI,3,1, 1
+-not aligned-,Sudan,NOALI,0,0, 0
+who,Christian woman,SIMI,3,1, 1
+for help,to Act,SIMI,3,0, 0
+-not aligned-,Kerry,NOALI,0,0, 0
+Libya,-not aligned-,NOALI,0,0, 0
+UN Security Council,UN Security Council,EQUI,5,5," 5 (Both chunks have identical text, indicating a perfect match in meaning, structure, and relevance.)"
+-not aligned-,on Syria,NOALI,0,0, 0
+asks,Calls On,SIMI,3,1, 1
+from Baghdad bombs,from Egypt clashes,SIMI,2,0, 0
+to 19,to 57,SIMI,2,," To accurately evaluate and score the alignment of the two provided chunks, I would need to understand the context and content of the text. However, since the text is not provided, I'm unable to perform the task. I apologize for any inconvenience this may cause.
+
+In the absence of text, I cannot provide a score from the given scale. If you could provide the text for me to analyze, I'd be happy to help!"
+rises,rises,EQUI,5,5, 5 (The two chunks have identical meaning and structure)
+Death toll,Death toll,EQUI,5,5," 5 (Both chunks have the exact same meaning and are structurally identical, indicating a perfect alignment.)"
+in Syria,on Syria,EQUI,5,2, 2
+Says,-not aligned-,NOALI,0,0, 0
+-not aligned-,EU,NOALI,0,0, 0
+-not aligned-,united,NOALI,0,0, 0
+',-not aligned-,NOALI,0,0, 0
+Responsibilities,-not aligned-,NOALI,0,0, 0
+France,France,EQUI,5,5," 5 (The two chunks have identical meaning and content, with no differences in structure or relevance.)"
+-not aligned-,to be,NOALI,0,0, 0
+Won't ' Shirk,-not aligned-,NOALI,0,0, 0
+-not aligned-,urges,NOALI,0,0, 0
+Boeing 777 plane,Plane,SPE1,4,3, 3
+crash-lands,crash lands,EQUI,5,5," 5 (Both chunks have identical text, indicating a perfect match in meaning, structure, and relevance.)"
+at San Francisco airport,at San Francisco airport,EQUI,5,5," 5 (Both chunks have identical meaning, structure, and relevance as they both refer to the same location - San Francisco airport.)"
+-not aligned-,of Crimea,NOALI,0,0, 0
+EU,-not aligned-,NOALI,0,0, 0
+urges,-not aligned-,NOALI,0,0, 0
+-not aligned-,the de-facto annexation,NOALI,0,0, 0
+-not aligned-,:,NOALI,0,0, 0
+on Crimea,-not aligned-,NOALI,0,0, 0
+-not aligned-,This,NOALI,0,0, 0
+strong action,-not aligned-,NOALI,0,0, 0
+to take,-not aligned-,NOALI,0,0, 0
+Tymoshenko,Ukraine crisis,REL,4,0, 0
+-not aligned-,is,NOALI,0,0, 0
+for new show,on stage,REL,4,3, 3
+to reunite,to reunite,EQUI,5,5, 5
+Monty Python,Monty Python,EQUI,5,5, 5 (Identical)
+turns,-not aligned-,NOALI,0,0, 0
+-not aligned-,At least,NOALI,0,0, 0
+Record-setting Southwest heat wave,in Southwest heat wave,SPE1,4,4, 4
+fatal,"1 dead , 40 hospitalized",REL,3,4, 4
+at S Carolina oceanfront motel,-not aligned-,NOALI,0,0, 0
+hurt,injured,EQUI,5,5, 5
+in shooting,-not aligned-,NOALI,0,0, 0
+-not aligned-,in train collision,NOALI,0,0, 0
+1,30,SIMI,2,0," The provided chunks do not have any discernible relationship in meaning, structure, or relevance. Therefore, the label would be 0."
+",",-not aligned-,NOALI,0,0, 0
+-not aligned-,near Moscow,NOALI,0,0, 0
+3 dead,4 dead,SIMI,4,5, 5
+-not aligned-,",",NOALI,0,0, 0
+Nigerian leader,-not aligned-,NOALI,0,0, 0
+to free,to free,EQUI,5,5, 5
+orders,mounts,SIMI,2,1, 1
+push,Pressure,SIMI,3,1, 1
+abducted schoolgirls,kidnapped girls,SPE1,4,5, 5
+religious motive,-not aligned-,NOALI,0,0, 0
+-not aligned-,in hospital bed,NOALI,0,0, 0
+seen,-not aligned-,NOALI,0,0, 0
+charged,charged,EQUI,5,5, 5
+;,-not aligned-,NOALI,0,0, 0
+Boston bomb suspect,Boston bombing suspect,EQUI,5,5, 5
+Scores,-not aligned-,NOALI,0,0, 0
+-not aligned-,Turkey,NOALI,0,0, 0
+-not aligned-,'s PM,NOALI,0,0, 0
+-not aligned-,Warns Against,NOALI,0,0, 0
+Killed,-not aligned-,NOALI,0,0, 0
+In Egyptian Protests,Protests,SPE1,4,4, 4
+higher,higher,EQUI,5,5," 5 (Both chunks have the same word ""higher"", indicating a high degree of similarity in meaning and structure.)"
+0.56 pct,0.5 pct,SIMI,4,3, ALIGNMENT=3
+Taiwan stocks,Singapore stocks,SIMI,3,0, 0
+close,close,EQUI,5,5," 5 (Both chunks are very similar in meaning, structure, and relevance as they both use the word ""close"" which implies proximity or a relationship.)"
+Cypriot Finance Minister Michalis Sarris,Cyprus finance minister,SPE1,4,5, 5
+resigns,resigns,EQUI,5,5, 5
+25 policemen,25 policemen,EQUI,5,5, 5 (Identical)
+deepens,deepens,EQUI,5,5, 5
+militants,as Sinai attack,SPE2,3,0, 0
+;,-not aligned-,NOALI,0,0, 0
+kill,kills,EQUI,5,2, 2
+Egypt turmoil,Egypt 's turmoil,EQUI,5,5, 5
+said,accused,SIMI,3,1, 1
+to pay off,of bribing,EQUI,5,1, 1
+' bunga bunga ' witnesses,witnesses in prostitution trial,SIMI,4,0, 0
+Berlusconi,Berlusconi,EQUI,5,5, 5 (Identical)
+finally,-not aligned-,NOALI,0,0, 0
+for Apple,In A Multi-Platform World,REL,3,1, 1
+unveils,-not aligned-,NOALI,0,0, 0
+Microsoft Office,Microsoft And Office,EQUI,5,5, 5
+'s iPad,-not aligned-,NOALI,0,0, 0
+Glee star Cory Monteith,' Glee ' star Cory Monteith,EQUI,5,5, 5
+dead,dead,EQUI,5,5, 5
+in hotel room,-not aligned-,NOALI,0,0, 0
+found,found,EQUI,5,5," 5 (Both chunks have the exact same word, ""found"", which indicates a high degree of similarity in meaning and structure.)"
+in Canada,-not aligned-,NOALI,0,0, 0
+praises,-not aligned-,NOALI,0,0, 0
+to render,-not aligned-,NOALI,0,0, 0
+-not aligned-,detains,NOALI,0,0, 0
+to Ukraine,-not aligned-,NOALI,0,0, 0
+Russia,Russia,EQUI,5,5, 5 (Both chunks have identical content and are perfectly aligned in meaning and structure.)
+idea,-not aligned-,NOALI,0,0, 0
+rights assistance,-not aligned-,NOALI,0,0, 0
+-not aligned-,in Moscow raid,NOALI,0,0, 0
+-not aligned-,suspected Islamist militants,NOALI,0,0, 0
+second suspect,Brothers,SPE1,2,1, 1
+in Mother,in Mother,EQUI,5,5," 5 (Both chunks have identical meaning and structure, referring to the same location.)"
+'s Day parade shooting,'s Day parade shooting,EQUI,5,5, 5 (Both chunks have identical meaning and structure)
+arrest,arrested,EQUI,5,5, 5
+New Orleans police,-not aligned-,NOALI,0,0, 0
+revolution,Muslim Brotherhood,REL,4,0, 0
+swamp,storm,SIMI,2,0, 0
+to reclaim,-not aligned-,NOALI,0,0, 0
+-not aligned-,'s HQ,NOALI,0,0, 0
+-not aligned-,Egypt,NOALI,0,0, 0
+-not aligned-,:,NOALI,0,0, 0
+streets,-not aligned-,NOALI,0,0, 0
+Protesters,Protesters,EQUI,5,5, 5
+end,open,OPPO,4,0, 0 (No Alignment)
+higher,higher,EQUI,5,5," 5 (Both chunks have the same word ""higher"", indicating a high degree of similarity in meaning and structure.)"
+Hong Kong stocks,Indian stocks,SIMI,3,0, 0
+takes,took,SIMI,4,3," 3 (Chunk 1 and Chunk 2 are very similar, as they both refer to the action of taking something, with only a minor difference in verb tense.)"
+Poll,-not aligned-,NOALI,0,0, 0
+-not aligned-,cocaine,NOALI,0,0, 0
+-not aligned-,',NOALI,0,0, 0
+-not aligned-,',NOALI,0,0, 0
+Cory Booker,-not aligned-,NOALI,0,0, 0
+-not aligned-,every day,NOALI,0,0, 0
+:,-not aligned-,NOALI,0,0, 0
+-not aligned-,for a decade,NOALI,0,0, 0
+-not aligned-,Nigella Lawson,NOALI,0,0, 0
+for N.J. Senate,-not aligned-,NOALI,0,0, 0
+early lead,-not aligned-,NOALI,0,0, 0
+-not aligned-,',NOALI,0,0, 0
+Malaysian jet,jet,SPE1,4,5, 5
+Rebels,Rebels,EQUI,5,5, 5
+by mistake,by mistake,EQUI,5,5, 5
+',-not aligned-,NOALI,0,0, 0
+downed,downed,EQUI,5,5, 5
+',-not aligned-,NOALI,0,0, 0
+U.S. officials,-not aligned-,NOALI,0,0, 0
+likely,likely,EQUI,5,5, 5
+-,-not aligned-,NOALI,0,0, 0
+-not aligned-,',NOALI,0,0, 0
+38,31,SIMI,4,2," Alignment=2
+
+Explanation:
+
+Chunk 1: [38] - ""The cat sat on the mat.""
+Chunk 2: [31] - ""The dog lay on the rug.""
+
+Both sentences are about animals (cat and dog) and objects (mat and rug), but they are not exactly the same in meaning or structure. They are similar in the sense that they describe an animal sitting/lying on an object, but the specific animals and objects are different. Therefore, I've assigned a score of 2, which indicates a moderate level of alignment."
+"of bombings , shootings","of car bombs , other attacks",SPE2,3,3, 3
+Wave,Wave,EQUI,5,5," 5 (Both chunks have identical meaning and content, referring to the concept of a ""Wave."")"
+kill,kill,EQUI,5,5, 5
+in Iraq,in Iraq,EQUI,5,5," 5 (Both chunks have identical text and location, indicating a perfect match.)"
+-not aligned-,Prime time,NOALI,0,0, 0
+-not aligned-,:,NOALI,0,0, 0
+on Syria,on Syria,EQUI,5,5," 5 (Both chunks are identical in meaning, structure, and relevance)"
+Didier Reynders,Obama,SIMI,3,0, 0
+-not aligned-,'s day,NOALI,0,0, 0
+to know,to know,EQUI,5,5, 5 (Both chunks have identical meaning and structure)
+Tuesday,on Friday,SIMI,3,0, 0
+need,need,EQUI,5,5, 5
+you,you,EQUI,5,5," 5 (Both chunks have identical structure and meaning, as they both refer to the second person pronoun ""you"".)"
+5 things,5 things,EQUI,5,5," 5 (Both chunks are about listing 5 items, so they have a high degree of similarity in structure and content.)"
+Mubarak 's release,Mubarak release,EQUI,5,5, 5
+considers,orders,REL,3,0, 0
+Egyptian court,Egypt court,EQUI,5,5, 5
+in Gaza,in Gaza,EQUI,5,5," 5 (Both chunks have identical content and location, indicating a perfect match.)"
+U.N. Security Council,U.N. Security Council,EQUI,5,5, 5 (Identical)
+for humanitarian ceasefire,for Unconditional Cease-Fire,EQUI,5,3, 3
+calls,Calls,EQUI,5,5," 5 (Both chunks have identical text and structure, with no spelling or grammatical errors. They are exactly the same.)"
+-not aligned-,",",NOALI,0,0, 0
+Pakistani Taliban chief Hakimullah Mehsud,Pakistani Taliban ' elect new chief ',SPE1,3,3, 3
+in drone strike,-not aligned-,NOALI,0,0, 0
+-not aligned-,' unprecedented ' revenge,NOALI,0,0, 0
+-not aligned-,vow,NOALI,0,0, 0
+killed,-not aligned-,NOALI,0,0, 0
+Contained,contained,EQUI,5,5, 5
+That,that,EQUI,5,5," 5 (Both chunks have identical words and serve the same grammatical function, indicating a high degree of similarity)"
+Blaze,Arizona wildfire,SPE2,4,3," 3 (Moderate Alignment)
+
+Explanation: Both chunks refer to fire-related events, specifically in the state of Arizona. While ""Blaze"" is a more informal term for a fire, it is still related to the topic of the Arizona wildfire. However, the specificity of the terms differs, which is why the alignment is not perfect (5) but still moderate (3)."
+Now,now,EQUI,5,5, 5
+Killed,killed,EQUI,5,5, 5
+19 Firefighters,19 Hotshots,SPE2,4,3, 3
+Canada,Canadian government,EQUI,5,4, 4
+oil pipeline,controversial oil pipeline,SPE2,4,3, 3
+to the Pacific Coast,to Pacific,SPE1,4,3, 3
+approves,approves,EQUI,5,5, 5
+Leaves,hires,REL,4,0," 0 (no similarity in meaning, structure, or relevance)"
+Man United,Man United,EQUI,5,5, 5 (Identical)
+as Manager,Ferguson,SPE2,4,0, 0
+Moyes,Moyes,EQUI,5,5, 5 (Identical)
+Says,-not aligned-,NOALI,0,0, 0
+-not aligned-,to replace,NOALI,0,0, 0
+of collapse,-not aligned-,NOALI,0,0, 0
+Syria opposition unity,Syria divided opposition,OPPO,4,2, 2
+-not aligned-,struggles,NOALI,0,0, 0
+face specter,-not aligned-,NOALI,0,0, 0
+-not aligned-,within wider Syrian struggle,NOALI,0,0, 0
+take,-not aligned-,NOALI,0,0, 0
+",",-not aligned-,NOALI,0,0, 0
+at 87,at 87,EQUI,5,5, 5 (Identical)
+dead,dies,EQUI,5,3, 3
+"Margaret Thatcher , former U.K. PM",Margaret Thatcher,SPE1,4,5, 5
+extends,drops,SIMI,2,0, 0
+EU,Nigeria,REL,3,0, 0
+sanctions,arms trafficking charges,SPE2,3,2," 2 (Moderate alignment)
+
+Explanation: While the two chunks do not directly relate in terms of meaning or structure, they both pertain to illegal activities, which could be loosely connected through the concept of law-breaking or governmental penalties. However, the connection is not strong, hence the moderate alignment score."
+against Russia,against Russian sailors,SPE2,4,3, 3
+Apr 2,Thursday,REL,3,3," 3 (The days are very close in the calendar, April 2nd is the 88th day of the year and Thursday is the 89th day of the year in non-leap years, so they are quite similar)"
+-,-not aligned-,NOALI,0,0, 0
+higher,lower,OPPO,4,0, 0
+open,open,EQUI,5,5," 5 (Both chunks have the exact same word and meaning, indicating a perfect alignment.)"
+Chinese stocks,Chinese stocks,EQUI,5,5, 5
+Obama,Obama,EQUI,5,5, 5 (The two chunks have identical content and are perfectly aligned in meaning and structure.)
+names,to name,EQUI,5,0, 0 (No alignment)
+outspoken Rice,Susan Rice,EQUI,5,5, 5
+as his security adviser,as national security adviser,SPE2,4,5, 5
+in Aleppo,in Aleppo,EQUI,5,5," 5 (Both chunks have identical text, indicating a perfect match in meaning, structure, and relevance.)"
+:,-not aligned-,NOALI,0,0, 0
+kills,Kill,EQUI,5,3, 3
+21,15,SIMI,3,1," Alignment=1
+
+Explanation:
+
+Chunk 1: [21] - ""I'm going to the store to buy some groceries.""
+Chunk 2: [15] - ""I'm going to the library to borrow some books.""
+
+Both sentences express actions that the speaker is planning to do, but they are not similar in meaning, structure, or relevance as they involve different locations and different types of items. However, they share a common structure in terms of the subject, verb, and object, which is why I've assigned a score of 1."
+-not aligned-,at Least,NOALI,0,0, 0
+Syrian airstrike,New Syrian Airstrikes,SPE1,4,3, 3
+Activists,-not aligned-,NOALI,0,0, 0
+Angelina Jolie,Angelina Jolie,EQUI,5,5, 5 (Identical)
+"""",-not aligned-,NOALI,0,0, 0
+for support,-not aligned-,NOALI,0,0, 0
+after double mastectomy,double mastectomy,EQUI,5,5, 5
+"""",-not aligned-,NOALI,0,0, 0
+very grateful,-not aligned-,NOALI,0,0, 0
+-not aligned-,undergoes,NOALI,0,0, 0
+India Ink,India Ink,EQUI,5,5," 5 (The two chunks have identical text, indicating a perfect match in meaning, structure, and relevance.)"
+of the Day,of the Day,EQUI,5,5," 5 (Both chunks have identical meaning and structure, indicating a perfect alignment.)"
+April 21,May 2,SIMI,3,0, 0
+Image,Image,EQUI,5,2," In this case, since both chunks are referring to images, they are semantically similar. However, without specific information about the content of the images, it's difficult to determine a high degree of structural or thematic alignment.
+
+Label: 2"
+:,-not aligned-,NOALI,0,0, 0
+-not aligned-,:,NOALI,0,0, 0
+-not aligned-,:,NOALI,0,0, 0
+:,-not aligned-,NOALI,0,0, 0
+in bombings and shootings,Bombings and a shooting,EQUI,5,5, 5
+-not aligned-,8,NOALI,0,0, LABEL=0
+Deaths,kill,EQUI,5,0, 0
+across Iraq,in Iraq,EQUI,5,4, 4
+nine police,eight Kurdish security forces personnel,SPE2,3,2, 2
+kills,kills,EQUI,5,5, 5
+in north Iraq,in Iraq,SPE1,4,4, 4
+Suicide bomber,Suicide bomber,EQUI,5,5, 5
+to announce,-not aligned-,NOALI,0,0, 0
+presidency bid,for presidential bid,EQUI,5,4, 4
+poised,paves way,SIMI,3,1, 1
+'s Sisi,'s Sisi,EQUI,5,5," 5 (Both chunks have identical text, indicating a perfect match in meaning, structure, and relevance.)"
+Egypt,Egypt,EQUI,5,5," 5 (The two chunks have identical meaning and content, with no differences in structure or relevance.)"
+",",-not aligned-,NOALI,0,0, 0
+killed,killed,EQUI,5,5, 5
+6,six,EQUI,5,5," 5 (Both chunks contain the same word ""six"", so they have a high degree of similarity in meaning)"
+-not aligned-,",",NOALI,0,0, 0 (not aligned)
+injured,injured,EQUI,5,5, 5
+3,Three,EQUI,5,5," 5 (Both chunks contain the same word ""Three"", so they have a high degree of similarity in meaning and structure.)"
+in Afghan blasts,in Afghan blasts,EQUI,5,5," 5 (Both chunks have identical meaning and structure, referring to the same event in the same location.)"
+filibustering,filibusters,EQUI,5,5, 5
+still,-not aligned-,NOALI,0,0, 0
+Texas senator,Texas senator,EQUI,5,5," 5 (Both chunks have identical text, indicating a perfect match in meaning, structure, and relevance.)"
+abortion bill,against abortion bill,EQUI,5,4, 4
+drops,to file,SIMI,3,0, 0 (No Alignment)
+against Greenpeace activists,against Greenpeace,SPE1,4,5, 5
+charges,piracy charges,SPE2,4,4, 4
+Russia,Russia,EQUI,5,5, 5 (Identical)
+in Turkey,in Kiev,REL,1,0, 0
+clash,clash,EQUI,5,5, 5
+Protesters,Protesters,EQUI,5,5, 5
+with police,with riot police,SPE2,4,2, 2
+Nigerian police,Nigeria,REL,3,1, 1
+protests,-not aligned-,NOALI,0,0, 0
+-not aligned-,',NOALI,0,0, 0
+-not aligned-,all options,NOALI,0,0, LABEL=0
+ban,-not aligned-,NOALI,0,0, 0
+-not aligned-,',NOALI,0,0, 0
+over kidnapped girls,over kidnapped girls,EQUI,5,5," 5 (Both chunks have identical meaning, structure, and relevance)"
+-not aligned-,reviewing,NOALI,0,0, 0
+-not aligned-,dismisses,NOALI,0,0, 0
+signs,-not aligned-,NOALI,0,0, 0
+finalizes,-not aligned-,NOALI,0,0, 0
+Crimea annexation,Crimea 's independence,OPPO,4,3, 3
+-not aligned-,'s top court,NOALI,0,0, 0
+as Russia,-not aligned-,NOALI,0,0, 0
+EU trade pact,"as "" unconstitutional """,REL,2,0, 0
+Ukraine,Ukraine,EQUI,5,5, 5
+are built,-not aligned-,NOALI,0,0, 0
+The foundations,-not aligned-,NOALI,0,0, 0
+on Nelson Mandela,over Nelson Mandela,EQUI,5,2, 2
+of South Africa,-not aligned-,NOALI,0,0, 0
+'s memory,'s death,REL,4,0, 0
+-not aligned-,Australian politicians,NOALI,0,0, 0
+-not aligned-,lament,NOALI,0,0, 0
+of Ariel Sharon,of Ariel Sharon,EQUI,5,5," 5 (Both chunks are identical in meaning, structure, and relevance)"
+:,-not aligned-,NOALI,0,0, 0
+-not aligned-,:,NOALI,0,0, 0
+On War Criminals and Heroes,On war criminals and heroes,EQUI,5,5, 5
+The Whitewashing,The whitewashing,EQUI,5,5, 5
+killed,killed,EQUI,5,5, 5
+Two French journalists,two French journalists,EQUI,5,5, 5
+-not aligned-,France,NOALI,0,0, 0
+in Mali,in Mali,EQUI,5,5," 5 (Both chunks are identical in meaning, structure, and location, indicating a perfect match.)"
+-not aligned-,confirms,NOALI,0,5, 5 (confirms)
+China yuan,China yuan,EQUI,5,5, 5
+to 6.1184,to 6.1510,SIMI,4,4," ALIGNMENT=4 (These chunks are very similar as they both refer to specific time points in a song, with a small difference in the time values.)"
+against USD,against USD,EQUI,5,5, 5
+strengthens,weakens,OPPO,4,0, 0
+Tuesday,-not aligned-,NOALI,0,0, 0
+-not aligned-,on flight,NOALI,0,0, 0
+loses contact,vanishes,SIMI,4,3, 3
+to Beijing,to Beijing,EQUI,5,5," 5 (Both chunks have identical meaning and structure, as they both indicate a destination to Beijing.)"
+239,-not aligned-,NOALI,0,0, 0
+carrying,-not aligned-,NOALI,0,0, 0
+Malaysia Airlines with plane,Malaysia Airlines plane,EQUI,5,5, 5
+embroiled,steps down,REL,3,1, 1
+Tehelka editor,Tehelka editor,EQUI,5,5," 5 (Both chunks are identical in meaning, structure, and content, indicating a perfect match.)"
+in sex assault scam,after allegations of sexual misconduct,SIMI,4,2, 2
+-not aligned-,fires,NOALI,0,0, 0
+Facts,-not aligned-,NOALI,0,0, 0
+'s Musudan missile,another missile,SPE1,4,1, 1
+about North Korea,North Korea,EQUI,5,5, 5
+now,-not aligned-,NOALI,0,0, 0
+-not aligned-,:,NOALI,0,0, [0]
+-not aligned-,Video,NOALI,0,0, 0
+who,Gunman,EQUI,5,0, 0
+",",-not aligned-,NOALI,0,0, 0
+Gunman,Gunman,EQUI,5,5, 5
+suburban Atlanta firefighters hostage,Firefighters Hostage in Georgia,SPE1,4,5, 5
+police,-not aligned-,NOALI,5,0, 0
+held,Takes,EQUI,5,2, 2
+dead,-not aligned-,NOALI,0,0, 0
+say,-not aligned-,NOALI,0,0, 0
+-not aligned-,The Lede,NOALI,0,0, [0]
+-not aligned-,:,NOALI,0,0, 0
+-not aligned-,formally,NOALI,0,0, 0
+to join,to join,EQUI,5,5, 5
+votes,applies,SIMI,3,0, 0
+Crimea parliament,Crimean parliament,EQUI,5,5, 5
+Russia,Russia,EQUI,5,5," 5 (The two chunks have identical content and are perfectly aligned in meaning, structure, and relevance.)"
+lower,lower,EQUI,5,1," To provide an accurate score, I would need the actual text chunks to evaluate. However, I can give you an example of how I would approach this task:
+
+Let's say we have two text chunks:
+
+Chunk 1: ""The cat is on the mat.""
+Chunk 2: ""The feline is on the rug.""
+
+In this case, the meaning is similar (both describe an animal on a surface), but the specific words used are different. So, a score of 3 might be appropriate, as there is a high degree of similarity but not an exact match.
+
+Label: 3"
+open,close,OPPO,4,0, 0
+China stocks,China 's stocks,EQUI,5,5, 5
+on Wednesday,on Monday,SIMI,3,0, 0
+-not aligned-,'s 50p tax rate,NOALI,0,0, 0
+what,what,EQUI,5,1," To accurately evaluate and score the alignment of the two provided chunks of text, I would need the actual text content in Chunk 1 and Chunk 2. Once I have that, I can analyze their degree of similarity in meaning, structure, or relevance to each other and provide a score from the given scale [0, 1, 2, 3, 4, 5]. Please provide the text content for Chunk 1 and Chunk 2."
+-not aligned-,:,NOALI,0,0, 0
+need,need,EQUI,5,5," 5 (Both chunks have the exact same word, ""need"", which indicates a high degree of similarity in meaning and structure.)"
+",",-not aligned-,NOALI,0,0, 0
+you,you,EQUI,5,5," 5 (Both chunks are identical in structure and meaning, using the same word ""you"".)"
+-not aligned-,Labour,NOALI,0,0, 0
+World News Update,-not aligned-,NOALI,0,0, 0
+to know,to know,EQUI,5,5, 5 (Both chunks have identical meaning and structure)
+Stocks,Stocks,EQUI,5,5," 5 (Both chunks have an exact match in terms of content, structure, and relevance.)"
+in early trading,in early trading,EQUI,5,5," 5 (Both chunks have identical text and meaning, perfect alignment)"
+rise,inch higher,SPE2,4,3, 3
+Twitter shares,Twitter shares,EQUI,5,5," 5 (Both chunks have the exact same content and meaning, with no differences in structure or relevance.)"
+rocket,rocket,EQUI,5,5, 5
+at opening,as trading begins,EQUI,5,3," 3 (Moderate alignment)
+
+Explanation: Both chunks refer to the start of an event (opening or trading), so there is a moderate level of alignment in terms of relevance. However, they are not identical in structure or exact meaning."
+outside two mosques,city,REL,3,1, 1
+29,-not aligned-,NOALI,0,0, 0
+in Lebanon 's Tripoli,in northern Lebanon,SPE1,4,4, 4
+kill,rock,SPE1,3,0, 0
+Explosions,2 explosions,SPE2,4,3, 3
+Next Iran nuclear talks,Iran Nuclear deal,REL,4,2, 2
+due,to be implemented,SIMI,3,1, 1
+-,-not aligned-,NOALI,0,0, 0
+-not aligned-,:,NOALI,0,0, 0
+IRNA,-not aligned-,NOALI,0,0, 0
+on June 16-20,on January 20,SIMI,2,0, 0
+Russian coal mines,-not aligned-,NOALI,0,0, 0
+in China,-not aligned-,NOALI,0,0, 0
+-not aligned-,Russian foreign minister,NOALI,0,0, 0
+seek,-not aligned-,NOALI,0,0, 0
+-not aligned-,to meet,NOALI,0,0, 0
+new outlets,-not aligned-,NOALI,0,0, 0
+-not aligned-,UN chief,NOALI,0,0, 0
+-not aligned-,",",NOALI,0,0, 0
+Outrage,Outrage,EQUI,5,5, 5
+-not aligned-,",",NOALI,0,0, Label=0
+raped,Raped,EQUI,5,5, 5 (Both chunks have identical text and meaning)
+emerge,-not aligned-,NOALI,0,0, 0
+at school,at Her School,SPE2,4,3, 3
+after reports,-not aligned-,NOALI,0,0, 0
+about 6-year-old Indian girl,After Indian Girl 6,EQUI,5,3, 3
+-not aligned-,at 93,NOALI,0,1," The provided Chunk 1: [-not aligned-] does not have a numerical score, as it indicates a lack of alignment. Chunk 2: [at 93] seems to be a numerical value, which is not directly comparable to the ""alignment"" scale. Therefore, it is not appropriate to assign a score to Chunk 2. To evaluate the alignment between the two chunks, we would need text that can be compared for meaning, structure, or relevance. In this case, I cannot provide a score as there is no comparable text to evaluate."
+",",-not aligned-,NOALI,0,0, 0
+",",-not aligned-,NOALI,0,0, 0
+-not aligned-,",",NOALI,0,0, 0 (not aligned)
+dies,dies,EQUI,5,5, 5
+Ovadia Yosef,Rabbi Ovadia Yosef,EQUI,5,5, 5
+-not aligned-,",",NOALI,0,0, 0 (not aligned)
+rabbi and Israeli kingmaker,kingmaker of Israeli politics,EQUI,5,5, 5
+early voting,-not aligned-,NOALI,0,0, 0
+for disputed election,outside polling station,REL,3,2, 2
+disrupt,-not aligned-,NOALI,0,0, 0
+-not aligned-,dead,NOALI,0,0, 0
+Thai protesters,Thai protest leader,REL,4,3, 3
+-not aligned-,shot,NOALI,0,0, 0
+of fiery bus crash,-not aligned-,NOALI,0,0, 0
+Most victims,38 bodies of victims,SPE2,3,3, 3
+identified,identified,EQUI,5,1," To provide an accurate score, I would need the specific chunks of text to evaluate. However, I can give you an example of how I would approach this task:
+
+Let's say Chunk 1 is: ""The cat is on the mat.""
+Chunk 2 is: ""The feline is on the rug.""
+
+In this case, the chunks have similar meaning (both describe an animal on a surface), but the specific words used are not identical. Therefore, I would score the alignment as a 3, as there is a high degree of similarity but not perfect identity.
+
+If you provide the specific chunks of text, I can give you a more accurate score."
+in blast,in apartment blast,SPE2,4,2, 2
+hurt,injured,EQUI,5,4, 4
+Palestinian diplomat,Palestinian ambassador,SPE2,4,5, 5

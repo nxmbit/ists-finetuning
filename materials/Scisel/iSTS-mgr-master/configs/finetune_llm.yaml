@@ -1,0 +1,57 @@
+data:
+  dataset: "images"
+  # dataset: "headlines"
+  # dataset: "answers-students"
+  subset: "train"
+  source: "wa"
+
+prompt:
+  description_level: "simple"
+  n_examples: 0
+
+# task: "alignment"
+task: "both"
+
+model:
+  # base_model: mistralai/Mistral-7B-Instruct-v0.3
+  base_model: "Qwen/Qwen2.5-7B-Instruct"
+  # base_model: "/home/LA_HUB/hf_hub/models--meta-llama--Meta-Llama-3.1-8B-Instruct/snapshots/0e9e39f249a16976918f6564b8830bc894c89659"
+  # base_model: "/home/LA_HUB/hf_hub/models--Qwen--Qwen2.5-7B-Instruct/snapshots/a09a35458c702b33eeacc393d103063234e8bc28"
+  quantization: True
+
+use_cuda: True
+
+# tokenizer:
+#   max_tokens: 512
+
+training:
+  output_dir: ./results
+  num_train_epochs: 1
+  gradient_accumulation_steps: 1
+  learning_rate: 1e-5
+  fp16: False
+  bf16: False
+  per_device_train_batch_size: 4
+  per_device_eval_batch_size: 4
+  gradient_checkpointing: True
+  max_grad_norm: 0.3
+  weight_decay: 0.001
+  optim: "paged_adamw_32bit"
+  lr_scheduler_type: "constant"
+  max_steps: -1
+  warmup_ratio: 0.03
+  group_by_length: True
+  save_strategy: "no"
+  logging_steps: 25
+
+lora:
+  alpha: 8
+  rank: 32
+  lora_dropout: 0.05
+  bias: "none"
+  target_modules: ["query_key_value"]
+
+wandb:
+  run_name: "mgr"
+  project_name: "headlines_llama"
+

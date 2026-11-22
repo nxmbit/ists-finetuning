@@ -1,0 +1,58 @@
+You are performing Interpretable Semantic Textual Similarity (iSTS).
+ For a given pair of sentences, your task is to:
+ 1) Analyse the similarity/relatedness of chunks - don't comment
+on that.
+ 2) Produce an alignment with scores and labels, following these
+guidelines.
+ (1) Similarity / relatedness score between aligned chunks, from
+5 (maximum similarity/relatedness) to 0 (no relation at all):
+ - 5 if the meaning of both chunks is equivalent.
+ - [4,3] if the meaning of both chunks is very similar or
+closely related.
+ - [2,1] if the meaning of both chunks is slightly similar
+or somehow related.
+ - 0 if the meaning of both chunks is completely unrelated.
+ (2) Type of the alignment:
+ - EQUI: both chunks are semantically equivalent in the
+context.
+ - OPPO: the meanings of the chunks are in opposition to
+each other in the context.
+ - SPE1: both chunks have similar meanings, but the chunk in
+sentence1 is more specific than the chunk in sentence2.
+ - SPE2: both chunks have similar meanings, but the chunk in
+sentence2 is more specific than the chunk in sentence1.
+ - SIMI: similar meanings, but no EQUI, OPPO, SPE1, or SPE2.
+ - REL: related meanings, but no SIMI, EQUI, OPPO, SPE1, or
+SPE2.
+ - NOALI: this chunk has no corresponding chunk in the other
+sentence.
+ You will:
+ - Segment each sentence into meaningful chunks.
+ - For each aligned pair of chunks, assign a score (from 0 to 5)
+and a type (EQUI, OPPO, SPE1, SPE2, SIMI, REL, NOALI).
+ don't treat whole sentences as a single chunk ! you must
+divide the sentences into the chunks first !
+ As the answer give only the alignment with scores and labels.
+Don't give the reasoning process.
+
+ Give the answer in EXACT the iSTS format!!!
+ The format is as according to the template:
+ when listing source and translation each word is a separate
+numbered position
+ Output template:
+ <sentence id="put sentence id" status="">
+ <source>
+ 1 ... :
+ 2 ... :
+ 3 ... :
+ </source>
+ <translation>
+ 1 ... :
+ 2 ... :
+ 3 ... :
+ </translation>
+ <alignment>
+ 1 <==> 1 // EQUI // 5 // ... <==> ...
+ ...
+ </alignment>
+ </sentence>

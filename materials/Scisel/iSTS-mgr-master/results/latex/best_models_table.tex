@@ -1,0 +1,24 @@
+\begin{table}[t]
+\centering
+\small
+\setlength{\tabcolsep}{6pt}
+\begin{tabular}{lrrrr}
+\hline
+ & Model & Mean F1 Type & Mean F1 Score & Mean F1 Type+Score \\
+\hline
+\multicolumn{5}{l}{\textbf{Finetuning — modele najlepsze w co najmniej jednej metryce}} \\
+ & Mistral-7B-Instruct-v0.3 & \underline{0.7343} & \underline{0.9351} & \underline{0.7841} \\
+\hline \\
+\multicolumn{5}{l}{\textbf{ICL simple — modele najlepsze w co najmniej jednej metryce}} \\
+ & gpt-oss-120b & \underline{0.6363} & \underline{0.8908} & \underline{0.7203} \\
+\hline \\
+\multicolumn{5}{l}{\textbf{ICL detailed — modele najlepsze w co najmniej jednej metryce}} \\
+ & gpt-oss-120b & \underline{0.6659} & \underline{0.8821} & \underline{0.7434} \\
+\hline \\
+\multicolumn{5}{l}{\textbf{GPT-OSS — wyniki referencyjne}} \\
+ & gpt-oss-120b & 0.6363 & 0.8908 & 0.7203 \\
+ & gpt-oss-120b & 0.6659 & 0.8821 & 0.7434 \\
+\hline
+\end{tabular}
+\caption{Best models per setting. Values are macro-mean over datasets of per-dataset maxima over idx. Underlined = best in the block.}
+\end{table}

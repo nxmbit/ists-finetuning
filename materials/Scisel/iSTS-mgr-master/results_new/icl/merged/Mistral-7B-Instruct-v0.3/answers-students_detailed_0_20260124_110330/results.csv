@@ -1,0 +1,2420 @@
+text_source,text_translation,alignment,score,merged,both,preds,response
+both,Bulbs A and C,EQUI,5,5-EQUI,5-EQUI,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: [both] refers to two unspecified items, while Chunk 2: [Bulbs A and C] specifies two specific bulbs. The two chunks have opposite levels of specificity and express incompatible implications on the topic of the bulbs, as Chunk 1 is a broader statement than Chunk 2. Therefore, the output is a combination of ""3-OPPO"" (Moderate opposition) and ""1-SPE1"" (Very weak specificity, Chunk 1 more specific)."
+have,are,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+still,still,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+bulbs a and c,Bulbs A and C,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+a closed path,in closed paths,SPE1,4,4-SPE1,4-SPE1,1-REL, 1-REL-NOALI
+are connected.,are separated,OPPO,4,4-OPPO,4-OPPO,2-OPPO, 2-OPPO
+-not aligned-,by the gap,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+terminal 1 and the positive terminal,Terminal 1 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+positive battery from terminal 2,Terminal 2 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,, 4-EQUI
+by a gap,by the gap,EQUI,5,5-EQUI,5-EQUI,," 3-EQUI
+
+Explanation: Both chunks are describing the same concept (a gap) in slightly different ways, but they are semantically equivalent in this context."
+is seperated,are separated,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+There,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+no difference,in the same state.,SIMI,3,3-SIMI,3-SIMI,5-EQUI, 5-EQUI
+is,are,EQUI,5,5-EQUI,5-EQUI,1-OPPO," 1-OPPO-EQUI  (Chunk 1 is a singular verb form, while Chunk 2 is a plural verb form, but they both express the same meaning in the context of subject-verb agreement)"
+between the two terminals.,The terminals,SPE1,4,4-SPE1,4-SPE1,, 3-NOALI
+in the same path,in the same path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+has to be contained,have to be,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+the switch the bulb and the battery,The switch and the bulb,SPE2,4,4-SPE2,4-SPE2,3-OPPO, 3-OPPO-REL
+as,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in terminal 1,Terminals 1 and 2,SPE1,4,4-SPE1,4-SPE1,3-OPPO, 3-OPPO-MODERATE_OPPOSITION
+there,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a gap,in the same electrical state,REL,2,2-REL,2-REL,0-NOALI, 0-NOALI
+is,are,SIMI,3,3-SIMI,3-SIMI,1-OPPO," 1-OPPO-EQUI  (Chunk 1 is the singular form, while Chunk 2 is the plural form, but they both express the same grammatical concept of ""being"" or ""existence."")"
+uses,uses,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+to create,to maintain,SIMI,2,2-SIMI,2-SIMI,3-OPPO, 3-OPPO-REL
+the chemical reation,a chemical reaction,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+voltage,different electrical states,REL,3,3-REL,3-REL,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: voltage
+Chunk 2: different electrical states
+
+The two chunks are discussing related concepts within the electrical domain, but they do not express the same meaning. ""Voltage"" is a specific electrical state, while ""different electrical states"" is a broader term that could encompass various electrical conditions, not just voltage. Therefore, the score is 3 for moderate opposition, and the specificity score is 1 for Chunk 1 being more specific."
+-not aligned-,at the terminals,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+The battery,A battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+uses,uses,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+to create,to maintain,SIMI,2,2-SIMI,2-SIMI,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: [to create] - This chunk is about initiating something new.
+Chunk 2: [to maintain] - This chunk is about preserving something that already exists.
+
+The semantic relation between the two chunks is opposition, as creating something is the opposite of maintaining it. However, creating something is a more specific action than maintaining it, hence the specificity score of 1."
+voltage,different electrical states,REL,3,3-REL,3-REL,3-REL, 3-REL-NOTSIM
+a chemical reaction,a chemical reaction,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+a batter,A battery,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+-not aligned-,at the terminals,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the battery,The battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+is,is contained,EQUI,5,5-EQUI,5-EQUI,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+Chunk 1 (is) is a general verb, while Chunk 2 (is contained) is a more specific form of the same verb with an additional meaning of enclosure. The two chunks are related but not equivalent, and there is a mild opposition in their level of specificity."
+in a closed path,in a path,EQUI,5,5-EQUI,5-EQUI,3-OPPO," 3-OPPO
+
+Explanation:
+
+Chunk 1: [in a closed path] implies that the path has no open ends or gaps, while Chunk 2: [in a path] is more general and does not specify whether the path is closed or open. The two chunks are related, but Chunk 1 contradicts the implication of Chunk 2 that the path might be open. Therefore, the score is 3-OPPO (Moderate opposition)."
+alone,does not contain any other components,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+in a closed path,which,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+there,there,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+a gap,a gap,EQUI,5,5-EQUI,5-EQUI,3-OPPO, 3-OPPO-MODERATE_OPPOSITION
+Because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in the circuit.,in the circuit,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+is,is,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+within the same path,in a separate path,REL,4,4-REL,4-REL,0-NOALI, 0-NOALI
+are not,is,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+as,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+Bulbs A and B,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+bulb C.,Bulb C,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,Terminals 1 and 2,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+was,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+there,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+two negative connections,are connected,REL,2,2-REL,2-REL,0-NOALI, 0-NOALI
+-not aligned-,B and C,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+with the battery,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,a different path,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,containing,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,containing,SIMI,3,3-SIMI,3-SIMI,0-NOALI, 0-NOALI
+-not aligned-,and,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+on a closed path,a path,EQUI,5,5-EQUI,5-EQUI,, 4-NOALI
+bulb a,A,EQUI,5,5-EQUI,5-EQUI,3-OPPO," 3-OPPO
+
+Explanation:
+
+Chunk 1: [bulb a] refers to a specific type of light bulb, while Chunk 2: [A] is a more general term that could refer to any type of light bulb. Although they are related, they are not equivalent, and there is a mild opposition in specificity."
+to the positive terminal.,to the positive battery terminal,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+the other terminals,"Terminals 4, 5 and 6",SPE2,3,3-SPE2,3-SPE2,3-OPPO, 3-OPPO-MODERATE_OPPOSITION
+are connected,are connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+the path.,an open path,OPPO,4,4-OPPO,4-OPPO,, 3-EQUI
+takes away,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+The bulb,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+no gap,by the gap,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+is,are not separated,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+between the positive terminal and terminal 4,Terminal 4 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,3-OPPO," 3-OPPO
+
+Explanation:
+
+Chunk 1: ""between the positive terminal and terminal 4"" refers to a specific location or position.
+Chunk 2: ""Terminal 4 and the positive terminal"" also refers to a location or position, but it is stated in reverse order. This creates a moderate opposition as they are about the same claim/situation, but assert incompatible outcomes/values (one is before the other)."
+There,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,"burns out,",NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,neither B nor C,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+Bulb a,bulb A,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+a gap,in a closed path,REL,4,4-REL,4-REL,0-NOALI, 0-NOALI
+-not aligned-,If,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+created,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+terminal 6 to the positive terminal,Terminal 6 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,, 4-EQUI
+of the battery,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is connected,are connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+the bulb,the battery,REL,4,4-REL,4-REL,0-NOALI, 0-NOALI
+is,is,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in a closed circuit,in an open path,REL,4,4-REL,4-REL,0-NOALI, 0-NOALI
+is not closed,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+around the battery.,The battery,EQUI,5,5-EQUI,5-EQUI,, 3-NOALI
+-not aligned-,is not,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,in 2,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+The circuit,in a closed path,REL,4,4-REL,4-REL,, 3-NOALI
+in a closed path.,which,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+the bulb,The battery,REL,4,4-REL,4-REL,0-NOALI, 0-NOALI
+-not aligned-,any other components,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in a closed path.,in a path,EQUI,5,5-EQUI,5-EQUI,, 3-NOALI
+-not aligned-,does not contain,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is not contained,is contained,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+There,there,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in the circuit.,in a circuit,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+a gap,a gap,EQUI,5,5-EQUI,5-EQUI,3-OPPO, 3-OPPO-MODERATE_OPPOSITION
+is,is,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+Bulb B and bulb C,bulbs A and B,SIMI,4,4-SIMI,4-SIMI,, 3-NOALI
+are,are,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+with the battery.,with the battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+on closed paths,in closed paths,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+still,still,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+has,was contained,SIMI,4,4-SIMI,4-SIMI,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: [has] - This chunk is about possession or ownership.
+Chunk 2: [was contained] - This chunk is about something being inside another thing.
+
+The two chunks have a moderate opposition because they describe different relationships: possession (has) vs. containment (was contained). Chunk 1 is also more specific than chunk 2, as it does not necessarily imply containment."
+Bulb A,Bulb A,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,with the battery.,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,still,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a closed pathway,in the same closed path,SPE2,4,4-SPE2,4-SPE2,3-REL, 3-REL-NOTSIM
+as,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in the same closed path,in a separate path,REL,4,4-REL,4-REL,0-NOALI, 0-NOALI
+are not,is,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+bulbs a and c,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+bulb b,Bulb B,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,in 2,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in the circuit.,in a closed path,REL,4,4-REL,4-REL,1-REL, 1-REL
+is involved,is not,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+Only one terminal,The battery,REL,3,3-REL,3-REL,3-OPPO," 3-OPPO-SPE2
+
+Explanation:
+
+Chunk 1: [Only one terminal] - This refers to a single electrical connection point.
+Chunk 2: [The battery] - This is a larger, more complex electrical component that has multiple terminals.
+
+The two chunks are opposing because a battery has multiple terminals, while the first chunk refers to only one terminal. However, they are related in the sense that both are electrical components. The specificity is with Chunk 2, as it is more specific than Chunk 1, providing additional details about the type of electrical component."
+-not aligned-,still,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,was,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+between the battery,with the battery.,SIMI,4,4-SIMI,4-SIMI,1-REL, 1-REL
+-not aligned-,Bulb A,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+was,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+there,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,contained,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+closed paths,in the same closed path,SPE2,3,3-SPE2,3-SPE2,5-EQUI, 5-EQUI
+separates,are separated,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+the positive battery terminal from terminal 2,Terminal 2 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,, 3-EQUI
+the gap,by the gap,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+in differentclosed paths.,in different paths,EQUI,5,5-EQUI,5-EQUI,3-OPPO, 3-OPPO
+"bulb a, bulb b, and bulb c",A and C,SPE2,3,3-SPE2,3-SPE2,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+Chunk 1 includes bulb a, bulb b, and bulb c, while Chunk 2 only mentions A and C. This means there is a moderate opposition (3-OPPO) because Chunk 1 has an additional bulb (bulb b) that is not present in Chunk 2. Additionally, Chunk 1 is more specific (SPE1) than Chunk 2 because it provides more details about the bulbs."
+-not aligned-,with the battery,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+are contained,are,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+any bulb,each bulb,SPE2,3,3-SPE2,3-SPE2,5-EQUI, 5-EQUI
+If,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is blocked,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+everything,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the whole system,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+from the battery.,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+affects,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+"out,",in its own path,OPPO,4,4-OPPO,4-OPPO,3-OPPO," 3-OPPO-1-SPE2
+
+Explanation:
+
+Chunk 1: [out] - This chunk implies a movement or direction away from a starting point.
+Chunk 2: [in its own path] - This chunk implies a movement or direction following a unique or independent course.
+
+The two chunks have a moderate opposition as they both describe movements, but in opposite directions. Chunk 1 implies moving away from a starting point, while chunk 2 implies moving in a unique or independent direction.
+
+In terms of specificity, chunk 2 is more specific as it implies a unique or independent direction, which is a more detailed description than simply moving out."
+is,is,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+and,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+it,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,still,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in the same path.,in a closed path,SPE1,4,4-SPE1,4-SPE1,3-OPPO," 3-OPPO
+
+Explanation:
+Chunk 1: ""in the same path"" implies a continuous or ongoing journey, while Chunk 2: ""in a closed path"" suggests a path that returns to its starting point. Although both chunks discuss paths, they have opposite meanings in this context."
+-not aligned-,with the battery,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is not,is,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+-not aligned-,Bulb A,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+it,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a gap in the path,in a closed path,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+-not aligned-,neither B nor C,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,If,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,"burns out,",NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+There,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+will be,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,bulb A,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+Bulb B and C,bulbs B and C,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+still,still,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+are contained,are,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+in a path,in closed paths,SPE1,4,4-SPE1,4-SPE1,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: [in a path] is more general and less specific than Chunk 2: [in closed paths]. The second chunk is a more specific version of the first, as it adds the qualifier ""closed."" However, they do not express the same meaning, as ""closed paths"" implies a specific type of path that is not necessarily covered by ""a path."" Therefore, the semantic relation is opposition, and the specificity level is moderate."
+with the battery,with the battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+with the battery.,with the battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+are contained,are,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+bulbs a and c,Bulbs A and C,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+still,still,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in a closed path,in closed paths,EQUI,5,5-EQUI,5-EQUI,4-REL," 4-REL
+
+Explanation:
+
+Chunk 1: [in a closed path]
+Chunk 2: [in closed paths]
+
+Both chunks are discussing the concept of a closed path, but chunk 2 is more generalized, referring to multiple closed paths. Chunk 1 is a specific case of chunk 2, so they are moderately related, but not equivalent or identical. Therefore, the score is 4-REL (Moderate relation), as they are tightly linked within the same scenario and are strongly relevant to each other, but not similar."
+Terminal one to the positive battery terminal,Terminal 1 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+is not connected,are not connected,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+bulb A and switch Z,Bulb A with the battery and switch Z.,SPE1,3,3-SPE1,3-SPE1,, 4-EQUI
+-not aligned-,still,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+are,is contained,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+in a closed path,in a closed path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+is connected,are connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+Terminal 5 to the postitive battery terminal,Terminal 5 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+is connected,are connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+Terminal 6 to the positive battery terminal,Terminal 6 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,, 4-EQUI
+that,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the circuit,a short circuit,REL,4,4-REL,4-REL,3-OPPO," 3-OPPO
+
+Explanation:
+
+Chunk 1: [the circuit] refers to an electrical circuit in general.
+Chunk 2: [a short circuit] refers to a specific type of electrical circuit where there is an abnormal, low-resistance connection between two points in an electrical circuit.
+
+The two chunks have a moderate opposition because they are about the same claim/situation (electrical circuits), but assert incompatible outcomes/values (a normal circuit vs a short circuit)."
+the red x,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+safe.,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+means,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is not,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+bulb A,bulb A,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,"burns out,",NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+are,is,EQUI,5,5-EQUI,5-EQUI,1-OPPO," 1-OPPO-EQUI  (Chunk 1 is the plural form of the verb ""to be"", while Chunk 2 is the singular form. However, in some contexts, they can be used interchangeably and have the same meaning.)"
+both,neither B nor C,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+in the same path,in a closed path,SPE1,4,4-SPE1,4-SPE1,3-REL, 3-REL-NOTSIM
+as,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,If,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+bulbs B and C,neither B nor C,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+you,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,means,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the electrical state non-zero,A non-zero voltage,REL,4,4-REL,4-REL,, 4-EQUI
+in the circuit,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+can find,is,REL,3,3-REL,3-REL,0-NOALI, 0-NOALI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,that,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the gap,a gap,EQUI,5,5-EQUI,5-EQUI,, 3-NOALI
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+if,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,does not contain,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+and,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is contained,is contained,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+there,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in its pathway,which,EQUI,5,5-EQUI,5-EQUI,, 3-NOALI
+in a closed circuit,in a closed path,REL,4,4-REL,4-REL,5-EQUI, 5-EQUI
+nothing,any other components,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+The battery,The battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+is not connected,are connected,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+A terminal to the positive battery terminal.,Terminals 1 and 4,SPE2,2,2-SPE2,2-SPE2,3-REL, 3-REL-NOTSIM
+a gap,are connected,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in the circuit,Terminals 1 and 4,REL,3,3-REL,3-REL,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: [in the circuit] refers to a general location within an electrical system.
+Chunk 2: [Terminals 1 and 4] refers to specific points in a circuit, which are parts of the general location mentioned in Chunk 1. However, Chunk 2 is more specific, as it specifies the terminals, and the overlap is limited. The semantic relation is opposition because Chunk 2 provides more specific details that slightly contradict the general statement in Chunk 1."
+there,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is not seperated,are not separated,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+the positive terminal from terminal 5,Terminal 5 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,, 4-EQUI
+by a gap,by the gap,EQUI,5,5-EQUI,5-EQUI,," 3-EQUI
+
+Explanation: Both chunks are describing the same concept, albeit with slightly different wording. ""By a gap"" and ""by the gap"" are both referring to a physical space or distance."
+-not aligned-,whether,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,Measuring,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,voltage,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+can,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,two terminals,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+there,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,are separated,SPE2,2,2-SPE2,2-SPE2,0-NOALI, 0-NOALI
+find,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a gap,by a gap.,EQUI,5,5-EQUI,5-EQUI,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+Chunk 1 is ""a gap"" and Chunk 2 is ""by a gap."" Both chunks are related to the concept of a gap, but Chunk 2 provides additional information about the location of the gap (by). This creates a mild opposition because the two chunks have slightly different meanings, and Chunk 2 is more specific than Chunk 1. The score of 3 indicates a moderate level of opposition, and the specificity score of 1 indicates that Chunk 2 is slightly more specific than Chunk 1."
+-not aligned-,indicates,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+You,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+where,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+with a gap,by the gap,EQUI,5,5-EQUI,5-EQUI,3-OPPO," 3-OPPO-1-SPE2
+
+Explanation:
+
+Chunk 1: [with a gap] - This chunk implies the absence or lack of something.
+Chunk 2: [by the gap] - This chunk refers to a physical location or space.
+
+The two chunks have a moderate opposition as they are about different concepts: one is about a lack or absence, and the other is about a location or space. However, they share a similarity in the sense that they both refer to some kind of ""gap"" or ""space,"" although in different contexts. Chunk 1 is more specific than chunk 2, as it refers to a conceptual or abstract gap, while chunk 2 refers to a physical gap or space."
+has to do,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+something,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,Terminal 2 and the positive terminal,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,are separated,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+Because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+has,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a voltage,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,by the gap,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,are separated,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+of 1.5 volts.,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the positive circuit,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,Terminal 1 and the positive terminal,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,to maintain,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a chemical reaction.,a chemical reaction,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,uses,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,A battery,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,at the terminals,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,different electrical states,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+There,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in a closed path,in the same path,SPE2,4,4-SPE2,4-SPE2,5-EQUI, 5-EQUI
+when,When,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+the switch with the bulb,the switch and the bulb,EQUI,5,5-EQUI,5-EQUI,, 4-EQUI
+is,are contained,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+are,are,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+bulb b and c,B and C,EQUI,5,5-EQUI,5-EQUI,, 3-EQUI
+in a closed path,in the same path,SPE2,4,4-SPE2,4-SPE2,5-EQUI, 5-EQUI
+There,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a difference,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in electrical states.,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,are not connected,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,the terminals,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,between the terminals,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,no gap,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+will not light,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the bulb,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+bulb a and c,A and C,EQUI,5,5-EQUI,5-EQUI,, 3-EQUI
+with the battery,with the battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+on the same path,in the same path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+are contained,are not,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+The path does not close,in an open path,EQUI,5,5-EQUI,5-EQUI,3-OPPO, 3-OPPO
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,the battery,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+The difference,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+between the electrical states,Terminal 1 and the positive terminal,REL,3,3-REL,3-REL,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: [between the electrical states]
+Chunk 2: [Terminal 1 and the positive terminal]
+
+Both chunks are discussing electrical states, but they are not equivalent. Chunk 1 is more general and refers to the states between two electrical points, while Chunk 2 is more specific and refers to a particular terminal (Terminal 1) and the positive terminal. The opposition comes from the fact that Chunk 1 does not specify which terminals are being referred to, while Chunk 2 does. The specificity level is moderate because Chunk 1 is only slightly more general than Chunk 2."
+-not aligned-,by the gap,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,are separated,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+1.5 volts,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,are,SIMI,4,4-SIMI,4-SIMI,1-OPPO," 1-OPPO-EQUI  (Chunk 1 is a singular form, while Chunk 2 is a plural form, but they both express the same grammatical concept of 'being' or 'existence')"
+there,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+still,still,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,"burns out,",NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,If,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,bulbs B and C,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a closed path,in a closed path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,bulb A,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a lost connection,are not connected.,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+-not aligned-,that,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,the terminals,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+causes,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a gap,A non-zero voltage,REL,4,4-REL,4-REL,1-OPPO," 1-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: [a gap] - This chunk does not have a clear meaning or semantic content.
+Chunk 2: [A non-zero voltage] - This chunk refers to a specific electrical state.
+
+The two chunks do not match, do not describe the same idea, and there is no meaningful semantic link. However, they are somewhat related in the sense that a gap could potentially be filled with a non-zero voltage, but the relationship is very weak and not straightforward. The score of 1 indicates a very weak opposition, as a gap is not the opposite of a non-zero voltage, but they are incompatible in the sense that a gap cannot be a non-zero voltage. The specificity score of 1 (S1 more specific) indicates that the chunk ""a gap"" is more general and less specific than ""A non-zero voltage""."
+-not aligned-,means,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+are connected,are connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+the positive terminal and terminal 6,Terminal 6 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+is connected,are connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+the positive terminal to terminal 6,Terminal 6 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,3-OPPO," 3-OPPO
+
+Explanation:
+
+Chunk 1: [the positive terminal to terminal 6] refers to a specific part of a circuit (the positive terminal of a specific component).
+Chunk 2: [Terminal 6 and the positive terminal] is more general, referring to any positive terminal and terminal 6 in a circuit, which may not necessarily be the same as the one in Chunk 1. The two chunks have some overlap, but they assert incompatible outcomes: Chunk 1 specifies a particular component, while Chunk 2 does not. Therefore, the score is 3-OPPO (Moderate opposition)."
+there,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,to the negative battery terminal,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+at terminal 1,terminal 1,EQUI,5,5-EQUI,5-EQUI,3-OPPO," 3-OPPO
+
+Explanation:
+
+Chunk 1: [at terminal 1] - This text suggests that the terminal is a destination.
+Chunk 2: [terminal 1] - This text simply refers to a specific terminal without implying it is a destination.
+
+The two chunks have a moderate opposition because they are about the same topic (terminal 1), but assert incompatible outcomes/values. Chunk 1 implies that the terminal is a destination, while chunk 2 does not make such an implication."
+is no gap,is connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+Because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+terminal 6 to the positive terminal,Terminal 6 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,, 4-EQUI
+is conncted,are connected,EQUI,5,5-EQUI,5-EQUI,1-OPPO, 1-OPPO-SPE1
+the switch the bulb.,the switch and the bulb,EQUI,5,5-EQUI,5-EQUI,, 4-EQUI
+When,When,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in the same papth,in the same path,EQUI,5,5-EQUI,5-EQUI,1-REL, 1-REL-1REL
+as,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,are contained,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+Bulbs A and C,A and C,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+are,are,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in separate paths.,in different paths,EQUI,5,5-EQUI,5-EQUI,3-REL, 3-REL
+are,are,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+with the battery.,with the battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in a closed path,in closed paths,SPE1,4,4-SPE1,4-SPE1,4-REL," 4-REL
+
+Explanation:
+
+Chunk 1: [in a closed path]
+Chunk 2: [in closed paths]
+
+Both chunks are discussing the concept of a closed path, but chunk 2 is more generalized, referring to multiple closed paths. Chunk 1 is a specific case of chunk 2, making them moderately related. However, they are not equivalent or specific to each other, so the score is not 5-EQUI or 5-SPE1/2. Since chunk 1 is a specific case of chunk 2, the score is not less than 3. Therefore, the score is 4-REL."
+bulb a and bulb b,bulbs A and B,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+still,still,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+The positive battery terminal from terminal 6,Terminal 6 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,, 4-EQUI
+by a gap,by the gap,EQUI,5,5-EQUI,5-EQUI,," 3-EQUI
+
+Explanation: Both chunks express the same meaning in this context, albeit with slightly different wording. They are semantically identical and can be substituted without changing the intended interpretation."
+was not separted,are not separated,SIMI,4,4-SIMI,4-SIMI,5-EQUI, 5-EQUI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,in a closed path,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+WIL BE CREATED,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,bulb A,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,neither B nor C,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,"burns out,",NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+A GAP,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,If,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+with the battery,with the battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in different paths,in different paths,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+are contained,are,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+bulb a and c,A and C,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+is connected,are connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+The positive terminal to terminal 4.,Terminal 4 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,, 4-EQUI
+-not aligned-,"burns out,",NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+inthe same path,in a closed path.,SPE1,4,4-SPE1,4-SPE1,4-OPPO," 4-OPPO
+
+Explanation:
+Chunk 1: [inthe same path] implies that the path is open or not closed.
+Chunk 2: [in a closed path.] directly contradicts this by stating that the path is closed."
+-not aligned-,If,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,A and B,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,then,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,C,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+not contained,are,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+-not aligned-,still,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,If,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a gap in the path,in a closed path,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+-not aligned-,still,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+does not create,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+bulb c,C,EQUI,5,5-EQUI,5-EQUI,3-OPPO," 3-OPPO
+
+Explanation:
+Chunk 1, ""bulb c"", refers to a specific type of light bulb, while Chunk 2, ""C"", is a more general term that could refer to any type of light bulb or even a letter. The two chunks express different levels of specificity, and their meanings are not identical, but they are related in the sense that they both refer to light bulbs. Therefore, the output is ""3-OPPO"" (Moderate opposition)."
+for bulb b and a,A and B,SPE1,4,4-SPE1,4-SPE1,, 3-EQUI
+-not aligned-,are,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,"damaged,",NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the other terminals to the positive battery terminal,"Terminals 4, 5 and 6 to the positive battery terminal",SPE2,2,2-SPE2,2-SPE2,5-EQUI, 5-EQUI
+becuase,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+are connected,are connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+terminal one and the positive battery terminal,terminal 1 to the negative battery terminal,SIMI,4,4-SIMI,4-SIMI,3-OPPO," 3-OPPO
+
+Explanation:
+
+Chunk 1 refers to the positive battery terminal, while Chunk 2 refers to the terminal connected to the negative battery terminal. Although both chunks are about terminals, they are opposites in terms of polarity (positive vs negative). Therefore, the ALIGNMENT is ""OPPO"" (Opposition). The SCORE is ""3"" because they are moderately opposite, as they are both terminals but one is connected to the positive battery and the other to the negative battery, which results in a reversed polarity."
+are on a closed path,is connected,SIMI,4,4-SIMI,4-SIMI,, 3-EQUI
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+will,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+have,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+Battery,A battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,uses,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,to maintain,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,a chemical reaction,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,at the terminals,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+voltage.,different electrical states,REL,4,4-REL,4-REL,3-SIMI, 3-SIMI
+always,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the terminals,Terminal 1 and the positive terminal,SPE2,3,3-SPE2,3-SPE2,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: [the terminals] - This chunk refers to a specific group of people or things called ""terminals.""
+
+Chunk 2: [Terminal 1 and the positive terminal] - This chunk refers to two distinct entities: ""Terminal 1"" and ""the positive terminal.""
+
+The semantic relation between the two chunks is opposition, as they are discussing different entities, even though they are both related to terminals. The specificity level is moderate because while ""terminals"" is a broader term than ""Terminal 1,"" it still entails the existence of multiple terminals, and ""the positive terminal"" is a more specific reference within the broader category of terminals."
+are not connected,are not connected,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+the positive battery terminal to terminal 6,Terminal 6 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,, 3-EQUI
+is connected,are connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,still,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,with the battery.,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+bulb a,Bulb A,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+on a closed path,in a closed path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+was,is contained,SIMI,4,4-SIMI,4-SIMI,0-NOALI, 0-NOALI
+terminal 4 to the negative terminal,Terminal 4 and the positive battery terminal,SIMI,4,4-SIMI,4-SIMI,3-OPPO, 3-OPPO-MODERATE_OPPOSITION
+is connected,are in the same electrical state,REL,3,3-REL,3-REL,5-EQUI, 5-EQUI
+Because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+bulb c,Bulb C,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+is,is,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in its own pathway,in a separate path,REL,3,3-REL,3-REL,3-OPPO, 3-OPPO-MODERATE_OPPOSITION
+-not aligned-,indicates,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,Measuring,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+nearest the burnt out bulb,a damaged bulb.,SPE1,3,3-SPE1,3-SPE1,, 4-EQUI
+-not aligned-,due to,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the voltage,voltage,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,the electrical state,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,the place,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,where,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,changes,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+You,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+and,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+must be,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+both,both,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+"with the same path,",a closed path,SPE1,4,4-SPE1,4-SPE1,, 3-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+needed,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,containing,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a battery and a blub,the bulb and a battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+"with the same path,",-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the path closed,a closed path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+Because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the battery,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+runs,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in a closed circuit.,an incomplete circuit,SIMI,3,3-SIMI,3-SIMI,0-NOALI, 0-NOALI
+"damaged,",-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+closed.,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+bulb B,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+If,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+then,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+no longer,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,is,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+the circut,no closed path,REL,2,2-REL,2-REL,0-NOALI, 0-NOALI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+"terminal 1, terminal 2, and terminal 3","Terminals 1, 2 and 3",EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+o the negative battery,to the negative battery terminal,EQUI,5,5-EQUI,5-EQUI,3-OPPO, 3-OPPO-SPE1
+are connected,are connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+it,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+"didn""""t cause",-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,in its own path,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+"a gap.""",-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,each bulb,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+"""Because",-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a gap,a gap,EQUI,5,5-EQUI,5-EQUI,3-OPPO, 3-OPPO-MODERATE_OPPOSITION
+is,is,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+there,There,EQUI,5,5-EQUI,5-EQUI,1-SIMI, 1-SIMI
+between terminal 1 and terminal 6.,between terminals 1 and 6,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,still,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+bulbs b and c,Bulb B and Bulb C,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+on a closed path,in the same closed path,SPE2,4,4-SPE2,4-SPE2,5-EQUI, 5-EQUI
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+with the battery,with the battery.,EQUI,5,5-EQUI,5-EQUI,1-SIMI, 1-SIMI
+are,were contained,SIMI,4,4-SIMI,4-SIMI,0-NOALI, 0-NOALI
+determines,affects,SIMI,2,2-SIMI,2-SIMI,," 3-EQUI
+
+Explanation:
+Both chunks ""determines"" and ""affects"" are synonyms and can be used interchangeably in this context to express the same meaning. They are mutually substitutable without changing the intended interpretation."
+The switch,the switch,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+the path,in the same path,SPE2,4,4-SPE2,4-SPE2,5-EQUI, 5-EQUI
+whether,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,a bulb and a switch,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+open or closed.,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,If,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,are,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,the bulb,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+by a gap,in the same electrical state,REL,3,3-REL,3-REL,3-OPPO," 3-OPPO
+
+Explanation:
+
+Chunk 1: [by a gap] implies a separation or distance, while Chunk 2: [in the same electrical state] suggests a connection or similarity in electrical properties. Although they are related in the sense that they both discuss electrical properties, they have opposite meanings, making them moderately opposed."
+the positive battery terminal from terminal 4,Terminal 4 and the positive battery terminal,EQUI,5,5-EQUI,5-EQUI,, 4-EQUI
+is separated,are,REL,2,2-REL,2-REL,0-NOALI, 0-NOALI
+-not aligned-,A battery,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+between the terminals.,at the terminals,EQUI,5,5-EQUI,5-EQUI,3-OPPO," 3-OPPO
+
+Explanation:
+
+Chunk 1: [between the terminals.] refers to a location or position that is in the middle or interior of something, while Chunk 2: [at the terminals] refers to a location at the endpoints or extremities of something. Although they are related in the sense that they both discuss locations, they are opposites in terms of the specific locations they describe."
+-not aligned-,uses,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+an incomplete circuit,a chemical reaction,REL,3,3-REL,3-REL,0-NOALI, 0-NOALI
+would not effect,to maintain,SIMI,2,2-SIMI,2-SIMI,0-NOALI, 0-NOALI
+the the electrical state,different electrical states,SPE1,4,4-SPE1,4-SPE1,3-OPPO, 3-OPPO-SPE1
+to the positive battery terminal,to the positive battery terminal,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+"terminals 4, 5, and 6","Terminals 4, 5 and 6",EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+are connected,are connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+was,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+The path,a path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,containing,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+on,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+it,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,both,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,Z and C,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+on the same closed path,in the same path,SPE1,3,3-SPE1,3-SPE1,5-EQUI, 5-EQUI
+the bulb,The damaged bulb and the other bulb,SPE1,3,3-SPE1,3-SPE1,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: [the bulb] is more general and refers to a single bulb, while Chunk 2: [The damaged bulb and the other bulb] is more specific and refers to two bulbs, one of which is damaged. The two chunks have a moderate opposition because they describe different states of the bulbs, and Chunk 1 has a higher level of specificity (S1 more specific) as it only refers to one bulb."
+If,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,must be contained,SIMI,3,3-SIMI,3-SIMI,1-OPPO," 1-OPPO-SPE2
+
+Explanation:
+
+Chunk 1: [is] - This chunk is a simple present tense verb, indicating existence or identity.
+Chunk 2: [must be contained] - This chunk is a phrase that implies a requirement or inclusion.
+
+The two chunks have opposite tenses and different meanings, but they are related in the sense that they both discuss the state or presence of something. However, the first chunk is about existence or identity, while the second chunk is about inclusion or containment. Therefore, the output is ""1-OPPO-SPE2"", which means there is a mild opposition (different tenses and meanings) and the second chunk is more specific (it implies inclusion or containment, which is a more specific concept than just existence or identity)."
+in a closed path,in the same closed path,SPE2,4,4-SPE2,4-SPE2,5-EQUI, 5-EQUI
+bulb a,Bulb A,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+still,still,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+with the battery.,with the battery.,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+was,was,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+contained,contained,EQUI,5,5-EQUI,5-EQUI,, 3-NOALI
+one bulb,A and C,SPE2,2,2-SPE2,2-SPE2,, 1-NOALI
+-not aligned-,in the same closed path,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the others,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+"is removed,",-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+stop,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+working,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,are,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+If,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+an open switch,the open switch,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+are connected,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+all the terminals,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+"to other terminals,",-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+disrupts that.,creates a gap,SPE2,3,3-SPE2,3-SPE2,3-OPPO, 3-OPPO
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is a gap,are separated by a gap,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+There,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+between the two bulb terminals,the terminals,SPE1,2,2-SPE1,2-SPE1,5-EQUI, 5-EQUI
+has occured,is,SIMI,4,4-SIMI,4-SIMI,0-NOALI, 0-NOALI
+a short circuit,a short circuit,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+thus,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+of the circuit,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+will be,creates,SIMI,2,2-SIMI,2-SIMI,0-NOALI, 0-NOALI
+"at bulb b,",bulb B,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+the rest,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+there,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a gap,a gap,EQUI,5,5-EQUI,5-EQUI,3-OPPO," 3-OPPO
+
+Explanation:
+Chunk 1: ""The cat is black.""
+Chunk 2: ""The cat is white.""
+
+The two chunks express incompatible outcomes (black vs white) about the same claim/situation (the cat), so they have a moderate opposition."
+affecting,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+terminal 3 and the positie terminal,Terminal 3 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+are not connected.,are not connected,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+by a gap,by the gap,EQUI,5,5-EQUI,5-EQUI,," 3-EQUI
+
+Explanation: Both chunks are describing the same concept, albeit with slightly different wording. ""By a gap"" and ""by the gap"" are both referring to a physical space or distance."
+The positive battery terminal from terminal 4.,Terminal 4 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,, 4-EQUI
+was not seperated,are not separated,SIMI,4,4-SIMI,4-SIMI,5-EQUI, 5-EQUI
+to the negative terminal.,to the negative battery terminal,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+is connected,is connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+Terminal 1,terminal 1,EQUI,5,5-EQUI,5-EQUI,3-OPPO," 3-OPPO
+
+Explanation:
+
+Chunk 1: [Terminal 1] - ""The train is late.""
+Chunk 2: [terminal 1] - ""The train is delayed.""
+
+Both chunks express the same general idea about the train's arrival time, but they use slightly different words to do so. ""Late"" and ""delayed"" are synonyms, but the former implies a certain expectation or schedule has been missed, while the latter is more neutral and could be used to describe a delay at any point in time. Therefore, they are not completely equivalent, but there is still a clear overlap in meaning. This is why the output is ""3-OPPO"" (Moderate opposition)."
+A terminal to the positive battery terminal.,Terminals 1 and 2,SIMI,2,2-SIMI,2-SIMI,, 3-EQUI
+is not connected,are connected,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+are seperated,are separated,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+the positive terminal and terminal 2,Terminal 2 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+by a gap,by the gap,EQUI,5,5-EQUI,5-EQUI,," 3-EQUI
+
+Explanation: Both chunks express the same meaning in this context, albeit with slightly different wording. They are mutually substitutable without changing the intended interpretation."
+there,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+between the terminals,terminal 1 to the negative battery terminal,SPE2,3,3-SPE2,3-SPE2,3-OPPO," 3-OPPO
+
+Explanation:
+Chunk 1 refers to the space between the terminals, while Chunk 2 refers to the terminal 1 specifically up to the negative battery terminal. Although they both discuss electrical components, they are not equivalent, as Chunk 1 is a broader term encompassing the entire space between the terminals, while Chunk 2 is more specific and refers to a specific part of that space. Therefore, there is a moderate opposition between the two chunks."
+is not gap,is connected,EQUI,5,5-EQUI,5-EQUI,3-OPPO, 3-OPPO
+a gap,in the same electrical state,REL,3,3-REL,3-REL,0-NOALI, 0-NOALI
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+there,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,are,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+between teh positive battery terminal and terminal 4.,Terminal 4 and the positive battery terminal,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+The positive battery to terminal one.,Terminal 1 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+was not connected,are not connected,SIMI,4,4-SIMI,4-SIMI,0-NOALI, 0-NOALI
+Bulbs A and B,bulbs A and B,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+to the battery.,with the battery,EQUI,5,5-EQUI,5-EQUI,1-REL, 1-REL
+still,still,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+will be contained,are,SIMI,4,4-SIMI,4-SIMI,0-NOALI, 0-NOALI
+in a closed path,in closed paths,SPE1,4,4-SPE1,4-SPE1,4-REL," 4-REL
+
+Explanation:
+
+Chunk 1: [in a closed path]
+Chunk 2: [in closed paths]
+
+Both chunks are discussing the concept of a closed path, but chunk 2 is more general, referring to multiple closed paths. Chunk 1 is a specific case of chunk 2, making them related, but not equivalent. The relation between the two chunks is that of a specific instance and a general category, which is a strong relation (not similar)."
+the two components,Terminal 1 and the positive terminal,SPE2,2,2-SPE2,2-SPE2,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: [the two components]
+Chunk 2: [Terminal 1 and the positive terminal]
+
+The two chunks have a moderate opposition because they are about the same claim (two components vs positive terminal), but assert incompatible outcomes (components vs terminal). Chunk 1 is more specific than chunk 2, as it specifies ""two components"" while chunk 2 is more general."
+are seperated.,are separated,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,by the gap,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+directly,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is connected,are connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+terminal 1 to terminal 4,Terminals 1 and 4,EQUI,5,5-EQUI,5-EQUI,3-OPPO," 3-OPPO-1-SPE2
+
+Explanation:
+
+Chunk 1: [terminal 1 to terminal 4] - ""The car is red and fast.""
+Chunk 2: [Terminals 1 and 4] - ""The car is red.""
+
+The two chunks share the same subject (""The car"") and one attribute (""red""), but the second chunk lacks the attribute ""fast."" This creates a mild opposition (3-OPPO) as the second chunk omits an important characteristic of the car. Additionally, the second chunk is more specific (1-SPE2) because it only mentions one attribute, while the first chunk mentions two."
+the positive battery terminal and terminal 4,Terminal 4 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+are connected,are connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+Terminal 1 and terminal 2,Terminals 1 and 2,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+are on the same side.,are connected,REL,3,3-REL,3-REL,5-EQUI, 5-EQUI
+to positive battery,Terminal 2 and the positive terminal,SPE1,3,3-SPE1,3-SPE1,5-EQUI, 5-EQUI
+not connected,are not connected,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+to maintain,to maintain,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+a chemical reaction,a chemical reaction,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+"the voltage,",different electrical states,REL,4,4-REL,4-REL,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: [the voltage,] refers to a specific electrical property, while Chunk 2: [different electrical states] is a broader term that could encompass various electrical properties, including voltage. However, they are not directly contradictory, and there is some overlap in meaning. The score of 3 indicates a moderate level of opposition, as ""voltage"" is a specific type of electrical state, but not all electrical states are voltage. The specificity score of 1 (S1 more specific) indicates that Chunk 1 is more specific than Chunk 2, as it refers to a specific electrical property."
+-not aligned-,at the terminals,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+The battery,A battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+uses,uses,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+does not have,is not,SIMI,4,4-SIMI,4-SIMI,0-NOALI, 0-NOALI
+the bulb,The bulb,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,containing,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a closed path.,in the closed path,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+Because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,the battery,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,the terminals,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a difference,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,are separated,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,by a gap,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in electrical states,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+there,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is connected,are connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+terminal to postive terminal of the battery,Terminal 6 and the positive terminal,SPE2,3,3-SPE2,3-SPE2,5-EQUI, 5-EQUI
+is seperated,are separated,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+Terminal 1 from the positive terminal,Terminal 1 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,3-OPPO, 3-OPPO-MODERATE_OPPOSITION
+-not aligned-,by the gap,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is not contained,is not,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+Battery,The battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+i a closed path.,in a closed path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,in 4,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,by the gap,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+terminal 1 to the positive battery terminal,Terminal 1 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+was connected,are separated,OPPO,4,4-OPPO,4-OPPO,5-OPPO, 5-OPPO
+-not aligned-,containing,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+2 paths,a path,SPE2,2,2-SPE2,2-SPE2,3-OPPO," 3-OPPO-1-SPE2
+
+Explanation:
+Chunk 1 mentions ""2 paths"" and Chunk 2 mentions ""a path"". The two chunks have a moderate opposition as one implies multiple paths while the other implies a single path. Chunk 2 is more specific than Chunk 1, as it provides a specific number (1) for the path, whereas Chunk 1 is more general."
+-not aligned-,containing,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,A,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,and,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+are,is,EQUI,5,5-EQUI,5-EQUI,1-OPPO," 1-OPPO-EQUI  (Chunk 1 is the plural form of the verb ""to be"", while Chunk 2 is the singular form. However, in many contexts, they can be used interchangeably, especially in informal speech or when referring to a singular entity in a general sense.)"
+-not aligned-,B and C,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,a different path,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+There,there,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in this diagram,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the switch,switch Y and bulb A,SPE1,2,2-SPE1,2-SPE1,3-OPPO, 3-OPPO
+Because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,containing,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+was connected,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the switch,both,SPE1,2,2-SPE1,2-SPE1,, 3-NOALI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+to the closed circuit,no path,REL,2,2-REL,2-REL,0-NOALI, 0-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+creates,creates,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+a gap.,a gap,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+damaged bulb,a damaged bulb,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+that,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the battery connection does not work,a short circuit,REL,3,3-REL,3-REL,3-OPPO, 3-OPPO
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,to maintain,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,different electrical states,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,A battery,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the terminals,at the terminals,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+are not connected,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,a chemical reaction,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,uses,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+Terminal 5 to teh positive battery terminal,Terminal 5 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,, 4-EQUI
+is connected,are connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+was connected,are separated,OPPO,4,4-OPPO,4-OPPO,5-OPPO, 5-OPPO
+terminal 1 to the positive terminal,Terminal 1 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,3-OPPO, 3-OPPO-MODERATE_OPPOSITION
+-not aligned-,by the gap,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+between terminal one and two and the positive battery terminal,Terminals 1 and 2,SPE2,3,3-SPE2,3-SPE2,3-OPPO," 3-OPPO
+
+Explanation:
+
+Chunk 1 describes the specific connection between three terminals, while Chunk 2 only mentions the two terminals. Although they are discussing the same electrical components, Chunk 1 provides additional information that is not present in Chunk 2, leading to a moderate opposition."
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a gap,in the same electrical state,REL,2,2-REL,2-REL,5-EQUI, 5-EQUI
+there,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,are,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+with the battery,with the battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+are contained,are,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+bulbs b and c,B and C,EQUI,5,5-EQUI,5-EQUI,, 4-EQUI
+on the same path,in the same path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+there,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is no closed path,the path is not closed,EQUI,5,5-EQUI,5-EQUI,, 1-EQUI
+to the battery,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+terminal 1 to the positive battery terminal,Terminal 1 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,, 4-EQUI
+is not connected,are not connected,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+-not aligned-,in 2,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+alone,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is not,is not,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+the battery,The battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in a closed bath,in a closed path,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+is connected,are connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+terminal 5 to postive terminal of the battery,Terminal 5 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+are closed,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+x and z,"A, C, Z and X",SPE1,2,2-SPE1,2-SPE1,," 3-EQUI
+
+Explanation: Both chunks express the same meaning in this context. They are mutually substitutable without changing the intended interpretation. In Chunk 1, 'x' and 'z' are mentioned, while in Chunk 2, 'X' and 'Z' are listed along with 'A' and 'C'. Since 'X' and 'x' and 'Z' and 'z' are the same entities, the chunks are equivalent."
+then,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,containing,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a closed path,a path,EQUI,5,5-EQUI,5-EQUI,, 3-NOALI
+it,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+will create,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+if,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,by the gap,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+positive terminal from terminal 2,Terminal 2 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+is serperated,are separated,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,in 2,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is not closed,in a closed path,REL,3,3-REL,3-REL,0-NOALI, 0-NOALI
+the bulb,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is not,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is.,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the battery,The battery,EQUI,5,5-EQUI,5-EQUI,, 1-EQUI
+there,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,the terminals,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is not,are not separated,SIMI,4,4-SIMI,4-SIMI,1-OPPO, 1-OPPO-NOALI
+a gap,by a gap,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+in the connection,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+will affect,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the bulb.,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+if,When,SIMI,3,3-SIMI,3-SIMI,4-REL, 4-REL
+is,are contained,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+a bulb with a battery and a switch,the switch and the bulb,SPE2,3,3-SPE2,3-SPE2,, 4-EQUI
+the switch,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in a closed circuit,in the same path,REL,4,4-REL,4-REL,5-EQUI, 5-EQUI
+with the battery.,with the battery.,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in a closed path,in the same closed path,SPE2,4,4-SPE2,4-SPE2,5-EQUI, 5-EQUI
+were contained,were contained,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+bulbs b and c,Bulb B and Bulb C,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,still,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+are,has,SIMI,2,2-SIMI,2-SIMI,0-NOALI, 0-NOALI
+in closed paths.,no closed paths,OPPO,4,4-OPPO,4-OPPO,, 3-NOALI
+Because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+neither components,Circuit 4,REL,3,3-REL,3-REL,0-NOALI, 0-NOALI
+-not aligned-,the electrical state,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,indicates,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,voltage,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,due to,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the gap,a gap.,EQUI,5,5-EQUI,5-EQUI,3-OPPO," 3-OPPO
+
+Explanation:
+
+Chunk 1: [the gap]
+Chunk 2: [a gap.]
+
+Both chunks refer to the concept of a gap, but Chunk 1 is more specific by using the definite article ""the,"" while Chunk 2 uses the indefinite article ""a."" This difference results in a moderate opposition, as they are not exactly the same, but they do share a common theme."
+-not aligned-,changes,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+you,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+can,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,the place,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,Measuring,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+where,where,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+see,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+there,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,that,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in the circuit,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+if,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a gap,are not connected.,REL,4,4-REL,4-REL,0-NOALI, 0-NOALI
+-not aligned-,A non-zero voltage,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+will not light up.,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,means,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+there,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the bulb,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,the terminals,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,then,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+Bulb A and Bulb B and the battery,A and B with the battery.,EQUI,5,5-EQUI,5-EQUI,, 4-EQUI
+in a closed path.,in a closed path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,"burns out,",NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+are,are still,SPE2,4,4-SPE2,4-SPE2,5-EQUI, 5-EQUI
+-not aligned-,C,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,If,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,between the terminals,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a gap,no gap,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+is,is,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+That,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+there,there,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+the bulb.,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+are contained,are contained,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+"in the same path,",in the same path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+will affect,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+if,When,SIMI,3,3-SIMI,3-SIMI,4-REL, 4-REL
+the switch,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the switch and bulb,the switch and the bulb,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+Voltage,terminal 1,REL,2,2-REL,2-REL,3-REL, 3-REL-Voltage is moderately related to Terminal 1 as voltage is a property of an electrical circuit that terminals are part of.
+the difference,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+between a positive and negative end on a battery.,to the negative battery terminal,SPE2,2,2-SPE2,2-SPE2,3-OPPO, 3-OPPO
+-not aligned-,is connected,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+passes,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+through the switch,the switch,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+the path,in the same path,SPE2,4,4-SPE2,4-SPE2,5-EQUI, 5-EQUI
+-not aligned-,a bulb and a switch,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,are,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the energy,the bulb,REL,2,2-REL,2-REL,0-NOALI, 0-NOALI
+-not aligned-,affects,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,If,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+that,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+are,are,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+the bulb terminal and battery terminal,The terminals,SPE1,3,3-SPE1,3-SPE1,, 3-EQUI
+on the same side of a disconnected circut,in the same state.,REL,2,2-REL,2-REL,0-NOALI, 0-NOALI
+the battery,The battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in a closed path.,in a closed path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,in 4,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is not,is not,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+Because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+switch x with bulb a,Bulb A with the battery and switch X.,SPE1,3,3-SPE1,3-SPE1,3-OPPO, 3-OPPO-SPE1
+-not aligned-,still,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in the closed path,in a closed path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+is,is contained,EQUI,5,5-EQUI,5-EQUI,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: [is] - This chunk is a simple present tense verb, indicating a state of being.
+Chunk 2: [is contained] - This chunk is a phrase that implies a relationship where one thing is enclosed within another.
+
+The two chunks have a moderate opposition because they describe different relationships: one describes a state of being, while the other describes a relationship of containment. Additionally, chunk 1 is more general, while chunk 2 is more specific (SPE1)."
+-not aligned-,still,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a closed circuit,in a closed path,REL,4,4-REL,4-REL,5-EQUI, 5-EQUI
+There,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+was,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,with the battery.,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,Bulb A,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,contained,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+"switch z in bulb c""""s",both,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+"closed path""",a path,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+is,containing,SIMI,3,3-SIMI,3-SIMI,0-NOALI, 0-NOALI
+"switch z in bulb c""""s",Z and C,EQUI,5,5-EQUI,5-EQUI,1-OPPO, 1-OPPO-SPE1
+"""because",-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,with the battery and switch X.,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+Bulb A,Bulb A,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in a closed path,in a closed path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+was,is contained,SIMI,4,4-SIMI,4-SIMI,0-NOALI, 0-NOALI
+still,still,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,from the positive battery terminal,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+due to,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+Because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,"Terminals 1, 2 and 3",NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a gap,by a gap,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+-not aligned-,are separated,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a damaged bulb.,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+there,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+was,was contained,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+in a closed path,in the same closed path,SPE2,4,4-SPE2,4-SPE2,5-EQUI, 5-EQUI
+still,still,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+Bulb A,Bulb A,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+with the battery,with the battery.,EQUI,5,5-EQUI,5-EQUI,, 1-EQUI
+-not aligned-,in 4,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+The battery and light bulb,The battery,SPE2,3,3-SPE2,3-SPE2,, 3-NOALI
+in a close path,in a closed path,EQUI,5,5-EQUI,5-EQUI,," 3-EQUI
+
+Explanation: Both chunks express the same meaning in this context. They are describing a path that is closed or circular. While the first uses the term ""close,"" the second uses ""closed,"" they are synonyms in this context."
+are not contained,is not,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+and,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is closed,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the circut,in the same closed path,REL,4,4-REL,4-REL,, 3-EQUI
+-not aligned-,are,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,A and C,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,is,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+"on it""""s own pathway.""",in a separate path,REL,4,4-REL,4-REL,3-OPPO, 3-OPPO
+bulb C,Bulb C,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+"""becuase",-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+bulb A,bulb A,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in a closed path.,in a closed path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+bulbs B and C,neither B nor C,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+burns out,"burns out,",EQUI,5,5-EQUI,5-EQUI,, 5-NOALI
+then,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+if,If,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+will no longer be,is,SPE1,4,4-SPE1,4-SPE1,0-NOALI, 0-NOALI
+is not connected,are not connected,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+Terminal 1 to the positive terminal.,Terminal 1 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,, 4-EQUI
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,in 2,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is not,is not,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in a closed circuit,in a closed path,REL,4,4-REL,4-REL,5-EQUI, 5-EQUI
+the battery,The battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+the terminal,between the terminals,SPE1,4,4-SPE1,4-SPE1,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: [the terminal] - This chunk refers to a specific location or object, which is a terminal.
+
+Chunk 2: [between the terminals] - This chunk describes a location or space that is situated between two terminals.
+
+The two chunks have a moderate opposition because they describe different locations within the same context. Chunk 1 refers to a specific terminal, while chunk 2 refers to the space between two terminals. Additionally, chunk 1 is more specific than chunk 2, as it refers to a single terminal, while chunk 2 refers to the space between multiple terminals."
+is not working,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is connected,is no gap,REL,4,4-REL,4-REL,, 3-NOALI
+it,between the terminals,SPE1,4,4-SPE1,4-SPE1,0-NOALI, 0-NOALI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+to,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a closed path and a battery.,a closed path containing both the bulb and a battery,SPE1,3,3-SPE1,3-SPE1,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+- The first chunk (a closed path and a battery) and the second chunk (a closed path containing both the bulb and a battery) have a moderate opposition because the second chunk includes an additional element (the bulb) that is not present in the first chunk.
+- The specificity level is 1 (S1 more specific) because the first chunk is more general than the second chunk, as it only mentions a closed path and a battery, while the second chunk specifies that the closed path contains both the bulb and the battery."
+There,there,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+must be,is,SIMI,4,4-SIMI,4-SIMI,0-NOALI, 0-NOALI
+is connected,are not connected,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+terminal to terminal 6,Terminals 1 and 6,SPE2,4,4-SPE2,4-SPE2,3-OPPO," 3-OPPO-1-SPE2
+
+Explanation:
+
+Chunk 1: [terminal to terminal 6] - ""The terminal is not operational.""
+Chunk 2: [Terminals 1 and 6] - ""Terminals 1 and 6 are not functioning.""
+
+The two chunks have a moderate opposition as they both express that the terminals are not functioning, but the scope of Chunk 2 is more specific, as it mentions Terminals 1 and 6, while Chunk 1 only mentions Terminal 6."
+is,is contained,EQUI,5,5-EQUI,5-EQUI,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: [is] - This chunk is a simple present tense verb form of the linking verb ""to be.""
+
+Chunk 2: [is contained] - This chunk is a present tense verb form of ""to be"" with the preposition ""in"" or ""within"" implying a relationship of inclusion or containment.
+
+The semantic relation between the two chunks is opposition, as ""is"" is a general statement, while ""is contained"" implies a more specific relationship of inclusion or containment. However, the specificity level is low for chunk 1, as it is a very general statement, while chunk 2 adds a specific meaning of containment. Therefore, the score is 3 for opposition and 1 for specificity (S1 more specific)."
+with the battery and switch x,with the battery and switch X.,EQUI,5,5-EQUI,5-EQUI,, 4-EQUI
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+bulb a,Bulb A,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in a closed circuit,in a closed path,REL,4,4-REL,4-REL,5-EQUI, 5-EQUI
+-not aligned-,still,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,a bulb and a switch,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+If,If,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+the bbulb,the bulb,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+the switch,the switch,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,are,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is not,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the path,in the same path,SPE2,4,4-SPE2,4-SPE2,5-EQUI, 5-EQUI
+will not affect,affects,OPPO,4,4-OPPO,4-OPPO,2-OPPO, 2-OPPO
+"closed,",-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,If,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+are,are,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,bulb A,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+on a closed path,in a closed path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,still,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+bulb b and c,bulbs B and C,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+to the battery,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,"burns out,",NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,"Terminals 1, 2 and 3",NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a a gap,by a gap,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+does not affect,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,are separated,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the voltage of a battery,from the positive battery terminal,REL,3,3-REL,3-REL,5-EQUI, 5-EQUI
+since,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+Because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,in a closed path,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a light bulb,The battery,REL,3,3-REL,3-REL,0-NOALI, 0-NOALI
+there,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is not,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,in 2,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,must be contained,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,in the same path,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+will be burned out,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the bulb,The damaged bulb and the other bulb,SPE1,3,3-SPE1,3-SPE1,," 3-EQUI
+
+Explanation: Both chunks express the same meaning in this context. The first chunk refers to ""the bulb,"" and the second chunk refers to ""the damaged bulb and the other bulb."" The ""other bulb"" in the second chunk is a synonym for ""the bulb"" in the first chunk, making them equivalent."
+the terminals,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the positive batter terminal and terminal 6,Terminal 6 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+Because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+were connected.,are connected,SIMI,4,4-SIMI,4-SIMI,5-EQUI, 5-EQUI
+the the circuit,the path,REL,4,4-REL,4-REL,1-REL, 1-REL
+is complete.,is not closed,REL,3,3-REL,3-REL,3-OPPO," 3-OPPO
+
+Explanation:
+Chunk 1: [is complete.] implies that something has reached its end or has been finished.
+Chunk 2: [is not closed] implies the opposite, that something is not finished or has not been completed. These two chunks express incompatible implications on a related topic (completion vs non-completion), but the scope/conditions differ, so the opposition is moderate."
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+still,still,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+with the battery,with the battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+on closed paths,in closed paths,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+will be,are,SIMI,4,4-SIMI,4-SIMI,0-NOALI, 0-NOALI
+Bulbs B and C,bulbs B and C,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+the bulb,a bulb and a switch,SPE1,3,3-SPE1,3-SPE1,, 3-EQUI
+in an closed circuit,in the same path,SPE2,4,4-SPE2,4-SPE2,5-EQUI, 5-EQUI
+-not aligned-,If,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,the bulb,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,the switch,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,affects,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is contained,are,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+THE,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+ARE,are,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,A and C,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+ON THE SAME PATH,in the same path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+Bulb a and switch Y,Switch Y and bulb A,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+are not,are not,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in the same path.,in the same closed path,EQUI,5,5-EQUI,5-EQUI,, 4-EQUI
+the electrical states different,different electrical states,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+of the positive and negative terminals,at the terminals,SPE1,3,3-SPE1,3-SPE1,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1 refers to the positive and negative terminals, while Chunk 2 refers to the terminals. Although both chunks are about the terminals, Chunk 1 is more specific by mentioning positive and negative terminals, which is not explicitly stated in Chunk 2. Additionally, the two chunks have a moderate opposition because the positive and negative terminals are not the same as the terminals."
+inside the battery,A battery,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+-not aligned-,uses,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+makes,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+A chemical reaction,a chemical reaction,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,to maintain,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+at all times.,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+"the terminals 4,5, and 6","Terminals 4, 5 and 6",EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+are connected,are connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+becasue,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+to the positive terminal of the battery,to the positive battery terminal,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+does not effect,are not,SIMI,2,2-SIMI,2-SIMI,0-NOALI, 0-NOALI
+switch Y bulb A,Switch Y and bulb A,EQUI,5,5-EQUI,5-EQUI,3-OPPO, 3-OPPO
+-not aligned-,in the same closed path,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+bulb c,C,EQUI,5,5-EQUI,5-EQUI,3-OPPO," 3-OPPO
+
+Explanation:
+Chunk 1, ""bulb c"", refers to a specific type of light bulb, while Chunk 2, ""C"", is a generic letter that does not have a direct semantic relation to light bulbs. They are moderately opposed because ""C"" does not describe the same idea as ""bulb c""."
+-not aligned-,then,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+creates,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,are,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,A and B,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,still,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,If,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,with the battery.,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a gap,"burns out,",REL,3,3-REL,3-REL,0-NOALI, 0-NOALI
+-not aligned-,in a closed path,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+are not contained,was no longer,SPE2,4,4-SPE2,4-SPE2,, 3-NOALI
+in a closed pathway,in a closed path,EQUI,5,5-EQUI,5-EQUI,3-REL, 3-REL-NOTSIM
+Bulb C and the battery,Bulb C with the battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+both,The terminals,EQUI,4,4-EQUI,4-EQUI,3-OPPO, 3-OPPO-MODERATE_OPPOSITION
+the two terminals,The terminals,SPE1,4,4-SPE1,4-SPE1,, 4-EQUI
+will be,are,SIMI,4,4-SIMI,4-SIMI,0-NOALI, 0-NOALI
+0,in the same state.,SPE1,3,3-SPE1,3-SPE1,0-NOALI, 0-NOALI
+is not,is,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+with bulbs a and c.,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in the same path,in a separate path,REL,4,4-REL,4-REL,0-NOALI, 0-NOALI
+bulb b,Bulb B,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,the terminals,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+with.,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,are not connected.,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,means,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,that,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is interferred,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+The electrical state,A non-zero voltage,REL,3,3-REL,3-REL,3-OPPO, 3-OPPO
+the battery and the bulb,The battery,SPE2,3,3-SPE2,3-SPE2,, 3-NOALI
+Because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in a closed path.,in a closed path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,in 4,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+are not,is not,EQUI,5,5-EQUI,5-EQUI,1-OPPO, 1-OPPO
+by measuring,Measuring,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+"in electrical states.""",the electrical state,SPE2,4,4-SPE2,4-SPE2,, 3-NOALI
+the gap,due to a gap.,EQUI,5,5-EQUI,5-EQUI,3-OPPO," 3-OPPO-1-SPE2
+
+Explanation:
+
+Chunk 1: [the gap] - This chunk is about a single concept, ""the gap.""
+Chunk 2: [due to a gap.] - This chunk is about the result or consequence of ""the gap.""
+
+The two chunks are related, but they express different ideas. Chunk 1 is more general, while chunk 2 is more specific, describing the outcome or effect of ""the gap."" Therefore, the score is 3 for moderate opposition, and the specificity score for chunk 2 being more specific is 2."
+-not aligned-,the place,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+you,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+"there""""s a difference",changes,SIMI,3,3-SIMI,3-SIMI,3-OPPO, 3-OPPO
+where,where,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+"""because",-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+find,indicates,SIMI,3,3-SIMI,3-SIMI,1-OPPO, 1-OPPO-NOALI
+"voltage,",voltage,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+"again,",-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,then,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,"burns out,",NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+will be contained,are still,SPE2,4,4-SPE2,4-SPE2,0-NOALI, 0-NOALI
+-not aligned-,If,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+on a closed path,in a closed path.,EQUI,5,5-EQUI,5-EQUI,, 4-EQUI
+-not aligned-,C,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+bulbs a and b,A and B,SPE1,4,4-SPE1,4-SPE1,, 3-EQUI
+in the the same path,in the same path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+with the battery.,with the battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+are contiained,are not,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+bulbs b and c,A and C,EQUI,5,5-EQUI,5-EQUI,, 4-EQUI
+There,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a gap,in the same electrical state,REL,2,2-REL,2-REL,0-NOALI, 0-NOALI
+in the path.,Terminals 1 and 2,REL,2,2-REL,2-REL,1-REL, 1-REL-NOALI
+-not aligned-,are,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,is,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+with a battery,with the battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+bulb a,Bulb A,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,still,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in a closed path,in a closed path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+Bulb A and bulb C,A and C,EQUI,5,5-EQUI,5-EQUI,, 4-EQUI
+-not aligned-,in the same closed path,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+each other.,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+affect,are,SIMI,2,2-SIMI,2-SIMI,0-NOALI, 0-NOALI
+in a closed path,a path,EQUI,5,5-EQUI,5-EQUI,, 4-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is contained,containing,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+switch z,Z and C,SPE1,3,3-SPE1,3-SPE1,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: [switch z] implies a change or replacement of something, while Chunk 2: [Z and C] suggests the presence of both Z and C. The two chunks have opposite implications, as Chunk 1 implies the absence of Z, while Chunk 2 includes Z. However, Chunk 1 is more specific than Chunk 2, as it specifies a change or replacement, whereas Chunk 2 only mentions the presence of Z."
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+switch z,both,SPE1,3,3-SPE1,3-SPE1,3-OPPO," 3-OPPO-1-SPE2
+
+Explanation:
+
+Chunk 1: [switch z] - This chunk refers to the action of switching something.
+Chunk 2: [both] - This chunk is a neutral term that can refer to any two entities.
+
+The two chunks do not have the same meaning, but they are related in the sense that one could potentially switch ""both"" entities. However, the scope of ""both"" is much broader than ""switch z"", making it more specific. Additionally, ""switch z"" implies an action, while ""both"" does not, leading to a mild opposition."
+the bulb terminal and the negative battery terminal,between the terminals,SPE1,3,3-SPE1,3-SPE1,3-OPPO, 3-OPPO-REL
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+by a gap,no gap,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+are separated,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+are,are contained,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+with the battery.,with the battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+Bulb A and C,Bulbs A and C,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+still,still,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in a closed path,in closed paths,SPE1,4,4-SPE1,4-SPE1,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: [in a closed path]
+Chunk 2: [in closed paths]
+
+The two chunks are talking about the same concept (closed paths), but chunk 1 is more specific, referring to a single closed path, while chunk 2 refers to multiple closed paths. They have a moderate opposition because the scope of chunk 2 is broader than chunk 1. The score 3 indicates a moderate opposition, and the specificity score 1 indicates that chunk 1 is more specific."
+switch and bulb,the switch and the bulb,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+are contained,are contained,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in the same closed path,in the same path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+if,When,SIMI,3,3-SIMI,3-SIMI,4-REL, 4-REL
+between the positive battery connection and the bulb terminal.,between the terminals,SPE1,3,3-SPE1,3-SPE1,, 3-EQUI
+a gap,no gap,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+is,is,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+there,there,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+on the same path,a different path,SIMI,4,4-SIMI,4-SIMI,0-NOALI, 0-NOALI
+that,a different path,SIMI,4,4-SIMI,4-SIMI,0-NOALI, 0-NOALI
+on the same path,a path,REL,3,3-REL,3-REL,, 4-EQUI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+Bulb A,A,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+are.,containing,SIMI,4,4-SIMI,4-SIMI,0-NOALI, 0-NOALI
+-not aligned-,and,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+Bulb B and bulb C,B and C,EQUI,5,5-EQUI,5-EQUI,, 3-EQUI
+is not,containing,SIMI,2,2-SIMI,2-SIMI,0-NOALI, 0-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+it,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,then,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,with the battery.,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+on a different current,in a closed path,REL,4,4-REL,4-REL,0-NOALI, 0-NOALI
+runs,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,C,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,A and B,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,are,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,still,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,"burns out,",NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,If,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+to the difference,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is connected,are connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+terminal 6,Terminal 6 and the positive terminal,SPE2,3,3-SPE2,3-SPE2,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: [terminal 6] - This refers to the negative terminal.
+Chunk 2: [Terminal 6 and the positive terminal] - This refers to both the negative and positive terminals.
+
+The two chunks have a moderate opposition because they are about the same claim (terminal), but assert incompatible outcomes (negative vs positive). Chunk 1 is more specific than chunk 2 because it adds a qualifier (negative) to the claim."
+the batteries terminals,Circuit 4,REL,4,4-REL,4-REL,0-NOALI, 0-NOALI
+are not connected,has no closed paths,REL,4,4-REL,4-REL,0-NOALI, 0-NOALI
+-not aligned-,Measuring,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+there,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,the place,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a gap,a gap.,EQUI,5,5-EQUI,5-EQUI,, 3-NOALI
+-not aligned-,changes,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a voltage,voltage,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,the electrical state,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+there,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+if,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+that,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+means,indicates,SIMI,4,4-SIMI,4-SIMI,3-OPPO," 3-OPPO-1-SPE2
+
+Explanation:
+Chunk 1: [means] implies a specific action or purpose, while Chunk 2: [indicates] suggests a more general or vague idea. The two chunks have some overlap in topic, but Chunk 2 is more specific and adds details that Chunk 1 does not include. The overall meaning is different, but there is a moderate level of opposition because the two ideas are related but not the same."
+-not aligned-,due to,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,where,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,due to a gap.,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,voltage,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+there,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,the place,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+different electrical states,the electrical state changes,SIMI,4,4-SIMI,4-SIMI,3-OPPO, 3-OPPO
+Find,indicates,REL,2,2-REL,2-REL,0-NOALI, 0-NOALI
+are,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,Measuring,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+where,where,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,containing,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+to the battery,the battery,EQUI,5,5-EQUI,5-EQUI,1-REL, 1-REL
+is connected,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+circuit 2,no closed path,REL,3,3-REL,3-REL,0-NOALI, 0-NOALI
+to be,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+an open circuit,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+causes,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the circuit,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in the circuit,in a circuit,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the gap,a gap,EQUI,5,5-EQUI,5-EQUI,, 3-NOALI
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a gap,by the gap,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+there,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,are separated,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in the circuit,Terminal 1 and the positive terminal,REL,3,3-REL,3-REL,, 3-EQUI
+-not aligned-,affects,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+to light up,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,are,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,a bulb and a switch,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,the switch,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,If,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the path,in the same path,SPE2,4,4-SPE2,4-SPE2,5-EQUI, 5-EQUI
+has to be closed,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+for the bulb,the bulb,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in voltage,between the terminals,REL,4,4-REL,4-REL,5-EQUI, 5-EQUI
+is,is,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+no gap,no gap,EQUI,5,5-EQUI,5-EQUI,3-OPPO, 3-OPPO-MODERATE_OPPOSITION
+so,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+there,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+no difference,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+There,there,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+the difference,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+between a positive and negative end on the battery.,Terminal 1 and the positive terminal,SIMI,2,2-SIMI,2-SIMI,3-OPPO, 3-OPPO-SPE1
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+Voltage,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,are separated,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,by the gap,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a short circuit,a complete circuit,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+had,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+bulb,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+Bulb A and bulb C,Bulb B and Bulb C,EQUI,5,5-EQUI,5-EQUI,, 3-EQUI
+are,were still contained,SPE2,4,4-SPE2,4-SPE2,1-OPPO," 1-OPPO-SPE1
+
+Explanation:
+Chunk 1 ([are]) is in the present tense, while Chunk 2 ([were still contained]) is in the past tense. This creates a mild opposition (1-OPPO) as the tenses are incompatible. Additionally, Chunk 2 provides more specificity (SPE1) as it implies that the contained items were in a state of being contained in the past, which is not explicitly stated in Chunk 1."
+with the battery.,with the battery.,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in a closed path,in the same closed path,SPE2,4,4-SPE2,4-SPE2,5-EQUI, 5-EQUI
+are connected,are connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+"Terminals 4, 5, and 6","Terminals 4, 5 and 6",EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+only,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+to the positive battery terminal.,to the positive battery terminal,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+a terminal to the positive battery terminal,the terminals,SPE1,3,3-SPE1,3-SPE1,5-EQUI, 5-EQUI
+is connected,are not connected,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in the same state,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the terminals,terminal 1 to the negative battery terminal,SPE2,3,3-SPE2,3-SPE2,3-OPPO," 3-OPPO
+
+Explanation:
+Chunk 1: [the terminals] refers to any electrical connection points, while Chunk 2: [terminal 1 to the negative battery terminal] specifies one of the terminals as being connected to the negative battery terminal. Although they are related, they express incompatible implications on the topic of electrical connections, making them a moderate opposition."
+are,is connected,SIMI,2,2-SIMI,2-SIMI,0-NOALI, 0-NOALI
+"isn""""t included",are not,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+"""because",-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+"switch y in bulb A""""s",Switch Y and bulb A,EQUI,5,5-EQUI,5-EQUI,3-OPPO, 3-OPPO
+"closed path""",in the same closed path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+the negative battery terminal,from the negative battery terminal,EQUI,5,5-EQUI,5-EQUI,1-SPE2, 1-SPE2
+by a gap,by a gap,EQUI,5,5-EQUI,5-EQUI,, 3-NOALI
+is seperated,is separated,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+from terminal 6,terminal 6,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+the bulb terminal to one of the battery terminals,between the terminals,SPE1,3,3-SPE1,3-SPE1,, 3-EQUI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+only,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+that,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is connected,is no gap,REL,4,4-REL,4-REL,, 3-NOALI
+-not aligned-,terminal 4,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+there,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,from the negative battery terminal,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is separated,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+was,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a negavtive gap,by a gap,SPE1,4,4-SPE1,4-SPE1,0-NOALI, 0-NOALI
+is connected,are connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+terminal,"Terminals 4, 5 and 6",SPE1,2,2-SPE1,2-SPE1,3-OPPO, 3-OPPO-MODERATE_OPPOSITION
+to postive end of battery,to the positive battery terminal,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+is connected,is connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+to the 1.5 volt battery.,to the negative battery terminal,REL,4,4-REL,4-REL,3-OPPO, 3-OPPO
+terminal 1,terminal 1,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,the switch,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,the bulb,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+must be,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,a bulb and a switch,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,If,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+closed,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+The path,in the same path,SPE2,4,4-SPE2,4-SPE2,5-EQUI, 5-EQUI
+-not aligned-,are,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,affects,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+on the same path,in the same path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+are contained,are,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+with the battery.,with the battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+Bulbs B and C,B and C,EQUI,5,5-EQUI,5-EQUI,, 4-EQUI
+of the battery,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is connected,are connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+a terminal to the positive terminal,Terminal 6 and the positive terminal,SPE2,4,4-SPE2,4-SPE2,5-EQUI, 5-EQUI
+are,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,then,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in parallel,in a closed path.,REL,3,3-REL,3-REL,3-OPPO," 3-OPPO-REL
+
+Explanation:
+
+Chunk 1: [in parallel] describes a situation where things are side by side or happening at the same time.
+Chunk 2: [in a closed path.] describes a situation where something is moving in a loop or circle.
+
+Although both chunks involve the concept of a path, they are not semantically identical or equivalent. Chunk 1 does not imply a path in the sense of movement or direction, while chunk 2 does. However, they are related in that they both involve some kind of spatial arrangement or movement. Therefore, the output is ""3-OPPO-REL"", indicating a moderate opposition (as they describe different types of paths) and a moderate relation (as they are related by the common theme of a path or movement)."
+-not aligned-,"burns out,",NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,If,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,still,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in series,in a closed path.,REL,3,3-REL,3-REL,3-OPPO," 3-OPPO-1-SPE2
+
+Explanation:
+
+Chunk 1: [in series] - This chunk implies a sequence of events or items.
+Chunk 2: [in a closed path.] - This chunk implies a loop or cycle, which is a type of sequence but with a return to the starting point.
+
+The two chunks have a moderate opposition as they both describe a sequence but with different characteristics (series vs closed path). Chunk 2 is more specific than chunk 1, as it adds the condition of a closed loop. However, they are not completely equivalent, hence the ""1-SPE2"" label."
+a and b,A and B,EQUI,5,5-EQUI,5-EQUI,," 3-EQUI
+
+Explanation: Both chunks express the same meaning, with slight variations in capitalization and order. In this context, ""a and b"" and ""A and B"" are interchangeable and semantically identical."
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+are,are,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+and,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a and c,C,SPE2,3,3-SPE2,3-SPE2,, 3-NOALI
+is connected,are connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+of the battery,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a terminal to the positive terminal,Terminal 5 and the positive terminal,SPE2,4,4-SPE2,4-SPE2,5-EQUI, 5-EQUI
+the bulb,The bulb,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+is not contained,is not,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+in the path,in the closed path,EQUI,5,5-EQUI,5-EQUI,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: [in the path]
+Chunk 2: [in the closed path]
+
+The two chunks are opposing each other because ""closed"" implies that something is not open or available, while ""path"" suggests openness or availability. However, they are not in direct contradiction as ""closed path"" could refer to a path that is blocked or not accessible, whereas ""in the path"" could mean that something is on the way or in the route.
+
+In terms of specificity, ""closed path"" is more specific because it provides additional information about the state of the path (closed). ""In the path"" is less specific as it does not specify the state of the path."
+-not aligned-,containing,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,the battery,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+gap,by the gap,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+positive charge,Terminal 1 and the positive terminal,REL,3,3-REL,3-REL,5-EQUI, 5-EQUI
+-not aligned-,are separated,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+before,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+Because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,still,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,If,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,bulb A,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+on the same path,in a closed path,SPE1,4,4-SPE1,4-SPE1,3-OPPO, 3-OPPO-REL
+-not aligned-,"burns out,",NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,bulbs B and C,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+it,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is not,are,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+-not aligned-,no longer,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+connected,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+Seperate paths,in a closed path,REL,4,4-REL,4-REL,0-NOALI, 0-NOALI
+-not aligned-,bulb A,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,"burns out,",NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,B and C,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,are,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+to the battery,with the battery,EQUI,5,5-EQUI,5-EQUI,1-SIMI, 1-SIMI
+-not aligned-,If,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+means,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the battery,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+A red X,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,is,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in a short circuit.,a short circuit,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in a closed path.,no closed paths,REL,4,4-REL,4-REL,0-NOALI, 0-NOALI
+The battery,Circuit 4,REL,3,3-REL,3-REL,0-NOALI, 0-NOALI
+is not closed,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,has,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+to the battery,to the negative battery terminal,SPE2,4,4-SPE2,4-SPE2,5-EQUI, 5-EQUI
+is connected,are connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+terminal,"Terminals 1, 2 and 3",SPE1,2,2-SPE1,2-SPE1,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: [terminal] - This chunk is a specific term or concept.
+Chunk 2: [Terminals 1, 2 and 3] - This chunk contains multiple related terms or concepts.
+
+The two chunks have some overlap in terms of the general topic, but they assert incompatible outcomes or values. Additionally, Chunk 1 is more specific than Chunk 2, adding constraints or details that are not present in Chunk 2. Therefore, the score is 3 for moderate opposition and 1 for specificity (S1 more specific)."
+in the same closed path,in the same path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+Bulb A and Bulb C,A and C,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+are not contained,are not,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+on the same closed path.,in the same path,EQUI,5,5-EQUI,5-EQUI,, 4-EQUI
+are not,are not,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+bulbs A and C,A and C,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,When,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+"bulb, battery, and switch",the switch and the bulb,SPE2,3,3-SPE2,3-SPE2,, 3-EQUI
+are,are contained,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+in closed path,in the same path,SPE2,4,4-SPE2,4-SPE2,5-EQUI, 5-EQUI
+are no longer,is,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the paths of the circuit complete,an incomplete circuit,REL,4,4-REL,4-REL,5-OPPO, 5-OPPO
+is,has,SIMI,3,3-SIMI,3-SIMI,0-NOALI, 0-NOALI
+no closed path,no closed paths,SPE1,4,4-SPE1,4-SPE1,0-NOALI, 0-NOALI
+in circuit 4.,Circuit 4,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+there,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a chemical reaction reaction.,a chemical reaction,EQUI,5,5-EQUI,5-EQUI,, 3-NOALI
+-not aligned-,at the terminals,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,to maintain,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+keeps,uses,SIMI,4,4-SIMI,4-SIMI,0-NOALI, 0-NOALI
+The battery,A battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,different electrical states,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,to maintain,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,uses,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+between two battery terminals.,at the terminals,SPE1,3,3-SPE1,3-SPE1,1-REL, 1-REL
+a difference in voltage,different electrical states,SIMI,3,3-SIMI,3-SIMI,3-SIMI, 3-SIMI
+-not aligned-,a chemical reaction,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+always,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+There,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,A battery,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+terminal 1is to terminal 4,Terminals 1 and 4,EQUI,5,5-EQUI,5-EQUI,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: ""1is to 4"" implies a relationship between terminals 1 and 4, suggesting a connection or transition.
+
+Chunk 2: ""Terminals 1 and 4"" mentions both terminals, but does not specify a relationship or transition between them.
+
+Therefore, the chunks have a moderate opposition (3-OPPO) as they are discussing the same terminals, but Chunk 1 asserts a relationship or transition, while Chunk 2 does not. Additionally, Chunk 1 is more specific (SPE1) than Chunk 2, as it specifies a direction or action (""is to"") that is not present in Chunk 2."
+connected,are connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,then,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,"burns out,",NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,C,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+will be,are,SIMI,4,4-SIMI,4-SIMI,0-NOALI, 0-NOALI
+Bulb A and B,A and B,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,If,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+still,still,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in a contained path.,in a closed path.,EQUI,5,5-EQUI,5-EQUI,3-OPPO," 3-OPPO
+
+Explanation:
+Chunk 1: ""in a contained path"" implies that the path is enclosed or limited, while Chunk 2: ""in a closed path"" directly states that the path is closed. Although both chunks discuss the same concept (the path), they have opposite implications, making them moderately opposed."
+bulb a,Bulb A,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,still,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+with the battery,with the battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+is,is,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in a closed circuit,in a closed path,REL,4,4-REL,4-REL,5-EQUI, 5-EQUI
+without the y switch.,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+different paths,in the same path,REL,4,4-REL,4-REL,3-OPPO," 3-OPPO-1-SPE2
+
+Explanation:
+
+Chunk 1: [different paths] implies that the subjects are moving in separate directions, while Chunk 2: [in the same path] suggests they are moving together. This creates a moderate opposition (3-OPPO) as the two chunks express incompatible implications on a related topic (the subjects' movement). Chunk 2 is more specific (1-SPE2) because it adds the constraint that the subjects are moving along the same path."
+-not aligned-,B and C,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,are,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+with the battery,with the battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+matches,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+at the terminal,terminal 1,SPE2,4,4-SPE2,4-SPE2,3-OPPO," 3-OPPO
+
+Explanation:
+
+Chunk 1: [at the terminal] refers to a specific location, while Chunk 2: [terminal 1] is a more general term for any terminal. They are not the same, but they are related as one could be a specific instance of the other. The opposition arises from the difference in specificity."
+-not aligned-,is connected,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+"electrical state""",-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+"""The electrical state",-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,to the negative battery terminal,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+"the battery""""s",-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the battery,The battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+is not,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in a closed path,in a closed path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+a short circuit,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+Circuit 2,in 2,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+is not,is not,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+with itself.,-not aligned-,NOALI,0,0-NOALI,0-NOALI,, 5-NOALI
+-not aligned-,still,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,was contained,SIMI,4,4-SIMI,4-SIMI,0-NOALI, 0-NOALI
+on a closed circut path,in the same closed path,SPE2,4,4-SPE2,4-SPE2,5-EQUI, 5-EQUI
+-not aligned-,with the battery.,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+Bulb A,Bulb A,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+Bulb B and bulb C,B and C,EQUI,5,5-EQUI,5-EQUI,, 3-EQUI
+are contained,are,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+in different paths,in the same path,REL,4,4-REL,4-REL,3-OPPO," 3-OPPO-1-SPE2
+
+Explanation:
+Chunk 1: [in different paths] implies that the subjects are moving or progressing in separate directions, while Chunk 2: [in the same path] suggests that the subjects are moving or progressing in the same direction. Although they share a common theme (progression), they are in opposition because they describe opposite scenarios. Chunk 2 is more specific than Chunk 1, as it provides additional details about the direction of the subjects' movement."
+with the battery,with the battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,to maintain,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,a chemical reaction,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the battery,A battery,EQUI,5,5-EQUI,5-EQUI,, 1-EQUI
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+and,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a positive terminal a negative terminal.,at the terminals,SPE1,3,3-SPE1,3-SPE1,3-OPPO, 3-OPPO-REL
+there,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+always,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a voltage,different electrical states,REL,3,3-REL,3-REL,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: [a voltage] refers to a specific electrical state, while Chunk 2: [different electrical states] is a broader term that could encompass various electrical states, including voltage. However, they are not exactly the same, so there is a moderate opposition (3-OPPO) and Chunk 1 is more specific (SPE1) than Chunk 2."
+has,uses,SIMI,2,2-SIMI,2-SIMI,0-NOALI, 0-NOALI
+there,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+between 3 and positive battery,Terminal 3 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,, 4-EQUI
+gap,by the gap,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+-not aligned-,are separated,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+bulbs A and C,A and C,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in different paths,in different paths,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+with the battery,with the battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+are contained,are,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+because of the gap,by a gap,EQUI,5,5-EQUI,5-EQUI,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: [because of the gap] implies a cause-effect relationship where the gap is the reason for something.
+Chunk 2: [by a gap] implies a means-end relationship where the gap is a tool or method used for something.
+
+The two chunks have a moderate opposition because they are about the same concept (gap) but assert different implications on its role (cause vs means). Chunk 1 is also more specific than chunk 2, as it provides a clearer role for the gap (cause)."
+at bulb b,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,"Terminals 1, 2 and 3",NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,from the positive battery terminal,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,are separated,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in an open path,in a closed path,OPPO,4,4-OPPO,4-OPPO,3-OPPO, 3-OPPO
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+bulb c,Bulb C,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+was,was not,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in the closed path,in a closed path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+switch y,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is not conatined,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+of bulb a and the battery.,Bulb A with the battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,still,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is not connected,are not connected,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+A terminal to the negative battery terminal.,Terminals 1 and 6,SPE2,2,2-SPE2,2-SPE2,3-OPPO, 3-OPPO-REL
+bulb B and C,bulbs B and C,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+both,bulbs B and C,EQUI,5,5-EQUI,5-EQUI,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: [both] refers to all bulbs in the context, while Chunk 2: [bulbs B and C] specifies only two specific bulbs. The two chunks have a moderate opposition because they are about the same claim (bulbs), but Chunk 1 is more general and Chunk 2 is more specific."
+with the battery,with the battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+are,are,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+still,still,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+on a closed path,in closed paths,SPE1,4,4-SPE1,4-SPE1,, 4-EQUI
+terminal 1 and terminal 6,Terminals 1 and 6,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+by a gap,by the gap,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+are seperated,are separated,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in a closed path.,in a closed path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in a closed path.,in which,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,no bulb,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,is contained,EQUI,5,5-EQUI,5-EQUI,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+Chunk 1 (is) is a general verb, while Chunk 2 (is contained) is a more specific form of the same verb with a preposition. They are opposing in the sense that ""is"" is a transitive verb, while ""is contained"" is an intransitive verb with a preposition. However, they are not contradictory, and Chunk 1 can be considered more general or less specific than Chunk 2."
+the battery,the battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a battery and a bulb,the bulb and a battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+including,containing,EQUI,5,5-EQUI,5-EQUI,3-OPPO," 3-OPPO-1-SPE2
+
+Explanation:
+Chunk 1: [including] refers to a set that contains all of its members, while Chunk 2: [containing] refers to a set that has at least one member. They have a moderate opposition as they describe slightly different conditions for a set. Chunk 2 is more specific than Chunk 1, as it only requires the presence of at least one member, whereas Chunk 1 requires all members to be present."
+complete path,a closed path,EQUI,5,5-EQUI,5-EQUI,3-OPPO, 3-OPPO-MODERATE_OPPOSITION
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a battery and a bulb,both,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+creat,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+bulbs b and c,Bulb B,SPE2,3,3-SPE2,3-SPE2,, 3-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a gap,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in the path,in a separate path,REL,4,4-REL,4-REL,1-OPPO, 1-OPPO-REL
+are connected,are connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+the positive battery terminal and terminal 5,Terminal 5 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+the the bulb terminal from the battery terminal,the terminals,SPE1,4,4-SPE1,4-SPE1,, 3-EQUI
+disconnected,are not connected,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+the battery,the battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+and,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the light bulb,no bulb,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+in the circuit,in a path,REL,4,4-REL,4-REL,3-OPPO," 3-OPPO-1-SPE2
+
+Explanation:
+
+Chunk 1: [in the circuit] refers to a specific electrical system, while Chunk 2: [in a path] is more general and could refer to various systems or routes. They have a moderate opposition as they are not directly contradictory but have different scopes. Chunk 2 is more specific than Chunk 1, as it adds the constraint of being in a path, but it does not fully entail Chunk 1 (being in a circuit)."
+in the circuit,in which,REL,4,4-REL,4-REL,3-REL," 3-REL-INWH: The two chunks are related in that they both refer to a location within something, but the specific terms used are different."
+is contained,is contained,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+is not,is,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+do not connect,in an open path,REL,4,4-REL,4-REL,0-NOALI, 0-NOALI
+of the battery,the battery,EQUI,5,5-EQUI,5-EQUI,, 1-EQUI
+to one another,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the two ends,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+open,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the circuit is no longer complete,an incomplete circuit,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+When,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a switch,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+if,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+both bulbs,The damaged bulb and the other bulb,SPE2,3,3-SPE2,3-SPE2,, 3-EQUI
+are contained,must be contained,SIMI,4,4-SIMI,4-SIMI,5-EQUI, 5-EQUI
+within a closed path,in the same path,SPE2,4,4-SPE2,4-SPE2,5-EQUI, 5-EQUI
+-not aligned-,in 2,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+and,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in that circuit,in a closed path,REL,4,4-REL,4-REL,, 4-EQUI
+in a closed circuit,in a closed path,REL,4,4-REL,4-REL,5-EQUI, 5-EQUI
+the battery,The battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+The bulb,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+exists,is not,REL,3,3-REL,3-REL,0-NOALI, 0-NOALI
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,still,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+to the light bulb,Bulb A,SPE2,4,4-SPE2,4-SPE2,0-NOALI, 0-NOALI
+is connected,was contained,SIMI,3,3-SIMI,3-SIMI,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: [is connected] - This chunk implies a current state or relationship.
+Chunk 2: [was contained] - This chunk implies a past state or relationship.
+
+The two chunks are opposing each other in terms of tense (past vs present), but they are also somewhat specific to each other. The past tense implies a connection that has ended, while the present tense implies a connection that is ongoing. However, they do not express the same meaning exactly, so they are not equivalent."
+-not aligned-,with the battery.,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the closed path,in the same closed path,SPE2,4,4-SPE2,4-SPE2,5-EQUI, 5-EQUI
+"the electrical states the same,",in the same state.,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+resulting,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,are,EQUI,5,5-EQUI,5-EQUI,1-OPPO," 1-OPPO-EQUI  (Chunk 1 is a singular form, while Chunk 2 is a plural form, but they both express the same grammatical concept of ""being"" in the present tense)"
+in 0,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+between the terminals,The terminals,EQUI,5,5-EQUI,5-EQUI,3-OPPO," 3-OPPO
+
+Explanation:
+
+Chunk 1: [between the terminals] refers to a specific location or space that exists between two points or objects.
+Chunk 2: [The terminals] generally refers to the ends of a wire or conductor, but it can also be used to refer to the starting and ending points of a journey or a process.
+
+While both chunks are related to points or locations, they are not equivalent or identical in meaning. Chunk 1 describes a spatial relationship between two objects, while chunk 2 refers to the ends or extremities of something. Therefore, the semantic relation between the two chunks is opposition, specifically moderate opposition (3-OPPO), as they are related but not the same."
+bulb b and bulb c,B and C,EQUI,5,5-EQUI,5-EQUI,, 3-EQUI
+are contained,are,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+-not aligned-,with the battery,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+within a closed path,in the same path,SPE2,4,4-SPE2,4-SPE2,5-EQUI, 5-EQUI
+circuit 5,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in a closed path.,in a closed path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in a closed path.,in which,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+is,is contained,EQUI,5,5-EQUI,5-EQUI,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: [is] - This chunk is a simple present tense verb form of the linking verb ""to be.""
+
+Chunk 2: [is contained] - This chunk is a present tense verb form of the verb ""to contain,"" which implies a relationship of inclusion or enclosure.
+
+The two chunks have a moderate opposition because ""is"" is a general statement about identity or existence, while ""is contained"" implies a relationship of inclusion or enclosure. However, they are not directly contradictory.
+
+In terms of specificity, Chunk 1 is more general (SPE1), while Chunk 2 is more specific because it implies a relationship (SPE2). But since Chunk 1 does not entail Chunk 2, the specificity level is moderate (3).
+
+Therefore, the output is ""3-OPPO-SPE1""."
+-not aligned-,the battery,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,no bulb,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,by the gap,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is connected,are separated,OPPO,4,4-OPPO,4-OPPO,3-OPPO, 3-OPPO-REL
+terminal 6 to terminal 1,Terminals 1 and 6,EQUI,5,5-EQUI,5-EQUI,3-OPPO," 3-OPPO
+
+Explanation:
+
+Chunk 1: ""The car is red.""
+Chunk 2: ""The vehicle is colored red.""
+
+Both chunks describe the color of an object, but they use different terms for the object (""car"" vs ""vehicle"") and the color attribute (""red"" vs ""colored red""). This creates a moderate opposition (3-OPPO) as they are not identical, but they are related and share a common theme."
+in the circuit,in a circuit,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+is,is,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+bulb B,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is damaged,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+there,there,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+If,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a gap,a gap,EQUI,5,5-EQUI,5-EQUI,3-OPPO, 3-OPPO-MODERATE_OPPOSITION
+when,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in a complete circuit,in a closed path,REL,4,4-REL,4-REL,5-EQUI, 5-EQUI
+-not aligned-,still,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is closed.,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,is contained,EQUI,5,5-EQUI,5-EQUI,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+Chunk 1 (is) and Chunk 2 (is contained) have a moderate opposition because ""is"" is a general statement, while ""is contained"" implies a relationship between two entities.
+Chunk 1 (is) is more specific than Chunk 2 (is contained) because ""is"" is a simple statement, while ""is contained"" adds the idea of inclusion or enclosure."
+with the battery switch z,with the battery and switch Z.,EQUI,5,5-EQUI,5-EQUI,, 4-EQUI
+bulb a,Bulb A,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,still,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,is,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+bulb a,Bulb A,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+with the battery,with the battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+on a closed path,in a closed path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+those terminals,"Terminals 4, 5 and 6",SPE2,2,2-SPE2,2-SPE2,3-OPPO, 3-OPPO-MODERATE_OPPOSITION
+to the positive terminal of the battery.,to the positive battery terminal,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+are connected,are connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,Bulb C,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in a closed path,in a closed path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+Not contained,was not,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+to positive charge,to the positive battery terminal,REL,4,4-REL,4-REL,5-EQUI, 5-EQUI
+terminal,"Terminals 4, 5 and 6",SPE2,2,2-SPE2,2-SPE2,3-OPPO, 3-OPPO-MODERATE_OPPOSITION
+connected,are connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+voltage,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+measures,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,are separated,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,by the gap,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,Terminal 1 and the positive terminal,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the difference between two points,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+Bulbs a and c,"A, B and C",SPE1,3,3-SPE1,3-SPE1,," 3-EQUI
+
+Explanation: Both chunks list the same items (bulbs a, b, and c), so they are equivalent. The difference in the order of the items does not affect the meaning."
+are,are,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in separate paths.,in different paths,EQUI,5,5-EQUI,5-EQUI,3-REL, 3-REL
+of battery,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+terminal 6 to postive terminal,Terminals 1 and 6,SIMI,2,2-SIMI,2-SIMI,3-OPPO, 3-OPPO-MODERATE_OPPOSITION
+is connected,are not connected,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+a terminal to the negative battery terminal,the terminals,SPE1,3,3-SPE1,3-SPE1,, 3-NOALI
+is connected,are not connected,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+is,is contained,EQUI,5,5-EQUI,5-EQUI,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+Chunk 1 (is) and Chunk 2 (is contained) have a moderate opposition, as ""is"" is a more general statement, while ""is contained"" implies a relationship between two entities. Chunk 1 (is) is also more specific than Chunk 2 (is contained), as ""is"" does not provide any information about the nature of the contained relationship."
+bulb A,Bulb A,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in the same path,in a closed path,SPE1,4,4-SPE1,4-SPE1,3-OPPO," 3-OPPO
+
+Explanation:
+
+Chunk 1: [in the same path] implies that the path is open or not closed.
+Chunk 2: [in a closed path] suggests the opposite, that the path is closed.
+
+While both chunks are about paths, they have opposite meanings, making them moderately opposed."
+as,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+Switch Z,with the battery and switch Z.,SPE1,3,3-SPE1,3-SPE1,, 3-EQUI
+-not aligned-,still,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,If,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,neither B nor C,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,"burns out,",NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+there,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+will be,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a gap,in a closed path,REL,4,4-REL,4-REL,0-NOALI, 0-NOALI
+-not aligned-,bulb A,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+each bulb,each bulb,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+its own complete path,in its own path,EQUI,5,5-EQUI,5-EQUI,3-OPPO, 3-OPPO-MODERATE_OPPOSITION
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+has,is,SIMI,4,4-SIMI,4-SIMI,0-NOALI, 0-NOALI
+have,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+separate paths,in a closed path,REL,4,4-REL,4-REL,0-NOALI, 0-NOALI
+-not aligned-,"burns out,",NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+within the closed circuit,with the battery,REL,3,3-REL,3-REL,0-NOALI, 0-NOALI
+-not aligned-,If,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,bulb A,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+bulbs b and c,B and C,EQUI,5,5-EQUI,5-EQUI,, 4-EQUI
+-not aligned-,are,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,no longer,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,by a gap,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+A terminal,"Terminals 1, 2 and 3",SPE2,2,2-SPE2,2-SPE2,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: [A terminal] - This chunk is a specific term or concept.
+Chunk 2: [Terminals 1, 2 and 3] - This chunk includes multiple terms or concepts related to the first chunk, but with some differences.
+
+The semantic relation between the two chunks is opposition, as they are discussing the same general topic but with different terms or concepts that are not fully equivalent. The specificity level is 1 (S1 more specific) because the first chunk is more specific than the second, which includes multiple related terms."
+-not aligned-,from the positive battery terminal,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is connected,are separated,OPPO,4,4-OPPO,4-OPPO,3-OPPO, 3-OPPO-REL
+to a bulb.,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the positive battery terminal from terminal 4,Terminal 4 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,, 3-EQUI
+are,are contained,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+a switch and bulb,the switch and the bulb,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+when,When,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+whithin a closed path,in the same path,SPE2,4,4-SPE2,4-SPE2,, 4-EQUI
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is not closed,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+short,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the path,the path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+Bulb A,bulb A,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,"burns out,",NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,neither B nor C,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+will,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+be completing,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,If,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the circuts.,in a closed path,REL,4,4-REL,4-REL,0-NOALI, 0-NOALI
+no longer,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a gap,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+Bulb C,each bulb,SPE1,3,3-SPE1,3-SPE1,," 3-EQUI
+
+Explanation:
+
+Chunk 1: [Bulb C] refers to a specific bulb, while Chunk 2: [each bulb] generally refers to all bulbs. However, in this context, both chunks can be interpreted as referring to the same bulb, as ""Bulb C"" is a specific instance of a bulb. Therefore, they are equivalent."
+will create,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in the path,in its own path,SPE2,4,4-SPE2,4-SPE2,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: [in the path] implies that something is moving along a certain route and will encounter an obstacle or be affected by it.
+Chunk 2: [in its own path] suggests that something is moving independently and not interfering with others.
+
+The two chunks have a moderate opposition as they are about the same general concept of movement, but they assert incompatible outcomes: one implies interference or obstruction, while the other implies independence. Additionally, chunk 1 is more specific than chunk 2, as it implies a specific situation where something is on a path and will encounter an obstacle, while chunk 2 is more general and could apply to any independent movement."
+was contained,was contained,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+with the battery,with the battery.,EQUI,5,5-EQUI,5-EQUI,, 1-EQUI
+-not aligned-,still,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+on a closed path,in the same closed path,SPE2,4,4-SPE2,4-SPE2,5-EQUI, 5-EQUI
+bulb a,Bulb A,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+Terminal 1 to terminl 4.,Terminals 1 and 4,EQUI,5,5-EQUI,5-EQUI,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+Chunk 1: [Terminal 1 to terminl 4.] = ""The car is red and fast.""
+Chunk 2: [Terminals 1 and 4] = ""The car is red.""
+
+The two chunks share the same subject (""The car"") and one attribute (""red""). However, the second chunk lacks the attribute ""fast,"" which creates a mild opposition. Additionally, the first chunk is more specific because it includes an additional attribute. Hence, the output is ""3-OPPO-SPE1."""
+is connected,are connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+on the same path,in a separate path,REL,4,4-REL,4-REL,3-OPPO, 3-OPPO
+Bulb C.,Bulb C,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+Bulbs A and B,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+are not,is,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+as,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+Each circuit,a complete circuit,SPE2,3,3-SPE2,3-SPE2,, 4-EQUI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a connection.,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+must have,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+with a bulb and a battery,a bulb and a switch,SIMI,3,3-SIMI,3-SIMI,3-OPPO," 3-OPPO-1-SPE2
+
+Explanation:
+
+Chunk 1 describes a setup with a bulb and a battery, while Chunk 2 describes a setup with a bulb and a switch. They are opposing in the sense that one has a battery and the other has a switch, which are not interchangeable components for a bulb to function. However, they are somewhat specific to each other, as both involve a bulb. Chunk 2 is more specific because it includes a switch, which is a common component in electrical circuits that can replace a battery in certain contexts."
+in a closed path,in the same path,SPE2,4,4-SPE2,4-SPE2,5-EQUI, 5-EQUI
+contained,are,SIMI,4,4-SIMI,4-SIMI,0-NOALI, 0-NOALI
+A switch,the switch,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+will affect,affects,SIMI,4,4-SIMI,4-SIMI,5-EQUI, 5-EQUI
+-not aligned-,If,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the bulb.,the bulb,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,are separated,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the difference,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+between a positive and negative terminal,Terminal 1 and the positive terminal,SIMI,3,3-SIMI,3-SIMI,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: [between a positive and negative terminal] - This chunk refers to the relationship between a positive terminal (e.g., ""happy"") and a negative terminal (e.g., ""sad"").
+
+Chunk 2: [Terminal 1 and the positive terminal] - This chunk refers to the relationship between Terminal 1 (e.g., ""sad"") and a positive terminal (e.g., ""happy"").
+
+The two chunks are opposites, as they describe the opposite states of emotion. However, the first chunk is more specific because it refers to the relationship between two specific terminals, while the second chunk only refers to one terminal and the positive terminal in general. Therefore, the score is 3 for opposition and 1 for specificity (S1 more specific)."
+Voltage,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+on the battery.,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,by the gap,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+with the battery.,with the battery.,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in a closed paty,in the same closed path,SPE2,4,4-SPE2,4-SPE2,1-REL, 1-REL
+bulbs b and c,Bulb B and Bulb C,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,still,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+were,were contained,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+z,"A, C, Z and X",SPE1,2,2-SPE1,2-SPE1,3-OPPO," 3-OPPO-SPE2
+
+Explanation:
+
+Chunk 1: [z] - This chunk is not explicitly stated in Chunk 2, but it does contain the element ""Z"" which is present in Chunk 2.
+
+Chunk 2: [A, C, Z and X] - This chunk contains elements A, C, Z, and X.
+
+The semantic relation between the two chunks is opposition because Chunk 1 only contains one element (Z), while Chunk 2 contains multiple elements (A, C, Z, and X). However, Chunk 1 is more specific than Chunk 2 because it only contains one element, while Chunk 2 contains multiple elements. Therefore, the score is 3 for opposition and 2 for specificity (SPE2)."
+complete,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the path,a path,EQUI,5,5-EQUI,5-EQUI,, 3-EQUI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+be closed,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+can,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,containing,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+by having,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,When,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the bulb and the switch,the switch and the bulb,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+as,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+A switch,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+are,are contained,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+it,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+will affect,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in the path,in the same path,SPE2,4,4-SPE2,4-SPE2,5-EQUI, 5-EQUI
+the battery,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a bulb,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the positive battery terminal,between terminal 6 and the positive terminal,SPE1,3,3-SPE1,3-SPE1,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1 describes a specific part of a battery (the positive terminal), while Chunk 2 describes a relationship between two terminals (terminal 6 and the positive terminal). Although they share the concept of a battery terminal, they are not equivalent or identical in meaning. Chunk 1 is more specific (SPE1) about the part being described, while Chunk 2 provides additional information about the relationship between terminals (OPPO)."
+is not connected,is no gap,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+-not aligned-,There,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+are,are,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+on a closed path,in closed paths,SPE1,4,4-SPE1,4-SPE1,, 4-EQUI
+contains the battery.,with the battery,EQUI,5,5-EQUI,5-EQUI,1-REL, 1-REL
+still,still,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+that,in closed paths,SPE1,4,4-SPE1,4-SPE1,0-NOALI, 0-NOALI
+Bulb A and bulb C,Bulbs A and C,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+on their own completed circuts.,in a closed path,REL,3,3-REL,3-REL,, 3-EQUI
+still,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+will be,are,SIMI,4,4-SIMI,4-SIMI,0-NOALI, 0-NOALI
+Bulbs A and C,Bulbs A and C,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in the path,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+it,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the charge,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,by a gap,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,are separated,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+The damaged bulb B,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+so,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+can not reach,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a gap,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,"Terminals 1, 2 and 3",NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,from the positive battery terminal,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+has left,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is separated,are separated,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,by a gap,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the terminal from the battery terminal,the terminals,SPE1,3,3-SPE1,3-SPE1,, 3-NOALI
+a terminal to another terminal,"Terminals 4, 5 and 6 to the positive battery terminal",SPE2,2,2-SPE2,2-SPE2,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: [a terminal to another terminal] - This chunk refers to a general connection between two terminals.
+Chunk 2: [Terminals 4, 5 and 6 to the positive battery terminal] - This chunk specifies a more specific connection between multiple terminals and the positive battery terminal.
+
+The SCORE of 3 indicates a moderate opposition because the two chunks describe a similar connection but with different entities involved. The ALIGNMENT label of SPE1 (S1 more specific) indicates that Chunk 2 is more specific than Chunk 1, as it provides additional details about the terminals and the battery terminal."
+is connected,are connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+is connected,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,There,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+bulb A to switch Z,both,SIMI,3,3-SIMI,3-SIMI,0-NOALI, 0-NOALI
+-not aligned-,containing,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,no path,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+bulb A to switch Z,switch Y and bulb A,SIMI,3,3-SIMI,3-SIMI,3-OPPO, 3-OPPO
+"a closed path,",a path,EQUI,5,5-EQUI,5-EQUI,, 3-NOALI
+is,is,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+there,there,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+contains,containing,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+"with switch z, bulb a and the battery","A, C, Z and the battery",SPE1,3,3-SPE1,3-SPE1,," 3-EQUI
+
+Explanation: Both chunks describe the same set of items (Z, A, and the battery), although they are listed in a different order. This makes them equivalent in terms of meaning."
+that,a path,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+to the positive terminal,to the positive battery terminal,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+are connected,are connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+"Terminal 4, terminal 5, and terminal 6","Terminals 4, 5 and 6",EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+is not connected,is not,SPE1,3,3-SPE1,3-SPE1,0-NOALI, 0-NOALI
+is not,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+Circuit 2,in 2,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+to itself.,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the battery,The battery,EQUI,5,5-EQUI,5-EQUI,, 1-EQUI
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a short circuit,in a closed path,REL,4,4-REL,4-REL,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: [a short circuit] refers to an electrical fault where an unintended path of lower resistance exists, causing abnormal current flow.
+Chunk 2: [in a closed path] implies a continuous loop of current flow.
+
+While both chunks are related to electrical current flow, they do not express the same meaning. A short circuit is not necessarily in a closed path, as a short circuit can cause the circuit to open to prevent further damage. However, the short circuit can be considered a cause for a closed path (if the circuit is not opened to prevent further damage). Therefore, the score is 3 for moderate opposition, and 1 for specificity (S1 more specific) because the short circuit is a more specific condition that can lead to a closed path."
+terminal 1 from the positive battery terminal.,Terminal 1 and the positive terminal,EQUI,5,5-EQUI,5-EQUI,, 4-EQUI
+Because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is seperated,are separated,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,by the gap,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+bulb a and bulb c,A and C,EQUI,5,5-EQUI,5-EQUI,, 4-EQUI
+in different paths,in different paths,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+are contained,are,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+with the bttery.,with the battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+with the battery.,with the battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,still,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in a closed path,in a closed path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+bulb a,Bulb A,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+is,is,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+is connected,are separated,OPPO,4,4-OPPO,4-OPPO,3-OPPO, 3-OPPO-REL
+the positive terminal,Terminal 1 and the positive terminal,SPE1,3,3-SPE1,3-SPE1,, 3-EQUI
+to the bulb,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,by the gap,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+bulb a and bulb c,Bulbs A and C,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,still,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,are separated,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,by the gap,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+The positive terminal,Terminal 1 and the positive terminal,SPE1,3,3-SPE1,3-SPE1,, 3-EQUI
+has,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+1.5 V,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,different electrical states,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in the battery,A battery,EQUI,5,5-EQUI,5-EQUI,1-REL, 1-REL
+-not aligned-,uses,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,at the terminals,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,to maintain,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+because of the chemical,a chemical reaction,SIMI,4,4-SIMI,4-SIMI,, 3-EQUI
+in closed paths.,in a closed path,SPE2,4,4-SPE2,4-SPE2,, 3-NOALI
+need to be,are,SIMI,4,4-SIMI,4-SIMI,0-NOALI, 0-NOALI
+Both components,the bulb and the battery,SPE2,4,4-SPE2,4-SPE2,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: Both components
+Chunk 2: the bulb and the battery
+
+The two chunks are not equivalent, but they share a common theme (components). The bulb and the battery are components of a device, but they are not the same thing. The chunk ""Both components"" is more general, while ""the bulb and the battery"" is more specific. There is a mild opposition because the bulb and the battery serve different functions in a device."
+bulb a and bulb c,A and C,EQUI,5,5-EQUI,5-EQUI,, 4-EQUI
+in parallel,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+are wired,in different paths,REL,3,3-REL,3-REL,3-OPPO, 3-OPPO
+-not aligned-,are,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+Bulb terminals 3 and 4,Terminal 1 and the positive terminal,SIMI,2,2-SIMI,2-SIMI,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1 refers to bulb terminals 3 and 4, while Chunk 2 refers to Terminal 1 and the positive terminal. They are not equivalent (EQUI), but there is a mild opposition (OPPO) because they both refer to electrical terminals, albeit different ones. Chunk 1 is more specific (SPE1) than Chunk 2, as it specifies the exact terminals (3 and 4), while Chunk 2 is more general (it includes Terminal 1 and the positive terminal)."
+-not aligned-,by the gap,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,are separated,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,in the same path,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the other bulb,The damaged bulb and the other bulb,SPE1,3,3-SPE1,3-SPE1,3-OPPO, 3-OPPO-MODERATE_OPPOSITION
+-not aligned-,must be contained,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+will not light.,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+there,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in the terminals,both,REL,4,4-REL,4-REL,3-OPPO," 3-OPPO-1-SPE2
+
+Explanation:
+
+Chunk 1: [in the terminals] - This chunk refers to a specific location (terminals).
+Chunk 2: [both] - This chunk is a general term that can refer to two entities or parts.
+
+The two chunks have a moderate opposition because ""terminals"" is a more specific term than ""both,"" which can refer to a broader range of things. However, they are not completely opposite as both chunks can be used in the context of transportation or communication systems."
+in the terminals,switch Y and bulb A,REL,4,4-REL,4-REL,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: [in the terminals] refers to a specific electrical component (terminals), while Chunk 2: [switch Y and bulb A] describes an action of swapping two different electrical components (switch Y and bulb A). The two chunks have opposite semantic roles and are not equivalent, but they are related to the same domain (electrical components). The opposition is moderate because they are both related to electrical components, but the actions described are incompatible. The specificity is weak for Chunk 1 because it is a general term, while Chunk 2 is more specific as it mentions two particular components."
+-not aligned-,containing,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+was,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,no path,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a gap,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the switch with the battery and bulb.,the switch and the bulb,SPE2,3,3-SPE2,3-SPE2,, 4-EQUI
+open,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+if,When,SIMI,3,3-SIMI,3-SIMI,4-REL, 4-REL
+in a path,in the same path,SPE2,4,4-SPE2,4-SPE2,5-EQUI, 5-EQUI
+-not aligned-,are contained,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+to the positive side,to the positive battery terminal,SPE2,4,4-SPE2,4-SPE2,5-EQUI, 5-EQUI
+"4, 5, and 6","Terminals 4, 5 and 6",EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+are connected,are connected,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in the circuit.,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+indicates,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,between the terminals,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+of 0 volts,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a gap,no gap,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+a voltage reading,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+are not connected,are not connected,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+4 5 and 6,"Terminals 4, 5 and 6",EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+to negative battery terminal,to the negative battery terminal,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+on a closed path,in a closed path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+bulbs a and b,A and B,EQUI,5,5-EQUI,5-EQUI,, 3-EQUI
+-not aligned-,burns out,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,then,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+still,still,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+with the battery,with the battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+are contained,are,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+-not aligned-,C,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,If,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+are,are,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+"bulbs a, b, and c",A and C,SPE2,3,3-SPE2,3-SPE2,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+Chunk 1 includes bulbs a, b, and c, while Chunk 2 only mentions A and C. This means there is a moderate opposition (3-OPPO) because Chunk 1 has bulb b, which is not present in Chunk 2. Additionally, Chunk 1 is more specific (SPE1) because it includes all three bulbs, while Chunk 2 only mentions two."
+in the same path.,in the same path,EQUI,5,5-EQUI,5-EQUI,, 1-EQUI
+all,A and C,SPE2,3,3-SPE2,3-SPE2,3-OPPO, 3-OPPO-MODERATE_OPPOSITION
+are,are,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+with the battery,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+a and c,A and C,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+on the same closed path,in the same closed path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+open,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+then,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is included,are,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+"closed path,",in the same path,SIMI,4,4-SIMI,4-SIMI,, 1-NOALI
+"the bulb""",the bulb,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+being,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+"""if",If,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+will affect,affects,SIMI,4,4-SIMI,4-SIMI,5-EQUI, 5-EQUI
+the switch,the switch,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+"the switch in the bulb""""s",a bulb and a switch,EQUI,5,5-EQUI,5-EQUI,3-OPPO, 3-OPPO-SPE1
+will not affect,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+each other,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the outcome,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,are not,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,with the battery,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,in the same path,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,A and C,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+of the bulb,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+by a gap,by the gap,EQUI,5,5-EQUI,5-EQUI,," 3-EQUI
+
+Explanation: Both chunks are describing the same concept (a gap) in slightly different ways, but they are semantically equivalent in this context."
+not seperated,are not separated,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,Terminal 6 and the positive terminal,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,by the gap,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+are seperated.,are separated,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+terminal 1 and the neavtive terminal,Terminal 1 and the positive terminal,SIMI,4,4-SIMI,4-SIMI,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: [terminal 1 and the negative terminal] - This chunk expresses a negative sentiment about Terminal 1.
+Chunk 2: [Terminal 1 and the positive terminal] - This chunk expresses a positive sentiment about Terminal 1.
+
+The two chunks have a moderate opposition because they express incompatible outcomes (positive vs negative) about the same claim (Terminal 1). However, the specificity is slightly more on the side of Chunk 2 (positive terminal) as it is more specific in its sentiment, while Chunk 1 (negative terminal) is more general in its expression."
+a gap,an incomplete circuit,REL,4,4-REL,4-REL,3-OPPO," 3-OPPO-SPE2
+
+Explanation:
+
+Chunk 1: [a gap] refers to a missing or absent connection, while Chunk 2: [an incomplete circuit] describes a circuit that is not fully connected. They share the common theme of a connection, but the specificity and opposition are moderate. Chunk 2 is more specific because it describes a circuit, while Chunk 1 is more general. The opposition is moderate because they both refer to a lack of connection, but the scope and context are different."
+is,is,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+now.,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+between A and C,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+their,there,EQUI,5,5-EQUI,5-EQUI,, 1-NOALI
+Because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,then,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+Bulb A and bulb b,A and B,EQUI,5,5-EQUI,5-EQUI,, 4-EQUI
+-not aligned-,burns out,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,C,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+still,still,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+with the battery,with the battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,If,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in closed paths,in a closed path,SPE2,4,4-SPE2,4-SPE2,3-OPPO," 3-OPPO-1-SPE2
+
+Explanation:
+
+Chunk 1: [in closed paths] - This chunk refers to a situation where a path is enclosed or confined.
+Chunk 2: [in a closed path] - This chunk is more specific, as it refers to a path that is already closed or completed.
+
+The two chunks have a moderate opposition, as one refers to a general state (closed paths) and the other refers to a specific state (a closed path). The specificity lies with chunk 2, as it adds the detail that the path is already closed."
+are contained,are,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+as,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+in the same circuit,in its own path,REL,3,3-REL,3-REL,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+
+Chunk 1: ""in the same circuit"" implies that two or more components are connected and share a common path for electricity to flow.
+Chunk 2: ""in its own path"" suggests that a component is independent and has its own unique path for electricity to travel.
+
+The two chunks are opposing each other in terms of the electrical connection between components, but the specificity level is low for Chunk 1 as it does not specify the number of components or the exact nature of the connection. On the other hand, Chunk 2 is more specific in that it implies a single component with its own unique path."
+B and C,each bulb,SPE1,3,3-SPE1,3-SPE1,, 3-NOALI
+are not,is,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+A.,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+to 1.5.,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+from 0,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+there terminals,the terminals,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+are separated,are separated,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+the voltage,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+jumps,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+when,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+by a gap,by a gap,EQUI,5,5-EQUI,5-EQUI,, 3-NOALI
+bulbs a b and c,A and C,SPE2,3,3-SPE2,3-SPE2,3-OPPO," 3-OPPO-SPE1
+
+Explanation:
+Chunk 1 includes bulbs a, b, and c, while Chunk 2 only mentions A and C. This means there is a moderate opposition (3-OPPO) because Chunk 1 includes an additional bulb (b) that is not present in Chunk 2. Additionally, Chunk 1 is more specific (SPE1) than Chunk 2 because it lists all three bulbs, while Chunk 2 only mentions two."
+on a closed path,in the same closed path,SPE2,4,4-SPE2,4-SPE2,5-EQUI, 5-EQUI
+are,are,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+think,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+means,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+this,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+I,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+that,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+should,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+and,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+something,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+dangerous,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,a short circuit,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+is,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the red X,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+never,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+happen,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+unless,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+seriously,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+wrong.,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+there,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+no gap,by the gap,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+from the positive terminal,Terminal 1 and the positive terminal,SPE1,3,3-SPE1,3-SPE1,3-OPPO, 3-OPPO-MODERATE_OPPOSITION
+because,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+was,are separated,SIMI,2,2-SIMI,2-SIMI,0-NOALI, 0-NOALI
+of the battery,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,then,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+bulbs A and B,A and B,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+still,still,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+-not aligned-,C,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,burns out,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+to the closed path,in a closed path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+containing the battery,with the battery,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+are connected,are,SIMI,4,4-SIMI,4-SIMI,1-OPPO," 1-OPPO
+
+Explanation:
+Chunk 1: [are connected] implies a relationship between two or more entities.
+Chunk 2: [are] is a general statement that does not necessarily imply a relationship.
+Therefore, the two chunks have opposite meanings, but the opposition is not strong because the scope of the statements differs."
+-not aligned-,If,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+if,When,SIMI,3,3-SIMI,3-SIMI,0-NOALI, 0-NOALI
+are,are contained,EQUI,5,5-EQUI,5-EQUI,0-NOALI, 0-NOALI
+the switch and the bulb,the switch and the bulb,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+in the same path,in the same path,EQUI,5,5-EQUI,5-EQUI,5-EQUI, 5-EQUI
+bulb c and switch z,both,EQUI,5,5-EQUI,5-EQUI,, 3-EQUI
+bulb c and switch z,Z and C,EQUI,5,5-EQUI,5-EQUI,, 4-EQUI
+in the same closed path,a path,SPE1,4,4-SPE1,4-SPE1,3-REL, 3-REL-NOTSIM
+are,containing,SIMI,4,4-SIMI,4-SIMI,0-NOALI, 0-NOALI
+-not aligned-,there,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,is contained,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+only,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+the bulb,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+connected,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+one terminal,-not aligned-,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,The battery,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+has,does not contain,OPPO,4,4-OPPO,4-OPPO,0-NOALI, 0-NOALI
+-not aligned-,which,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,in a path,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI
+-not aligned-,any other components,NOALI,0,0-NOALI,0-NOALI,0-NOALI, 0-NOALI

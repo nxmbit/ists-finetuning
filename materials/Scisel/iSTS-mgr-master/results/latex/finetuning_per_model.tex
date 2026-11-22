@@ -1,0 +1,19 @@
+% Requires in LaTeX preamble: \usepackage{adjustbox}
+\begin{table}[t]
+\centering
+\scriptsize
+\setlength{\tabcolsep}{3.2pt}
+\begin{adjustbox}{width=\textwidth}
+\begin{tabular}{l r r r r r r r r r r}
+\hline
+\textbf{Model} & \multicolumn{3}{c}{\textbf{answers-students}} & \multicolumn{3}{c}{\textbf{headlines}} & \multicolumn{3}{c}{\textbf{images}} & \textbf{Mean} \\
+ & \textbf{Type} & \textbf{Score} & \textbf{Type+Score} & \textbf{Type} & \textbf{Score} & \textbf{Type+Score} & \textbf{Type} & \textbf{Score} & \textbf{Type+Score} & \textbf{Type+Score} \\
+\hline
+Mistral-7B-Instruct-v0.3 & 0.6977 & 0.9202 & 0.7360 & 0.7239 & 0.9415 & 0.7980 & 0.7814 & 0.9436 & 0.8182 & 0.7841 \\
+Llama-3.1-8B-Instruct & 0.5931 & 0.8145 & 0.6547 & 0.6003 & 0.9057 & 0.7346 & 0.5819 & 0.9322 & 0.7065 & 0.6986 \\
+Qwen2.5-7B-Instruct & 0.5937 & 0.7706 & 0.6058 & 0.5862 & 0.8933 & 0.7234 & 0.5392 & 0.8798 & 0.6885 & 0.6726 \\
+\hline
+\end{tabular}
+\end{adjustbox}
+\caption{Finetuning: best F1 per dataset (max over scenarios), with mean Type+Score across datasets.}
+\end{table}

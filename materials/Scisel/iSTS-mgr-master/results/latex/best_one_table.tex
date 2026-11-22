@@ -1,0 +1,35 @@
+% Preamble needs: \usepackage{adjustbox}
+\begin{table}[t]
+\centering
+\scriptsize
+\setlength{\tabcolsep}{3.2pt}
+\begin{adjustbox}{width=\textwidth}
+\begin{tabular}{l l l r r r r r r r r r}
+\hline
+\textbf{Method} & \textbf{Model} & \textbf{Desc} & \multicolumn{3}{c}{\textbf{answers-students}} & \multicolumn{3}{c}{\textbf{headlines}} & \multicolumn{3}{c}{\textbf{images}} \\
+ &  &  & \textbf{Type} & \textbf{Score} & \textbf{+TS} & \textbf{Type} & \textbf{Score} & \textbf{+TS} & \textbf{Type} & \textbf{Score} & \textbf{+TS} \\
+\hline
+\multicolumn{12}{l}{\textbf{Finetuning (best over idx/desc)}} \\
+\hline
+Finetuning & Mistral-7B-Instruct-v0.3 & best & \textbf{0.6977} & \textbf{0.9202} & \textbf{0.7360} & \textbf{0.7239} & \textbf{0.9415} & \textbf{0.7980} & \textbf{0.7814} & \textbf{0.9436} & \textbf{0.8182} \\
+\hline\hline
+\multicolumn{12}{l}{\textbf{ICL (without GPT-OSS 120B) — simple}} \\
+\hline
+ICL & Llama-3.1-8B-Instruct & simple & 0.5110 & \textbf{0.8303} & \textbf{0.6100} & 0.5574 & \textbf{0.8690} & \textbf{0.6855} & 0.5164 & \textbf{0.8772} & \textbf{0.6359} \\
+ICL & Mistral-7B-Instruct-v0.3 & simple & \textbf{0.5414} & 0.8198 & 0.5976 & \textbf{0.6051} & 0.8476 & 0.6760 & \textbf{0.5446} & 0.8319 & 0.6097 \\
+\hline\hline
+\multicolumn{12}{l}{\textbf{ICL (without GPT-OSS 120B) — detailed}} \\
+\hline
+ICL & Llama-3.1-8B-Instruct & detailed & \textbf{0.6129} & \textbf{0.8448} & 0.6258 & 0.5781 & \textbf{0.8851} & \textbf{0.6790} & \textbf{0.5412} & \textbf{0.8646} & \textbf{0.6258} \\
+ICL & Mistral-7B-Instruct-v0.3 & detailed & 0.5597 & 0.8102 & 0.5917 & \textbf{0.6020} & 0.8528 & 0.6565 & 0.5244 & 0.8153 & 0.5467 \\
+ICL & Qwen2.5-7B-Instruct & detailed & 0.5270 & 0.8222 & \textbf{0.6265} & 0.5525 & 0.8311 & 0.6157 & 0.5071 & 0.8240 & 0.5767 \\
+\hline\hline
+\multicolumn{12}{l}{\textbf{ICL — gpt-oss-120b}} \\
+\hline
+ICL & gpt-oss-120b & simple & 0.5647 & 0.8664 & 0.6997 & 0.6956 & 0.9004 & 0.7486 & 0.6486 & 0.9056 & 0.7126 \\
+ICL & gpt-oss-120b & detailed & 0.5848 & 0.8589 & 0.7138 & 0.7417 & 0.8941 & 0.7788 & 0.6711 & 0.8933 & 0.7375 \\
+\hline\hline
+\end{tabular}
+\end{adjustbox}
+\caption{Best-per-block results. Bold = best within block for a given dataset and metric.}
+\end{table}

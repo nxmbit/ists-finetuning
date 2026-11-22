@@ -1,0 +1,2580 @@
+text_source,text_translation,alignment,score,preds,response
+for the Philippines,to Philippines,EQUI,5,EQUI,"Based on the given chunks, the label is EQUI."
+departs,sends,SIMI,3,OPPO,"Based on the given chunks, the label is: OPPO"
+Thursday,-not aligned-,NOALI,0,NOALI,NOALI
+China,China,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+'s Peace Ark,aid team,REL,4,SPE2,"Based on the given chunks, the label is: SPE2"
+Conservatives,Conservative opposition,SPE2,4,OPPO,"Based on the given chunks, the label is: OPPO"
+to Australia election victory,wins Australian election,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+sweep,-not aligned-,NOALI,0,NOALI,NOALI
+"draws wide condemnation , criticism",angers,SIMI,4,EQUI,"Based on the given chunks, the label is: EQUI"
+'s shrine visit,'s war shrine visit,SPE2,4,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,neighbours,NOALI,0,NOALI,"Based on the given information, I would label the alignment as:
+
+ Label: NOALI"
+Abe,Japanese PM Shinzo Abe,SPE2,4,EQUI,"Based on the given chunks, the label is: EQUI"
+revokes,to repeal,EQUI,5,REL,"Based on the given chunks, the label is: REL"
+resigns,-not aligned-,NOALI,0,NOALI,NOALI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+PM,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 2 is [-not aligned-], it means there is no semantic relation between the two chunks. 
+
+Label: NOALI"
+anti-protest law,anti-protest laws,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+Ukraine,Ukraine,EQUI,5,EQUI,EQUI
+detects,-not aligned-,NOALI,0,NOALI,NOALI
+says,says,EQUI,5,SPE1,"Based on the given chunks, the label is: SPE1"
+from Mediterranean Sea,in Mediterranean,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+fired,fired,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+missiles,ballistic missiles,SPE2,4,EQUI,"Based on the given chunks, the label is: EQUI"
+Russia,Russia,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,as Kiev,NOALI,0,SPE1,"Based on the given chunks, the label is: SPE1"
+new police station,Police Station,SPE1,4,SPE2,"Based on the given chunks, the label is SPE2."
+Pro-Russian protesters,Pro-Russian Protesters,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,U.N.,NOALI,0,NOALI,"Based on the given information, since Chunk 1 is [-not aligned-] and Chunk 2 is [U.N.], they do not have a semantic relation to each other. 
+
+Label: NOALI"
+in east Ukraine,in Ukraine,SPE1,4,REL,"Based on the given chunks, I would label the alignment as: REL
+
+The reason is that ""in east Ukraine"" and ""in Ukraine"" are related to each other, as ""east Ukraine"" is a part of ""Ukraine"". They share a semantic relation, which is a characteristic of the REL label."
+-not aligned-,over unrest,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+-not aligned-,Urges,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+storm,Storm,EQUI,5,SPE1,"Based on the given chunks, the label would be SPE1."
+in India,Indian villagers,REL,3,EQUI,"Based on the given chunks, the label is: EQUI"
+Cyclone,Cyclone Phailin evacuation,REL,3,EQUI,"Based on the given chunks, the label is: EQUI"
+of destruction,alive,REL,3,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,kept,NOALI,0,NOALI,NOALI
+leaves,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+trail,-not aligned-,NOALI,0,NOALI,NOALI
+among 9 killed,among dead,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+in Kabul hotel attack,in Kabul hotel attack,EQUI,5,EQUI,"Chunk 1: [in Kabul hotel attack], Chunk 2: [in Kabul hotel attack], Label: EQUI"
+4 foreigners,Foreigners,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,Mandela,NOALI,0,NOALI,NOALI
+as asylum boat,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,third day,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI"
+off Australia,-not aligned-,NOALI,0,NOALI,NOALI
+Many dead,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,in hospital,NOALI,0,NOALI,"Based on the given information, since Chunk 1 is [-not aligned-] and Chunk 2 is [in hospital], they do not have a semantic relation to each other. 
+
+Label: NOALI"
+sinks,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,spends,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Palestinian captives,Palestinian prisoner release,REL,4,EQUI,"Based on the given chunks, the label would be: EQUI"
+Israeli calls,Israel,REL,4,EQUI,"Based on the given chunks, the label would be: EQUI"
+to execute,-not aligned-,NOALI,0,NOALI,NOALI
+instead of releasing them,Palestinian prisoner release,OPPO,4,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,allows,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+for better ties,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+DPRK leader,North Korea,REL,3,REL,"Based on the given chunks, the label would be: REL"
+-not aligned-,to leave,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+calls,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 2 is [-not aligned-], it means there is no alignment between the two chunks. 
+
+Label: NOALI"
+with S.Korea,South Korea,EQUI,5,SPE2,"Based on the given chunks, the label would be: SPE2"
+-not aligned-,foreigners,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,urges,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+"'s oldest person , and oldest man",'s Oldest Man,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+",",-not aligned-,NOALI,0,NOALI,NOALI
+at 116,Aged 116,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+ever,Ever,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+World,World,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+dies,Dies,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,:,NOALI,0,NOALI,NOALI
+-not aligned-,Japan,NOALI,0,NOALI,"Based on the given information, since Chunk 1 is not aligned with Chunk 2, the label should be:
+
+NOALI"
+expert nuclear talks,talks,SPE1,4,SPE1,"Based on the given chunks, the label would be SPE1."
+to resume,to resume,EQUI,5,EQUI,EQUI
+on Dec. 30,next week,SPE1,3,SPE1,"Based on the given chunks, I would label the alignment as: SPE1
+
+The reason is that ""on Dec. 30"" and ""next week"" are referring to the same entity (time period), but with different forms (specific date vs. general time period). This is a typical example of a ""SPE1"" (Same-Property Entity 1) relation, where two chunks refer to the same entity but with different properties."
+World powers and Iran,"Iran nuclear experts , world powers",SPE2,4,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,',NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+to stop,to stop,EQUI,5,SPE1,"Based on the given chunks, the label is: SPE1"
+it's,-not aligned-,NOALI,0,NOALI,Label: NOALI
+for Russia,for Russia,EQUI,5,EQUI,EQUI
+-not aligned-,',NOALI,0,NOALI,NOALI
+acting,acting,EQUI,5,SPE1,"Based on the given chunks, the label is: SPE1"
+and,and,EQUI,5,NOALI,"Based on the given information, the label for the pair of chunks [and] and [and] is NOALI."
+warns,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,tension,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,to reduce,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+start,start,EQUI,5,EQUI,"Based on the given information, the label for the pair of chunks [start] and [start] would be EQUI."
+',-not aligned-,NOALI,0,NOALI,NOALI
+time,Time,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI
+
+The reason is that both chunks refer to the same concept, ""time"", with the only difference being the capitalization of the first letter in the second chunk. This indicates that they are equivalent or identical."
+in Ukraine,in Ukraine,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Biden,Biden,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+talking,talking,EQUI,5,SPE1,"Based on the given chunks, the label is SPE1."
+',-not aligned-,NOALI,0,NOALI,Label: NOALI
+-not aligned-,:,NOALI,0,NOALI,"Based on the given information, since Chunk 1 and Chunk 2 are not aligned, the label is:
+
+NOALI"
+:,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+:,-not aligned-,NOALI,0,NOALI,NOALI
+Image,Image,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,:,NOALI,0,NOALI,NOALI
+of the Day,of the Day,EQUI,5,EQUI,EQUI
+February 25,April 21,SIMI,3,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+India Ink,India Ink,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+on Taiwan fisher attack,in Kenya mall attack,SIMI,1,NOALI,"Based on the given chunks, I would label the alignment as NOALI. 
+
+The reason is that there is no apparent semantic relation between the two chunks, as they refer to two different events (Taiwan fisher attack and Kenya mall attack)."
+-not aligned-,Bin Laden,NOALI,0,NOALI,NOALI
+-not aligned-,shown,NOALI,0,NOALI,NOALI
+-not aligned-,'s continuing sway,NOALI,0,NOALI,NOALI
+comment,-not aligned-,NOALI,0,NOALI,NOALI
+Philippines,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 2 is [-not aligned-], it does not have any semantic relation to Chunk 1. 
+
+Label: NOALI"
+defers,-not aligned-,NOALI,0,NOALI,NOALI
+set,votes,SIMI,4,SPE1,"Based on the given chunks, the label is: SPE1"
+to legalise,to legalise,EQUI,5,EQUI,EQUI
+New Zealand,New Zealand,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+gay marriage,same-sex marriage,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Israel 's ex-PM Ariel Sharon,Former Israeli Prime Minister Sharon,EQUI,5,REL,"Based on the given chunks, the label is: REL"
+dies,dies,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Peace talks,killed,REL,3,NOALI,"Based on the given chunks, the label would be: NOALI"
+:,-not aligned-,NOALI,0,NOALI,NOALI
+months,-not aligned-,NOALI,0,NOALI,NOALI
+Israel official,in Israeli raid,REL,3,SPE1,"Based on the given chunks, the label would be: SPE1"
+with Palestinians,Palestinian girl,SPE2,2,SPE2,"Based on the given chunks, I would label the alignment as SPE2. 
+
+The reason is that the second chunk [Palestinian girl] is a specific instance of the entity mentioned in the first chunk [with Palestinians]. This is a typical example of a ""SPE2"" (Specific-Particular Entity 2) relation, where the second chunk is a more specific instance of the entity mentioned in the first chunk."
+-not aligned-,3yo,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI
+
+The reason is that the first chunk is [-not aligned-], which indicates that it is not related to the second chunk."
+would take,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as NOALI."
+Portugal,Portugal,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+sends,fires,SIMI,4,REL,"Based on the given chunks, the label is: REL"
+Ronaldo 's hat trick,Ronaldo hat-trick,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+to World Cup,to World Cup,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+After China Earthquake,in China earthquakes,SPE1,4,REL,"Based on the given chunks, the label would be: REL"
+At Least,At least,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+22 Dead,89 dead,SIMI,3,SIMI,"Based on the given chunks, the label would be: SIMI"
+to rise,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Canadian government,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI"
+hits,monitoring,REL,2,NOALI,"Based on the given chunks, I would label the alignment as: NOALI
+
+Explanation: The chunks [hits] and [monitoring] do not have a clear semantic relation to each other, indicating that they are not aligned."
+-not aligned-,',NOALI,0,NOALI,NOALI
+-not aligned-,',NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+",",-not aligned-,NOALI,0,NOALI,NOALI
+Canadian freight train blast death toll,train blast situation,REL,3,SPE1,"Based on the given chunks, I would label the alignment as: SPE1
+
+The reason is that ""Canadian freight train blast death toll"" is a specific instance or a particular case of ""train blast situation"", which is a more general concept. This relationship is typical of SPE1 (Specific Instance) label."
+three,-not aligned-,NOALI,0,NOALI,NOALI
+in Bohol landslide,-not aligned-,NOALI,0,NOALI,Label: NOALI
+buried,die,REL,4,OPPO,"Based on the given chunks, the label is: OPPO"
+-not aligned-,in Afghanistan attack,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+-not aligned-,in attack,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Five children,Nine children,SIMI,3,EQUI,"Based on the given chunks, the label is: EQUI"
+alive,-not aligned-,NOALI,0,NOALI,Label: NOALI
+-not aligned-,stays,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI"
+-not aligned-,:,NOALI,0,NOALI,NOALI
+-not aligned-,FORMULA 1,NOALI,0,NOALI,NOALI
+-not aligned-,modest,NOALI,0,NOALI,NOALI
+father,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 2 is [-not aligned-], it does not have a semantic relation to Chunk 1. 
+
+Label: NOALI"
+emulates,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+with Monaco win,despite Monaco win,EQUI,5,SPE2,"Based on the given chunks, the label is SPE2."
+Rosberg,Rosberg,EQUI,5,EQUI,EQUI
+in northern Iraq,in northern Iraq,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+11,12,SIMI,4,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+kills,kills,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Suicide truck bomber,Suicide car bomb,SIMI,4,EQUI,"Based on the given chunks, the label is: EQUI"
+heads,-not aligned-,NOALI,0,NOALI,"Since Chunk 1: [heads] and Chunk 2: [-not aligned-] are not aligned semantically, the label is:
+
+NOALI"
+",",-not aligned-,NOALI,0,NOALI,NOALI
+off Mexico,on Mexico,EQUI,5,OPPO,"Based on the given chunks, the label would be: OPPO"
+bringing,dumps,SIMI,4,OPPO,"Based on the given chunks, the label is: OPPO"
+toward Veracruz,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,",",NOALI,0,NOALI,NOALI
+'s coast,-not aligned-,NOALI,0,NOALI,NOALI
+forms,weakens,REL,2,OPPO,"Based on the given chunks, the label is: OPPO"
+Tropical Storm Barry,Tropical Storm Barry,EQUI,5,EQUI,Label: EQUI
+as it,-not aligned-,NOALI,0,NOALI,NOALI
+heavy rain,rain,SPE2,4,EQUI,"Based on the given chunks, the label would be: EQUI"
+military airports,in military airport,SPE2,4,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,Syrian troops,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as NOALI."
+Syrian rebels,by rebels,SPE1,4,SPE1,"Based on the given chunks, the label would be: SPE1"
+target,confront,REL,4,OPPO,"Based on the given chunks, the label is: OPPO"
+-not aligned-,fierce attacks,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+South Atlantic Ocean,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+6.6-magnitude quake,Magnitude-5.1 quake,SIMI,4,SIMI,"Based on the given chunks, the label would be: SIMI"
+USGS,USGS,EQUI,5,EQUI,EQUI
+-not aligned-,southern Iran,NOALI,0,NOALI,NOALI
+hits,hits,EQUI,5,EQUI,EQUI
+--,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,--,NOALI,0,NOALI,"Based on the given information, since both chunks are not aligned, the label would be:
+
+NOALI"
+Poverty stats,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+doubt,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Aug 1,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,recall compensation claims,NOALI,0,REL,"Based on the given chunks, I would label the alignment as:
+
+Label: REL
+
+Explanation: The chunks are related to each other as they are discussing a similar topic (compensation claims), but they are not identical or opposite, so they are not EQUI or OPPO. They are not similar in a specific way (SPE1 or SPE2), and they are not not aligned (NOALI)."
+Modi,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,GM,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI"
+'s development claims,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,to start,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,taking,NOALI,0,NOALI,"Based on the given information, I would label the alignment of the pair of chunks as:
+
+Label: NOALI"
+access,Access,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+blocks,Blocks,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+North Korea,North Korea,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+to joint industrial zone,to Key Industrial Zone,SIMI,4,EQUI,"Based on the given chunks, the label is: EQUI"
+over Bhutto murder,In Bhutto Death,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+charged,Charged,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI
+
+The reason is that both chunks contain the same word ""charged"" but with different capitalization. This suggests that they are referring to the same entity or concept, which is a characteristic of the EQUI label."
+Pakistan,Pakistan,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+'s Musharraf,'s Musharraf,EQUI,5,SPE1,"Based on the given chunks, the label is SPE1."
+in streets,in Kiev,REL,2,EQUI,"Based on the given chunks, I would label the alignment as: EQUI
+
+The reason is that both chunks are related to a location, and they seem to be referring to the same place, but from different perspectives. ""In streets"" is a general location, while ""in Kiev"" is a specific city. They are equivalent in meaning, hence the EQUI label."
+-not aligned-,Lenin statue,NOALI,0,NOALI,NOALI
+back,-not aligned-,NOALI,0,NOALI,NOALI
+Ukrainian protesters,Ukraine protesters,EQUI,5,SPE1,"Based on the given chunks, the label would be SPE1."
+for anti-government rally,topple,REL,2,REL,"Based on the given chunks, the label is: REL"
+'s win,Landslide Win,SPE2,4,EQUI,"Based on the given chunks, the label is: EQUI"
+Jamaican connection,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+in Liverpool,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Shinzo Abe,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+-not aligned-,Japan Election,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as:
+
+Label: NOALI
+
+Explanation: The first chunk is [-not aligned-], which indicates that it does not have any semantic relation to the second chunk."
+-not aligned-,Hails,NOALI,0,NOALI,NOALI
+debris,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,images,NOALI,0,NOALI,NOALI
+after India buildings collapse,from Bangladesh building collapse,SIMI,3,SPE1,"Based on the given chunks, the label would be SPE1. 
+
+The reason is that both chunks are related to a building collapse, but the location of the building is different (India vs Bangladesh). The label SPE1 indicates that the chunks are similar in meaning but differ in one or more specific aspects, which in this case is the location."
+scour,-not aligned-,NOALI,0,NOALI,Label: NOALI
+-not aligned-,Select,NOALI,0,NOALI,"Based on the given examples, I would label the alignment as:
+
+ Label: NOALI"
+Rescuers,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+makes,Makes,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI
+
+The reason is that both chunks are identical, with the only difference being the capitalization of the first letter. This suggests that they are equivalent or identical in meaning, which is the definition of the EQUI label."
+Rock bands,Rock Bands,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+emergency landing,Emergency Landing,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI
+
+The reason is that both chunks refer to the same event or action, with the only difference being the capitalization of the first letter. This indicates that they are semantically equivalent."
+in Ill.,in Ill.,EQUI,5,EQUI,EQUI
+' plane,' Plane,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in hospital,in hospital bed,SPE2,4,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,charged,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+remains,-not aligned-,NOALI,0,NOALI,Label: NOALI
+Boston bombing suspect,Boston bombing suspect,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+elected,takes oath,REL,4,REL,"Based on the given chunks, the label is: REL"
+'s Shehla Raza,Shehla Raza,EQUI,5,SPE1,"Based on the given chunks, the label is SPE1."
+PPP,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Deputy Speaker of SA,as Sindh Assembly deputy speaker,EQUI,5,SPE1,"Based on the given chunks, the label is: SPE1"
+'s last child,'s youngest child Lady Soames,SPE2,4,SPE2,"Based on the given chunks, the label is SPE2."
+Churchill,Churchill,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+dies,dies,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+11:42,-not aligned-,NOALI,0,NOALI,NOALI
+aged 91,aged 91,EQUI,5,SPE1,SPE1
+-not aligned-,it,NOALI,0,NOALI,NOALI
+30 short-range missiles,new land-to-sea missile,SIMI,2,EQUI,"Based on the given chunks, I would label the alignment as: EQUI
+
+The reason is that both chunks are referring to missiles, specifically mentioning their range and type, indicating a similar or equivalent meaning."
+N. Korea,Iran,SIMI,3,OPPO,"Based on the given chunks, I would label the alignment as OPPO. 
+
+The reason is that North Korea and Iran are often described as opposing countries in various geopolitical contexts."
+test-fires,test-fires,EQUI,5,EQUI,EQUI
+:,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,says,NOALI,0,SPE1,"Based on the given information, I would label the alignment as:
+
+Label: SPE1"
+into sea,in Gulf,SPE2,3,SPE1,"Based on the given chunks, the label is SPE1."
+Yonhap,-not aligned-,NOALI,0,NOALI,Label: NOALI
+higher,lower,OPPO,4,OPPO,"Based on the given chunks, the label is: OPPO"
+Chinese shares,Chinese shares,EQUI,5,SPE1,"Based on the given chunks, the label is SPE1."
+close,close,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Tuesday,on Wednesday,SIMI,3,OPPO,"Based on the given chunks, the label is: OPPO"
+offer,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,shoots,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+shuns,-not aligned-,NOALI,0,NOALI,NOALI
+North Korea,North Korea,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+of talks,-not aligned-,NOALI,0,NOALI,"Based on the given information, the label for the pair of chunks is: 
+
+NOALI"
+-not aligned-,2 rockets,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Obama,Obama,EQUI,5,EQUI,"Based on the given information, the label for the pair of chunks [Obama] and [Obama] would be EQUI."
+me,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 2 is [-not aligned-], it does not have any semantic relation to Chunk 1. 
+
+Label: NOALI"
+troops,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 2 is [-not aligned-], it means there is no semantic relation between the two chunks. 
+
+Label: NOALI"
+In surprise visit,Surprise Visit,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+to Afghanistan,To Afghanistan,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI
+
+The reason is that the two chunks are semantically equivalent, as they both refer to the same destination, ""Afghanistan""."
+-not aligned-,Makes,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+',-not aligned-,NOALI,0,NOALI,Label: NOALI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+tells,-not aligned-,NOALI,0,NOALI,NOALI
+inspire,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 2 is [-not aligned-], it does not have a semantic relation to Chunk 1. 
+
+Label: NOALI"
+you,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+',-not aligned-,NOALI,0,NOALI,NOALI
+awaits,-not aligned-,NOALI,0,NOALI,Label: NOALI
+high court judgment,Ark. high court,REL,3,REL,"Based on the given chunks, the label is: REL"
+-not aligned-,suspends,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+on gay marriage,gay marriage,EQUI,5,SPE2,"Based on the given chunks, the label is: SPE2"
+US,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 1 and Chunk 2 are not aligned, the label is: 
+
+NOALI"
+-not aligned-,again,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+from West,-not aligned-,NOALI,0,NOALI,NOALI
+Sisi,'s Sisi,EQUI,5,SPE2,"Based on the given chunks, the label is SPE2."
+cool reception,-not aligned-,NOALI,0,NOALI,NOALI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+'s president,as president,EQUI,5,SPE1,"Based on the given chunks, the label is SPE1."
+sworn in,sworn in,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+as Egypt,Egypt,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,heats up,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI"
+China,-not aligned-,NOALI,0,NOALI,NOALI
+to investigate,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+-not aligned-,Christie investigation,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+EU wine exports,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+",",-not aligned-,NOALI,0,NOALI,NOALI
+to 12.1%,12.2%,SIMI,4,OPPO,"Based on the given chunks, the label is: OPPO"
+Eurozone 's unemployment,Eurozone unemployment,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+a fresh record high,record,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,in September,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+climbs,hit,SIMI,3,OPPO,"Based on the given chunks, the label is: OPPO"
+Sorry,sorry,EQUI,5,SPE1,"Based on the given chunks, the label is: SPE1"
+South Korean President,S. Korean president,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+For Ferry Response,for ferry disaster,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,',NOALI,0,NOALI,NOALI
+-not aligned-,',NOALI,0,NOALI,NOALI
+49,49,EQUI,5,EQUI,EQUI
+killed,carrying,SPE1,2,OPPO,"Based on the given chunks, the label is: OPPO"
+Pro-Russian rebels,Ukraine Rebels,SIMI,3,SPE2,"Based on the given chunks, the label is SPE2."
+shoot down,shoot down,EQUI,5,EQUI,EQUI
+Ukrainian plane,plane,SPE1,4,EQUI,"Based on the given chunks, the label is EQUI."
+",",-not aligned-,NOALI,0,NOALI,NOALI
+on Syria abuse,on Syrian chemical arms,SPE2,3,OPPO,"Based on the given chunks, I would label the alignment as:
+
+Label: OPPO
+
+The reason is that ""Syria"" and ""Syrian"" are opposite forms of the same word, indicating that the chunks are aligned as opposites."
+Saudi,Cameron,REL,3,SPE1,"Based on the given chunks, I would label the alignment as SPE1. 
+
+The reason is that ""Saudi"" and ""Cameron"" are proper nouns referring to countries and a person, respectively. In this context, ""Saudi"" is likely asking a question about ""Cameron"", which is a typical pattern of SPE1 (Subject-Predicate-Entity1)."
+pushes,pushes,EQUI,5,EQUI,EQUI
+UN resolution,U.N. resolution,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+At least,-not aligned-,NOALI,0,NOALI,NOALI
+45,78,SIMI,2,EQUI,"Based on the given chunks, I would label the alignment as: EQUI
+
+Explanation: Both chunks are referring to numbers, which suggests they are equivalent or identical in some way."
+-not aligned-,:,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+killed,killed,EQUI,5,EQUI,EQUI
+-not aligned-,Update 2,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as:
+
+Label: NOALI"
+in Spain train crash,in Spanish train disaster,SPE1,4,EQUI,"Based on the given chunks, the label would be: EQUI"
+19 hurt,17 Hurt,SIMI,4,EQUI,"Based on the given chunks, the label would be: EQUI"
+in New Orleans shooting,at New Orleans Parade Shooting,SPE2,4,SPE1,"Based on the given chunks, I would label the alignment as: SPE1
+
+The reason is that both chunks are referring to the same event or location, but with slightly different descriptions. The first chunk mentions ""New Orleans shooting"" and the second chunk mentions ""New Orleans Parade Shooting"". They are referring to the same event, but with a slight difference in detail. This is similar to the pattern in the example where Chunk 1: [Egyptians], Chunk 2: [voters], Label: SPE1."
+by mortar fire,by mortar,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Vatican Embassy,Vatican embassy,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+hit,hit,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in Syria,in Syria,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,no injuries,NOALI,0,NOALI,Label: NOALI
+-not aligned-,;,NOALI,0,NOALI,NOALI
+'s Must-Reads,'s Must-Reads,EQUI,5,EQUI,EQUI
+"May 24 , 2013","October 29 , 2013",SIMI,3,OPPO,"Based on the given chunks, the label would be: OPPO
+
+The reason is that ""May 24, 2013"" is earlier than ""October 29, 2013"", which implies an opposition relation between the two dates."
+for Friday,for Tuesday,SIMI,3,OPPO,"Based on the given chunks, the label is: OPPO"
+The Note,The Note,EQUI,5,EQUI,"Based on the given information, the label for the pair of chunks [The Note] and [The Note] would be EQUI."
+Nato,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,bonds,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,in region,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,best,NOALI,0,NOALI,"Based on the given information, I would label the alignment as:
+
+Label: NOALI"
+condemns,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 1: [condemns] and Chunk 2: [-not aligned-] are not semantically related, the label is:
+
+NOALI"
+-not aligned-,Thai,NOALI,0,NOALI,"Based on the given information, since Chunk 1 is [-not aligned-] and Chunk 2 is [Thai], it seems that there is no alignment between the two chunks. 
+
+Label: NOALI"
+Ukraine crackdown,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 2 is [-not aligned-], it does not have any semantic relation to Chunk 1. 
+
+Label: NOALI"
+-not aligned-,pressure,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+-not aligned-,keeps up,NOALI,0,OPPO,"Based on the given chunks, the label is: OPPO"
+to peace talks,-not aligned-,NOALI,0,NOALI,NOALI
+'s Peres,Gonsalves,SIMI,2,SPE2,"Based on the given chunks, the label is SPE2."
+return,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 2 is [-not aligned-], it does not have any semantic relation to Chunk 1. 
+
+Label: NOALI"
+Israel,on Dom Rep,SIMI,2,NOALI,"Based on the given chunks, I would label the alignment as: NOALI
+
+The reason is that ""Israel"" and ""on Dom Rep"" do not seem to have a direct semantic relation to each other, making them not aligned."
+urges,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as NOALI."
+92,96,SIMI,4,SPE1,"Based on the given chunks, I would label the alignment as: SPE1
+
+The reason is that the second chunk [96] is a more specific instance of the first chunk [92], which is a percentage value. The second chunk provides more detail about the first chunk, indicating a specific relation."
+Kill,kill,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Assault,Assault,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+",",-not aligned-,NOALI,0,NOALI,NOALI
+Other Attacks,other attacks,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+on Iraq Funeral,on Iraq funeral,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,",",NOALI,0,NOALI,"Based on the given information, since Chunk 1 and Chunk 2 are not aligned, the label is:
+
+NOALI"
+in Afghanistan,in Benghazi clashes,SPE2,1,REL,"Based on the given chunks, the label is: REL"
+Two NATO soldiers,Five Libyan soldiers,SIMI,2,REL,"Based on the given chunks, the label is: REL"
+killed,killed,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+US top diplomat Kerry,US Secretary of State John Kerry,EQUI,5,SPE1,"Based on the given chunks, the label would be SPE1. 
+
+The reason is that Chunk 1: [US top diplomat Kerry] is a specific instance of the general term in Chunk 2: [US Secretary of State John Kerry]."
+rushed,rushed,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+'s wife,'s wife,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+to hospital,to hospital,EQUI,5,EQUI,EQUI
+-not aligned-,Day,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+march of anger,of Rage rallies,EQUI,5,SPE2,"Based on the given chunks, I would label the alignment as: SPE2
+
+The reason is that ""of Rage rallies"" is a specific instance of ""of"", which is a preposition in ""march of anger"". This indicates a specific instance relation, which is labeled as SPE2."
+"""",-not aligned-,NOALI,0,NOALI,NOALI
+'s Brotherhood,'s Brotherhood,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+"""",-not aligned-,NOALI,0,NOALI,NOALI
+Egypt,Egypt,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+to hold,holds,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+to observe,Accept,SIMI,3,SPE1,"Based on the given chunks, I would label the alignment as:
+
+SPE1
+
+The reason is that ""to observe"" is a location or a place where an action is happening, and ""Accept"" is the action itself. This is a typical example of a specific place (SPE1) where an action is taking place."
+brief Gaza truce,Temporary Truce,SPE1,2,EQUI,"Based on the given chunks, I would label the alignment as:
+
+Label: EQUI
+
+The reason is that both chunks refer to the same concept, a truce, but with slightly different descriptions. They are semantically equivalent."
+Israel and Hamas,Israel And Hamas,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,',NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+-not aligned-,',NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Foreign exchange rates,Foreign exchange rates,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in Singapore,in India,SIMI,3,OPPO,"Based on the given chunks, the label is: OPPO"
+'s oldest man,'s Oldest Man,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+dies,Dies,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,Ever,NOALI,0,NOALI,"Based on the given information, I would label the alignment as NOALI."
+World,World,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,:,NOALI,0,NOALI,NOALI
+-not aligned-,Japan,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI"
+at 116,Aged 116,EQUI,5,SPE2,"Based on the given chunks, the label is: SPE2"
+Iran nuclear agreement,Iran 's nuclear deal,EQUI,5,EQUI,"Based on the given chunks, the label would be: EQUI"
+welcomes,welcomes,EQUI,5,EQUI,EQUI
+Germany,Syria,SIMI,3,OPPO,"Based on the given chunks, the label is: OPPO"
+with North,With North,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,Says,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI"
+talks,Talks,EQUI,5,EQUI,"Based on the given information, the label for the pair of chunks [talks] and [Talks] would be EQUI."
+-not aligned-,Scrapped,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: 
+
+Label: NOALI"
+proposes,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+South Korea,South Korea,EQUI,5,SPE2,"Based on the given chunks, the label is: SPE2"
+Video,Security video,SPE2,4,EQUI,"Based on the given chunks, the label is: EQUI"
+in mall,mall,EQUI,5,SPE1,"Based on the given chunks, the label is: SPE1"
+casually,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Kenya jihadis,Kenyan soldiers,SIMI,3,REL,"Based on the given chunks, the label is: REL"
+shows,shows,EQUI,5,SPE1,"Based on the given chunks, the label is: SPE1"
+killing,looting,SIMI,3,OPPO,"Based on the given chunks, the label is: OPPO"
+UN inspectors,U.S.,REL,3,SPE1,"Based on the given chunks, I would label the alignment as: SPE1
+
+Explanation: The chunks are related to a specific event or action involving the UN inspectors and the U.S. The label SPE1 suggests that the first chunk is the subject performing the action, and the second chunk is the object receiving the action. In this case, the UN inspectors are performing an action related to the U.S."
+progress,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,-White House,NOALI,0,NOALI,"Based on the given information, since Chunk 1 is not aligned with Chunk 2, the label is:
+
+NOALI"
+-not aligned-,used,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+-not aligned-,has not concluded,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+over Syria chemical weapons,Syria chemical weapons,EQUI,5,REL,"Based on the given chunks, the label is: REL"
+hail,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 2 is [-not aligned-], it means there is no semantic relation between the two chunks. 
+
+Label: NOALI"
+on chlorine bombs,on nuclear site,REL,3,EQUI,"Based on the given chunks, the label is: EQUI"
+rejects,rejects,EQUI,5,EQUI,EQUI
+claim,MKO claim,SPE2,4,EQUI,"Based on the given chunks, the label would be: EQUI"
+Iran,Iran,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+One dead,Six killed,SIMI,2,EQUI,"Based on the given chunks, the label is: EQUI"
+in US building collapse,in US building collapse,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,Wall Street,NOALI,0,NOALI,NOALI
+Fallen US firefighters,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,slightly lower,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,ends,NOALI,0,NOALI,"Since Chunk 1 is not aligned with Chunk 2, the label is NOALI."
+brought home,-not aligned-,NOALI,0,NOALI,NOALI
+hunting for,trawls for,SIMI,4,OPPO,"Based on the given chunks, the label is: OPPO"
+in missing Malaysian plane search,from missing Malaysia plane,REL,4,EQUI,"Based on the given chunks, the label is: EQUI"
+Ship,Australian ship,SPE2,4,SPE1,"Based on the given chunks, the label would be: SPE1"
+more pings,signals,SIMI,4,EQUI,"Based on the given chunks, the label is: EQUI"
+Tehran-London ties,Tehran-London ties,EQUI,5,EQUI,EQUI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+Afkham,-not aligned-,NOALI,0,NOALI,NOALI
+to improve,to improve,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,.,NOALI,0,NOALI,NOALI
+',-not aligned-,NOALI,0,NOALI,NOALI
+to treatment,to treatment,EQUI,5,EQUI,EQUI
+',-not aligned-,NOALI,0,NOALI,NOALI
+Mandela,Mandela,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,Wife,NOALI,0,NOALI,"Based on the given information, the label for the pair of chunks is: NOALI"
+-not aligned-,:,NOALI,0,NOALI,"Based on the given information, I would label the alignment as NOALI."
+responding,is responding,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Gunmen,Gunmen,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Libyan deputy industry minister,Libyan deputy industry minister,EQUI,5,SPE2,"Based on the given chunks, the label is: SPE2"
+assassinate,kill,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+against USD,against USD,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+to 6.1535,to new high,SPE1,2,EQUI,"Based on the given chunks, the label is: EQUI"
+China yuan,China yuan,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+weakens,strengthens,OPPO,4,OPPO,OPPO
+burn,Confronts,SPE1,3,OPPO,"Based on the given chunks, I would label the alignment as: OPPO
+
+Reasoning: The word ""burn"" typically implies a destructive or intense action, whereas ""Confronts"" implies a more aggressive or confrontational action. These two actions are opposite in nature, which aligns with the OPPO label."
+Australian flags,Australian Ambassador,REL,3,SPE2,"Based on the given chunks, the label is: SPE2"
+Indonesians,Indonesia,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+over spying reports,on Reports of Spying,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+More Deaths,Five dead,SPE2,3,EQUI,"Based on the given chunks, the label is: EQUI"
+Expected,-not aligned-,NOALI,0,NOALI,NOALI
+in Canada Oil Train Explosion,in Canada train crash,SIMI,3,SPE1,"Based on the given chunks, the label would be SPE1."
+Egypt court,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,tells,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI"
+to death,-not aligned-,NOALI,0,NOALI,Label: NOALI
+-not aligned-,to prepare,NOALI,0,NOALI,NOALI
+10 Brotherhood supporters,supporters,SPE1,2,SPE2,"Based on the given chunks, the label is SPE2."
+-,-not aligned-,NOALI,0,NOALI,NOALI
+sources,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 2 is [-not aligned-], it means there is no alignment between the two chunks. 
+
+Label: NOALI"
+-not aligned-,Turkish PM,NOALI,0,NOALI,"Based on the given information, I would label the alignment as:
+
+Label: NOALI"
+sentences,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,for rallies,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+moderate,lower,SIMI,3,SPE2,"Based on the given chunks, the label is: SPE2"
+-not aligned-,sends,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+in US stock market,Asian stock markets,SIMI,3,SPE1,"Based on the given chunks, I would label the alignment as: SPE1
+
+The reason is that both chunks are related to stock markets, but they are describing different markets (US vs Asian), which is a specific type of relation."
+Declines,Tech sell-off,SPE2,2,OPPO,"Based on the given chunks, the label is: OPPO"
+to Know,to Know,EQUI,5,EQUI,"Based on the given information, the label for the pair of chunks is: EQUI"
+:,-not aligned-,NOALI,0,NOALI,NOALI
+10 Things,10 Things,EQUI,5,EQUI,EQUI
+This Week,for Today,SPE2,3,SPE1,"Based on the given chunks, I would label the alignment as SPE1. 
+
+The reason is that ""This Week"" and ""for Today"" seem to be related to different time periods, with ""This Week"" referring to a specific time frame and ""for Today"" referring to a different time frame. This suggests a speaker or narrator distinction, which is the meaning of SPE1."
+'s Takeaways,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,it,NOALI,0,NOALI,"Based on the given information, I would label the alignment as:
+
+Label: NOALI"
+-not aligned-,in Crimea,NOALI,0,NOALI,NOALI
+name,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Ukraine protest leaders,Ukraine,REL,3,SPE1,"Based on the given chunks, I would label the alignment as SPE1. 
+
+The reason is that the first chunk ""[Ukraine protest leaders]"" is a specific group of people, and the second chunk ""[Ukraine]"" is the country they are protesting in. This suggests a speaker or actor (SPE1) relationship between the two chunks."
+",",-not aligned-,NOALI,0,NOALI,NOALI
+ministers,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,says,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Russian troops,"to Russian "" provocations """,REL,4,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,will not bow,NOALI,0,NOALI,"Based on the given information, I would label the alignment as:
+
+NOALI
+
+This is because the two chunks are not semantically related to each other."
+on alert,-not aligned-,NOALI,0,NOALI,NOALI
+"US , Russia",US and Russia,EQUI,5,REL,"Based on the given chunks, the label is: REL"
+enter,-not aligned-,NOALI,0,NOALI,NOALI
+third day,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 2 is [-not aligned-], it means there is no alignment between the two chunks. 
+
+Label: NOALI"
+-not aligned-,agree,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+of Syria talks,Syria arms deal,REL,3,REL,"Based on the given chunks, the label is: REL"
+-not aligned-,in Geneva,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+U.S factory,German factory,SIMI,3,OPPO,"Based on the given chunks, the label would be: OPPO"
+in January,in January,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+down,rebound,OPPO,4,OPPO,"Based on the given chunks, the label is: OPPO"
+0.7 pct,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+orders,orders,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,Worker,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI"
+-not aligned-,:,NOALI,0,NOALI,NOALI
+-not aligned-,Made,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI"
+-not aligned-,Suggestive Comments,NOALI,0,NOALI,NOALI
+San Diego Mayor Bob Filner,San Diego Mayor,SPE1,4,SPE1,"Based on the given chunks, the label is SPE1."
+'s accusers,-not aligned-,NOALI,0,NOALI,NOALI
+In Oklahoma City,Oklahoma City Airport,SPE2,4,SPE1,"Based on the given chunks, the label is: SPE1"
+Hit,-not aligned-,NOALI,0,NOALI,NOALI
+After Tornadoes,During Tornado...,SIMI,3,EQUI,"Based on the given chunks, the label is: EQUI"
+Nine Dead,Evacuated,REL,3,EQUI,"Based on the given chunks, I would label the alignment as: EQUI
+
+The reason is that ""Nine Dead"" and ""Evacuated"" are related to the same event or situation, indicating an equivalence in their semantic relation."
+-not aligned-,says,NOALI,0,NOALI,NOALI
+Kenyan forces,Kenyan forces,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+mall collapse,mall collapse,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+caused,caused,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,Official,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+unilateral ceasefire,unilateral ceasefire,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Ukraine,Ukraine,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+to implement,offers,SIMI,3,SPE1,"Based on the given chunks, the label is: SPE1"
+in Egypt,in Egypt,EQUI,5,SPE2,Label: SPE2
+-not aligned-,holds,NOALI,0,NOALI,NOALI
+-not aligned-,upper hand,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+banned,-not aligned-,NOALI,0,NOALI,Label: NOALI
+-not aligned-,Military,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Muslim Brotherhood,-not aligned-,NOALI,0,NOALI,NOALI
+on French soldier,on French soldier,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Suspect,Man,SPE2,4,SPE1,"Based on the given chunks, I would label the alignment as SPE1. 
+
+The reason is that ""Suspect"" and ""Man"" are referring to the same entity, but with different roles or perspectives. ""Suspect"" implies a person who is suspected of something, while ""Man"" is a more general term for a human being. This suggests a semantic relation of SPE1, where ""Suspect"" is a specific instance or a particular aspect of the more general term ""Man""."
+arrested,arrested,EQUI,5,EQUI,EQUI
+in attack,over attack,EQUI,5,OPPO,"Based on the given chunks, the label is: OPPO"
+Obama,Obama,EQUI,5,EQUI,Label: EQUI
+"from Israelis , Palestinians","Israeli , Palestinian negotiators",SPE2,3,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,meets,NOALI,0,NOALI,"Based on the given information, since Chunk 1 is [-not aligned-] and Chunk 2 is [meets], they do not have a semantic relation to each other. 
+
+Label: NOALI"
+Restraint,-not aligned-,NOALI,0,NOALI,Label: NOALI
+Urges,-not aligned-,NOALI,0,NOALI,Label: NOALI
+to greet,to greet,EQUI,5,EQUI,EQUI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+pope,Pope Francis,SPE2,4,SPE1,"Based on the given chunks, the label is: SPE1"
+Brazilians,In Brazil thousands,SPE1,4,EQUI,"Based on the given chunks, the label would be EQUI."
+throng streets,turn out,SIMI,4,EQUI,"Based on the given chunks, I would label the alignment as:
+
+Label: EQUI
+
+Explanation: The chunks [throng streets] and [turn out] are semantically related as they convey the same action or event, but from different perspectives. ""Throng streets"" implies a large crowd gathering in the streets, while ""turn out"" implies the same crowd gathering or emerging. This relationship is characteristic of EQUI (equative) alignment."
+shakes,hits,EQUI,5,OPPO,"Based on the given chunks, the label is: OPPO"
+no tsunami risk,no tsunami warning,REL,4,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,",",NOALI,0,NOALI,NOALI
+northeastern Japan,Japan,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+",",-not aligned-,NOALI,0,NOALI,NOALI
+Quake,Quake,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Detroit,Detroit,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+:,-not aligned-,NOALI,0,NOALI,NOALI
+eligible,eligible,EQUI,5,SPE1,"Based on the given chunks, the label is SPE1."
+for bankruptcy protection,for bankruptcy protection,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+U.S. judge,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+signals,search area,REL,4,EQUI,"Based on the given chunks, the label is: EQUI"
+Vietnam,China,SIMI,3,REL,"Based on the given chunks, the label is: REL"
+-not aligned-,expands,NOALI,0,NOALI,NOALI
+detects,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+from missing plane,for missing plane,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in Afghanistan,in Afghanistan,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Six US soldiers,Six U.S. soldiers,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+killed,killed,EQUI,5,EQUI,EQUI
+in aircraft crash,in helicopter crash,SPE2,4,OPPO,"Based on the given chunks, the label is: OPPO"
+EU,Germany,REL,4,EQUI,"Based on the given chunks, the label is: EQUI"
+destroy,in destroying,EQUI,5,REL,"Based on the given chunks, the label is: REL"
+offers,offers,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Syria weapons,Syria weapons,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+to help,help,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+arrests,Arrests,EQUI,5,EQUI,Label: EQUI
+Egypt,Egypt,EQUI,5,REL,"Based on the given chunks, the label is: REL"
+Muslim Brotherhood 's top leader,Muslim Brotherhood Supporters,REL,4,SPE2,"Based on the given chunks, the label would be SPE2."
+-not aligned-,Under Terror Law,NOALI,0,NOALI,NOALI
+Arsenal,Tottenham,SIMI,3,OPPO,"Based on the given chunks, the label is: OPPO"
+-,-not aligned-,NOALI,0,NOALI,NOALI
+v,v,EQUI,5,EQUI,"Since both chunks are the same, the label would be EQUI."
+-not aligned-,-,NOALI,0,NOALI,NOALI
+live!,live!,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Stoke City,Manchester City,SIMI,3,OPPO,"Based on the given chunks, the label would be: OPPO"
+honour,observes silence,SIMI,4,OPPO,"Based on the given chunks, the label is: OPPO"
+Boston victims,for Boston victims,EQUI,5,EQUI,"Based on the given chunks, the label would be EQUI."
+London Marathon runners,London Marathon,SPE1,4,REL,"Based on the given chunks, the label is: REL"
+Dec. 2,April 23,SIMI,3,OPPO,"Based on the given chunks, the label would be: OPPO"
+-not aligned-,",",NOALI,0,NOALI,"Based on the given information, since Chunk 1 and Chunk 2 are not aligned, the label is NOALI."
+in History,in History,EQUI,5,SPE1,"Based on the given information, since both chunks are [in History], they are likely to be the same entity or concept. 
+
+Label: SPE1"
+Today,Today,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+",",-not aligned-,NOALI,0,NOALI,NOALI
+will attend,will attend,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Desmond Tutu,Tutu,EQUI,5,SPE1,"Based on the given chunks, the label is: SPE1"
+he,-not aligned-,NOALI,0,NOALI,NOALI
+says,says,EQUI,5,SPE1,"Based on the given chunks, the label is: SPE1"
+Mandela funeral,Mandela funeral,EQUI,5,EQUI,Label: EQUI
+kill,kill,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,:,NOALI,0,NOALI,NOALI
+in wedding convoy,in wedding convoy,EQUI,5,SPE2,"Based on the given chunks, the label is: SPE2"
+-not aligned-,Nigeria official,NOALI,0,NOALI,NOALI
+Nigerian gunmen,Gunmen,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+"groom , 30 others",30,SPE2,4,EQUI,"Based on the given chunks, the label is: EQUI"
+on Gaza,on Gaza,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+rise,rise,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in Israeli air strikes,in air strikes,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+Deaths,Deaths,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in Pakistan,in Pakistan,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+11,16,SIMI,3,SPE1,"Based on the given chunks, I would label the alignment as: SPE1
+
+The reason is that ""in"" is a preposition that indicates the location of the number 16, and ""in northern Iraq"" is a more specific location that includes ""in Iraq"". This suggests that the relation between the two chunks is a specific instance of a more general location, which is a characteristic of the SPE1 label."
+US drone strike,US drone,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+kills,kills,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+kill,Kill,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,in Pakistan,NOALI,0,NOALI,"Based on the given information, since Chunk 1 is [-not aligned-] and Chunk 2 is [in Pakistan], they do not have a semantic relation to each other. 
+
+Label: NOALI"
+"9 foreign tourists , 1 Pakistani",11 Foreign Tourists,SPE2,3,EQUI,"Based on the given chunks, the label is: EQUI"
+Islamic militants,Gunmen,SPE1,4,OPPO,"Based on the given chunks, the label is: OPPO"
+fire shuts,catches fire,SPE1,4,EQUI,"Based on the given chunks, the label would be: EQUI"
+Boeing 787 Dreamliner,Boeing 787 Dreamliner,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Heathrow,at London Heathrow airport,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+again,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+arrested,granted bail,REL,4,OPPO,"Based on the given chunks, the label is: OPPO"
+Former Pakistan President Pervez Musharraf,Former Pakistan military ruler Pervez Musharraf,EQUI,5,SPE2,"Based on the given chunks, the label is SPE2."
+brings,to Bring,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+more snow,More Snow,EQUI,5,SPE1,"Based on the given chunks, the label would be SPE1. 
+
+The reason is that the chunks are referring to the same entity, but with a slight difference in capitalization. This indicates that they are referring to the same thing, but with a different specification or detail, which is a characteristic of SPE1 (Specification 1) relation."
+to US East Coast,to East Coast,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+Latest storm,Latest Storm,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+strikes,strikes,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+off Solomons,off California coast,SIMI,3,NOALI,"Based on the given chunks, the label is: NOALI"
+Powerful 7.6 quake,Powerful 6.9 quake,SIMI,4,OPPO,"Based on the given chunks, the label would be: OPPO"
+-not aligned-,:,NOALI,0,NOALI,NOALI
+-not aligned-,Typhoon Haiyan,NOALI,0,NOALI,"Based on the given information, I would label the alignment as:
+
+Label: NOALI"
+World,world,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+sends,sends,EQUI,5,EQUI,"Based on the given information, the label for the pair of chunks [sends] and [sends] would be EQUI."
+emergency relief,relief,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+to battered Philippines,to battered Philippines,EQUI,5,EQUI,EQUI
+-not aligned-,",",NOALI,0,NOALI,"Since Chunk 1 and Chunk 2 are not aligned, the label is NOALI."
+over Juncker appointment,to Juncker,SPE1,4,SPE2,"Based on the given chunks, the label is: SPE2"
+argue,give thumbs up,REL,3,SPE1,"Based on the given chunks, the label is: SPE1"
+"EU , Britain",EU leaders Britain,EQUI,5,EQUI,"Based on the given chunks, the label would be: EQUI"
+-not aligned-,isolated,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Dozens,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Indian minister,NOALI,0,NOALI,NOALI
+in Connecticut train collision,in head-on collision,SIMI,1,NOALI,"Based on the given chunks, the label would be: NOALI"
+injured,killed,REL,3,OPPO,"Based on the given chunks, the label is: OPPO"
+-not aligned-,preconditions,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,setting,NOALI,0,NOALI,NOALI
+Russian Prime Minister,Russia,REL,4,SPE1,"Based on the given chunks, the label would be SPE1. 
+
+The reason is that 'Russian Prime Minister' is a specific instance or a subset of 'Russia', which is a more general category. This type of relationship is typically labeled as SPE1, where the first chunk is a specific instance or a subset of the second chunk."
+Of Crimea Visit,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+-not aligned-,for Syria,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+On Second Day,-not aligned-,NOALI,0,NOALI,Label: NOALI
+-not aligned-,warns against,NOALI,0,OPPO,"Based on the given chunks, the label is: OPPO"
+cancels,drops,EQUI,5,NOALI,"Based on the given chunks, the label is: NOALI"
+Barack Obama,Barack Obama,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+over Edward Snowden,over Ed Snowden affair,EQUI,5,REL,"Based on the given chunks, the label is: REL"
+meeting,meeting,EQUI,5,SIMI,"Based on the given chunks, the label is: SIMI"
+with Vladimir Putin,with Vladimir Putin,EQUI,5,EQUI,EQUI
+petrol pumps,petrol stations,REL,4,EQUI,"Based on the given chunks, the label is: EQUI"
+at night,at night,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+to shut,to shut,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+India govt,India oil minister,SPE2,4,EQUI,"Based on the given chunks, the label would be: EQUI"
+proposal,for plan,SIMI,4,SPE2,"Based on the given chunks, I would label the alignment as: SPE2
+
+The reason is that ""proposal"" and ""for plan"" are two different forms of the same noun phrase, with ""for plan"" being a more specific or detailed version of ""proposal"". This is a characteristic of SPE2 (Specificity) relation, where one chunk is more specific than the other."
+rejects,slammed,REL,2,EQUI,"Based on the given chunks, the label is: EQUI
+
+Explanation: Both chunks, [rejects] and [slammed], have a similar meaning and are aligned in terms of their semantic relation. They both convey a sense of strong disapproval or criticism. Therefore, the label is EQUI (equivalent)."
+on northern Gaza,on sourthern Gaza town,SPE2,3,OPPO,"Based on the given chunks, the label is: OPPO"
+-not aligned-,kills,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,seven,NOALI,0,NOALI,NOALI
+Israeli war jet strikes,Israeli air strike,SPE1,4,EQUI,"Based on the given chunks, the label would be EQUI."
+-not aligned-,as it,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Tropical Storm Karen,Tropical Storm Karen,EQUI,5,EQUI,EQUI
+-not aligned-,weakens,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+US Gulf Coast,U.S. Gulf Coast,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+targets,nears,SIMI,4,OPPO,"Based on the given chunks, the label is: OPPO"
+after airbag fault,over airbag,SPE1,4,OPPO,"Based on the given chunks, I would label the alignment as OPPO. 
+
+The reason is that ""after airbag fault"" and ""over airbag"" are opposite or contrasting states, which is a characteristic of the OPPO label."
+3 million Japanese cars,3.4m vehicles,SPE1,4,EQUI,"Based on the given chunks, the label would be EQUI. 
+
+The reason is that both chunks mention a quantity of vehicles, with the only difference being the unit of measurement (Japanese cars vs vehicles). This suggests a relationship of equivalence between the two chunks."
+"Toyota , Honda , Nissan and Mazda","Toyota , 3 other Japan carmakers",SPE1,4,SPE2,"Based on the given chunks, the label is SPE2."
+recall,to recall,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,waters,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+yet,-not aligned-,NOALI,0,NOALI,NOALI
+sends,enter,SIMI,3,OPPO,"Based on the given chunks, the label is: OPPO"
+China largest fleet,China ships,SPE1,4,EQUI,"Based on the given chunks, the label would be: EQUI"
+to disputed islands,off disputed islands,EQUI,5,OPPO,"Based on the given chunks, the label is: OPPO"
+drought emergency,drought emergency,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,continue,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+-not aligned-,as wildfires,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,to burn,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+declares,declares,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+California governor,California governor,EQUI,5,EQUI,EQUI
+',-not aligned-,NOALI,0,NOALI,NOALI
+Ukraine rebels,Ukraine Rebels,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI
+
+The reason is that both chunks refer to the same entity, ""Ukraine Rebels"", but with slight variations in spelling. This indicates an equivalence relation between the two chunks."
+',-not aligned-,NOALI,0,NOALI,NOALI
+eastern stronghold,from Main Stronghold,SPE1,3,OPPO,"Based on the given chunks, the label would be: OPPO"
+flee,Flushed,EQUI,5,OPPO,"Based on the given chunks, the label is: OPPO"
+-not aligned-,Claims,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI"
+of extremists,extremists,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+from Egypt violence,from Egypt violence,EQUI,5,EQUI,EQUI
+benefiting,will benefit,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+France,France,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+warns,fears,REL,2,OPPO,OPPO
+to fill,-not aligned-,NOALI,0,NOALI,Label: NOALI
+-not aligned-,on budget,NOALI,0,EQUI,"Based on the given information, I would label the alignment of the pair of chunks as:
+
+[EQUI]
+
+The reason is that the two chunks are referring to the same concept, but with slightly different wording. This is a characteristic of EQUI (equivalent) relation."
+-not aligned-,willingness,NOALI,0,NOALI,NOALI
+taps,-not aligned-,NOALI,0,NOALI,NOALI
+Obama,Obama,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Fischer,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 2 is [-not aligned-], it means there is no semantic relation between Chunk 1 and Chunk 2. 
+
+So, the label is: NOALI"
+moves,-not aligned-,NOALI,0,NOALI,NOALI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,to talk,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Fed board,with GOP,REL,3,EQUI,"Based on the given chunks, the label is: EQUI"
+No. 2,-not aligned-,NOALI,0,NOALI,NOALI
+to be,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,voices,NOALI,0,NOALI,NOALI
+42,44,SIMI,4,SPE1,"Based on the given chunks, the label is: SPE1"
+wounded,wounded,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in violence,'s violence,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+killed,killed,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+63,133,SIMI,3,SIMI,"Based on the given chunks, the label is: SIMI"
+-not aligned-,",",NOALI,0,NOALI,"Since both chunks are empty, they are not aligned. 
+
+Label: NOALI"
+",",-not aligned-,NOALI,0,NOALI,NOALI
+in Iraq,in Iraq,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+after almost five years captivity,after 5 years in captivity,SPE2,4,EQUI,"Based on the given chunks, the label is: EQUI"
+U.S. soldier,US soldier,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+free,freed,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in Afghanistan,in Afghanistan,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Thousands,Thousands,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+dole,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 2 is [-not aligned-], it means there is no semantic relation between the two chunks. 
+
+Label: NOALI"
+of Britons,-not aligned-,NOALI,0,NOALI,Label: NOALI
+-not aligned-,of white-clad Amsterdammers march,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+-not aligned-,for MH17,NOALI,0,SPE1,"Based on the given chunks, I would label the alignment as:
+
+Label: SPE1"
+claim,-not aligned-,NOALI,0,NOALI,NOALI
+in Germany,-not aligned-,NOALI,0,NOALI,NOALI
+the enemy,the enemy,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+acquitted,acquitted,EQUI,5,EQUI,EQUI
+Bradley Manning,Wikileaks soldier Bradley Manning,SPE2,4,EQUI,"Based on the given chunks, the label is: EQUI"
+of aiding,of aiding,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+With Anticipation,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 2 is [-not aligned-], it means there is no alignment between the two chunks. 
+
+Label: NOALI"
+for Pope Francis,Pope Francis,EQUI,5,SPE2,"Based on the given chunks, the label is: SPE2"
+-not aligned-,greet,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Buzzing,-not aligned-,NOALI,0,NOALI,NOALI
+Brazil,Brazil crowds,SPE2,4,REL,"Based on the given chunks, the label is: REL"
+in Pakistan,in NW Pakistan,SPE2,4,SPE1,"Based on the given chunks, the label would be: SPE1"
+a Seminary,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,kills,NOALI,0,SPE1,"Based on the given chunks, the label is: SPE1"
+Drone Strikes,US drone strike,SPE2,4,EQUI,"Based on the given chunks, the label would be: EQUI"
+-not aligned-,8,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+10 foreign tourists,"9 foreign tourists , 1 Pakistani",SPE1,3,SPE2,"Based on the given chunks, the label would be SPE2. 
+
+The reason is that Chunk 1 and Chunk 2 are related to each other in a way that Chunk 2 provides more specific information about the group of people mentioned in Chunk 1."
+kill,kill,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in northern Pakistan,-not aligned-,NOALI,0,NOALI,NOALI
+Gunmen,Islamic militants,SPE2,4,OPPO,"Based on the given chunks, I would label the alignment as: OPPO
+
+The reason is that ""Gunmen"" and ""Islamic militants"" are opposing groups, which is a common semantic relation in news articles."
+rises,rises,EQUI,5,EQUI,EQUI
+Death toll,Death toll,EQUI,5,EQUI,EQUI
+to 59,to 638,SIMI,2,SPE2,"Based on the given chunks, I would label the alignment as: SPE2"
+in Nairobi attack,from Egypt violence,SIMI,2,NOALI,"Based on the given chunks, the label would be: NOALI"
+',-not aligned-,NOALI,0,NOALI,NOALI
+',-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,White House,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+Syrian regime,Syria,EQUI,5,REL,"Based on the given chunks, the label is: REL"
+using,uses,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+chemical weapons,chemical weapons,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,says,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+on a small scale,-not aligned-,NOALI,0,NOALI,Label: NOALI
+-not aligned-,in conflict,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+sought,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,for Showdown,NOALI,0,NOALI,NOALI
+Venezuelan opposition leader,"Venezuela Government , Opposition Head",SPE1,4,SPE2,"Based on the given chunks, the label is SPE2."
+-not aligned-,',NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as:
+
+Label: NOALI"
+'s Cameron,Cameron,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,',NOALI,0,NOALI,NOALI
+seriously,seriously,EQUI,5,SPE1,"Based on the given chunks, the label is: 
+SPE1"
+UK,-not aligned-,NOALI,0,NOALI,NOALI
+by Gibraltar/Spain row,over Gibraltar events,SPE1,2,EQUI,"Based on the given chunks, I would label the alignment as: EQUI
+
+The reason is that both chunks are referring to the same event or topic, which is the dispute over Gibraltar. The words used to describe the event are slightly different, but the underlying topic is the same. This suggests an equivalence relationship between the two chunks."
+concerned,concerned,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+",",-not aligned-,NOALI,0,NOALI,NOALI
+the Papers,the Papers,EQUI,5,REL,"Based on the given chunks, the label is: REL"
+Say,Say,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+What,What,EQUI,5,EQUI,"Based on the given information, the label for the pair of chunks is: EQUI"
+"Nov. 19 , 2013","Sept. 26 , 2013",SIMI,3,OPPO,"Based on the given chunks, the label is: OPPO"
+at Critical Time,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,'s Nuclear Program,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+in Munich,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,Iran,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+Top Diplomats,Top Diplomats,EQUI,5,SPE1,SPE1
+Meet,Discuss,SPE2,3,SPE1,"Based on the given chunks, the label is: SPE1"
+-not aligned-,report,NOALI,0,NOALI,NOALI
+Iranian nuclear talks,New Iran nuclear talks,SPE2,4,EQUI,"Based on the given chunks, the label is: EQUI"
+to November,in November,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,probably,NOALI,0,NOALI,"Based on the given information, I would label the alignment as:
+
+Label: NOALI"
+-not aligned-,:,NOALI,0,NOALI,NOALI
+to be extended,-not aligned-,NOALI,0,NOALI,NOALI
+Mulls,confirms,REL,2,SPE1,"Based on the given chunks, the label is: SPE1"
+in Peace Talks,in peace talks,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Participation,participation,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Syrian Opposition,Syrian opposition,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+sworn in,sworn in,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Rudd,Rudd,EQUI,5,SPE1,"Based on the given chunks, the label is: SPE1"
+as Australian PM,as Australia 's new Prime Minister,SPE2,4,SPE2,"Based on the given chunks, the label would be SPE2."
+',-not aligned-,NOALI,0,NOALI,NOALI
+Obama,Obama,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+',-not aligned-,NOALI,0,NOALI,NOALI
+deserved,deserve,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,:,NOALI,0,NOALI,"Since Chunk 1 and Chunk 2 are not aligned semantically, the label is:
+
+NOALI"
+Korean War veterans,Korean War vets,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,',NOALI,0,NOALI,NOALI
+says,-not aligned-,NOALI,0,NOALI,NOALI
+better,better,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,',NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as:
+
+Label: NOALI"
+Padma Shri,Padma Shri,EQUI,5,EQUI,EQUI
+"Telugu actors Mohan Babu , Brahmanandam","actors Mohan Babu , Brahmanandam",SPE1,4,SPE2,"Based on the given chunks, the label is SPE2."
+asks,advises,SIMI,3,OPPO,"Based on the given chunks, the label is: OPPO"
+Andhra Pradesh high court,HC,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+to return,to return,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+with murder,with murder,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+'s shooting death,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+in friend,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as:
+
+NOALI
+
+This is because the second chunk is [-not aligned-], indicating that it does not have a semantic relation to the first chunk."
+Pro football player Aaron Hernandez,American football player Aaron Hernandez,SPE2,4,SPE2,"Based on the given chunks, the label would be: SPE2"
+charged,charged,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in France,in France,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Algerian president,Algerian president,EQUI,5,EQUI,EQUI
+-not aligned-,after minor stroke,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+for medical tests,for medical tests,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Israel,Israel,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Palestinian prisoners,26 Palestinian Prisoners,SPE2,4,EQUI,"Based on the given chunks, the label is: EQUI"
+to release,Releases,SIMI,4,EQUI,"Based on the given chunks, the label is: EQUI"
+Dies,dies,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+British Nobel-Winning Author Doris Lessing,Nobel Prize winning author Doris Lessing,SPE1,4,SPE1,"Based on the given chunks, the label is: SPE1"
+stars,win,REL,2,EQUI,"Based on the given chunks, the label would be: EQUI"
+Carter,Bonus-point Super Rugby,REL,4,SPE1,"Based on the given chunks, I would label the alignment as SPE1. 
+
+The reason is that the first chunk ""[Carter]"" is likely referring to a person (specifically, a rugby player named Carter), and the second chunk ""[Bonus-point Super Rugby]"" is a context in which this person is involved. Therefore, the relation between the two chunks is that of a speaker or a person (SPE1)."
+for Crusaders,for Crusaders,EQUI,5,SPE1,"Based on the given chunks, the label is: SPE1"
+16,47,SIMI,3,SPE1,"Based on the given chunks, I would label the alignment as: SPE1
+
+The reason is that both chunks are referring to a similar entity (numbers), but with a slight difference in their representation (one is a single number, the other is a two-digit number). This suggests a similar relation, but not identical, which is characteristic of the SPE1 label."
+at least,at least,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Car bombs,Car bombs,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in Iraqi capital,in Baghdad area,SIMI,2,SPE2,"Based on the given chunks, the label is: SPE2"
+kill,kill,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+at 40,-not aligned-,NOALI,0,NOALI,Label: NOALI
+dies,dies,EQUI,5,EQUI,EQUI
+in car crash,in car crash,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+' Fast undamp ; Furious ' star Paul Walker,Hollywood star Paul Walker,SPE1,4,SPE1,"Based on the given chunks, the label is SPE1."
+one-child policy,of one-child policy,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,formalizes,NOALI,0,NOALI,"Based on the given information, since Chunk 1 is [-not aligned-] and Chunk 2 is [formalizes], they do not have a semantic relation to each other. 
+
+Label: NOALI"
+eases,easing,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+China,China,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Nobel Peace Prize,Nobel Peace prize,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+wins,wins,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Global chemical watchdog,Chemical weapons watchdog,SPE2,4,EQUI,"Based on the given chunks, the label is: EQUI"
+remanded,held,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+charged,charged,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in a block,in a block,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+A woman,A mother,SPE2,4,SPE1,"Based on the given chunks, the label is: SPE1"
+'s death,'s death,EQUI,5,SPE1,"Based on the given chunks, the label is: SPE1"
+has been remanded,has been remanded,EQUI,5,EQUI,Label: EQUI
+in custody,in custody,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+of flats.,of flats.,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Woman,Mother,SPE2,4,SPE2,"Based on the given chunks, the label is: SPE2"
+dead,dead,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+after an eight-year-old girl,after her eight-year-old daughter,SPE2,4,EQUI,"Based on the given chunks, the label is: EQUI"
+over child,over daughter,SPE2,4,SPE1,"Based on the given chunks, the label is: SPE1"
+with murder,with murder,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+was found,was found,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,in Istanbul,NOALI,0,NOALI,"Based on the given information, I would label the alignment as:
+
+NOALI
+
+This is because Chunk 1 is [-not aligned-], which indicates that it does not have a semantic relation to Chunk 2."
+at pro-Morsy protesters,at protesters,SPE1,4,SPE1,"Based on the given chunks, the label is SPE1."
+tear gas,teargas,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Police,Turkish police,SPE2,4,OPPO,"Based on the given chunks, the label is: OPPO"
+fire,fire,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+23,11 children,SPE2,2,SPE1,"Based on the given chunks, I would label the alignment as SPE1. 
+
+The reason is that ""23"" can be considered as a quantity or a number of people, and ""11 children"" is a phrase that describes a group of people. Therefore, the label SPE1 (Specifier 1) is appropriate, as it indicates that ""23"" is specifying or describing the quantity of people in ""11 children""."
+killed,killed,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in Iraq car bombings,in Syria bombings,SPE1,2,OPPO,"Based on the given chunks, the label is: OPPO"
+17:02,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 1: [17:02] and Chunk 2: [-not aligned-] are not semantically related, the label is:
+
+NOALI"
+in Pakistan,in Pakistan,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+"nine foreign tourists , guide",nine tourists,SPE2,4,EQUI,"Based on the given chunks, the label is: EQUI"
+Gunmen,Gunmen,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+kill,kill,EQUI,5,REL,"Based on the given chunks, the label is: REL"
+in Ukraine,in Lebanon,SIMI,3,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,:,NOALI,0,NOALI,NOALI
+-not aligned-,We,NOALI,0,SPE1,"Based on the given chunks, the label is SPE1."
+to hold,-not aligned-,NOALI,0,NOALI,NOALI
+vote,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,killed,NOALI,0,NOALI,NOALI
+Pro-Russia rebels,Syria rebels,SIMI,3,OPPO,"Based on the given chunks, the label is: OPPO"
+-not aligned-,Hezbollah men,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+criticizes,slams,SIMI,3,EQUI,"Based on the given chunks, the label is: EQUI"
+Twitter ban,Twitter ban,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Erdogan,Erdogan,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+after lifting,for lifting,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+court ruling,top court,REL,4,EQUI,"Based on the given chunks, the label is: EQUI"
+in History,in History,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+",",-not aligned-,NOALI,0,NOALI,NOALI
+Today,Today,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,",",NOALI,0,NOALI,NOALI
+Jan. 24,April 4,SIMI,3,OPPO,"Based on the given chunks, the label would be: OPPO
+
+The reason is that ""Jan. 24"" and ""April 4"" are two dates that are in opposition to each other, with ""Jan. 24"" being earlier than ""April 4""."
+-not aligned-,US Senate,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI"
+to lead the Federal Reserve,as US Federal Reserve chief,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+to become,-not aligned-,NOALI,0,NOALI,"Since Chunk 2 is [-not aligned-], it means there's no semantic relation between the two chunks. 
+
+Label: NOALI"
+-not aligned-,confirms,NOALI,0,NOALI,NOALI
+Janet Yellen,Janet Yellen,EQUI,5,EQUI,EQUI
+first woman,-not aligned-,NOALI,0,NOALI,NOALI
+water cannon,"teargas , water cannon",SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+Police,Police,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+as India gang-rape protest,at Istanbul protesters,SIMI,2,NOALI,"Based on the given chunks, I would label the alignment as: NOALI
+
+The reason is that the two chunks are not semantically related to each other. The first chunk is about a protest in India, while the second chunk is about protesters in Istanbul. There is no clear connection between the two."
+use,fire,SIMI,4,EQUI,"Based on the given chunks, the label is: EQUI"
+violent,-not aligned-,NOALI,0,NOALI,NOALI
+turns,-not aligned-,NOALI,0,NOALI,Label: NOALI
+0.2 pct.,up 0.2 percent,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+spending,spending,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+US consumers,Consumer,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+last month,in May,SPE2,2,SPE2,"Based on the given chunks, the label is: SPE2"
+boost,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,use,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,Probe,NOALI,0,NOALI,NOALI
+'s Rouhani,-not aligned-,NOALI,0,NOALI,NOALI
+Iran,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+in Syria,in Syria,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+chemical weapons,of chemical weapons,EQUI,5,SPE1,"Based on the given chunks, the label is SPE1."
+admits,alleged,SIMI,4,NOALI,"Based on the given chunks, the label is: NOALI"
+killed,-not aligned-,NOALI,0,NOALI,NOALI
+people,-not aligned-,NOALI,0,NOALI,NOALI
+Britain,UK,EQUI,5,SIMI,"Based on the given chunks, the label is: SIMI"
+' exploratory ' surgery,hospitalized,REL,4,SPE2,"Based on the given chunks, I would label the alignment as: SPE2
+
+The reason is that ' exploratory ' surgery is a type of medical procedure that can lead to a patient being hospitalized, which is a consequence or a result of the surgery. Therefore, the relation between the two chunks is SPE2 (Specifically)."
+'s Prince Philip,'s Prince Philip,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+set for,-not aligned-,NOALI,0,NOALI,NOALI
+in Canada,near Baltimore,SIMI,3,NOALI,"Based on the given chunks, the label is: NOALI"
+Huge explosion,Huge explosion,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+after oil train,as freight train,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+derails,derails,EQUI,5,OPPO,"Based on the given chunks, the label is: OPPO"
+NATO soldier,Four soldiers,SPE1,2,SPE2,"Based on the given chunks, the label is SPE2."
+in Taliban attack,in Yemen,REL,3,NOALI,"Based on the given chunks, the label is: NOALI"
+killed,killed,EQUI,5,EQUI,EQUI
+in Ukraine,in Syria,SIMI,3,OPPO,"Based on the given chunks, the label is: OPPO"
+released,kidnapped,OPPO,4,OPPO,"Based on the given chunks, the label is: OPPO"
+Red Cross workers,Red Cross members,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,',NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,over $100 billion,NOALI,0,NOALI,Label: NOALI
+Iran,Iran,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+leaves,-not aligned-,NOALI,0,NOALI,NOALI
+for Kazakhstan,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,',NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,Tehran,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as:
+
+Label: NOALI"
+-not aligned-,has cost,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI"
+'s nuclear negotiating team,'s nuclear quest,REL,4,SPE1,"Based on the given chunks, the label is: SPE1"
+Myanmar,-not aligned-,NOALI,0,NOALI,NOALI
+44,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, Chunk 1: [44] and Chunk 2: [-not aligned-], I would label the alignment as NOALI."
+-not aligned-,Warns,NOALI,0,NOALI,"Based on the given information, I would label the alignment as:
+
+ Label: NOALI"
+-not aligned-,Strikes,NOALI,0,NOALI,"Based on the given information, I would label the alignment as:
+
+Label: NOALI"
+-not aligned-,Could Worsen,NOALI,0,NOALI,"Based on the given information, I would label the alignment as:
+
+NOALI
+
+This is because Chunk 1 is [-not aligned-], which indicates that it is not aligned with Chunk 2."
+over sectarian violence,Sectarian Violence,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+arrests,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Ban,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,Syria,NOALI,0,NOALI,"Based on the given information, I would label the alignment as:
+
+NOALI
+
+This is because Chunk 1 is [-not aligned-], indicating that it does not have a semantic relation to Chunk 2."
+Unveils,Unveils,EQUI,5,EQUI,EQUI
+Google,Google,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Prototype Self-Driving Car,Concept Self-Driving Car,SPE1,4,SPE1,"Based on the given chunks, the label is: SPE1"
+-not aligned-,to Restart,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,as Part,NOALI,0,NOALI,"Based on the given information, I would label the alignment as:
+
+NOALI
+
+This is because the first chunk is [-not aligned-], which indicates that it is not aligned with the second chunk."
+over Kerry talks,Peace Talks,SPE1,4,REL,"Based on the given chunks, the label is: REL"
+Palestinian prisoners,104 Palestinian Prisoners,SPE2,4,EQUI,"Based on the given chunks, the label would be EQUI."
+to free,to Free,EQUI,5,SPE2,"Based on the given chunks, the label is: SPE2"
+Israel,Israel,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,of Possible Deal,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,Agrees,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Chemical Arms Team,UN Chemical Arms Experts,SPE2,4,SPE1,"Based on the given chunks, the label is: SPE1"
+to Begin Talks,To Visit,REL,3,REL,"Based on the given chunks, I would label the alignment as: REL
+
+The reason is that ""to Begin Talks"" and ""To Visit"" are related to each other as they are both actions or events that can be performed by a person or entity, and they seem to be connected in a hierarchical or sequential manner. The label REL suggests a relationship between the two chunks, which is consistent with this interpretation."
+With Syria,Syria,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+president 's speech,presidential elections,REL,3,SPE1,"Based on the given chunks, the label is: SPE1"
+Egypt,Pakistan,SIMI,3,NOALI,"Based on the given chunks, the label would be: NOALI"
+criticizes,boycotts,SPE2,3,REL,"Based on the given chunks, the label is: REL"
+'s opposition,'s opposition party,EQUI,5,REL,"Based on the given chunks, the label is: REL"
+Vodafone UK chief Guy Laurence,Vodafone UK chief,SPE1,4,SPE2,"Based on the given chunks, the label is: SPE2"
+Rogers,Rogers,EQUI,5,EQUI,"Based on the given information, since the two chunks are the same, the label would be EQUI."
+hires,names,SIMI,4,SPE1,"Based on the given chunks, the label is: SPE1"
+as CEO,as new CEO,SPE2,4,EQUI,Label: EQUI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+One dead,One dead,EQUI,5,EQUI,Label: EQUI
+at PNG immigration centre,at Papua New Guinea immigration centre,EQUI,5,SPE1,"Based on the given chunks, the label is: SPE1"
+77 hurt,77 hurt,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in riot,in riot,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+pro-Mursi camps,pro-Morsi camps,EQUI,5,EQUI,EQUI
+15 dead,15 killed,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+disperse,clear,EQUI,5,OPPO,"Based on the given chunks, the label is: OPPO"
+as Egypt police,as Egyptian forces,EQUI,5,OPPO,"Based on the given chunks, the label is: OPPO"
+-not aligned-,in Cairo,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+-not aligned-,',NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+-not aligned-,',NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Survives,survives,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Syrian PM,Syrian PM,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,in capital,NOALI,0,SPE1,"Based on the given chunks, I would label the alignment as:
+
+Label: SPE1
+
+Explanation: The chunk ""in capital"" is a prepositional phrase that indicates the location of something, which is a typical characteristic of a specificational relation (SPE1)."
+Bomb Attack,bomb attack,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,test,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+' breakthrough ' guided missile,of ' breakthrough ' guided missile,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+North Korea,N. Korea,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+claims,hails,EQUI,5,SPE1,"Based on the given chunks, the label would be: SPE1"
+:,-not aligned-,NOALI,0,NOALI,NOALI
+India Ink,India Ink,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+:,-not aligned-,NOALI,0,NOALI,NOALI
+February 25,January 27,SIMI,3,OPPO,"Based on the given chunks, the label is: OPPO"
+-not aligned-,:,NOALI,0,NOALI,NOALI
+of the Day,of the Day,EQUI,5,SPE1,"Based on the given chunks, the label is SPE1."
+-not aligned-,:,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Image,Image,EQUI,5,EQUI,"Based on the given information, since both chunks are the same, the label would be EQUI."
+;,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,top,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+over,-not aligned-,NOALI,0,NOALI,Label: NOALI
+death toll,Bangladesh collapse deaths,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+"1,127",620,SIMI,3,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+Bangladesh collapse search,Bangladesh collapse deaths,REL,4,EQUI,"Based on the given chunks, the label would be: EQUI
+
+The reason is that both chunks are related to the same event or topic, which is the Bangladesh collapse. They are referring to the same thing, but with different aspects (search and deaths). This is an example of equivalence, where two chunks are related to the same entity or concept."
+criticizes,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 2 is [-not aligned-], it does not have any semantic relation to Chunk 1. 
+
+Label: NOALI"
+'s opposition party chief,'s opposition MDC party,REL,2,SPE2,"Based on the given chunks, the label is SPE2."
+Japan,Zimbabwe,SIMI,3,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,'s election win,NOALI,0,NOALI,NOALI
+Abe,Robert Mugabe,SIMI,3,OPPO,"Based on the given chunks, I would label the alignment as OPPO. 
+
+The reason is that Abe and Robert Mugabe are political leaders who have been known to have opposing views or relationships, making them opposites."
+'s economic policies,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,challenges,NOALI,0,NOALI,NOALI
+ahead,leading,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in Afghanistan election race,in Afghan presidential elections,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Abdullah,Abdullah,EQUI,5,EQUI,EQUI
+southwest Pakistan,southern Pakistan,SIMI,4,OPPO,"Based on the given chunks, the label is: OPPO"
+rocks,hits,EQUI,5,OPPO,"Based on the given chunks, the label is: OPPO"
+New major earthquake,Moderate earthquake,SPE1,3,OPPO,"Based on the given chunks, the label is: OPPO"
+throws,-not aligned-,NOALI,0,NOALI,NOALI
+into political crisis,in crisis,SPE1,4,SIMI,"Based on the given chunks, the label is: SIMI"
+Italy,Italy gov 't,SPE2,4,SPE1,"Based on the given chunks, the label would be SPE1."
+' announcement,-not aligned-,NOALI,0,NOALI,NOALI
+of resignation,resign,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Berlusconi party ministers,Berlusconi ministers,EQUI,5,SPE1,"Based on the given chunks, the label would be: SPE1"
+-not aligned-,;,NOALI,0,NOALI,NOALI
+-not aligned-,"""",NOALI,0,NOALI,"Since Chunk 1 is [-not aligned-] and Chunk 2 is [""], they are not related to each other. 
+
+Label: NOALI"
+asylum,humanitarian asylum,SPE2,4,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,"""",NOALI,0,NOALI,"Based on the given information, I will label the alignment of the pair of chunks.
+
+Since Chunk 1 is [-not aligned-] and Chunk 2 is [""], they do not have any semantic relation to each other. Therefore, the label is:
+
+NOALI"
+offer,offers,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+to Snowden,to Snowden,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+"Nicaragua , Venezuela",Venezuela,SPE2,4,OPPO,"Based on the given chunks, the label is: OPPO"
+17 govt employees,78,SPE1,2,SIMI,"Based on the given chunks, the label is: SIMI"
+-not aligned-,At least,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+in Pakistan bus bombing,in Pakistan church bombing,SIMI,3,OPPO,"Based on the given chunks, I would label the alignment as:
+
+Label: OPPO
+
+The reason is that the two chunks are related to bombings in Pakistan, but one is a bus bombing and the other is a church bombing, which implies an oppositional relationship between the two events."
+killed,killed,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in Bangkok shooting,in US school shooting,SPE2,2,OPPO,OPPO
+Two hurt,Two hurt,EQUI,5,EQUI,Label: EQUI
+in Jordan Valley,in West Bank attack,SPE2,2,REL,"Based on the given chunks, I would label the alignment as: REL
+
+The reason is that the two chunks are semantically related to each other, with the first chunk providing a location and the second chunk describing an event that occurred in that location."
+killed,killed,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Israel colonel,Israeli,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+prominent atheist blogger,3 atheist bloggers,SPE2,3,SPE2,"Based on the given chunks, the label is SPE2."
+arrest,arrest,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Bangladesh police,Bangladesh police,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Cannes hotel raid,in Cannes,REL,4,SPE2,"Based on the given chunks, I would label the alignment as: SPE2
+
+The reason is that ""Cannes hotel raid"" is a specific event, and ""in Cannes"" is a location where the event took place. This is similar to the example where Chunk 1: [found], Chunk 2: [charged], Label: SPE2."
+nets,stolen,SIMI,4,OPPO,"Based on the given chunks, the label is: OPPO"
+€40 million gems,Jewels worth €40m,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+Slams,-not aligned-,NOALI,0,NOALI,NOALI
+Delays,on standby,REL,3,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,Ten Chinese vessels,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Chinese News Agency,-not aligned-,NOALI,0,NOALI,NOALI
+in Search for Jet,for jet search,EQUI,5,SPE1,"Based on the given chunks, the label is: SPE1"
+without opposition,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,move,NOALI,0,NOALI,"Based on the given information, since Chunk 1 is not aligned with Chunk 2, the label should be:
+
+NOALI"
+says,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,closer to intervention,NOALI,0,REL,"Based on the given chunks, I would label the alignment as:
+
+Label: REL
+
+Explanation: The first chunk is [-not aligned-], which is not aligned with any information. The second chunk is [closer to intervention], which implies a relation to the first chunk, suggesting that the first chunk is a precursor or a condition for the second chunk. This indicates a relational semantic alignment between the two chunks."
+no peace talks,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,:,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,west,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,Cameron and Obama,NOALI,0,SPE2,"Based on the given chunks, the label is: SPE2"
+Syria envoy,Syria,REL,4,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,was,NOALI,0,SPE1,"Based on the given chunks, the label is: SPE1"
+-not aligned-,',NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,Griff Rhys Jones,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI"
+-not aligned-,:,NOALI,0,NOALI,"Based on the given information, I would label the alignment as:
+
+NOALI
+
+This is because Chunk 1 and Chunk 2 are not semantically related to each other."
+a comedy favourite,-not aligned-,NOALI,0,NOALI,NOALI
+UK,-not aligned-,NOALI,0,NOALI,NOALI
+dead,a force for life,REL,3,EQUI,"Based on the given chunks, the label is: EQUI"
+and,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 2 is [-not aligned-], it means there is no alignment between the two chunks. 
+
+Label: NOALI"
+-not aligned-,',NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+Mel Smith,Mel Smith,EQUI,5,EQUI,EQUI
+mourns,-not aligned-,NOALI,0,NOALI,NOALI
+at 60,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Driver of crashed Spanish train,Spanish train driver,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+held,held,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+of negligent homicide,of negligent homicide,EQUI,5,EQUI,Label: EQUI
+on suspicion,on suspicion,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in Iraq,in Iraq,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+against military intervention,against US military interference,SPE2,4,OPPO,"Based on the given chunks, the label is: OPPO"
+-not aligned-,FM Spokeswoman,NOALI,0,SPE1,"Based on the given information, I would label the alignment as SPE1."
+-not aligned-,:,NOALI,0,NOALI,"Since Chunk 1 and Chunk 2 are not aligned, the label is NOALI."
+Iran,Iran,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+warns,-not aligned-,NOALI,0,NOALI,NOALI
+to 51,63,SIMI,3,NOALI,"Based on the given chunks, the label is: NOALI"
+Death toll,Death toll,EQUI,5,EQUI,EQUI
+rises,hits,EQUI,5,OPPO,"Based on the given chunks, the label is: OPPO"
+in Latvian supermarket collapse,in Mumbai building collapse,SPE1,3,NOALI,"Based on the given chunks, the label is: NOALI"
+Defence,Defence,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+of scapegoating,of scapegoating,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in South Korea ferry trial,in ferry trial,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+warns,warns,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+arrested,arrested,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+during march,on way,SIMI,4,SIMI,"Based on the given chunks, the label is: SIMI"
+to Woolwich,to Woolwich,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+EDL leaders,EDL leaders,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+"nine foreign tourists , guide","9 foreign tourists , 1 Pakistani",SIMI,4,SPE2,"Based on the given chunks, the label is SPE2. 
+
+The reason is that both chunks are referring to the same entity (tourists/guide and tourists/Pakistani) but with different attributes. This is a characteristic of the SPE2 label, which is used to indicate that two chunks are referring to the same entity but with different specifications."
+kill,kill,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Gunmen,Gunmen,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in Pakistan,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,announces,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+general election,of February general election,SPE2,4,REL,"Based on the given chunks, the label is: REL"
+to boycott,boycott,EQUI,5,OPPO,"Based on the given chunks, the label is: OPPO"
+Thai opposition party,Thailand 's opposition Democrat Party,SPE2,4,SPE1,"Based on the given chunks, the label would be SPE1. 
+
+The reason is that both chunks refer to the opposition party in Thailand, but with slightly different wording. The first chunk is more general, while the second chunk is more specific. This suggests that the second chunk is a specific instance of the first chunk, which is a characteristic of the SPE1 relation."
+killing,-not aligned-,NOALI,0,NOALI,NOALI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+Syrian warplanes,Syria and Iran,REL,2,OPPO,"Based on the given chunks, the label would be: OPPO"
+strike,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+57,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,Step Up,NOALI,0,NOALI,"Based on the given information, I would label the alignment as:
+
+ Label: NOALI"
+reportedly,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Involvement,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI"
+in Iraq,in Iraq Conflict,REL,4,REL,"Based on the given chunks, I would label the alignment as: REL
+
+Explanation: The two chunks are related to each other as they both refer to the same location or context (""in Iraq"" and ""in Iraq Conflict"" are both related to Iraq). Therefore, the semantic relation between them is REL (Relation)."
+venue,Venue,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+changes,Changes,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Egypt,Egypt,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+for trial,for Trial,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+of ousted president,of Ousted President,EQUI,5,SPE2,"Based on the given chunks, the label is: SPE2"
+dies,dies,EQUI,5,EQUI,Label: EQUI
+Respected British interviewer David Frost,Broadcaster David Frost,SPE1,4,SPE1,"Based on the given chunks, the label is: SPE1"
+of a heart attack,-not aligned-,NOALI,0,NOALI,Label: NOALI
+killed,killed,EQUI,5,EQUI,EQUI
+in Syria,in Israeli raid,SPE2,3,OPPO,"Based on the given chunks, the label is: OPPO"
+Group,-not aligned-,NOALI,0,NOALI,NOALI
+7 Palestinians,Palestinian,SPE1,4,SPE2,"Based on the given chunks, the label is SPE2."
+:,-not aligned-,NOALI,0,NOALI,NOALI
+'s Benghazi,in Benghazi,EQUI,5,REL,"Based on the given chunks, the label is: REL"
+no casualties,None Hurt,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+",",-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+-not aligned-,Hits,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Car bomb,Car Bomb,EQUI,5,SPE1,"Based on the given chunks, the label is SPE1."
+at Swedish consulate,Swedish Consulate,EQUI,5,SPE1,"Based on the given chunks, the label is SPE1."
+in Libya,-not aligned-,NOALI,0,NOALI,NOALI
+six,4 militants,SPE2,3,OPPO,"Based on the given chunks, I would label the alignment as: OPPO
+
+The reason is that ""six"" and ""4"" are opposite in value, indicating an opposition relation."
+kills,kills,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in Pakistan,in Pakistan,EQUI,5,EQUI,EQUI
+US drone strike,U.S. drone,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+officials,-not aligned-,NOALI,0,NOALI,NOALI
+Earthquake,Earthquake,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+of 6.3 magnitude,of 6 magnitude,SIMI,4,EQUI,"Based on the given chunks, the label is: EQUI"
+off Indonesia island,Thailand,SIMI,3,NOALI,"Based on the given chunks, the label is: NOALI"
+strikes,strikes,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+leaves,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,at least,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+dozens,179,SPE2,4,EQUI,"Based on the given chunks, the label would be EQUI, as both chunks are referring to the same quantity."
+China quake,China quake,EQUI,5,SIMI,"Based on the given chunks, the label is: SIMI"
+dead,kills,EQUI,5,OPPO,"Based on the given chunks, the label would be: OPPO"
+'s new prince,'s new baby prince,EQUI,5,SPE2,"Based on the given chunks, the label is: SPE2"
+visits,meets,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Queen,Queen,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Britain,Britain,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Syria opposition,Syria opposition,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+pressed,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,frustration,NOALI,0,NOALI,Label: NOALI
+-not aligned-,voices,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI"
+to attend,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+talks,with international backers,REL,2,SPE1,"Based on the given chunks, the label is: SPE1"
+submits,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,signs,NOALI,0,NOALI,NOALI
+'s integration,to join,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+federal constitutional law,a treaty,REL,4,REL,"Based on the given chunks, the label is: REL"
+into Russia,Russia,EQUI,5,REL,"Based on the given chunks, the label is: REL"
+to State Duma,-not aligned-,NOALI,0,NOALI,NOALI
+on Crimea,for Crimea,EQUI,5,SPE2,"Based on the given chunks, the label is: SPE2"
+Putin,Putin,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Venezuela,Venezuela,EQUI,5,NOALI,"Based on the given chunks, the label is: NOALI"
+expels,Expels,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+three U.S. diplomats,3 U.S. Diplomats,EQUI,5,EQUI,"Based on the given chunks, the label is EQUI."
+after bloody week,after deadly clashes,SPE2,3,EQUI,"Based on the given chunks, the label is: EQUI"
+protest,defiant,REL,4,OPPO,"Based on the given chunks, the label is: OPPO"
+Egypt 's bruised Islamists,Egypt Islamists,SPE1,4,SPE2,"Based on the given chunks, I would label the alignment as: SPE2
+
+The reason is that Chunk 1: [Egypt 's bruised Islamists] is a more specific description of the Islamists in Egypt, while Chunk 2: [Egypt Islamists] is a more general term. This suggests that Chunk 1 is providing more specific information about the same entity mentioned in Chunk 2, which is a characteristic of the SPE2 (Specific-2) relation."
+N Korea,N. Korea,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+test-fires,fires,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+30 short-range missiles,short-range missiles,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+rises,rises,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+to nine,to 260,SIMI,1,SIMI,"Based on the given chunks, the label is: SIMI"
+Glasgow helicopter death toll,Earthquake death toll,SIMI,2,OPPO,"Based on the given chunks, the label is: OPPO"
+mixed,higher,SIMI,3,OPPO,"Based on the given chunks, the label is: OPPO"
+--,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,--,NOALI,0,NOALI,NOALI
+close,close,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Nov. 11,July 23,SIMI,3,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+Shanghai stock indices,Shanghai stock indices,EQUI,5,EQUI,EQUI
+Prince Charles,Prince Charles,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,',NOALI,0,NOALI,"Based on the given information, since Chunk 1 is [-not aligned-] and Chunk 2 is ['], it seems that there is no semantic relation between the two chunks. 
+
+Label: NOALI"
+',-not aligned-,NOALI,0,NOALI,NOALI
+Putin,Vladimir Putin,EQUI,5,SPE1,"Based on the given chunks, the label would be: SPE1"
+',-not aligned-,NOALI,0,NOALI,NOALI
+to Hitler,to Adolf Hitler,EQUI,5,SPE2,"Based on the given chunks, the label is: SPE2"
+-not aligned-,',NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+compares,compares,EQUI,5,SPE1,"Based on the given chunks, the label is: SPE1"
+retakes,retakes,EQUI,5,EQUI,EQUI
+from rebels,-not aligned-,NOALI,0,NOALI,NOALI
+Crusader castle,historic Crusader castle,SPE2,4,EQUI,"Based on the given chunks, the label is: EQUI"
+Syrian army,Syrian army,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,Splintered,NOALI,0,NOALI,NOALI
+over peace talks,Ahead of Peace Talks,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Syrian opposition,Syrian Opposition,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+to meet,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Four Morsi supporters,of Morsi supporters,SPE1,4,SPE2,"Based on the given chunks, the label is: SPE2"
+in Egypt clashes,in Egypt,SPE1,4,SPE1,"Based on the given chunks, the label is: SPE1"
+-not aligned-,gather,NOALI,0,NOALI,"Based on the given information, I would label the alignment as:
+
+NOALI
+
+This is because Chunk 1 is [-not aligned-], which indicates that it does not have a semantic relation to Chunk 2."
+-not aligned-,Thousands,NOALI,0,NOALI,"Based on the given information, since Chunk 1 is [-not aligned-] and Chunk 2 is [Thousands], they do not have any semantic relation to each other. 
+
+Label: NOALI"
+killed,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+over Costa Concordia disaster,for costa concordia shipwreck disaster,SPE2,4,REL,"Based on the given chunks, the label is: REL"
+jailed,sentenced,REL,4,EQUI,"Based on the given chunks, the label is: EQUI"
+Five people,five men,SPE2,4,EQUI,"Based on the given chunks, the label would be EQUI."
+2020 Olympic Games,2020 Olympic Games,EQUI,5,EQUI,EQUI
+-not aligned-,wins,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,race,NOALI,0,NOALI,"Based on the given information, since Chunk 1 is not aligned with Chunk 2, the label should be:
+
+NOALI"
+Tokyo,Tokyo,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+to host,to host,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-,-not aligned-,NOALI,0,NOALI,NOALI
+Suicide bomber,Suicide bomb,REL,4,EQUI,"Based on the given chunks, the label is: EQUI"
+",",-not aligned-,NOALI,0,NOALI,NOALI
+13,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,'s Old City,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+in Afghan capital,in Syrian capital,SIMI,3,OPPO,"Based on the given chunks, the label is: OPPO"
+police,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 2 is [-not aligned-], it means there's no semantic relation between the two chunks. 
+
+Label: NOALI"
+kills,kills,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+eight,4,SIMI,3,SIMI,"Based on the given chunks, the label is: SIMI"
+wounds,-not aligned-,NOALI,0,NOALI,Label: NOALI
+Twelve,11,SIMI,4,OPPO,"Based on the given chunks, the label would be: OPPO"
+on Pakistani train,in northern Pakistan,REL,2,EQUI,"Based on the given chunks, I would label the alignment as: EQUI
+
+The reason is that ""on Pakistani train"" and ""in northern Pakistan"" are both related to the same event or location, and the relationship between them is one of equivalence or co-reference."
+-not aligned-,as bus,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI"
+-not aligned-,falls into,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,ravine,NOALI,0,NOALI,NOALI
+in bomb blast,-not aligned-,NOALI,0,NOALI,NOALI
+killed,killed,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+41,35,SIMI,4,EQUI,"Based on the given chunks, I would label the alignment as: EQUI
+
+The reason is that both chunks are numbers, indicating a similar or equivalent relationship."
+wounded,wounded,EQUI,5,EQUI,EQUI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+killed,killed,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in violent attacks,in wave of attacks,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+22,138,SIMI,2,EQUI,"Based on the given chunks, I would label the alignment as: EQUI"
+in Iraq,in Iraq,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,",",NOALI,0,NOALI,"Based on the given information, I would label the alignment as:
+
+Label: NOALI"
+advances,advances,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+against USD,against USD,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Tuesday,Wednesday,SIMI,3,OPPO,"Based on the given chunks, the label is: OPPO"
+China yuan,China yuan,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+to 6.2035,to 6.1408,SIMI,4,SIMI,"Based on the given chunks, the label is: SIMI"
+-not aligned-,slightly,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+final vote count,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,with his new job,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,to grips,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,gets,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+on his bike,-not aligned-,NOALI,0,NOALI,NOALI
+awaiting,-not aligned-,NOALI,0,NOALI,"Since Chunk 2 is [-not aligned-], it doesn't have any relation to Chunk 1. 
+
+Label: NOALI"
+New Australian PM Tony Abbott,Australian PM-elect Tony Abbott,EQUI,5,EQUI,"Based on the given chunks, the label would be: EQUI"
+Amazon,Amazon,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+new device for streaming video,new Fire TV streaming video box,SPE2,4,EQUI,"Based on the given chunks, the label would be: EQUI"
+launches,unveils,EQUI,5,OPPO,"Based on the given chunks, the label is: OPPO"
+Glasgow Helicopter Crash Search,Glasgow Helicopter Crash,REL,4,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,Woman PC,NOALI,0,SPE1,"Based on the given chunks, I would label the alignment as SPE1. 
+
+Explanation: The chunk ""Woman PC"" seems to be a specific instance of a more general term, which is ""PC"" (short for Police Constable). The label SPE1 is used to indicate that the second chunk is a specific instance or a more detailed description of the first chunk."
+-not aligned-,:,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as:
+
+Label: NOALI"
+-not aligned-,Is,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI"
+Ends,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Victim,NOALI,0,NOALI,NOALI
+evacuated,evacuated,EQUI,5,EQUI,Label: EQUI
+Thousands,Thousands,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in Moscow metro fire,after fire breaks out in Moscow Metro,EQUI,5,REL,"Based on the given chunks, I would label the alignment as: REL
+
+The reason is that both chunks are related to the same event (the fire in the Moscow metro), but they describe it from different perspectives (one describes the event itself, and the other describes the consequence of the event). This type of relationship is typically labeled as REL (or ""relation"") in semantic role labeling."
+for mass march,for mass rally,EQUI,5,SPE2,"Based on the given chunks, the label is: SPE2"
+against polls,-not aligned-,NOALI,0,NOALI,NOALI
+Bangladesh opposition,Bangladesh opposition,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+set,set,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+still,still,EQUI,4,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,Hunt,NOALI,0,NOALI,"Based on the given information, I would label the alignment as:
+
+NOALI
+
+This is because Chunk 1 is [-not aligned-], which indicates that it does not have a semantic relation to Chunk 2."
+40 missing,for 40 missing,EQUI,5,SPE2,"Based on the given chunks, the label is SPE2."
+-not aligned-,on,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+in Canadian train wreck,in Canada train blaze,SPE2,4,EQUI,"Based on the given chunks, I would label the alignment as: EQUI
+
+The reason is that both chunks mention a location (""Canada"" or ""Canadian"") and a type of event (""train wreck"" or ""train blaze""), indicating a similar or equivalent relationship between the two chunks."
+-not aligned-,in hospital,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Pat Rice,Arsenal great Rice,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Arsenal stars,Arsenal great Rice,REL,4,SPE2,"Based on the given chunks, the label is: SPE2"
+'s fight,-not aligned-,NOALI,0,NOALI,NOALI
+in support,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+against cancer,with cancer,EQUI,5,OPPO,"Based on the given chunks, the label is: OPPO"
+to wear,-not aligned-,NOALI,0,NOALI,NOALI
+T-shirts,-not aligned-,NOALI,0,NOALI,NOALI
+poised,-not aligned-,NOALI,0,NOALI,NOALI
+strike,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 2 is [-not aligned-], it means there is no semantic relation between the two chunks. 
+
+Label: NOALI"
+-not aligned-,too slick,NOALI,0,NOALI,NOALI
+Colombia,Colombia,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,for Greece,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI"
+three times,-not aligned-,NOALI,0,NOALI,NOALI
+Polar bear DNA,Polar bear study,SIMI,4,SPE1,"Based on the given chunks, the label is: SPE1"
+may help,may boost,EQUI,5,SIMI,"Based on the given chunks, the label is: SIMI"
+fight,fight,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+obesity,against obesity,EQUI,5,OPPO,"Based on the given chunks, the label is: OPPO"
+',-not aligned-,NOALI,0,NOALI,NOALI
+',-not aligned-,NOALI,0,NOALI,NOALI
+Fire in Russian psychiatric hospital,in Russian psychiatric hospital fire,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+38,38,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+kills,feared dead,SPE1,4,OPPO,"Based on the given chunks, the label is: OPPO"
+in west China,Italy,SIMI,2,NOALI,"Based on the given chunks, the label is: NOALI"
+opened,-not aligned-,NOALI,0,NOALI,NOALI
+World,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 1 and Chunk 2 are not aligned, the label is:
+
+NOALI"
+-not aligned-,'s centre-left splinters,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+'s largest building,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 2 is [-not aligned-], it does not have any relation to Chunk 1. 
+
+Label: NOALI"
+-not aligned-,in presidential vote,NOALI,0,NOALI,NOALI
+-not aligned-,raze,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+not to release,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Israel,Israeli authorities,REL,4,SPE1,"Based on the given chunks, the label is SPE1."
+-not aligned-,in Arraba,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Palestinian prisoners,Palestinian home,REL,2,REL,"Based on the given chunks, the label would be REL."
+"100,000",-not aligned-,NOALI,0,NOALI,NOALI
+Volcano erupts,Volcanic eruption,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+evacuated,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-,-not aligned-,NOALI,0,NOALI,NOALI
+closed,closes,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in Indonesia,-not aligned-,NOALI,0,NOALI,NOALI
+and,-not aligned-,NOALI,0,NOALI,NOALI
+airports,3 airports,SPE2,4,EQUI,"Based on the given chunks, the label is: EQUI"
+Search,Search,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+for Malaysia jet,for Missing Malaysian Jet,SPE2,4,EQUI,"Based on the given chunks, the label is: EQUI"
+resumes,Resumes,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+to 6.1651,to 6.1696,SIMI,4,EQUI,"Based on the given chunks, the label is: EQUI"
+China yuan,China yuan,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Tuesday,Thursday,SIMI,3,OPPO,"Based on the given chunks, the label is: OPPO"
+weakens,strengthens,OPPO,4,OPPO,OPPO
+against USD,against USD,EQUI,5,EQUI,EQUI
+-not aligned-,Embark,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+in prayer and song,of ' Prayer and Reflection ',SIMI,4,SPE1,"Based on the given chunks, I would label the alignment as:
+
+SPE1
+
+This is because ""in prayer and song"" is a specific instance of ""of 'Prayer and Reflection'"", indicating a part-whole relationship, which is characteristic of the SPE1 label."
+unites,-not aligned-,NOALI,0,NOALI,"Since Chunk 2 is [-not aligned-], it means there is no semantic relation between the two chunks. 
+
+Label: NOALI"
+South Africa,South Africans,EQUI,5,SPE1,"Based on the given chunks, the label is SPE1."
+-not aligned-,on Day,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+for Mandela,for Mandela,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,Royal visit,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI"
+Australian parliament video,Parliament in Canberra tour,REL,2,SPE1,"Based on the given chunks, the label would be SPE1. 
+
+The reason is that the first chunk ""[Australian parliament video]"" is a specific instance of the second chunk ""[Parliament in Canberra tour]"", which is a general concept. The first chunk provides more specific information about the location and type of parliament tour, making it a specific example of the second chunk."
+addresses,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,:,NOALI,0,NOALI,"Based on the given information, since Chunk 1 and Chunk 2 are not aligned semantically, the label would be:
+
+NOALI"
+-not aligned-,visit,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Prince William,Prince William and Catherine,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+charged,charged,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in 2007 Bhutto assassination,in Bhutto death,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+Fromer Pakistani army chief Musharraf,Former Pakistan army chief,SPE1,4,SPE2,"Based on the given chunks, I would label the alignment as SPE2. 
+
+The reason is that both chunks are referring to the same entity, ""Former Pakistan army chief"", but with slightly different descriptions. The first chunk provides more specific information about the entity, mentioning ""Musharraf"", while the second chunk is more general. This is consistent with the SPE2 label, which indicates that the chunks are referring to the same entity with different specifications."
+5 Dead,Death toll 42,SIMI,2,EQUI,"Based on the given chunks, the label is: EQUI"
+in India Building Collapse,in India building collapse,EQUI,5,EQUI,"Chunk 1: [in India Building Collapse], Chunk 2: [in India building collapse], Label: EQUI"
+-not aligned-,hits,NOALI,0,NOALI,NOALI
+Launches,launches,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Egypt,Egypt,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Offensive,offensive,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Against Sinai Militants,against Sinai insurgents,SIMI,4,EQUI,"Based on the given chunks, the label is: EQUI"
+warns,-not aligned-,NOALI,0,NOALI,Label: NOALI
+of ' heavy price ',-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,over arming,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Syrian rebels,Syrian rebels,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+for backing,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,at war,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Assad,Cabinet,REL,4,REL,"Based on the given chunks, the label is: REL"
+Turkey,-not aligned-,NOALI,0,NOALI,NOALI
+from Jan 20,Jan 20,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+on Iran nuclear drive,Iran nuclear drive,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Deal,Deal,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,curbing,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI"
+-not aligned-,to take effect,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+after protest,-not aligned-,NOALI,0,NOALI,NOALI
+against Nigel Farage,Kerry,SIMI,2,SPE2,"Based on the given chunks, I would label the alignment as SPE2. 
+
+The reason is that ""against Nigel Farage"" is a prepositional phrase indicating opposition, and ""Kerry"" is a proper noun. The relation between them is that ""Kerry"" is the object of the preposition ""against"", which is a typical semantic relation for SPE2 (Specific Entity 2)."
+made,-not aligned-,NOALI,0,NOALI,NOALI
+Two arrests,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,after latest intensive Mideast trip,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI
+
+Explanation: The first chunk is [-not aligned-], which indicates that it does not have any semantic relation to the second chunk."
+-not aligned-,vows,NOALI,0,NOALI,NOALI
+-not aligned-,progress,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+dies,dies,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+at 94,at 94,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Nobel author Doris Lessing,Nobel laureate Doris Lessing,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+after teen shot,after shooting,SPE1,4,EQUI,"Based on the given chunks, I would label the alignment as: EQUI
+
+The reason is that both chunks are referring to the same event or action, which is happening after a shooting. They are semantically equivalent."
+-not aligned-,",",NOALI,0,NOALI,NOALI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+held,arrested,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Man,Man,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in Belfast,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,40,NOALI,0,NOALI,"Based on the given chunks, Chunk 1: [-not aligned-], Chunk 2: [40], 
+
+Since Chunk 1 is [-not aligned-] and Chunk 2 is a number, they do not have a semantic relation. Therefore, the label is:
+
+NOALI"
+Iran,Iran,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,of diplomat,NOALI,0,NOALI,NOALI
+ups,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,rapid release,NOALI,0,NOALI,NOALI
+oil swap,-not aligned-,NOALI,0,NOALI,NOALI
+with eastern neighbors,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,urges,NOALI,0,NOALI,NOALI
+in Bhutto Assassination,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,for first time,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Pakistan,Pakistan,EQUI,5,REL,"Based on the given chunks, the label is: REL"
+'s Musharraf,'s Musharraf,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,arrives,NOALI,0,NOALI,"Based on the given information, since Chunk 1 is [-not aligned-] and Chunk 2 is [arrives], they do not have a semantic relation to each other. 
+
+Label: NOALI"
+Under Arrest,at court,REL,4,REL,"Based on the given chunks, the label is: REL"
+Baby Girl,Baby Girl,EQUI,5,EQUI,Label: EQUI
+Pit Bull Dog,Dog,SPE1,4,SPE1,"Based on the given chunks, the label is SPE1."
+In Blackburn,In Blackburn,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Kills,Mauls To Death,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,Keita,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI"
+stop,-not aligned-,NOALI,0,NOALI,NOALI
+Police,-not aligned-,NOALI,0,NOALI,Label: NOALI
+-not aligned-,Wins,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Maldives presidential election,Mali Presidential Election,SIMI,2,EQUI,"Based on the given chunks, the label is: EQUI"
+-,-not aligned-,NOALI,0,NOALI,NOALI
+10 Things,10 Things,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Today,for Tuesday,SPE2,3,SPE1,"Based on the given chunks, the label is: SPE1"
+to Know,to Know,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+one man,eleven,SPE1,2,EQUI,"Based on the given chunks, the label is: EQUI"
+'s Hama,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+kills,kills,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Air strike,US drone strike,SPE2,4,EQUI,"Based on the given chunks, the label would be: EQUI
+
+Explanation: The two chunks are semantically equivalent, referring to the same type of military attack."
+in Syria,in Pakistan,SIMI,3,OPPO,OPPO
+-not aligned-,',NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+in San Francisco plane crash,in San Francisco plane crash,EQUI,5,EQUI,EQUI
+',-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,were,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,',NOALI,0,NOALI,NOALI
+-not aligned-,Chinese,NOALI,0,NOALI,"Based on the given examples, I would label the alignment as:
+
+ Label: NOALI"
+-not aligned-,Two,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI"
+One unaccounted for,killed,SPE2,3,EQUI,"Based on the given chunks, the label is: EQUI"
+',-not aligned-,NOALI,0,NOALI,NOALI
+Japan,Japan,EQUI,5,EQUI,Label: EQUI
+to respect,-not aligned-,NOALI,0,NOALI,"Based on the given information, the label for the pair of chunks is: 
+
+NOALI"
+-not aligned-,to maintain,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+China,China,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+regional security concerns,regional peace,SIMI,4,EQUI,"Based on the given chunks, the label is: EQUI"
+urges,urges,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+2 Palestinian Militants,Palestinian militant,SPE1,4,SIMI,"Based on the given chunks, the label is: SIMI"
+-not aligned-,in raid,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Kill,kills,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Israel Forces,Israeli army,EQUI,5,REL,"Based on the given chunks, the label would be: REL"
+-not aligned-,nears,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+amid growing unrest,more violence,REL,4,OPPO,"Based on the given chunks, the label is: OPPO"
+-not aligned-,faces,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,end,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,as ultimatum,NOALI,0,NOALI,NOALI
+Ukraine talks,Ukraine,REL,3,REL,"Based on the given chunks, the label is: REL"
+continue,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 2 is [-not aligned-], it does not have any relation to Chunk 1. 
+
+Label: NOALI"
+in Cairo,in Cairo,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+tear gas,tear gas,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+fire,fire,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+at protesters,at protesters,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Egyptian police,Police,SPE1,4,EQUI,"Based on the given chunks, the label would be: EQUI"
+set,set,EQUI,5,EQUI,EQUI
+for democracy march,for huge democracy rally,SPE2,4,EQUI,"Based on the given chunks, I would label the alignment as:
+
+Label: EQUI
+
+The reason is that both chunks are related to the same concept of ""democracy march/rally"", but with slightly different wording. They seem to be expressing the same idea, which is a characteristic of EQUI (equivalent) alignment."
+Hong Kong,Hong Kong,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+"6,000 Cuban doctors","4,000 Cuban doctors",SIMI,3,EQUI,"Based on the given chunks, the label is: EQUI"
+to hire,hires,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in talks,-not aligned-,NOALI,0,NOALI,Label: NOALI
+Brazil,Brazil,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Kills,Death toll,REL,4,EQUI,"Based on the given chunks, the label is: EQUI"
+38,to 39,SIMI,4,EQUI,"Based on the given chunks, the label is: EQUI"
+Southern Italy Coach Crash,in Italy coach crash,SPE1,4,EQUI,"Based on the given chunks, the label would be: EQUI"
+-not aligned-,rises,NOALI,0,NOALI,NOALI
+Yemen officials,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 2 is [-not aligned-], it does not have a semantic relation to Chunk 1. 
+
+Label: NOALI"
+US drone,Yemen drone strike,SIMI,3,EQUI,"Based on the given chunks, the label is: EQUI"
+:,-not aligned-,NOALI,0,NOALI,NOALI
+2 militants,militants,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+kills,kills,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+injured,injured,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in multiple bus crash in Germany,in Germany bus crash,SPE1,4,REL,"Based on the given chunks, the label is: REL"
+-not aligned-,and,NOALI,0,NOALI,"Based on the given information, I would label the alignment as:
+
+Label: NOALI"
+Nine,Several,SPE1,3,OPPO,"Based on the given chunks, the label is: OPPO"
+more than 40,scores,SPE1,3,OPPO,"Based on the given chunks, I would label the alignment as: OPPO
+
+The reason is that ""more than 40"" implies a quantity that is greater than 40, while ""scores"" implies a quantity that is less than 40. Therefore, they are opposite in meaning."
+killed,killed,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+election for 7 September,Sept. 7 poll,EQUI,5,SPE2,"Based on the given chunks, the label is: SPE2"
+Australian PM Kevin Rudd,Australian PM Rudd,EQUI,5,SPE1,"Based on the given chunks, the label is: SPE1"
+calls,calls,EQUI,5,EQUI,"Based on the given information, the label for the pair of chunks [calls] and [calls] would be EQUI."
+in Cairo,Egypt,REL,4,EQUI,"Based on the given chunks, the label is: EQUI"
+with youth,with pro-Morsi protesters,SPE2,3,REL,"Based on the given chunks, the label is: REL"
+clash,clash,EQUI,5,EQUI,EQUI
+after anti-Morsi protest,-not aligned-,NOALI,0,NOALI,Label: NOALI
+Police,Police,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,:,NOALI,0,NOALI,NOALI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+Issues,issues,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Over Al Qaeda Threat,citing Qaeda threats,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Travel Alert,global alert,SPE1,4,SPE1,"Based on the given chunks, the label would be: SPE1"
+US,US,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Ships,-not aligned-,NOALI,0,NOALI,NOALI
+for Syrian Chemical Weapons Transport,Syrian Chemical Weapons Resolution,REL,4,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,UN,NOALI,0,NOALI,"Based on the given information, I would label the alignment as:
+
+Label: NOALI"
+-not aligned-,Adopts,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Train,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,US tourist,NOALI,0,NOALI,NOALI
+-not aligned-,gang-raped,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,:,NOALI,0,NOALI,NOALI
+Indian flood rescue,-not aligned-,NOALI,0,NOALI,Label: NOALI
+-not aligned-,Police,NOALI,0,NOALI,"Based on the given information, since Chunk 1 is [-not aligned-] and Chunk 2 is [Police], there is no semantic relation between them. 
+
+Label: NOALI"
+-not aligned-,in northern India,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+hampers,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 2 is [-not aligned-], it means there is no alignment between the two chunks. 
+
+Label: NOALI"
+More rain,-not aligned-,NOALI,0,NOALI,NOALI
+edge,close,SPE2,4,EQUI,"Based on the given chunks, the label is: EQUI"
+Aust shares,Aust shares,EQUI,5,EQUI,EQUI
+higher,higher,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,Syrian rebels,NOALI,0,NOALI,NOALI
+of Syria chemical weapons,of chemical weapons deal,REL,4,EQUI,"Based on the given chunks, the label would be: EQUI"
+"US , Russia",-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,skeptical,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+seizure,-not aligned-,NOALI,0,NOALI,NOALI
+agree on,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+' Fast undamp ; Furious ' star Paul Walker,Paul Walker Fast and Furious star,EQUI,5,SPE2,"Based on the given chunks, I would label the alignment as SPE2."
+dies,killed,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in car crash,in car crash,EQUI,5,EQUI,Label: EQUI
+-not aligned-,",",NOALI,0,NOALI,"Since both chunks are empty, they are not aligned. 
+
+Label: NOALI"
+-not aligned-,dead,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,:,NOALI,0,NOALI,NOALI
+-not aligned-,40,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,",",NOALI,0,NOALI,NOALI
+unchanged,at 0.5%,SPE2,3,EQUI,"Based on the given chunks, the label would be: EQUI"
+keeps,keeps,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+European Central Bank,European Central bank,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+rates,interest rate,SPE2,4,EQUI,"Based on the given chunks, the label is: EQUI"
+10,Five,SIMI,2,OPPO,"Based on the given chunks, the label would be OPPO. 
+
+The reason is that ""10"" and ""Five"" are opposites, as one is a large number and the other is a small number."
+in Philippine political violence,-not aligned-,NOALI,0,NOALI,Label: NOALI
+Gunmen,-not aligned-,NOALI,0,NOALI,NOALI
+kill,killed,EQUI,5,SPE2,"Based on the given chunks, the label is: SPE2"
+-not aligned-,in Philippines volcano eruption,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+in Iraq mosque bombing,in Iraq mosque bombing,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+77,-not aligned-,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI"
+-not aligned-,At least,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+wounded,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+24,18,SIMI,3,SPE1,"Based on the given chunks, I would label the alignment as SPE1."
+killed,killed,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,rises,NOALI,0,NOALI,NOALI
+as Kenya mall standoff,as Kenya mall siege,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Islamists,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+some 30 hostages,Death toll,REL,2,EQUI,"Based on the given chunks, the label is: EQUI"
+still,-not aligned-,NOALI,0,NOALI,NOALI
+continues,continues,EQUI,5,EQUI,EQUI
+holding,-not aligned-,NOALI,0,NOALI,NOALI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+Heavy smog,Heavy Smog,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+flights,Flights,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+north China city,North China City,EQUI,5,EQUI,"Based on the given chunks, the label would be: EQUI"
+-not aligned-,",",NOALI,0,NOALI,NOALI
+hits,Hits,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI
+
+The reason is that both chunks contain the same word (""hits"" and ""Hits"") which indicates an equivalence relation."
+cancelled,Canceled,EQUI,5,EQUI,"Based on the given chunks, the label would be EQUI. 
+
+The reason is that both chunks contain the same word, but with different capitalization. This suggests that they are referring to the same entity or concept, and the difference in capitalization is likely due to a minor formatting difference rather than a semantic difference."
+-not aligned-,tries,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+state media,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 2 is [-not aligned-], it does not have a semantic relation to Chunk 1. 
+
+Label: NOALI"
+gets,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+therapy,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+:,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,to break,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: 
+
+NOALI"
+-not aligned-,election stalemate,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+after stroke,-not aligned-,NOALI,0,NOALI,NOALI
+Algeria president,Bulgarian president,SIMI,3,OPPO,"Based on the given chunks, the label is: OPPO"
+says,-not aligned-,NOALI,0,NOALI,"Based on the given examples, I would label the alignment of the pair of chunks as:
+
+Label: NOALI"
+Iran,Iran,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+ready,-not aligned-,NOALI,0,NOALI,Label: NOALI
+for fresh round,renews support,REL,2,SPE2,"Based on the given chunks, I would label the alignment as: SPE2
+
+The reason is that both chunks are related to the same entity or concept, ""support"", but with different forms or aspects. ""For fresh round"" implies a renewal or continuation of support, while ""renews support"" explicitly states the renewal of support. This suggests a semantic relation of SPE2, which indicates a similar or identical entity with different forms or aspects."
+of nuclear talks,for nuclear talks,EQUI,5,SPE2,"Based on the given chunks, the label is: SPE2"
+-not aligned-,'s Khamenei,NOALI,0,NOALI,NOALI
+23 Iraqi army recruits,13 Iraqi army recruits,SIMI,3,EQUI,"Based on the given chunks, the label is: EQUI"
+Suicide bomber,Suicide bomber,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+kills,kills,EQUI,5,EQUI,Label: EQUI
+-not aligned-,in Baghdad,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+Obama,Obama,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,To Meet,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI
+
+Explanation: Since Chunk 1 is [-not aligned-], it implies that there is no semantic relation between the two chunks."
+nominates,-not aligned-,NOALI,0,NOALI,NOALI
+new transportation secretary,Embattled Veterans Secretary,SIMI,2,OPPO,"Based on the given chunks, the label is: OPPO"
+-not aligned-,of 2013,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Philippines,the Philippines,EQUI,5,EQUI,Label: EQUI
+Super typhoon,Most powerful typhoon,SPE2,4,EQUI,"Based on the given chunks, the label would be: EQUI
+
+The reason is that both chunks describe the same entity (typhoon) with the same characteristics (super and most powerful), indicating an equivalence relationship."
+hits,hits,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Google,Google,EQUI,5,EQUI,"Based on the given information, the label for the pair of chunks is: EQUI"
+Nexus 5 phone,-not aligned-,NOALI,0,NOALI,NOALI
+releases,redesigns,REL,3,SIMI,"Based on the given chunks, the label is: SIMI"
+with Kit Kat,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,on PCs,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+-not aligned-,search results,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,on hunger strik,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Judge,U.S. judge,SPE2,4,EQUI,"Based on the given chunks, the label is: EQUI"
+OKs,approves,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+force-feeding California inmates,force-feeding Californian inmates,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+charged,arrested,REL,4,OPPO,"Based on the given chunks, the label is: OPPO"
+Ride operator,N.C. State Fair ride operator,SPE2,4,SPE2,"Based on the given chunks, the label is SPE2."
+in N.C. fair accident,after accident,SPE1,4,EQUI,"Based on the given chunks, the label would be EQUI. 
+
+The reason is that both chunks are referring to the same event or situation, which is an accident, and they are describing it from different perspectives."
+Doubts,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Official,NOALI,0,NOALI,"Based on the given information, since Chunk 1 is [-not aligned-] and Chunk 2 is [Official], they are not semantically related. 
+
+Label: NOALI"
+"US , NATO",-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+from Ukraine Border,From Ukraine Border,EQUI,5,EQUI,"Based on the given chunks, the label would be: EQUI"
+-not aligned-,",",NOALI,0,NOALI,"Based on the given information, since Chunk 1 and Chunk 2 are not aligned, the label is:
+
+NOALI"
+-not aligned-,Says,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Russia Pulled Back,of Russian Withdrawal,SIMI,4,EQUI,"Based on the given chunks, the label would be: EQUI"
+Raise,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,No Sign,NOALI,0,NOALI,"Based on the given information, since Chunk 1 and Chunk 2 are not related to each other, the label would be:
+
+NOALI"
+gives,gives,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Early vote count in Iran,Iran vote count,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+reformer,Rowhani,SPE2,4,SPE2,"Based on the given chunks, I would label the alignment as SPE2. 
+
+The reason is that ""reformer"" and ""Rowhani"" are related as a subject and a proper noun referring to the same person, with ""Rowhani"" being a specific instance of the subject ""reformer"". This is similar to the example 3093) Chunk 1: [on new constitution], Chunk 2: [on divisive constitution], where the two chunks are related as a topic and a specific instance of the topic."
+wide lead,wide lead,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in sea transfer,-not aligned-,NOALI,0,NOALI,Label: NOALI
+asylum seekers,asylum-seekers,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,:,NOALI,0,NOALI,"Based on the given information, the label for the pair of chunks is: 
+
+NOALI"
+returns,hands back,EQUI,5,EQUI,"Based on the given chunks, the label would be: EQUI"
+to Sri Lanka,to Sri Lanka,EQUI,5,SPE2,"Based on the given chunks, the label is SPE2."
+Australia,Australia,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,Australia,NOALI,0,NOALI,Label: NOALI
+;,-not aligned-,NOALI,0,NOALI,NOALI
+Dead,dead,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Rage,rage,EQUI,5,EQUI,"Based on the given chunks, the label would be: EQUI"
+Overnight,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,;,NOALI,0,NOALI,"Based on the given information, I would label the alignment as:
+
+Label: NOALI"
+Lebanon Clashes,Lebanon clashes,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,near mosque,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI
+
+The reason is that Chunk 1 is [-not aligned-], which means it does not have any semantic relation to Chunk 2."
+12 Soldiers,16 soldiers,SIMI,3,OPPO,"Based on the given chunks, the label is: OPPO"
+with making 9/11 threats,over 9/11 threats,EQUI,5,SPE2,"Based on the given chunks, the label would be SPE2."
+Los Angeles airport worker,Los Angeles airport worker,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+charged,charged,EQUI,5,EQUI,EQUI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+multiple,five,SPE2,3,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,",",NOALI,0,NOALI,"Since Chunk 1 and Chunk 2 are not aligned, the label is NOALI."
+in Miami shooting,in Myrtle Beach shootings,SPE2,3,NOALI,"Based on the given chunks, I would label the alignment as: NOALI
+
+The reason is that the two chunks are not semantically related to each other, as they refer to different locations (Miami and Myrtle Beach) and events (shooting)."
+2,Three,SIMI,4,OPPO,"Based on the given chunks, the label is: OPPO"
+wounded,wounded,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+killed,killed,EQUI,5,EQUI,Label: EQUI
+on Indian Consulate,on Indian consulate,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in Attack,in attack,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Killed,killed,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in Afghanistan,in Afghan city,SPE2,4,EQUI,"Based on the given chunks, the label is: EQUI"
+9,12,SIMI,4,SIMI,"Based on the given chunks, the label is: SIMI"
+6 Killed,Five dead,SIMI,4,OPPO,"Based on the given chunks, the label is: OPPO"
+as Indonesia Volcano Erupts,in Indonesian eruption,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+by Hot Lava,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Friday,NOALI,0,NOALI,Label: NOALI
+weakens,strengthens,OPPO,4,OPPO,"Based on the given chunks, the label is: OPPO"
+against USD,against USD,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+to 6.1059,to 6.1070,SIMI,4,EQUI,"Based on the given chunks, the label is: EQUI"
+China yuan,China yuan,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+unity talks,at ' war,REL,2,OPPO,"Based on the given chunks, the label would be: OPPO"
+-not aligned-,Pope,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,arms,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI"
+Ukraine,in Syria,SIMI,3,NOALI,"Based on the given chunks, I would label the alignment as NOALI. 
+
+The reason is that ""Ukraine"" and ""in Syria"" do not have a direct semantic relation to each other, as ""Ukraine"" is a location and ""in Syria"" is a prepositional phrase indicating a location. They are not aligned in terms of meaning or context."
+-not aligned-,',NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+hosts,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,to sell,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+',-not aligned-,NOALI,0,NOALI,NOALI
+',-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,hits out,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+for Oil Refinery,for Iraq refinery,SPE2,3,REL,"Based on the given chunks, the label is: REL"
+"Iraqi Forces , Militants","Iraqi forces , militants",EQUI,5,EQUI,"Based on the given chunks, the label would be: EQUI"
+Battle,battle,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+',-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,of care delays,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+over halal meat,-not aligned-,NOALI,0,NOALI,NOALI
+no concerns,-not aligned-,NOALI,0,NOALI,NOALI
+Cameron,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,cover-up,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,Veterans health probe,NOALI,0,NOALI,NOALI
+-not aligned-,confirms,NOALI,0,NOALI,NOALI
+has,-not aligned-,NOALI,0,NOALI,NOALI
+',-not aligned-,NOALI,0,NOALI,NOALI
+nears,-not aligned-,NOALI,0,NOALI,NOALI
+arrested,arrested,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Bangladesh factory owners,Bangladesh factory owners,EQUI,5,SPE1,"Based on the given chunks, the label is: SPE1"
+as death toll,-not aligned-,NOALI,0,NOALI,NOALI
+350,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,on Wednesday,NOALI,0,NOALI,"Based on the given information, I would label the alignment of the pair of chunks as:
+
+Label: NOALI"
+to press,-not aligned-,NOALI,0,NOALI,NOALI
+how,-not aligned-,NOALI,0,NOALI,Label: NOALI
+EU foreign ministers,EU foreign ministers,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Egypt,Egypt,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+to discuss,to discuss,EQUI,5,EQUI,EQUI
+over bloodshed,-not aligned-,NOALI,0,NOALI,Label: NOALI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+-not aligned-,Dig in,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+-not aligned-,and,NOALI,0,NOALI,"Based on the given information, I would label the alignment as:
+
+Label: NOALI"
+crackdown threat,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Cairo protesters,In Cairo Camps Protesters,EQUI,5,EQUI,"Based on the given chunks, the label would be EQUI."
+defy,-not aligned-,NOALI,0,NOALI,"Since Chunk 2 is [-not aligned-], it means there is no alignment between the two chunks. 
+
+Label: NOALI"
+-not aligned-,Live On,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+in drone strike,-not aligned-,NOALI,0,NOALI,Label: NOALI
+killed,killed,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Six,12,SIMI,3,EQUI,"Based on the given chunks, the label is: EQUI"
+in N Waziristan,in Pakistan,SPE1,4,REL,"Based on the given chunks, the label is: REL"
+-not aligned-,in bus accident,NOALI,0,NOALI,"Based on the given information, I would label the alignment as:
+
+Label: NOALI"
+-not aligned-,warship,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+launches,-not aligned-,NOALI,0,NOALI,NOALI
+UN,UK,REL,4,OPPO,"Based on the given chunks, the label is: OPPO"
+US$300 mil. appeal,to aid,SPE1,3,SPE2,"Based on the given chunks, the label is: SPE2"
+for Philippines,Philippines,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,sends,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+N Korea,North Korea,EQUI,5,EQUI,"Based on the given information, the label for the pair of chunks is EQUI."
+family reunions,Family Reunions,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+postpones,Postpones,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+with South,with South,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+hails,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 1 is aligned with Chunk 2, but they are not semantically related, the label would be:
+
+NOALI"
+N. Korea,North Korea,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+of powerful uncle,of powerful uncle,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+execution,behind sacking,SIMI,2,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,seen,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI"
+'s Kim,'s Kim,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+sentenced,sentenced,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+to death,to death,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+married,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,frees,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI"
+a Christian man,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+for ' apostasy ',for apostasy,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Pregnant Sudan woman,Christian woman,SIMI,3,OPPO,"Based on the given chunks, the label would be: OPPO
+
+The reason is that the two chunks are contrasting or opposing each other, with the first chunk describing a pregnant Sudan woman and the second chunk describing a Christian woman, implying a contrast between the two."
+-not aligned-,Sudan,NOALI,0,NOALI,"Based on the given information, since Chunk 1 is [-not aligned-] and Chunk 2 is [Sudan], they do not have any semantic relation to each other. 
+
+Label: NOALI"
+who,Christian woman,SIMI,3,SPE2,"Based on the given chunks, the label is: SPE2"
+for help,to Act,SIMI,3,SPE1,"Based on the given chunks, I would label the alignment as:
+
+Label: SPE1
+
+Explanation: The chunks are referring to the same entity, but with different grammatical forms. ""For help"" is a prepositional phrase, while ""to Act"" is an infinitive phrase. They are referring to the same action or purpose, which is a characteristic of SPE1 (Same-Entity, Part-1)."
+-not aligned-,Kerry,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI
+
+Explanation: Since Chunk 1 is [-not aligned-], it implies that there is no semantic relation between the two chunks."
+Libya,-not aligned-,NOALI,0,NOALI,NOALI
+UN Security Council,UN Security Council,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,on Syria,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+asks,Calls On,SIMI,3,EQUI,"Based on the given chunks, the label is: EQUI"
+from Baghdad bombs,from Egypt clashes,SIMI,2,NOALI,"Based on the given chunks, the label is: NOALI"
+to 19,to 57,SIMI,2,SIMI,"Based on the given chunks, the label is: SIMI"
+rises,rises,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Death toll,Death toll,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in Syria,on Syria,EQUI,5,REL,"Based on the given chunks, the label is: REL"
+Says,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,EU,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,united,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+',-not aligned-,NOALI,0,NOALI,NOALI
+Responsibilities,-not aligned-,NOALI,0,NOALI,NOALI
+France,France,EQUI,5,REL,"Based on the given chunks, the label is: REL"
+-not aligned-,to be,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Won't ' Shirk,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,urges,NOALI,0,NOALI,"Based on the given information, I would label the alignment as:
+
+Label: NOALI"
+Boeing 777 plane,Plane,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+crash-lands,crash lands,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+at San Francisco airport,at San Francisco airport,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,of Crimea,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+EU,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+urges,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,the de-facto annexation,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,:,NOALI,0,NOALI,NOALI
+on Crimea,-not aligned-,NOALI,0,NOALI,Label: NOALI
+-not aligned-,This,NOALI,0,NOALI,"Based on the given information, since Chunk 1 and Chunk 2 are not aligned, the label is:
+
+NOALI"
+strong action,-not aligned-,NOALI,0,NOALI,NOALI
+to take,-not aligned-,NOALI,0,NOALI,NOALI
+Tymoshenko,Ukraine crisis,REL,4,NOALI,"Based on the given chunks, I would label the alignment as: NOALI
+
+The reason is that ""Tymoshenko"" and ""Ukraine crisis"" do not have a clear semantic relation to each other, making them not aligned."
+-not aligned-,is,NOALI,0,NOALI,"Based on the given information, since Chunk 1 is [-not aligned-] and Chunk 2 is [is], they do not have a semantic relation to each other. 
+
+Label: NOALI"
+for new show,on stage,REL,4,EQUI,"Based on the given chunks, the label is: EQUI"
+to reunite,to reunite,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Monty Python,Monty Python,EQUI,5,EQUI,EQUI
+turns,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,At least,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Record-setting Southwest heat wave,in Southwest heat wave,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+fatal,"1 dead , 40 hospitalized",REL,3,EQUI,"Based on the given chunks, the label would be EQUI. 
+
+The reason is that both chunks are describing the same event or situation, with the first chunk indicating that the event is fatal and the second chunk providing more details about the consequences of the event (1 dead, 40 hospitalized)."
+at S Carolina oceanfront motel,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+hurt,injured,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in shooting,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,in train collision,NOALI,0,NOALI,NOALI
+1,30,SIMI,2,EQUI,"Based on the given chunks, the label is: EQUI"
+",",-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,near Moscow,NOALI,0,NOALI,NOALI
+3 dead,4 dead,SIMI,4,SPE2,"Based on the given chunks, the label is: SPE2"
+-not aligned-,",",NOALI,0,NOALI,NOALI
+Nigerian leader,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as:
+
+Label: NOALI"
+to free,to free,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+orders,mounts,SIMI,2,REL,"Based on the given chunks, the label is: REL"
+push,Pressure,SIMI,3,OPPO,"Based on the given chunks, the label is: OPPO"
+abducted schoolgirls,kidnapped girls,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+religious motive,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,in hospital bed,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+seen,-not aligned-,NOALI,0,NOALI,NOALI
+charged,charged,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+;,-not aligned-,NOALI,0,NOALI,NOALI
+Boston bomb suspect,Boston bombing suspect,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Scores,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Turkey,NOALI,0,NOALI,"Based on the given information, since Chunk 1 is not aligned with Chunk 2, the label is:
+
+NOALI"
+-not aligned-,'s PM,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,Warns Against,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: 
+
+NOALI
+
+This is because Chunk 1 is [-not aligned-], which indicates that it is not aligned with Chunk 2."
+Killed,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 1: [Killed] and Chunk 2: [-not aligned-] are not semantically related, the label is:
+
+NOALI"
+In Egyptian Protests,Protests,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+higher,higher,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+0.56 pct,0.5 pct,SIMI,4,EQUI,"Based on the given chunks, the label is: EQUI"
+Taiwan stocks,Singapore stocks,SIMI,3,OPPO,"Based on the given chunks, the label would be: OPPO"
+close,close,EQUI,5,EQUI,EQUI
+Cypriot Finance Minister Michalis Sarris,Cyprus finance minister,SPE1,4,SPE2,"Based on the given chunks, the label is: SPE2"
+resigns,resigns,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+25 policemen,25 policemen,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+deepens,deepens,EQUI,5,EQUI,EQUI
+militants,as Sinai attack,SPE2,3,NOALI,"Based on the given chunks, the label is: NOALI"
+;,-not aligned-,NOALI,0,NOALI,NOALI
+kill,kills,EQUI,5,SPE1,"Based on the given chunks, the label is: SPE1"
+Egypt turmoil,Egypt 's turmoil,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+said,accused,SIMI,3,SPE1,"Based on the given chunks, the label is: SPE1"
+to pay off,of bribing,EQUI,5,OPPO,"Based on the given chunks, the label is: OPPO"
+' bunga bunga ' witnesses,witnesses in prostitution trial,SIMI,4,SPE1,"Based on the given chunks, the label is: SPE1"
+Berlusconi,Berlusconi,EQUI,5,SPE1,"Based on the given chunks, the label is: SPE1"
+finally,-not aligned-,NOALI,0,NOALI,NOALI
+for Apple,In A Multi-Platform World,REL,3,SPE1,"Based on the given chunks, I would label the alignment as SPE1. 
+
+Reason: The chunks seem to be referring to the same topic or concept, but with a slight variation in their wording. The first chunk ""[for Apple]"" is a specific instance or application of the second chunk ""[In A Multi-Platform World]"", which suggests a speaker's emphasis or a specific example being given. This is consistent with the SPE1 label, which indicates that the second chunk is a specific instance or example of the first chunk."
+unveils,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Microsoft Office,Microsoft And Office,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+'s iPad,-not aligned-,NOALI,0,NOALI,NOALI
+Glee star Cory Monteith,' Glee ' star Cory Monteith,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+dead,dead,EQUI,5,EQUI,"Since both chunks are the same, the label would be EQUI."
+in hotel room,-not aligned-,NOALI,0,NOALI,NOALI
+found,found,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in Canada,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+praises,-not aligned-,NOALI,0,NOALI,NOALI
+to render,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,detains,NOALI,0,NOALI,"Based on the given information, since Chunk 1 is [-not aligned-] and Chunk 2 is [detains], there is no semantic relation between them. 
+
+Label: NOALI"
+to Ukraine,-not aligned-,NOALI,0,NOALI,NOALI
+Russia,Russia,EQUI,5,NOALI,"Based on the given chunks, the label is: NOALI"
+idea,-not aligned-,NOALI,0,NOALI,NOALI
+rights assistance,-not aligned-,NOALI,0,NOALI,Label: NOALI
+-not aligned-,in Moscow raid,NOALI,0,NOALI,"Based on the given chunks, Chunk 1: [-not aligned-], Chunk 2: [in Moscow raid], 
+
+Since Chunk 1 is not aligned with Chunk 2, the label is: NOALI"
+-not aligned-,suspected Islamist militants,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+second suspect,Brothers,SPE1,2,SPE2,"Based on the given chunks, I would label the alignment as: SPE2
+
+The reason is that ""second suspect"" is a specific instance of ""Brothers"", where ""Brothers"" is a more general category. This is a typical example of a ""SPE2"" (Specific-Particular-Entity2) relation, where Chunk 1 is a specific instance of Chunk 2."
+in Mother,in Mother,EQUI,5,EQUI,EQUI
+'s Day parade shooting,'s Day parade shooting,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+arrest,arrested,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+New Orleans police,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+revolution,Muslim Brotherhood,REL,4,NOALI,"Based on the given chunks, the label is: NOALI"
+swamp,storm,SIMI,2,OPPO,"Based on the given chunks, the label would be: OPPO"
+to reclaim,-not aligned-,NOALI,0,NOALI,Label: NOALI
+-not aligned-,'s HQ,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI"
+-not aligned-,Egypt,NOALI,0,NOALI,NOALI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+streets,-not aligned-,NOALI,0,NOALI,NOALI
+Protesters,Protesters,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+end,open,OPPO,4,OPPO,"Based on the given chunks, the label is: OPPO"
+higher,higher,EQUI,5,NOALI,"Based on the given chunks, the label is: NOALI"
+Hong Kong stocks,Indian stocks,SIMI,3,NOALI,"Based on the given chunks, I would label the alignment as: NOALI
+
+The reason is that ""Hong Kong stocks"" and ""Indian stocks"" do not have a direct semantic relation to each other, they are not equivalent, opposite, similar, or related in a specific way. They are simply two different types of stocks from different locations, which makes them not aligned in a specific way."
+takes,took,SIMI,4,OPPO,"Based on the given chunks, the label is: OPPO"
+Poll,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,cocaine,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,',NOALI,0,NOALI,NOALI
+-not aligned-,',NOALI,0,NOALI,"Based on the given information, since Chunk 1 and Chunk 2 are not aligned semantically, the label would be:
+
+NOALI"
+Cory Booker,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,every day,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+:,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,for a decade,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,Nigella Lawson,NOALI,0,SPE1,"Based on the given information, I would label the alignment as: SPE1
+
+This is because the first chunk is [-not aligned-], which implies it's a reference or a mention of a person, and the second chunk is [Nigella Lawson], which is the actual name of the person being referred to. The label SPE1 indicates that the first chunk is a pronoun or a mention of a person, and the second chunk is the actual name of that person."
+for N.J. Senate,-not aligned-,NOALI,0,NOALI,NOALI
+early lead,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,',NOALI,0,NOALI,"Based on the given information, I would label the alignment as:
+
+Label: NOALI"
+Malaysian jet,jet,SPE1,4,SPE1,"Based on the given chunks, the label is: SPE1"
+Rebels,Rebels,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+by mistake,by mistake,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+',-not aligned-,NOALI,0,NOALI,NOALI
+downed,downed,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+',-not aligned-,NOALI,0,NOALI,NOALI
+U.S. officials,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 2 is [-not aligned-], it does not have any semantic relation to Chunk 1. 
+
+Label: NOALI"
+likely,likely,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,',NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+38,31,SIMI,4,SPE1,"Based on the given chunks, I would label the alignment as: SPE1
+
+The reason is that ""38"" and ""31"" are likely referring to the same entity or group, but with different forms (e.g., ""38"" might be a code or a number, while ""31"" is a number). The label SPE1 indicates that the two chunks are referring to the same entity or group, but with different pronouns or forms."
+"of bombings , shootings","of car bombs , other attacks",SPE2,3,EQUI,"Based on the given chunks, the label is: EQUI"
+Wave,Wave,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+kill,kill,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in Iraq,in Iraq,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,Prime time,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,:,NOALI,0,NOALI,NOALI
+on Syria,on Syria,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Didier Reynders,Obama,SIMI,3,SPE2,"Based on the given chunks, I would label the alignment as SPE2. 
+
+The reason is that the chunks are referring to two different individuals, and the second chunk is providing more specific information about the first chunk. This is a characteristic of the SPE2 label, which indicates that the second chunk is a specific instance or a more detailed description of the first chunk."
+-not aligned-,'s day,NOALI,0,NOALI,NOALI
+to know,to know,EQUI,5,EQUI,EQUI
+Tuesday,on Friday,SIMI,3,OPPO,"Based on the given chunks, the label is: OPPO"
+need,need,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+you,you,EQUI,5,SPE1,"Based on the given chunks, the label is: SPE1"
+5 things,5 things,EQUI,5,SPE1,"Based on the given chunks, the label is: SPE1"
+Mubarak 's release,Mubarak release,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+considers,orders,REL,3,OPPO,"Based on the given chunks, the label is: OPPO"
+Egyptian court,Egypt court,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in Gaza,in Gaza,EQUI,5,NOALI,"Based on the given chunks, the label is: NOALI"
+U.N. Security Council,U.N. Security Council,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+for humanitarian ceasefire,for Unconditional Cease-Fire,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+calls,Calls,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI
+
+The reason is that the two chunks are referring to the same thing, with the only difference being the capitalization of the first letter. This suggests that they are equivalent or identical, which is the definition of the EQUI label."
+-not aligned-,",",NOALI,0,NOALI,"Since Chunk 1 and Chunk 2 are not aligned, the label is NOALI."
+Pakistani Taliban chief Hakimullah Mehsud,Pakistani Taliban ' elect new chief ',SPE1,3,EQUI,"Based on the given chunks, the label would be: EQUI
+
+The reason is that both chunks are referring to the same event or entity, which is the Pakistani Taliban electing a new chief, and the first chunk is specifying the name of the chief, while the second chunk is specifying the action of electing a new chief."
+in drone strike,-not aligned-,NOALI,0,NOALI,Label: NOALI
+-not aligned-,' unprecedented ' revenge,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,vow,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI"
+killed,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 2 is [-not aligned-], it means there is no alignment between the two chunks. 
+
+Label: NOALI"
+Contained,contained,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+That,that,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Blaze,Arizona wildfire,SPE2,4,REL,"Based on the given chunks, the label is: REL"
+Now,now,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Killed,killed,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+19 Firefighters,19 Hotshots,SPE2,4,SPE2,"Based on the given chunks, the label is SPE2."
+Canada,Canadian government,EQUI,5,SPE2,"Based on the given chunks, the label would be: SPE2
+
+Explanation: The chunk ""Canada"" is a noun and the chunk ""Canadian government"" is a noun phrase that is related to the first chunk. The relation is that ""Canada"" is a subject or a part of the ""Canadian government"". This is a typical example of a ""SPE2"" (Specification) relation, where one chunk is a specific instance of the other."
+oil pipeline,controversial oil pipeline,SPE2,4,EQUI,"Based on the given chunks, the label is: EQUI"
+to the Pacific Coast,to Pacific,SPE1,4,SPE1,"Based on the given chunks, the label is: SPE1"
+approves,approves,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Leaves,hires,REL,4,SIMI,"Based on the given chunks, the label would be: SIMI"
+Man United,Man United,EQUI,5,EQUI,"Based on the given information, the label for the pair of chunks is: EQUI"
+as Manager,Ferguson,SPE2,4,SPE2,"Based on the given chunks, the label is SPE2."
+Moyes,Moyes,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Says,-not aligned-,NOALI,0,NOALI,Label: NOALI
+-not aligned-,to replace,NOALI,0,NOALI,NOALI
+of collapse,-not aligned-,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI"
+Syria opposition unity,Syria divided opposition,OPPO,4,OPPO,"Based on the given chunks, the label is: OPPO"
+-not aligned-,struggles,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+face specter,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,within wider Syrian struggle,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+take,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+",",-not aligned-,NOALI,0,NOALI,NOALI
+at 87,at 87,EQUI,5,EQUI,EQUI
+dead,dies,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+"Margaret Thatcher , former U.K. PM",Margaret Thatcher,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+extends,drops,SIMI,2,OPPO,"Based on the given chunks, the label is: OPPO"
+EU,Nigeria,REL,3,NOALI,"Based on the given chunks, the label is: NOALI"
+sanctions,arms trafficking charges,SPE2,3,OPPO,"Based on the given chunks, the label is: OPPO"
+against Russia,against Russian sailors,SPE2,4,OPPO,"Based on the given chunks, the label would be: OPPO"
+Apr 2,Thursday,REL,3,SPE1,"Based on the given chunks, I would label the alignment as SPE1. 
+
+The reason is that ""Apr 2"" and ""Thursday"" are referring to the same date, but in different formats. This is a classic example of a ""Specifically"" relation, where two chunks are referring to the same entity or concept, but with different levels of specificity."
+-,-not aligned-,NOALI,0,NOALI,NOALI
+higher,lower,OPPO,4,OPPO,"Based on the given chunks, the label is: OPPO"
+open,open,EQUI,5,EQUI,EQUI
+Chinese stocks,Chinese stocks,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Obama,Obama,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+names,to name,EQUI,5,SPE2,"Based on the given chunks, the label is: SPE2"
+outspoken Rice,Susan Rice,EQUI,5,SPE1,"Based on the given information, the label for the pair of chunks [outspoken Rice] and [Susan Rice] is SPE1."
+as his security adviser,as national security adviser,SPE2,4,EQUI,"Based on the given chunks, the label is: EQUI"
+in Aleppo,in Aleppo,EQUI,5,SPE1,"Based on the given chunks, the label is: SPE1"
+:,-not aligned-,NOALI,0,NOALI,NOALI
+kills,Kill,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+21,15,SIMI,3,EQUI,"Based on the given chunks, I would label the alignment as: EQUI
+
+Explanation: The chunks [21] and [15] seem to be referring to the same quantity or value, indicating an equivalence relationship."
+-not aligned-,at Least,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+Syrian airstrike,New Syrian Airstrikes,SPE1,4,EQUI,"Based on the given chunks, the label would be EQUI. 
+
+The reason is that both chunks refer to the same event or action (""Syrian airstrike"" and ""New Syrian Airstrikes"" are essentially the same thing, with a slight variation in wording)."
+Activists,-not aligned-,NOALI,0,NOALI,NOALI
+Angelina Jolie,Angelina Jolie,EQUI,5,EQUI,EQUI
+"""",-not aligned-,NOALI,0,NOALI,NOALI
+for support,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+after double mastectomy,double mastectomy,EQUI,5,EQUI,Label: EQUI
+"""",-not aligned-,NOALI,0,NOALI,NOALI
+very grateful,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,undergoes,NOALI,0,NOALI,NOALI
+India Ink,India Ink,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+of the Day,of the Day,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+April 21,May 2,SIMI,3,OPPO,"Based on the given chunks, the label is: OPPO"
+Image,Image,EQUI,5,EQUI,EQUI
+:,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+:,-not aligned-,NOALI,0,NOALI,NOALI
+in bombings and shootings,Bombings and a shooting,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,8,NOALI,0,NOALI,"Based on the given information, since Chunk 1 and Chunk 2 are not aligned, the label would be:
+
+NOALI"
+Deaths,kill,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+across Iraq,in Iraq,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+nine police,eight Kurdish security forces personnel,SPE2,3,OPPO,"Based on the given chunks, the label would be: OPPO"
+kills,kills,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in north Iraq,in Iraq,SPE1,4,SPE1,"Based on the given chunks, the label is: SPE1"
+Suicide bomber,Suicide bomber,EQUI,5,SPE1,"Based on the given chunks, the label is: SPE1"
+to announce,-not aligned-,NOALI,0,NOALI,NOALI
+presidency bid,for presidential bid,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+poised,paves way,SIMI,3,SPE2,"Based on the given chunks, the label would be: SPE2"
+'s Sisi,'s Sisi,EQUI,5,SIMI,"Based on the given chunks, the label is: SIMI"
+Egypt,Egypt,EQUI,5,SPE1,"Based on the given chunks, the label is: SPE1"
+",",-not aligned-,NOALI,0,NOALI,NOALI
+killed,killed,EQUI,5,EQUI,EQUI
+6,six,EQUI,5,SPE1,"Based on the given chunks, the label is: SPE1"
+-not aligned-,",",NOALI,0,NOALI,NOALI
+injured,injured,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+3,Three,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in Afghan blasts,in Afghan blasts,EQUI,5,SPE2,"Based on the given chunks, the label is SPE2."
+filibustering,filibusters,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+still,-not aligned-,NOALI,0,NOALI,NOALI
+Texas senator,Texas senator,EQUI,5,SPE1,"Based on the given chunks, the label is SPE1."
+abortion bill,against abortion bill,EQUI,5,OPPO,"Based on the given chunks, the label is: OPPO"
+drops,to file,SIMI,3,SPE2,"Based on the given chunks, the label is: SPE2"
+against Greenpeace activists,against Greenpeace,SPE1,4,OPPO,"Based on the given chunks, the label is: OPPO"
+charges,piracy charges,SPE2,4,EQUI,"Based on the given chunks, the label is: EQUI"
+Russia,Russia,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in Turkey,in Kiev,REL,1,OPPO,"Based on the given chunks, the label is: OPPO"
+clash,clash,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Protesters,Protesters,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+with police,with riot police,SPE2,4,EQUI,"Based on the given chunks, the label is: EQUI"
+Nigerian police,Nigeria,REL,3,SPE1,"Based on the given chunks, the label is SPE1."
+protests,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,',NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,all options,NOALI,0,NOALI,"Since Chunk 1 is [-not aligned-] and Chunk 2 is [all options], they do not have a semantic relation to each other. 
+
+Label: NOALI"
+ban,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,',NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+over kidnapped girls,over kidnapped girls,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,reviewing,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+-not aligned-,dismisses,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+signs,-not aligned-,NOALI,0,NOALI,NOALI
+finalizes,-not aligned-,NOALI,0,NOALI,NOALI
+Crimea annexation,Crimea 's independence,OPPO,4,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,'s top court,NOALI,0,NOALI,"Based on the given information, since Chunk 1 is [-not aligned-] and Chunk 2 is ['s top court], they do not have a semantic relation to each other. 
+
+Label: NOALI"
+as Russia,-not aligned-,NOALI,0,NOALI,NOALI
+EU trade pact,"as "" unconstitutional """,REL,2,OPPO,"Based on the given chunks, the label is: OPPO"
+Ukraine,Ukraine,EQUI,5,EQUI,"Based on the given chunks, the label would be: EQUI"
+are built,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+The foundations,-not aligned-,NOALI,0,NOALI,NOALI
+on Nelson Mandela,over Nelson Mandela,EQUI,5,OPPO,"Based on the given chunks, the label would be: OPPO"
+of South Africa,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+'s memory,'s death,REL,4,SPE2,"Based on the given chunks ['s memory] and ['s death], I would label the alignment as SPE2."
+-not aligned-,Australian politicians,NOALI,0,NOALI,NOALI
+-not aligned-,lament,NOALI,0,NOALI,"Based on the given information, I would label the alignment as:
+
+Label: NOALI"
+of Ariel Sharon,of Ariel Sharon,EQUI,5,EQUI,EQUI
+:,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+On War Criminals and Heroes,On war criminals and heroes,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+The Whitewashing,The whitewashing,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+killed,killed,EQUI,5,EQUI,EQUI
+Two French journalists,two French journalists,EQUI,5,SPE2,"Based on the given chunks, the label is: SPE2"
+-not aligned-,France,NOALI,0,NOALI,"Based on the given information, since Chunk 1 is [-not aligned-] and Chunk 2 is [France], they do not have a semantic relation to each other. 
+
+Label: NOALI"
+in Mali,in Mali,EQUI,5,EQUI,EQUI
+-not aligned-,confirms,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+China yuan,China yuan,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+to 6.1184,to 6.1510,SIMI,4,SIMI,"Based on the given chunks, I would label the alignment as:
+
+Label: SIMI"
+against USD,against USD,EQUI,5,EQUI,"Based on the given information, the label for the pair of chunks [against USD] and [against USD] would be EQUI."
+strengthens,weakens,OPPO,4,OPPO,"Based on the given chunks, the label is: OPPO"
+Tuesday,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,on flight,NOALI,0,NOALI,NOALI
+loses contact,vanishes,SIMI,4,OPPO,"Based on the given chunks, the label is: OPPO"
+to Beijing,to Beijing,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+239,-not aligned-,NOALI,0,NOALI,NOALI
+carrying,-not aligned-,NOALI,0,NOALI,Label: NOALI
+Malaysia Airlines with plane,Malaysia Airlines plane,EQUI,5,EQUI,"Based on the given chunks, the label would be EQUI."
+embroiled,steps down,REL,3,OPPO,"Based on the given chunks, the label is: OPPO"
+Tehelka editor,Tehelka editor,EQUI,5,EQUI,EQUI
+in sex assault scam,after allegations of sexual misconduct,SIMI,4,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,fires,NOALI,0,NOALI,NOALI
+Facts,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 1 and Chunk 2 are not aligned, the label is NOALI. 
+
+Label: NOALI"
+'s Musudan missile,another missile,SPE1,4,OPPO,"Based on the given chunks, the label is: OPPO"
+about North Korea,North Korea,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+now,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+-not aligned-,Video,NOALI,0,NOALI,NOALI
+who,Gunman,EQUI,5,OPPO,"Based on the given chunks, the label is: OPPO"
+",",-not aligned-,NOALI,0,NOALI,NOALI
+Gunman,Gunman,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+suburban Atlanta firefighters hostage,Firefighters Hostage in Georgia,SPE1,4,EQUI,"Based on the given chunks, the label is: EQUI"
+police,-not aligned-,NOALI,5,NOALI,NOALI
+held,Takes,EQUI,5,OPPO,"Based on the given chunks, the label is: OPPO"
+dead,-not aligned-,NOALI,0,NOALI,NOALI
+say,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,The Lede,NOALI,0,NOALI,"Based on the given information, since Chunk 1 is [-not aligned-] and Chunk 2 is [The Lede], they do not have a semantic relation to each other. 
+
+Label: NOALI"
+-not aligned-,:,NOALI,0,NOALI,NOALI
+-not aligned-,formally,NOALI,0,NOALI,"Based on the given information, since Chunk 1 is [-not aligned-] and Chunk 2 is [formally], they are not aligned. 
+
+Label: NOALI"
+to join,to join,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+votes,applies,SIMI,3,EQUI,"Based on the given chunks, the label is: EQUI"
+Crimea parliament,Crimean parliament,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+Russia,Russia,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+lower,lower,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+open,close,OPPO,4,OPPO,"Based on the given chunks, the label is: OPPO"
+China stocks,China 's stocks,EQUI,5,EQUI,"Based on the given chunks, the label would be: EQUI"
+on Wednesday,on Monday,SIMI,3,OPPO,"Based on the given chunks, the label is: OPPO"
+-not aligned-,'s 50p tax rate,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+what,what,EQUI,5,SPE1,"Based on the given chunks, the label is: SPE1"
+-not aligned-,:,NOALI,0,NOALI,NOALI
+need,need,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+",",-not aligned-,NOALI,0,NOALI,NOALI
+you,you,EQUI,5,EQUI,"Based on the given information, the label for the pair of chunks [you] and [you] would be EQUI."
+-not aligned-,Labour,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+World News Update,-not aligned-,NOALI,0,NOALI,NOALI
+to know,to know,EQUI,5,EQUI,EQUI
+Stocks,Stocks,EQUI,5,EQUI,"Based on the given information, the label for the pair of chunks [Stocks] and [Stocks] would be EQUI."
+in early trading,in early trading,EQUI,5,SPE1,"Based on the given chunks, the label is: SPE1"
+rise,inch higher,SPE2,4,EQUI,"Based on the given chunks, the label is: EQUI"
+Twitter shares,Twitter shares,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+rocket,rocket,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+at opening,as trading begins,EQUI,5,SPE1,"Based on the given chunks, the label is: SPE1"
+outside two mosques,city,REL,3,SPE2,"Based on the given chunks, I would label the alignment as: SPE2
+
+The reason is that ""outside two mosques"" is a more specific location, and ""city"" is a broader category that ""outside two mosques"" can be a part of. This suggests a type of ""spe2"" relation, where the first chunk is a more specific instance of the second chunk."
+29,-not aligned-,NOALI,0,NOALI,NOALI
+in Lebanon 's Tripoli,in northern Lebanon,SPE1,4,REL,"Based on the given chunks, the label is: REL"
+kill,rock,SPE1,3,NOALI,"Based on the given chunks, I would label the alignment as: NOALI
+
+The reason is that ""kill"" and ""rock"" do not have a clear semantic relation to each other, making them not aligned."
+Explosions,2 explosions,SPE2,4,EQUI,"Based on the given chunks, the label is: EQUI"
+Next Iran nuclear talks,Iran Nuclear deal,REL,4,EQUI,"Based on the given chunks, the label is: EQUI"
+due,to be implemented,SIMI,3,EQUI,"Based on the given chunks, the label is: EQUI"
+-,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,:,NOALI,0,NOALI,NOALI
+IRNA,-not aligned-,NOALI,0,NOALI,NOALI
+on June 16-20,on January 20,SIMI,2,NOALI,"Based on the given chunks, the label is: NOALI"
+Russian coal mines,-not aligned-,NOALI,0,NOALI,"Based on the given information, since Chunk 2 is [-not aligned-], it does not have any semantic relation to Chunk 1. 
+
+Label: NOALI"
+in China,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,Russian foreign minister,NOALI,0,NOALI,"Based on the given information, I would label the alignment as:
+
+NOALI
+
+This is because the first chunk is [-not aligned-], indicating that it does not have a semantic relation to the second chunk."
+seek,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,to meet,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+new outlets,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,UN chief,NOALI,0,NOALI,"Based on the given information, I would label the alignment as: NOALI"
+-not aligned-,",",NOALI,0,NOALI,NOALI
+Outrage,Outrage,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,",",NOALI,0,NOALI,"Since both chunks are [-not aligned-] and [,], they do not have any semantic relation to each other. 
+
+Label: NOALI"
+raped,Raped,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+emerge,-not aligned-,NOALI,0,NOALI,NOALI
+at school,at Her School,SPE2,4,SPE1,"Based on the given chunks, the label would be SPE1."
+after reports,-not aligned-,NOALI,0,NOALI,NOALI
+about 6-year-old Indian girl,After Indian Girl 6,EQUI,5,EQUI,"Based on the given chunks, I would label the alignment as: EQUI
+
+The reason is that both chunks are referring to the same entity, an Indian girl, and the second chunk is a repetition or a rephrasing of the first chunk."
+-not aligned-,at 93,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+",",-not aligned-,NOALI,0,NOALI,NOALI
+",",-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,",",NOALI,0,NOALI,NOALI
+dies,dies,EQUI,5,EQUI,EQUI
+Ovadia Yosef,Rabbi Ovadia Yosef,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+-not aligned-,",",NOALI,0,NOALI,NOALI
+rabbi and Israeli kingmaker,kingmaker of Israeli politics,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+early voting,-not aligned-,NOALI,0,NOALI,"Based on the given chunks, I would label the alignment as: NOALI"
+for disputed election,outside polling station,REL,3,OPPO,"Based on the given chunks, the label is: OPPO"
+disrupt,-not aligned-,NOALI,0,NOALI,NOALI
+-not aligned-,dead,NOALI,0,NOALI,"Based on the given chunks, the label is: NOALI"
+Thai protesters,Thai protest leader,REL,4,SPE1,"Based on the given chunks, the label is: SPE1"
+-not aligned-,shot,NOALI,0,NOALI,"Based on the given information, since Chunk 1 is [-not aligned-] and Chunk 2 is [shot], they do not have a semantic relation to each other. 
+
+Label: NOALI"
+of fiery bus crash,-not aligned-,NOALI,0,NOALI,NOALI
+Most victims,38 bodies of victims,SPE2,3,EQUI,"Based on the given chunks, the label would be: EQUI"
+identified,identified,EQUI,5,EQUI,"Based on the given chunks, the label is: EQUI"
+in blast,in apartment blast,SPE2,4,EQUI,"Based on the given chunks, the label is: EQUI"
+hurt,injured,EQUI,5,OPPO,"Based on the given chunks, the label is: OPPO"
+Palestinian diplomat,Palestinian ambassador,SPE2,4,EQUI,"Based on the given chunks, the label is: EQUI"

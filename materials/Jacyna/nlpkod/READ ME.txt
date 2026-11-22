@@ -1,0 +1,7 @@
+W tym folderze umieszczone zostały kody użyte do uruchomienia LLM w testach podobienstwa semantycznego. W kazdym kodzie zostawione zostało miejsce na wklejenie jednego z  promptow
+dostępnych w folderach z promptami. Prompty znajduja sie w odpowiednio podpisanych plikach txt.
+
+Dodadkowo w kodzie nalezy odpowiednio zmienic nazwy plikow wejsciowych (zawierajacych zdania) 
+jak i nazwe pliku wyjsciowego.
+
+W kodzie do uruchomienia chata gpt nalezy dodac klucz api w wyznaczonym do tego miejscu.
