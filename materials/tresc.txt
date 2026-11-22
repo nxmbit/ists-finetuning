@@ -1,0 +1,43 @@
+Sprawdzenie skuteczności działania dotrenowanych modeli LLM w okreslaniu podobienstwa semantycznego (iSTS - https://alt.qcri.org/semeval2016/task2/) dwoch zdan w jezyku angielskim na poziomie calych zdań. Odniesienie sie do wynikow z obronionej pracy magisterskiej/projektu. 2-4 os.
+
+- jezyk implementacji: Python
+
+Zadania:
+1. Zapoznac sie z praca magisterska/projektem.
+2. Dotrenować model/modele (zakres zostanie dostosowany do wielkości zespołu) działające na poziomie całych zdań.
+4. Policzyc miary F (korzystając z dostarczonego skryptu) dla stworzonego systemu dla wszystkich dostepnych danych z SemEval 2016 - Interpretable STS z rozbudowanymi relacjami.
+5. Porównać wyniki z dotychczasowymi rezultatami (dotychczasowe rezultaty będą udostępnione) - dopisać rezultaty do tabelki w arkuszu kalkulacyjnym
+
+Praca magisterska/projekt, kod, dostepne dane, moc obliczeniowa.
+
+
+Materiały do projektu znajdują się pod linkiem
+https://www.dropbox.com/scl/fi/8sfeihfd0rlmbwufyu65v/iSTS_LLM_v2.zip?rlkey=l5zfk65usp97ha2fdupahi2q7&st=c1cll1zz&dl=0
+
+Gdyby czegoś brakowało, to proszę o informację.
+
+Zestawienie wyników poszczególnych rozwiązań:
+https://www.dropbox.com/scl/fi/ygjzs2bpc81mgciwtjxom/summary_v5.3.xlsx?rlkey=cvjrb4fqya1shzwldmu6t0z86&dl=0
+
+Porównanie z innymi rozwiązaniami polega na dodaniu odpowiednich wpisów w tabelce tak, aby można było porównać Państwa rozwiązanie z rozwiązaniami dotychczasowymi.
+
+
+Proszę zapoznać się co najmniej z rozdziałem 4 (wprowadzenie do iSTS) z Michał_Kopyt_300231_praca_dyplomowa_magisterska.pdf
+i później doprecyzować zadania na konsultacjach.
+
+Poniżej też znajduje się informacja na temat dostępu do GPU.
+
+========= Materiały =========
+
+Wprowadzenie: Michał_Kopyt_300231_praca_dyplomowa_magisterska.pdf - wprowadzenie do zadania iSTS. Rozdział 4.
+
+Materiały do tematu:
+
+Sprawdzenie skuteczności działania dotrenowanych modeli LLM w okreslaniu podobienstwa semantycznego (iSTS - https://alt.qcri.org/semeval2016/task2/) dwoch zdan w jezyku angielskim na poziomie calych zdań. Odniesienie sie do wynikow z obronionej pracy magisterskiej/projektu. 2-4 os.
+
+a) Jacyna - sprawozdanie + kod (na poziomie "sentence level", czyli dla całych zdań)
+
+To samo podejście, co we wskazanym projekcie, tylko na modelach dotrenowanych (fine-tuning) z wykorzystaniem LoRA/QLoRA (dla golden i system chunks). Dla mniejszych modeli, dla których będzie to możliwe, to też full fine-tuning dla porównania, aby pokazać, że nie ma dużej utraty jakości przy zastosowaniu LoRA/QLoRA.
+
+
+Dla każdego eksperymentu należy wykonać 5 uruchomień z różnymi seedami, a później policzyć istotność statystyczną wyników przy porównaniu rezultatów poszczególnych eksperymentów.
