@@ -1,0 +1,38 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[polish]{babel}
+\usepackage{lmodern}
+\usepackage[a4paper,margin=2.7cm]{geometry}
+\usepackage{hyperref}
+\title{Dotrenowanie modeli językowych w zadaniu iSTS\\\large Dokumentacja wstępna}
+\author{Zespół projektowy}
+\date{\today}
+\begin{document}
+\maketitle
+\section{Cel projektu}
+Celem projektu jest zbadanie skuteczności dotrenowanych modeli językowych w zadaniu interpretowalnego podobieństwa semantycznego (iSTS) dla par zdań w języku angielskim. System ma wskazać dopasowania fragmentów zdań, typy relacji oraz oceny podobieństwa. Wyniki zostaną porównane z wcześniejszymi rozwiązaniami opisanymi w materiałach projektowych.
+
+\section{Zakres zadania}
+Eksperymenty obejmą dwa warianty danych. W wariancie GoldChunks system otrzymuje referencyjny podział zdań na fragmenty. W wariancie SysChunks sam wyznacza fragmenty. Planowane jest dotrenowanie metodami LoRA lub QLoRA w obu wariantach oraz porównanie z pełnym dotrenowaniem mniejszych modeli, jeśli dostępne zasoby na to pozwolą.
+
+Ewaluacja obejmie dostępne zbiory SemEval 2016 iSTS z domen \textit{images}, \textit{headlines} i \textit{answers-students}. Każdy eksperyment zostanie uruchomiony pięć razy z różnymi wartościami ziarna losowości. Porównania zostaną uzupełnione analizą istotności statystycznej.
+
+\section{Dane i ewaluacja}
+Podstawowe typy relacji to EQUI, OPPO, SPE1, SPE2, SIMI, REL i NOALI. Dodatkowe znaczniki FACT i POL opisują odpowiednio różnice w faktyczności oraz polaryzacji. Specyfikacja dopuszcza dopasowania wielu fragmentów do wielu fragmentów.
+
+Przyjętym punktem wyjścia jest lokalny skrypt \texttt{evalF1.pl}, który raportuje F1 dla dopasowania oraz warianty uwzględniające typ relacji i ocenę podobieństwa. Wyniki będą zestawiane osobno dla domen, wariantów segmentacji i uruchomień.
+
+\section{Materiały i stan prac}
+Materiały obejmują pracę Michała Kopyta, raport projektu Jacyny, Pusiewicza i Raka, pracę Alberta Ścisla oraz dostarczony kod i arkusz wyników. Kod Ścisla stanowi źródło przykładów treningu i ewaluacji, natomiast projekt Jacyny przedstawia podejście operujące na pełnych zdaniach. Zgodność protokołów wcześniejszych wyników wymaga potwierdzenia przed bezpośrednim porównaniem.
+
+\section{Kwestie do ustalenia}
+Należy potwierdzić dostęp do GPU, wybrać modele i zakres pełnego dotrenowania, określić format danych treningowych i predykcji oraz sposób obsługi niepoprawnych odpowiedzi. Do ustalenia pozostają również metoda analizy statystycznej i protokół porównania z wynikami referencyjnymi.
+
+\begin{thebibliography}{9}
+\bibitem{semeval} SemEval 2016 Task 2, \url{https://alt.qcri.org/semeval2016/task2/}.
+\bibitem{kopyt} M. Kopyt, \textit{Określanie interpretowalnego podobieństwa semantycznego dla języka angielskiego}, praca magisterska, rozdział 4.
+\bibitem{jacyna} Z. Jacyna, P. Pusiewicz, M. Rak, \textit{Dokumentacja końcowa projektu dotyczącego podobieństwa semantycznego}.
+\bibitem{scisel} A. Ścisel, praca magisterska dostarczona w materiałach projektu.
+\end{thebibliography}
+\end{document}
