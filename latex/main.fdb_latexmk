@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1795471184.05684 "/Users/wiktorfratczak/Desktop/projects/python/nlp/projekt/ists-finetuning/latex/main.tex" "main.pdf" "main" 1795471184.49795 0
-  "/Users/wiktorfratczak/Desktop/projects/python/nlp/projekt/ists-finetuning/latex/main.tex" 1795471183.40326 10661 c80a4fafb78ba866ab9152a1b574cad3 ""
+["pdflatex"] 1795539258.44515 "/Users/wiktorfratczak/Desktop/projects/python/nlp/projekt/ists-finetuning/latex/main.tex" "main.pdf" "main" 1795539258.9029 0
+  "/Users/wiktorfratczak/Desktop/projects/python/nlp/projekt/ists-finetuning/latex/main.tex" 1795539257.54935 16744 3a6d95ee964484d718fff6e117f14e1b ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc" 1254269338 3031 6c4d3515bf7115d8518af1c9ab97ca44 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -71,6 +71,10 @@
   "/usr/local/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty" 1655478651 22555 6d8e155cfef6d82c3d5c742fea7c992e ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty" 1665067230 13815 760b0c02f691ea230f5359c4e1de23a7 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1716410060 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/listings/listings.cfg" 1727126400 1865 301ae3c26fb8c0243307b619a6aa2dd3 ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/listings/listings.sty" 1727126400 81640 997090b6c021dc4af9ee00a97b85c5b4 ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/listings/lstmisc.sty" 1727126400 77051 be68720e5402397a830abb9eed5a2cb4 ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/listings/lstpatch.sty" 1710360531 353 9024412f43e92cd5b21fe9ded82d0610 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/lm/lmodern.sty" 1616454256 1608 b00724785a9e9c599e5181bb8729160b ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omllmm.fd" 1616454256 890 57f5adccd504fb5c98bdf99ed7e7f195 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omslmsy.fd" 1616454256 807 3de192f3efa968913bd2f096a7b430d8 ""
@@ -86,9 +90,9 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1767577338 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1767577291 3345732 37df84a96fb9b714a6d7ff091b2ba433 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "main.aux" 1795471184.44437 1736 e252630cd2a15e961005642d48b9aa27 "pdflatex"
-  "main.out" 1795471184.44484 1775 8a3082ba5bd4f4fdb1f403da44802470 "pdflatex"
-  "main.tex" 1795471183.40326 10661 c80a4fafb78ba866ab9152a1b574cad3 ""
+  "main.aux" 1795539258.84774 2002 f69945cd67ab48ced6026e52d1319c7c "pdflatex"
+  "main.out" 1795539258.84829 2167 e3369b9f59e3a7b9134f4e15421bdc36 "pdflatex"
+  "main.tex" 1795539257.54935 16744 3a6d95ee964484d718fff6e117f14e1b ""
   (generated)
   "main.aux"
   "main.log"

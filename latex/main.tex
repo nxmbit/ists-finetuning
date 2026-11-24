@@ -4,108 +4,351 @@
 \usepackage[polish]{babel}
 \usepackage{lmodern}
 \usepackage[a4paper,margin=2.7cm]{geometry}
+\usepackage{listings}
 \usepackage{hyperref}
 \title{Dotrenowanie modeli językowych w zadaniu iSTS\\\large Dokumentacja wstępna}
 \author{Wiktor Frątczak, \newline
 Piotr Hołownia}
 \date{\today}
 \begin{document}
-\maketitle
-\section{Cel projektu}
-Celem projektu jest zbadanie skuteczności dotrenowanych modeli językowych w zadaniu interpretowalnego podobieństwa semantycznego (iSTS) dla par zdań w języku angielskim. System ma wskazać dopasowania fragmentów zdań, typy relacji oraz oceny podobieństwa. Wyniki zostaną porównane z wcześniejszymi rozwiązaniami opisanymi w materiałach projektowych.
+    \maketitle
 
-\section{Zakres zadania}
-Skupimy się na wariancie SysChunks, w którym system sam wyznacza fragmenty zdań. Planujemy dotrenowanie metodami LoRA i QLoRA oraz porównanie z pełnym dotrenowaniem mniejszych modeli, jeśli dostępne zasoby na to pozwolą.
 
-Ewaluacja obejmie dostępne zbiory SemEval 2016 iSTS z domen \textit{images}, \textit{headlines} i \textit{answers-students}. Każdy eksperyment zostanie uruchomiony pięć razy z różnymi wartościami ziarna losowości. Porównania zostaną uzupełnione analizą istotności statystycznej.
+    \section{Cel projektu}
+    Celem projektu jest zbadanie skuteczności dotrenowanych
+modeli językowych w zadaniu interpretowalnego podobieństwa
+semantycznego (iSTS) dla par zdań w języku angielskim.
+System ma wskazać dopasowania fragmentów zdań, typy relacji
+oraz oceny podobieństwa. Wyniki zostaną porównane z
+wcześniejszymi rozwiązaniami opisanymi w materiałach
+projektowych.
 
-\section{Model i plan eksperymentów}
-Planowanym modelem jest Gemma 4 31B. \textbf{Do potwierdzenia pozostają dokładny wariant modelu, dostęp do GPU, wymagania sprzętowe i możliwość uruchomienia.} Zamierzamy odtworzyć podejście projektu Jacyny, wykorzystując udostępniony kod jako punkt wyjścia. Najpierw zmierzymy wynik modelu bazowego bez dotrenowania. Następnie porównamy go z modelem bazowym wyposażonym w osobno dotrenowane adaptery LoRA i QLoRA.
 
-Dla SysChunks planujemy pięć uruchomień dla każdej z trzech konfiguracji: modelu bazowego, LoRA i QLoRA, czyli łącznie 15 uruchomień na domenę. Dla baseline'u oznacza to powtórzenie inferencji z różnymi seedami \textbf{??????????????????}, a dla adapterów osobne treningi i ewaluacje. Zmienność baseline'u będzie zależała od ustawień generowania. W miarę dostępności zasobów rozważymy także pełne dotrenowanie mniejszych modeli .
+    \section{Zakres zadania}
+    Skupimy się na wariancie SysChunks, w którym system sam
+wyznacza fragmenty zdań. Planujemy dotrenowanie metodami
+LoRA i QLoRA oraz porównanie z pełnym dotrenowaniem
+mniejszych modeli, jeśli dostępne zasoby na to pozwolą.
 
-\section{Przygotowanie danych}
-Dane iSTS zawierają pary zdań i referencyjne anotacje dopasowań fragmentów. Trzy domeny obejmują nagłówki wiadomości, opisy obrazów oraz odpowiedzi studentów porównywane z odpowiedziami wzorcowymi. W dostarczonych materiałach dostępne są zbiory treningowe i testowe oraz referencyjne anotacje. Przygotowanie przykładów do  dotrenowania nadzorowanego będzie polegało na określeniu wejścia obejmującego parę zdań, instrukcję systemową. Oczekiwana odpowiedź zostanie przygotowana na podstawie dostępnych anotacji.
+    Ewaluacja obejmie dostępne zbiory SemEval 2016 iSTS z
+domen \textit{images}, \textit{headlines} i
+\textit{answers-students}. Każdy eksperyment zostanie
+uruchomiony pięć razy z różnymi wartościami ziarna
+losowości. Porównania zostaną uzupełnione analizą istotności
+statystycznej.
 
-\textbf{format system prompta + jaka strukture chcemy zwracac, wykorzystamy parsery z tych dostarczocncyh skryptow}
 
-\subsection{Typy etykiet}
-Podstawowe typy etykiet to EQUI, OPPO, SPE1, SPE2, SIMI, REL i NOALI. Dodatkowe znaczniki FACT i POL opisują odpowiednio różnice w faktyczności oraz polaryzacji. Specyfikacja dopuszcza dopasowania wielu fragmentów do wielu fragmentów.
+    \section{Model i plan eksperymentów}
+    Planujemy eksperymenty z modelami Gemma 4 31B oraz
+GPT-6.1 SOL. Model SOL wykorzystamy do ewaluacji jako punkt
+odniesienia. \textbf{Do potwierdzenia pozostają dokładne
+warianty modeli, dostęp do GPU oraz możliwość uruchomienia i
+dotrenowania Gemmy.} Dla Gemmy porównamy wynik modelu
+bazowego z wynikami po dotrenowaniu metodami LoRA i QLoRA. W
+eksperymentach wykorzystamy udostępniony kod projektu
+Jacyny.
 
-\begin{itemize}
-    \item \textbf{EQUI} --- fragmenty są równoważne znaczeniowo w kontekście zdań.
-    \item \textbf{OPPO} --- znaczenia fragmentów są przeciwstawne.
-    \item \textbf{SPE1} --- fragment pierwszego zdania jest bardziej szczegółowy niż odpowiadający mu fragment drugiego.
-    \item \textbf{SPE2} --- fragment drugiego zdania jest bardziej szczegółowy niż odpowiadający mu fragment pierwszego.
-    \item \textbf{SIMI} --- fragmenty mają podobne znaczenie, ale relacja nie należy do powyższych typów.
-    \item \textbf{REL} --- fragmenty są powiązane znaczeniowo, lecz nie spełniają warunków relacji SIMI ani pozostałych wymienionych typów.
-    \item \textbf{NOALI} --- fragment nie ma odpowiednika w drugim zdaniu.
-\end{itemize}
+    Dla Gemmy i wariantu SysChunks planujemy pięć uruchomień
+dla każdej z trzech konfiguracji: modelu bazowego, LoRA i
+QLoRA, czyli łącznie 15 uruchomień na domenę. Dla baseline'u
+planujemy powtórzenie inferencji, a dla adapterów osobne
+treningi i ewaluacje. SOL będzie oceniany oddzielnie jako
+model referencyjny. \textbf{Do sprawdzenia pozostaje obsługa
+seedów inferencji przez wybrany backend i jej wpływ na
+powtarzalność.} Zmienność baseline'u będzie zależała od
+ustawień generowania. W miarę dostępności zasobów rozważymy
+także pełne dotrenowanie mniejszych modeli.
 
-\subsection{Charakterystyka zbiorów}
-Liczebności poniżej uzyskano przez zliczenie par w lokalnych plikach zdań i zweryfikowano względem liczby bloków anotacji. Anotacja to wiersz opisujący dopasowanie fragmentów lub jego brak, a jedna para zdań może zawierać wiele anotacji.
 
-\begin{center}
-\begin{tabular}{lrrrr}
-\hline
-Domena & Pary train & Pary test & Anotacje train & Anotacje test \\
-\hline
-Headlines & 756 & 375 & 3979 & 2040 \\
-Images & 750 & 375 & 4805 & 2462 \\
-Answers-students & 330 & 344 & 1848 & 1840 \\
-\hline
-\end{tabular}
-\end{center}
+    \section{Przygotowanie danych}
+    Dane iSTS zawierają pary zdań i referencyjne anotacje
+dopasowań fragmentów. Trzy domeny obejmują nagłówki
+wiadomości, opisy obrazów oraz odpowiedzi studentów
+porównywane z odpowiedziami wzorcowymi. W dostarczonych
+materiałach dostępne są zbiory treningowe i testowe oraz
+referencyjne anotacje. Przygotowanie przykładów do
+dotrenowania nadzorowanego będzie polegało na określeniu
+wejścia obejmującego parę zdań, instrukcję systemową.
+Oczekiwana odpowiedź zostanie przygotowana na podstawie
+dostępnych anotacji.
 
-\textit{Headlines} zawiera pary nagłówków wiadomości, \textit{images} --- podpisów obrazów Flickr, a \textit{answers-students} --- odpowiedzi studentów i odpowiedzi wzorcowych z dziedziny podstaw elektryczności. W każdym zbiorze dominują anotacje NOALI i EQUI. Przykładowo w danych treningowych \textit{headlines} występują odpowiednio 1792 i 1323 takie anotacje, a w \textit{images} 2892 i 1029. Znaczniki FACT i POL występują lokalnie w \textit{headlines}: odpowiednio 29 i 4 razy w train oraz 0 i 2 razy w test. Liczby dotyczą wierszy anotacji, a nie niezależnych par zdań.
+    \subsection{Prompt i format odpowiedzi}
+    W aktualnych testach wariant zero-shot JSON korzysta z
+poniższej instrukcji systemowej zapisanej w
+\texttt{prompts/system/zero-shot.json.txt}. Instrukcja
+określa typy relacji, skalę ocen i format odpowiedzi. Skrypt
+przekazuje surową parę zdań w osobnej wiadomości
+użytkownika, a prompt zleca modelowi numerowanie tokenów
+rozdzielonych białymi znakami od 1 osobno dla każdego
+zdania.
 
-\subsection{Rozkład anotacji i jakość danych}
-Tabela przedstawia liczbę wierszy anotacji dla każdego podstawowego typu relacji w dostarczonych danych treningowych. Liczby obejmują również wiersze z dodatkowymi znacznikami FACT i POL.
+    \begin{lstlisting}[basicstyle=\small\ttfamily,breaklines=true,breakatwhitespace=true,columns=fullflexible,keepspaces=true,frame=single]
+Perform Interpretable Semantic Textual Similarity (iSTS) for
+the supplied English sentence pair.
 
-\begin{center}
-\begin{tabular}{lrrrrrrr}
-\hline
-Domena & NOALI & EQUI & SIMI & SPE1 & SPE2 & REL & OPPO \\
-\hline
-Headlines & 1792 & 1323 & 324 & 200 & 193 & 128 & 19 \\
-Images & 2892 & 1029 & 340 & 245 & 229 & 67 & 3 \\
-Answers-students & 930 & 595 & 73 & 61 & 74 & 76 & 39 \\
-\hline
-\end{tabular}
-\end{center}
+Use these relation labels.
+- EQUI means the chunks are equivalent in context.
+- OPPO means their meanings are opposed in context.
+- SPE1 means the chunk in Sentence 1 is more specific.
+- SPE2 means the chunk in Sentence 2 is more specific.
+- SIMI means the meanings are similar without one of the
+relations above.
+- REL means the chunks are related without one of the
+relations above.
+- NOALI means the chunk has no counterpart in the other
+sentence.
 
-Rozkłady są niezrównoważone: NOALI i EQUI występują najczęściej, a OPPO jest rzadkie, szczególnie w zbiorze \textit{images}. W danych testowych występuje odpowiednio 13, 1 i 49 anotacji OPPO w domenach \textit{headlines}, \textit{images} i \textit{answers-students}. Liczebności rzadkich relacji mogą utrudnić ocenę jakości dla poszczególnych typów. Średnia liczba wierszy anotacji na parę treningową wynosi odpowiednio 5,26, 6,41 i 5,60 \textbf{TO BE VERIFIED}.
+Use an integer score from 0 to 5. Use 5 for equivalent
+meanings,
+3 or 4 for very similar or closely related meanings, 1 or 2
+for slightly
+similar or related meanings, and 0 for unrelated or
+unaligned chunks.
 
-W testowym \textit{answers-students} para o identyfikatorze 252 ma pustą sekcję dopasowań. W danych występują także różne zapisy oceny dla relacji NOALI, w tym NIL i 0. \textbf{Przed przygotowaniem przykładów należy sprawdzić interpretację tych przypadków w ewaluatorze i ustalić ich obsługę.} Dalsza analiza obejmie długości tokenizowanych wejść i oczekiwanych odpowiedzi oraz zgodność anotacji z wymaganym formatem.
+Segment each sentence into meaningful chunks, then align
+corresponding chunks.
 
-Dostarczony podział obejmuje train i test. W obu zbiorach \textit{headlines} znaleziono cztery identyczne uporządkowane pary zdań w porównaniu bez normalizacji tekstu. \textbf{Do ustalenia pozostaje sposób obsługi tych par, przy zachowaniu oficjalnego zbioru testowego.} \textbf{Do ustalenia pozostają sposób wydzielenia zbioru walidacyjnego i jego proporcja.} Zliczenia par treningowych dla \textit{headlines} i \textit{answers-students} różnią się od odpowiednio 750 i 333 podanych w pracy Ścisla. \textbf{Przyczyna rozbieżności pozostaje niepewna i wymaga sprawdzenia.}
+Number the whitespace-separated tokens starting at 1
+independently in each
+sentence. Use the original token order. List the tokens that
+participate in
+each alignment. For NOALI, use an empty array for the
+missing side and a
+score of 0.
 
-\section{Dotrenowanie i walidacja odpowiedzi}
-Zastosujemy nadzorowane dotrenowanie, w którym model otrzymuje przygotowane wejście i odpowiadającą mu anotację. LoRA i QLoRA będą trenowane jako osobne adaptery. Przed eksperymentami ustalimy m.in. współczynnik uczenia, liczbę epok, rozmiar partii, długość sekwencji oraz rangę, skalowanie i dropout adapterów. Hiperparametry dobierzemy na podstawie dokumentacji wybranego wariantu Gemmy oraz dostępnych zasobów GPU. Wartości dobierzemy na zbiorze walidacyjnym, zapisując konfiguracje i uzasadnienie wyboru.
+Return a single JSON object with only an alignments array.
+Each row must
+contain source_indices, target_indices, label, and score.
+Use integer token
+indices. Return plain JSON without Markdown fences,
+comments, or explanation.
 
-Podczas pomiaru baseline'u sprawdzimy, czy odpowiedzi zachowują wymagany format, czy model nie dodaje dodatkowych wyjaśnień lub samopoprawek oraz czy odpowiedzi nie są ucięte. \textbf{Do ustalenia pozostaje sposób walidacji i obsługi niepoprawnych odpowiedzi przed właściwym porównaniem.} Odsetek błędnych odpowiedzi będzie raportowany.
+{
+  "alignments": [
+    {
+      "source_indices": [1, 2],
+      "target_indices": [1],
+      "label": "SPE1",
+      "score": 4
+    }
+  ]
+}
+    \end{lstlisting}
 
-\section{Dane i ewaluacja}
+    Odpowiedź JSON ma zawierać tablicę \texttt{alignments},
+a każda pozycja listy indeksów, etykietę i ocenę. Wybraliśmy
+JSON, ponieważ nazwane pola ułatwiają parsowanie i
+walidację. Pakiet \texttt{ists\_converter} zawiera konwersję
+w obie strony między JSON i formatem \texttt{.wa}, w tym
+mapowanie oceny NIL na 0 i odwrotnie dla niedopasowanych
+fragmentów. Konwerter pomija oryginalne komentarze anotacji
+i generuje je ponownie. Dla niedopasowanych fragmentów
+normalizuje zapis oceny 0 do NIL. Testy sprawdzają wybrane
+przypadki konwersji, bez potwierdzenia identyczności
+wszystkich plików bajt po bajcie. W próbnej ewaluacji
+podanej w notatkach odpowiedzi JSON były poprawne składniowo
+dla wszystkich 1094 par.
+
+    Walidator sprawdza strukturę pól, indeksy, dozwolone
+etykiety i zakres oceny. Dopuszcza niepełne pokrycie słów i
+nakładające się dopasowania oraz nie wymusza oceny 0 dla
+NOALI, choć wymaga jej prompt. Przejście walidacji nie
+potwierdza więc spełnienia wszystkich zasad zadania. Skrypt
+ewaluacyjny zapisuje odpowiedź, której nie udało się
+przekonwertować, i dla danej pary przekazuje do ewaluacji
+pustą listę dopasowań. Błąd żądania lub nieprawidłowa
+odpowiedź API mogą przerwać uruchomienie. Skrypt dopuszcza
+ręczne poprawki zapisanych odpowiedzi. \textbf{Do ustalenia
+pozostaje końcowy protokół obsługi błędnych odpowiedzi, w
+tym zasady ręcznych poprawek.}
+
+    Konwerter obsługuje opcjonalne znaczniki FACT i POL, ale
+powyższy prompt ich nie wymienia. \textbf{Do ustalenia
+pozostaje sposób ich uwzględnienia w instrukcji oraz
+zgodność przygotowania danych treningowych z wybranym
+formatem odpowiedzi.}
+
+    \subsection{Typy etykiet}
+    Podstawowe typy etykiet to EQUI, OPPO, SPE1, SPE2, SIMI,
+REL i NOALI. Dodatkowe znaczniki FACT i POL opisują
+odpowiednio różnice w faktyczności oraz polaryzacji.
+Specyfikacja dopuszcza dopasowania wielu fragmentów do wielu
+fragmentów.
+
+    \begin{itemize}
+        \item \textbf{EQUI} --- fragmenty są równoważne znaczeniowo w kontekście zdań.
+        \item \textbf{OPPO} --- znaczenia fragmentów są przeciwstawne.
+        \item \textbf{SPE1} --- fragment pierwszego zdania jest bardziej szczegółowy niż odpowiadający mu fragment drugiego.
+        \item \textbf{SPE2} --- fragment drugiego zdania jest bardziej szczegółowy niż odpowiadający mu fragment pierwszego.
+        \item \textbf{SIMI} --- fragmenty mają podobne znaczenie, ale relacja nie należy do powyższych typów.
+        \item \textbf{REL} --- fragmenty są powiązane znaczeniowo, lecz nie spełniają warunków relacji SIMI ani pozostałych wymienionych typów.
+        \item \textbf{NOALI} --- fragment nie ma odpowiednika w drugim zdaniu.
+    \end{itemize}
+
+    \subsection{Charakterystyka zbiorów}
+    Liczebności poniżej uzyskano przez zliczenie par w
+lokalnych plikach zdań i zweryfikowano względem liczby
+bloków anotacji. Anotacja to wiersz opisujący dopasowanie
+fragmentów lub jego brak, a jedna para zdań może zawierać
+wiele anotacji.
+
+    \begin{center}
+        \begin{tabular}{lrrrr}
+            \hline
+            Domena           & Pary train & Pary test & Anotacje train & Anotacje test \\
+            \hline
+            Headlines        & 756        & 375       & 3979           & 2040          \\
+            Images           & 750        & 375       & 4805           & 2462          \\
+            Answers-students & 330        & 344       & 1848           & 1840          \\
+            \hline
+        \end{tabular}
+    \end{center}
+
+    \textit{Headlines} zawiera pary nagłówków wiadomości, \textit{images} --- podpisów obrazów Flickr, a \textit{answers-students} --- odpowiedzi studentów i odpowiedzi wzorcowych z dziedziny podstaw elektryczności. W każdym zbiorze dominują anotacje NOALI i EQUI. Przykładowo w danych treningowych \textit{headlines} występują odpowiednio 1792 i 1323 takie anotacje, a w \textit{images} 2892 i 1029. Znaczniki FACT i POL występują lokalnie w \textit{headlines}: odpowiednio 29 i 4 razy w train oraz 0 i 2 razy w test. Liczby dotyczą wierszy anotacji, a nie niezależnych par zdań.
+
+    \subsection{Rozkład anotacji i jakość danych}
+    Tabela przedstawia liczbę wierszy anotacji dla każdego
+podstawowego typu relacji w dostarczonych danych
+treningowych. Liczby obejmują również wiersze z dodatkowymi
+znacznikami FACT i POL.
+
+    \begin{center}
+        \begin{tabular}{lrrrrrrr}
+            \hline
+            Domena           & NOALI & EQUI & SIMI & SPE1 & SPE2 & REL & OPPO \\
+            \hline
+            Headlines        & 1792  & 1323 & 324  & 200  & 193  & 128 & 19   \\
+            Images           & 2892  & 1029 & 340  & 245  & 229  & 67  & 3    \\
+            Answers-students & 930   & 595  & 73   & 61   & 74   & 76  & 39   \\
+            \hline
+        \end{tabular}
+    \end{center}
+
+    Rozkłady są niezrównoważone: NOALI i EQUI występują
+najczęściej, a OPPO jest rzadkie, szczególnie w zbiorze
+\textit{images}. W danych testowych występuje odpowiednio
+13, 1 i 49 anotacji OPPO w domenach \textit{headlines},
+\textit{images} i \textit{answers-students}. Liczebności
+rzadkich relacji mogą utrudnić ocenę jakości dla
+poszczególnych typów. Średnia liczba wierszy anotacji na
+parę treningową wynosi odpowiednio 5,26, 6,41 i 5,60
+\textbf{TO BE VERIFIED}.
+
+    W testowym \textit{answers-students} para o
+identyfikatorze 252 ma pustą sekcję dopasowań. W danych
+występują także różne zapisy oceny dla relacji NOALI, w tym
+NIL i 0. \textbf{Przed przygotowaniem przykładów należy
+sprawdzić interpretację tych przypadków w ewaluatorze i
+ustalić ich obsługę.} Dalsza analiza obejmie długości
+tokenizowanych wejść i oczekiwanych odpowiedzi oraz zgodność
+anotacji z wymaganym formatem.
+
+    Dostarczony podział obejmuje train i test. W obu
+zbiorach \textit{headlines} znaleziono cztery identyczne
+uporządkowane pary zdań w porównaniu bez normalizacji
+tekstu. \textbf{Do ustalenia pozostaje sposób obsługi tych
+par, przy zachowaniu oficjalnego zbioru testowego.}
+\textbf{Do ustalenia pozostają sposób wydzielenia zbioru
+walidacyjnego i jego proporcja.} Zliczenia par treningowych
+dla \textit{headlines} i \textit{answers-students} różnią
+się od odpowiednio 750 i 333 podanych w pracy Ścisla.
+\textbf{Przyczyna rozbieżności pozostaje niepewna i wymaga
+sprawdzenia.}
+
+
+    \section{Dotrenowanie i walidacja odpowiedzi}
+    Zastosujemy nadzorowane dotrenowanie, w którym model
+otrzymuje przygotowane wejście i odpowiadającą mu anotację.
+LoRA i QLoRA będą trenowane jako osobne adaptery. Przed
+eksperymentami ustalimy m.in. współczynnik uczenia, liczbę
+epok, rozmiar partii, długość sekwencji oraz rangę,
+skalowanie i dropout adapterów. Hiperparametry dobierzemy na
+podstawie dokumentacji wybranego wariantu Gemmy oraz
+dostępnych zasobów GPU. Wartości dobierzemy na zbiorze
+walidacyjnym, zapisując konfiguracje i uzasadnienie wyboru.
+
+    Podczas pomiaru baseline'u sprawdzimy, czy odpowiedzi
+zachowują wymagany format, czy model nie dodaje dodatkowych
+wyjaśnień lub samopoprawek oraz czy odpowiedzi nie są
+ucięte. \textbf{Do ustalenia pozostaje sposób walidacji i
+obsługi niepoprawnych odpowiedzi przed właściwym
+porównaniem.} Odsetek błędnych odpowiedzi będzie
+raportowany.
+
+
+    \section{Dane i ewaluacja}
 % Uzyjemy skryptwo distarczonych z datasetami, oraz promptów. Bedziemy testowac nasze modele z ich promptami do przetestowania baselinu, aby zobaczyc jak modele sobie radza
 
-Skrypt \texttt{evalF1.pl} oblicza F1 dopasowania, F1 typu, F1 oceny oraz F1 łączące typ i ocenę. Skrypt \texttt{wellformed.pl} służy do kontroli formatu. Arkusze wyników zawierają również zestawienia F1 typu i oceny dla wariantów penalty i no penalty. 
+    Skrypt \texttt{evaluate\_ists.py} wykorzystuje dwa
+dostarczone warianty ewaluatora F1. Raportuje F1
+dopasowania, F1 typu i F1 oceny z wariantu no penalty oraz
+F1 łączące typ i ocenę dla obu wariantów. Skrypt
+\texttt{wellformed.pl} służy do kontroli formatu. Notebook
+Colab uruchamia inferencję przez vLLM i skrypt ewaluacyjny;
+jego ustawienia demonstracyjne obejmują model Qwen2.5 1.5B
+oraz pięć par Images. Konfiguracja ta służy sprawdzeniu
+działania pipeline'u. Notebook i skrypt ewaluacyjny nie
+realizują treningu LoRA ani QLoRA, a ich obecne ustawienia
+nie potwierdzają uruchomienia Gemmy.
 
-\section{Plan analizy statystycznej}
-Każdą konfigurację planujemy wytrenować pięć razy, zmieniając ziarno losowości. Dla każdego uruchomienia zapiszemy wynik F1, konfigurację oraz predykcje dla poszczególnych par zdań. Następnie przedstawimy wszystkie wyniki, ich średnią i odchylenie standardowe. Pozwoli to opisać zmienność wyników pomiędzy uruchomieniami.
+    \subsection{Wstępna ewaluacja SOL 6.1}
+    W przekazanych wynikach próbnej ewaluacji modelu GPT-6.1
+SOL porównano prompty zero-shot, one-shot i eight-shot. W
+przekazanej tabeli dla 1094 par wynik zbiorczy F1 typu i
+oceny w wariancie no penalty wyniósł 0,5828 dla
+\texttt{zero-shot.ists}, 0,5977 dla
+\texttt{zero-shot.jacyna-json}, 0,6036 dla
+\texttt{one-shot.jacyna-json} oraz 0,6372 dla
+\texttt{eight-shot.ists}. Dla tego ostatniego promptu wyniki
+w domenach Images i Headlines wyniosły odpowiednio 0,6381 i
+0,6258.
 
-Przy porównywaniu eksperymentów planujemy podawać różnicę wyników wraz z analizą jej istotności statystycznej. Rozważamy także sparowany \textbf{?????????} bootstrap par zdań testowych: w kolejnych próbach te same pary będą losowane ze zwracaniem dla obu porównywanych systemów, a zbiorcze F1 zostanie przeliczone dla każdej próby. Taka analiza dotyczy zmienności związanej z doborem przykładów testowych. Oddzielnie trzeba uwzględnić zmienność między uruchomieniami treningu.
+    W czterech sprawdzonych wariantach JSON nie odnotowano
+błędnych składniowo odpowiedzi ani odrzuconych wyników. W
+wariantach \texttt{zero-shot.ists} i \texttt{one-shot.ists}
+odrzucono po 63 z 1094 odpowiedzi. Wyniki te stanowią
+wstępny punkt odniesienia dla dalszych eksperymentów.
+\textbf{Do potwierdzenia pozostają identyfikator i
+ustawienia modelu, wariant segmentacji, sposób obliczenia
+wyniku zbiorczego oraz obsługa odrzuconych odpowiedzi w tej
+ewaluacji.} Skrypt zapisuje wyniki osobno dla domen, a
+sposób wyliczenia przekazanej tabeli zbiorczej wymaga
+weryfikacji. Pierwsza tabela wyników domenowych nie została
+podpisana, dlatego nie przypisujemy jej domeny.
 
-\textbf{Do ustalenia pozostają jednostka analizy, metoda uwzględnienia obu źródeł zmienności, próg istotności oraz sposób obsługi wielokrotnych porównań. - NOTE} Wyniki planujemy przedstawić wraz z wielkością zaobserwowanej różnicy i miarą niepewności.
+
+    \section{Plan analizy statystycznej}
+    Dla LoRA i QLoRA planujemy po pięć treningów i ewaluacji
+z różnymi ziarnami losowości. Dla modelu bazowego planujemy
+powtórzyć inferencję bez dotrenowania, przy czym wpływ
+ziarna zależy od backendu i ustawień generowania. Dla
+każdego uruchomienia zapiszemy wynik F1, konfigurację oraz
+predykcje dla poszczególnych par zdań. Następnie
+przedstawimy wszystkie wyniki, ich średnią i odchylenie
+standardowe. Pozwoli to opisać zmienność wyników pomiędzy
+uruchomieniami.
+
+    Przy porównywaniu eksperymentów planujemy podawać
+różnicę wyników wraz z analizą jej istotności statystycznej.
+Rozważamy także sparowany \textbf{?????????} bootstrap par
+zdań testowych: w kolejnych próbach te same pary będą
+losowane ze zwracaniem dla obu porównywanych systemów, a
+zbiorcze F1 zostanie przeliczone dla każdej próby. Taka
+analiza dotyczy zmienności związanej z doborem przykładów
+testowych. Oddzielnie trzeba uwzględnić zmienność między
+uruchomieniami treningu.
+
+    \textbf{Do ustalenia pozostają jednostka analizy, metoda uwzględnienia obu źródeł zmienności, próg istotności oraz sposób obsługi wielokrotnych porównań. - NOTE} Wyniki planujemy przedstawić wraz z wielkością zaobserwowanej różnicy i miarą niepewności.
 
 
-\section{Kwestie do ustalenia}
-\textbf{Do ustalenia pozostają dostęp do GPU, dokładny wariant modelu, zakres pełnego dotrenowania, format danych treningowych i predykcji, sposób obsługi niepoprawnych odpowiedzi, metoda analizy statystycznej oraz protokół porównania z wynikami referencyjnymi.}
+    \section{Kwestie do ustalenia}
+    \textbf{Do ustalenia pozostają dostęp do GPU, dokładny wariant modelu, zakres pełnego dotrenowania, format danych treningowych i predykcji, sposób obsługi niepoprawnych odpowiedzi, metoda analizy statystycznej oraz protokół porównania z wynikami referencyjnymi.}
 
-\begin{thebibliography}{9}
-\bibitem{semeval} SemEval 2016 Task 2, \url{https://alt.qcri.org/semeval2016/task2/}.
-\bibitem{kopyt} M. Kopyt, \textit{Określanie interpretowalnego podobieństwa semantycznego dla języka angielskiego}, praca magisterska, rozdział 4.
-\bibitem{jacyna} Z. Jacyna, P. Pusiewicz, M. Rak, \textit{Dokumentacja końcowa projektu dotyczącego podobieństwa semantycznego}.
-\bibitem{gemma} Google, dokumentacja Gemma, \url{https://ai.google.dev/gemma/docs/core}.
-\bibitem{scisel} A. Ścisel, praca magisterska dostarczona w materiałach projektu.
-\end{thebibliography}
+    \begin{thebibliography}{9}
+        \bibitem{semeval} SemEval 2016 Task 2, \url{https://alt.qcri.org/semeval2016/task2/}.
+        \bibitem{kopyt} M. Kopyt, \textit{Określanie interpretowalnego podobieństwa semantycznego dla języka angielskiego}, praca magisterska, rozdział 4.
+        \bibitem{jacyna} Z. Jacyna, P. Pusiewicz, M. Rak, \textit{Dokumentacja końcowa projektu dotyczącego podobieństwa semantycznego}.
+        \bibitem{gemma} Google, dokumentacja Gemma, \url{https://ai.google.dev/gemma/docs/core}.
+        \bibitem{scisel} A. Ścisel, praca magisterska dostarczona w materiałach projektu.
+    \end{thebibliography}
 \end{document}
