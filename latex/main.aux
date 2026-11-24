@@ -9,23 +9,81 @@
 \@writefile{toc}{\contentsline {section}{\numberline {1}Cel projektu}{1}{section.1}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {2}Dobór modeli i plan eksperymentów}{1}{section.2}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {2.1}Modele referencyjne}{1}{subsection.2.1}\protected@file@percent }
+\citation{semeval}
 \@writefile{toc}{\contentsline {subsection}{\numberline {2.2}Modele wybrane do dotrenowania}{2}{subsection.2.2}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {2.3}Infrastruktura obliczeniowa}{2}{subsection.2.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {3}Przygotowanie danych}{2}{section.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Prompt i format odpowiedzi}{2}{subsection.3.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Typy etykiet}{3}{subsection.3.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Charakterystyka zbiorów}{4}{subsection.3.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.4}Rozkład anotacji i jakość danych}{4}{subsection.3.4}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {4}Dotrenowanie i walidacja odpowiedzi}{4}{section.4}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {5}Dane i ewaluacja}{5}{section.5}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}Wstępna ewaluacja SOL 6.1}{5}{subsection.5.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3}Charakterystyka i przygotowanie danych}{2}{section.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Opis zadania i formatu danych}{2}{subsection.3.1}\protected@file@percent }
+\newlabel{lst:wa_example}{{1}{3}{Przykładowa anotacja w formacie .wa}{lstlisting.1}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {1}Przykładowa anotacja w formacie .wa}{3}{lstlisting.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Typy relacji semantycznych}{3}{subsection.3.2}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Podstawowe typy relacji semantycznych w iSTS}}{4}{table.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Charakterystyka zbiorów danych}{4}{subsection.3.3}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Liczebności zbiorów danych}}{4}{table.2}\protected@file@percent }
+\newlabel{tab:dataset_sizes}{{2}{4}{Liczebności zbiorów danych}{table.2}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4}Rozkład relacji semantycznych}{4}{subsection.3.4}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces Rozkład typów relacji w zbiorach treningowych}}{4}{table.3}\protected@file@percent }
+\newlabel{tab:label_distribution}{{3}{4}{Rozkład typów relacji w zbiorach treningowych}{table.3}{}}
+\citation{jacyna}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5}Przygotowanie danych do ewaluacji i dotrenowania}{5}{subsection.3.5}\protected@file@percent }
+\newlabel{lst:json_example}{{2}{5}{Anotacja w opracowanym formacie JSON}{lstlisting.2}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {2}Anotacja w opracowanym formacie JSON}{5}{lstlisting.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.6}Podział danych}{6}{subsection.3.6}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4}Metodyka ewaluacji i wyniki wstępne}{6}{section.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Implementacja skryptu ewaluacyjnego}{6}{subsection.4.1}\protected@file@percent }
+\citation{jacyna}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Strategie promptowania}{7}{subsection.4.2}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces Warianty promptów wykorzystanych w ewaluacji}}{7}{table.4}\protected@file@percent }
+\newlabel{tab:evaluation_prompts}{{4}{7}{Warianty promptów wykorzystanych w ewaluacji}{table.4}{}}
+\newlabel{lst:zero_shot_json}{{3}{7}{Własny prompt zero-shot w formacie JSON}{lstlisting.3}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {3}Własny prompt zero-shot w formacie JSON}{7}{lstlisting.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Konwersja i walidacja predykcji}{8}{subsection.4.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4}Miary oceny}{9}{subsection.4.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.5}Ewaluacja modelu GPT-6.1 Sol}{9}{subsection.4.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.5.1}Wyniki dla domeny Answers-students}{9}{subsubsection.4.5.1}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {5}{\ignorespaces Wyniki GPT-6.1 Sol -- Answers-students}}{9}{table.5}\protected@file@percent }
+\newlabel{tab:sol_answers}{{5}{9}{Wyniki GPT-6.1 Sol -- Answers-students}{table.5}{}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.5.2}Wyniki dla domeny Images}{9}{subsubsection.4.5.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.5.3}Wyniki dla domeny Headlines}{9}{subsubsection.4.5.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.5.4}Wyniki zbiorcze}{9}{subsubsection.4.5.4}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {6}{\ignorespaces Wyniki GPT-6.1 Sol -- Images}}{10}{table.6}\protected@file@percent }
+\newlabel{tab:sol_images}{{6}{10}{Wyniki GPT-6.1 Sol -- Images}{table.6}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {7}{\ignorespaces Wyniki GPT-6.1 Sol -- Headlines}}{10}{table.7}\protected@file@percent }
+\newlabel{tab:sol_headlines}{{7}{10}{Wyniki GPT-6.1 Sol -- Headlines}{table.7}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {8}{\ignorespaces Wyniki zbiorcze GPT-6.1 Sol dla 1094 par zdań}}{10}{table.8}\protected@file@percent }
+\newlabel{tab:sol_pooled}{{8}{10}{Wyniki zbiorcze GPT-6.1 Sol dla 1094 par zdań}{table.8}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.6}Ewaluacja modelu Claude Opus 5.5}{11}{subsection.4.6}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {9}{\ignorespaces Wyniki Claude Opus 5.5 -- eight-shot iSTS}}{11}{table.9}\protected@file@percent }
+\newlabel{tab:opus_results}{{9}{11}{Wyniki Claude Opus 5.5 -- eight-shot iSTS}{table.9}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.7}Analiza niepoprawnych odpowiedzi}{11}{subsection.4.7}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {10}{\ignorespaces Liczba odrzuconych odpowiedzi modeli}}{11}{table.10}\protected@file@percent }
+\newlabel{tab:rejected_responses}{{10}{11}{Liczba odrzuconych odpowiedzi modeli}{table.10}{}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.7.1}Błędy numerowania słów -- GPT-6.1 Sol}{11}{subsubsection.4.7.1}\protected@file@percent }
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4}Prawidłowa numeracja słów}{12}{lstlisting.4}\protected@file@percent }
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {5}Błędna numeracja wygenerowana przez GPT-6.1 Sol}{12}{lstlisting.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.7.2}Błędy relacji NOALI -- Claude Opus 5.5}{12}{subsubsection.4.7.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.7.3}Odpowiedzi przerwane przez dostawcę API}{13}{subsubsection.4.7.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.7.4}Wpływ odrzuconych odpowiedzi na wyniki}{13}{subsubsection.4.7.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.8}Porównanie z wynikami poprzedniego etapu projektu}{13}{subsection.4.8}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {11}{\ignorespaces Porównanie wyników modeli referencyjnych}}{13}{table.11}\protected@file@percent }
+\newlabel{tab:previous_comparison}{{11}{13}{Porównanie wyników modeli referencyjnych}{table.11}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.9}Ewaluacja modeli uruchamianych lokalnie}{13}{subsection.4.9}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.9.1}Wyniki modelu Gemma 4 31B IT}{14}{subsubsection.4.9.1}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {12}{\ignorespaces Wstępne wyniki modelu Gemma 4 31B IT}}{14}{table.12}\protected@file@percent }
+\newlabel{tab:gemma_baseline}{{12}{14}{Wstępne wyniki modelu Gemma 4 31B IT}{table.12}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.10}Wnioski z dotychczasowych eksperymentów}{14}{subsection.4.10}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {5}Dotrenowanie modeli}{14}{section.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}Przygotowanie przykładów treningowych}{14}{subsection.5.1}\protected@file@percent }
+\newlabel{lst:sft_prompt}{{6}{15}{Proponowany prompt do nadzorowanego dotrenowania}{lstlisting.6}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {6}Proponowany prompt do nadzorowanego dotrenowania}{15}{lstlisting.6}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Metody dotrenowania}{15}{subsection.5.2}\protected@file@percent }
 \bibcite{semeval}{1}
 \bibcite{kopyt}{2}
 \bibcite{jacyna}{3}
 \bibcite{gemma}{4}
 \bibcite{scisel}{5}
 \bibcite{nemoqwen}{6}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.3}Dobór hiperparametrów}{16}{subsection.5.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.4}Plan eksperymentów treningowych}{16}{subsection.5.4}\protected@file@percent }
 \bibcite{athena}{7}
-\@writefile{toc}{\contentsline {section}{\numberline {6}Plan analizy statystycznej}{6}{section.6}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {7}Kwestie do ustalenia}{6}{section.7}\protected@file@percent }
-\gdef \@abspage@last{6}
+\gdef \@abspage@last{17}
