@@ -1,17 +1,26 @@
-\documentclass[11pt,a4paper]{article}
+\documentclass[a4paper,10pt]{article}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage[polish]{babel}
-\usepackage{lmodern}
-\usepackage[a4paper,margin=2.7cm]{geometry}
-\usepackage{listings}
-\usepackage{hyperref}
-\title{Dotrenowanie modeli językowych w zadaniu iSTS\\\large Dokumentacja wstępna}
-\author{Wiktor Frątczak, \newline
-Piotr Hołownia}
-\date{\today}
+\usepackage[margin=1.8cm,top=1.2cm]{geometry}
+\usepackage{lmodern,microtype,booktabs,listings}
+\usepackage[hidelinks]{hyperref}
+\raggedbottom
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{4pt}
+\setlength{\emergencystretch}{2em}
+
 \begin{document}
-    \maketitle
+    {\centering
+        \setlength{\parskip}{0pt}
+        {\Large\bfseries Dokumentacja wstępna I etapu projektu}\par
+        Wiktor Frątczak, Paweł Hołownia\par
+        \quad\today\par
+        \vspace{8pt}
+        \textbf{Temat projektu:} Sprawdzenie skuteczności działania dotrenowanych
+        modeli LLM w określaniu podobieństwa semantycznego dwóch zdań w języku
+        angielskim na poziomie całych zdań.\par
+    }
 
 
     \section{Cel projektu}
@@ -75,7 +84,7 @@ dostępnych anotacji.
     \subsection{Prompt i format odpowiedzi}
     W aktualnych testach wariant zero-shot JSON korzysta z
 poniższej instrukcji systemowej zapisanej w
-\texttt{prompts/system/zero-shot.json.txt}. Instrukcja
+\path{prompts/system/zero-shot.json.txt}. Instrukcja
 określa typy relacji, skalę ocen i format odpowiedzi. Skrypt
 przekazuje surową parę zdań w osobnej wiadomości
 użytkownika, a prompt zleca modelowi numerowanie tokenów
@@ -83,45 +92,31 @@ rozdzielonych białymi znakami od 1 osobno dla każdego
 zdania.
 
     \begin{lstlisting}[basicstyle=\small\ttfamily,breaklines=true,breakatwhitespace=true,columns=fullflexible,keepspaces=true,frame=single]
-Perform Interpretable Semantic Textual Similarity (iSTS) for
-the supplied English sentence pair.
+Perform Interpretable Semantic Textual Similarity (iSTS) for the supplied English sentence pair.
 
 Use these relation labels.
 - EQUI means the chunks are equivalent in context.
 - OPPO means their meanings are opposed in context.
 - SPE1 means the chunk in Sentence 1 is more specific.
 - SPE2 means the chunk in Sentence 2 is more specific.
-- SIMI means the meanings are similar without one of the
-relations above.
-- REL means the chunks are related without one of the
-relations above.
-- NOALI means the chunk has no counterpart in the other
-sentence.
+- SIMI means the meanings are similar without one of the relations above.
+- REL means the chunks are related without one of the relations above.
+- NOALI means the chunk has no counterpart in the other sentence.
 
-Use an integer score from 0 to 5. Use 5 for equivalent
-meanings,
-3 or 4 for very similar or closely related meanings, 1 or 2
-for slightly
-similar or related meanings, and 0 for unrelated or
-unaligned chunks.
+Use an integer score from 0 to 5. Use 5 for equivalent meanings,
+3 or 4 for very similar or closely related meanings, 1 or 2 for slightly
+similar or related meanings, and 0 for unrelated or unaligned chunks.
 
-Segment each sentence into meaningful chunks, then align
-corresponding chunks.
+Segment each sentence into meaningful chunks, then align corresponding chunks.
 
-Number the whitespace-separated tokens starting at 1
-independently in each
-sentence. Use the original token order. List the tokens that
-participate in
-each alignment. For NOALI, use an empty array for the
-missing side and a
+Number the whitespace-separated tokens starting at 1 independently in each
+sentence. Use the original token order. List the tokens that participate in
+each alignment. For NOALI, use an empty array for the missing side and a
 score of 0.
 
-Return a single JSON object with only an alignments array.
-Each row must
-contain source_indices, target_indices, label, and score.
-Use integer token
-indices. Return plain JSON without Markdown fences,
-comments, or explanation.
+Return a single JSON object with only an alignments array. Each row must
+contain source_indices, target_indices, label, and score. Use integer token
+indices. Return plain JSON without Markdown fences, comments, or explanation.
 
 {
   "alignments": [
@@ -176,6 +171,7 @@ Specyfikacja dopuszcza dopasowania wielu fragmentów do wielu
 fragmentów.
 
     \begin{itemize}
+        \setlength{\topsep}{3pt}
         \item \textbf{EQUI} --- fragmenty są równoważne znaczeniowo w kontekście zdań.
         \item \textbf{OPPO} --- znaczenia fragmentów są przeciwstawne.
         \item \textbf{SPE1} --- fragment pierwszego zdania jest bardziej szczegółowy niż odpowiadający mu fragment drugiego.
@@ -194,13 +190,13 @@ wiele anotacji.
 
     \begin{center}
         \begin{tabular}{lrrrr}
-            \hline
+            \toprule
             Domena           & Pary train & Pary test & Anotacje train & Anotacje test \\
-            \hline
+            \midrule
             Headlines        & 756        & 375       & 3979           & 2040          \\
             Images           & 750        & 375       & 4805           & 2462          \\
             Answers-students & 330        & 344       & 1848           & 1840          \\
-            \hline
+            \bottomrule
         \end{tabular}
     \end{center}
 
@@ -214,13 +210,13 @@ znacznikami FACT i POL.
 
     \begin{center}
         \begin{tabular}{lrrrrrrr}
-            \hline
+            \toprule
             Domena           & NOALI & EQUI & SIMI & SPE1 & SPE2 & REL & OPPO \\
-            \hline
+            \midrule
             Headlines        & 1792  & 1323 & 324  & 200  & 193  & 128 & 19   \\
             Images           & 2892  & 1029 & 340  & 245  & 229  & 67  & 3    \\
             Answers-students & 930   & 595  & 73   & 61   & 74   & 76  & 39   \\
-            \hline
+            \bottomrule
         \end{tabular}
     \end{center}
 
@@ -299,10 +295,10 @@ wariantów ewaluatora.
 \begin{center}
 \small
 \begin{tabular}{lrrrr}
-\hline
+\toprule
 Prompt & F1 oceny & F1 typu & F1 typ+ocena & F1 typ+ocena \\
  & & & no penalty & penalty \\
-\hline
+\midrule
 zero-shot.ists & 0,7585 & 0,5962 & 0,5828 & 0,6558 \\
 one-shot.ists & 0,7484 & 0,5855 & 0,5731 & 0,6486 \\
 zero-shot.jacyna-json & 0,7801 & 0,6101 & 0,5977 & 0,6695 \\
@@ -310,19 +306,19 @@ one-shot.jacyna-json & 0,7827 & 0,6168 & 0,6036 & 0,6765 \\
 zero-shot.json & 0,7761 & 0,6010 & 0,5880 & 0,6669 \\
 one-shot.json & 0,7730 & 0,6039 & 0,5910 & 0,6670 \\
 eight-shot.ists & 0,8109 & 0,6508 & 0,6372 & 0,7045 \\
-\hline
+\bottomrule
 \end{tabular}
 \end{center}
 
 Wyniki dla poszczególnych domen przedstawiono poniżej.
-\paragraph{Answers}
+\subsubsection*{Answers}
 \begin{center}
 \small
 \begin{tabular}{lrrrr}
-\hline
+\toprule
 Prompt & F1 oceny & F1 typu & typ+ocena & typ+ocena \\
  & & & no penalty & penalty \\
-\hline
+\midrule
 zero-shot.ists & 0,6390 & 0,4949 & 0,4822 & 0,5444 \\
 one-shot.ists & 0,6337 & 0,4891 & 0,4765 & 0,5382 \\
 zero-shot.jacyna-json & 0,7245 & 0,5536 & 0,5405 & 0,6051 \\
@@ -330,18 +326,18 @@ one-shot.jacyna-json & 0,7271 & 0,5756 & 0,5607 & 0,6220 \\
 zero-shot.json & 0,7093 & 0,5334 & 0,5193 & 0,5938 \\
 one-shot.json & 0,7159 & 0,5625 & 0,5474 & 0,6104 \\
 eight-shot.ists & 0,7997 & 0,6614 & 0,6459 & 0,6892 \\
-\hline
+\bottomrule
 \end{tabular}
 \end{center}
 
-\paragraph{Images}
+\subsubsection*{Images}
 \begin{center}
 \small
 \begin{tabular}{lrrrr}
-\hline
+\toprule
 Prompt & F1 oceny & F1 typu & typ+ocena & typ+ocena \\
  & & & no penalty & penalty \\
-\hline
+\midrule
 zero-shot.ists & 0,8395 & 0,6568 & 0,6430 & 0,7249 \\
 one-shot.ists & 0,8264 & 0,6337 & 0,6218 & 0,7170 \\
 zero-shot.jacyna-json & 0,8342 & 0,6513 & 0,6396 & 0,7205 \\
@@ -349,18 +345,18 @@ one-shot.jacyna-json & 0,8351 & 0,6465 & 0,6341 & 0,7233 \\
 zero-shot.json & 0,8332 & 0,6414 & 0,6305 & 0,7170 \\
 one-shot.json & 0,8259 & 0,6299 & 0,6184 & 0,7116 \\
 eight-shot.ists & 0,8411 & 0,6499 & 0,6381 & 0,7290 \\
-\hline
+\bottomrule
 \end{tabular}
 \end{center}
 
-\paragraph{Headlines}
+\subsubsection*{Headlines}
 \begin{center}
 \small
 \begin{tabular}{lrrrr}
-\hline
+\toprule
 Prompt & F1 oceny & F1 typu & typ+ocena & typ+ocena \\
  & & & no penalty & penalty \\
-\hline
+\midrule
 zero-shot.ists & 0,7805 & 0,6248 & 0,6111 & 0,6844 \\
 one-shot.ists & 0,7698 & 0,6243 & 0,6116 & 0,6775 \\
 zero-shot.jacyna-json & 0,7764 & 0,6238 & 0,6112 & 0,6798 \\
@@ -368,7 +364,7 @@ one-shot.jacyna-json & 0,7810 & 0,6268 & 0,6146 & 0,6806 \\
 zero-shot.json & 0,7820 & 0,6286 & 0,6142 & 0,6888 \\
 one-shot.json & 0,7735 & 0,6195 & 0,6072 & 0,6772 \\
 eight-shot.ists & 0,7860 & 0,6396 & 0,6258 & 0,6916 \\
-\hline
+\bottomrule
 \end{tabular}
 \end{center}
 
@@ -379,9 +375,9 @@ dla danego formatu nie sprawdzano składni JSON.
 \begin{center}
 \small
 \begin{tabular}{lrrrr}
-\hline
+\toprule
 Prompt & Odpowiedzi & Odrzucone & Błędny JSON & Poprawione \\
-\hline
+\midrule
 zero-shot.ists & 1094 & 63 & -- & 0 \\
 one-shot.ists & 1094 & 63 & -- & 0 \\
 zero-shot.jacyna-json & 1094 & 0 & 0 & 0 \\
@@ -389,7 +385,7 @@ one-shot.jacyna-json & 1094 & 0 & 0 & 0 \\
 zero-shot.json & 1094 & 0 & 0 & 0 \\
 one-shot.json & 1094 & 0 & 0 & 0 \\
 eight-shot.ists & 1094 & 0 & -- & 0 \\
-\hline
+\bottomrule
 \end{tabular}
 \end{center}
 
