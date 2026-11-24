@@ -131,6 +131,13 @@ INPUT /usr/local/texlive/2026basic/texmf-dist/fonts/tfm/public/lm/ec-lmbx10.tfm
 INPUT /usr/local/texlive/2026basic/texmf-dist/fonts/tfm/public/lm/ec-lmri10.tfm
 INPUT /usr/local/texlive/2026basic/texmf-dist/fonts/tfm/public/lm/ec-lmr12.tfm
 INPUT /usr/local/texlive/2026basic/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
+INPUT /usr/local/texlive/2026basic/texmf-dist/tex/latex/lm/ts1lmr.fd
+INPUT /usr/local/texlive/2026basic/texmf-dist/tex/latex/lm/ts1lmr.fd
+INPUT /usr/local/texlive/2026basic/texmf-dist/tex/latex/lm/ts1lmr.fd
+INPUT /usr/local/texlive/2026basic/texmf-dist/fonts/tfm/public/lm/ts1-lmr10.tfm
+INPUT /usr/local/texlive/2026basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/local/texlive/2026basic/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
+INPUT /usr/local/texlive/2026basic/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc
 INPUT /usr/local/texlive/2026basic/texmf-dist/tex/latex/lm/t1lmtt.fd
 INPUT /usr/local/texlive/2026basic/texmf-dist/tex/latex/lm/t1lmtt.fd
 INPUT /usr/local/texlive/2026basic/texmf-dist/tex/latex/lm/t1lmtt.fd
@@ -159,13 +166,6 @@ INPUT /usr/local/texlive/2026basic/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT /usr/local/texlive/2026basic/texmf-dist/fonts/tfm/public/lm/lmex10.tfm
 INPUT /usr/local/texlive/2026basic/texmf-dist/fonts/tfm/public/lm/ec-lmr9.tfm
 INPUT /usr/local/texlive/2026basic/texmf-dist/fonts/tfm/public/lm/ec-lmtt9.tfm
-INPUT /usr/local/texlive/2026basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT /usr/local/texlive/2026basic/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
-INPUT /usr/local/texlive/2026basic/texmf-dist/tex/latex/lm/ts1lmr.fd
-INPUT /usr/local/texlive/2026basic/texmf-dist/tex/latex/lm/ts1lmr.fd
-INPUT /usr/local/texlive/2026basic/texmf-dist/tex/latex/lm/ts1lmr.fd
-INPUT /usr/local/texlive/2026basic/texmf-dist/fonts/tfm/public/lm/ts1-lmr10.tfm
-INPUT /usr/local/texlive/2026basic/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc
 INPUT /usr/local/texlive/2026basic/texmf-dist/fonts/tfm/public/lm/rm-lmr9.tfm
 INPUT /usr/local/texlive/2026basic/texmf-dist/fonts/tfm/public/lm/rm-lmr6.tfm
 INPUT /usr/local/texlive/2026basic/texmf-dist/fonts/tfm/public/lm/lmmi9.tfm

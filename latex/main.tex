@@ -23,50 +23,114 @@
     }
 
 
-    \section{Cel projektu}
-    Celem projektu jest zbadanie skuteczności dotrenowanych
-modeli językowych w zadaniu interpretowalnego podobieństwa
-semantycznego (iSTS) dla par zdań w języku angielskim.
-System ma wskazać dopasowania fragmentów zdań, typy relacji
-oraz oceny podobieństwa. Wyniki zostaną porównane z
-wcześniejszymi rozwiązaniami opisanymi w materiałach
-projektowych.
+\section{Cel projektu}
 
+Celem projektu jest zbadanie skuteczności dotrenowanych
+dużych modeli językowych (LLM) w zadaniu interpretowalnego
+podobieństwa semantycznego (iSTS) dla par zdań w języku
+angielskim. Badania zostaną przeprowadzone w wariancie
+system chunks, w którym model samodzielnie
+wyznacza fragmenty zdań, określa ich wzajemne dopasowania
+oraz przypisuje im typy relacji semantycznych i oceny
+podobieństwa.
 
-    \section{Zakres zadania}
-    Skupimy się na wariancie SysChunks, w którym system sam
-wyznacza fragmenty zdań. Planujemy dotrenowanie metodami
-LoRA i QLoRA oraz porównanie z pełnym dotrenowaniem
-mniejszych modeli, jeśli dostępne zasoby na to pozwolą.
+\textbf{W ramach projektu przyjęto następujące cele szczegółowe:}
 
-    Ewaluacja obejmie dostępne zbiory SemEval 2016 iSTS z
-domen \textit{images}, \textit{headlines} i
-\textit{answers-students}. Każdy eksperyment zostanie
-uruchomiony pięć razy z różnymi wartościami ziarna
-losowości. Porównania zostaną uzupełnione analizą istotności
-statystycznej.
+\begin{enumerate}
+    \item Ocena skuteczności najnowszych modeli językowych
+    udostępnianych przez OpenAI, Google oraz Anthropic
+    w zadaniu iSTS, z uwzględnieniem różnych strategii
+    promptowania (stosowanych w projekcie 3).
 
+    \item Dobór trzech modeli językowych o publicznie
+    dostępnych wagach, przeznaczonych do dotrenowania,
+    z uwzględnieniem ich architektury, liczby parametrów
+    oraz wymagań sprzętowych.
 
-    \section{Model i plan eksperymentów}
-    Planujemy eksperymenty z modelami Gemma 4 31B,
-Qwen3.8-27B, GPT-6.1 SOL oraz Opus 5.5. Modele SOL i Opus wykorzystamy
-do ewaluacji jako punkty odniesienia. \textbf{Do potwierdzenia pozostają dokładne
-warianty modeli, dostęp do GPU oraz możliwość uruchomienia i
-dotrenowania Gemmy i Qwena.} Dla Gemmy i Qwena porównamy wyniki modeli
-bazowych z wynikami po dotrenowaniu metodami LoRA i QLoRA. W
-eksperymentach wykorzystamy udostępniony kod projektu
-Jacyny.
+    \item Wyznaczenie wyników referencyjnych (baseline)
+    dla wybranych modeli przed dotrenowaniem.
 
-    Dla każdego z modeli Gemma i Qwen w wariancie SysChunks planujemy pięć uruchomień
-dla każdej z trzech konfiguracji: modelu bazowego, LoRA i
-QLoRA, czyli łącznie 15 uruchomień na model i domenę. Dla baseline'u
-planujemy powtórzenie inferencji, a dla adapterów osobne
-treningi i ewaluacje. SOL i Opus będą oceniane oddzielnie jako
-modele referencyjne. \textbf{Do sprawdzenia pozostaje obsługa
-seedów inferencji przez wybrany backend i jej wpływ na
-powtarzalność.} Zmienność baseline'u będzie zależała od
-ustawień generowania. W miarę dostępności zasobów rozważymy
-także pełne dotrenowanie mniejszych modeli.
+    \item Przygotowanie danych do nadzorowanego
+    dotrenowania modeli (Supervised Fine-Tuning, SFT)
+    na podstawie anotacji udostępnionych w ramach
+    SemEval-2016 Task 2.
+
+    \item Dotrenowanie każdego z trzech modeli metodami
+    LoRA i QLoRA oraz przeprowadzenie pełnego dotrenowania
+ dla co najmniej jednego z nich.
+
+    \item Ocena skuteczności dotrenowanych modeli
+    i porównanie ich wyników z wynikami uzyskanymi
+    przed dotrenowaniem oraz wynikami modeli
+    komercyjnych.
+
+    \item Porównanie metod LoRA, QLoRA i Full Fine-Tuning
+    pod względem wyników końcowych, czasu treningu
+    oraz wykorzystanych zasobów.
+
+    \item Ocena wpływu losowości procesu treningowego
+    na uzyskiwane wyniki poprzez przeprowadzenie
+    eksperymentów z pięcioma różnymi wartościami
+    ziarna losowości oraz analizę istotności
+    statystycznej zaobserwowanych różnic.
+\end{enumerate}
+
+Ewaluacja zostanie przeprowadzona na oficjalnych zbiorach
+testowych SemEval-2016 iSTS z domen \textit{headlines},
+\textit{images} oraz \textit{answers-students}, przy
+użyciu skryptów ewaluacyjnych udostępnionych przez
+organizatorów konkursu.
+
+\section{Dobór modeli i plan eksperymentów}
+
+\subsection{Modele referencyjne}
+
+W pierwszej części projektu przeprowadzimy ewaluację
+modeli komercyjnych reprezentujących czołówkę współczesnych
+dużych modeli językowych (ang. frontier models):
+
+\begin{itemize}
+    \item GPT-6.1 Sol (OpenAI),
+    \item Claude Opus 5.5 (Anthropic),
+    \item Gemini 4 Carbon (Google DeepMind).
+\end{itemize}
+
+Celem tej części eksperymentów jest określenie skuteczności
+współczesnych modeli ogólnego przeznaczenia w zadaniu iSTS
+bez dodatkowego dotrenowania. Uzyskane wyniki będą stanowiły
+punkt odniesienia dla dotychcasowych wyników z projektu Jacyny? modeli dotrenowanych w dalszej
+części projektu.
+
+Do ewaluacji zostaną wykorzystane prompty zdefiniowane w poprzenim etapie projektu (Jacyny), dodatkowo na naszych dodatkowych promptach.
+
+\subsection{Modele wybrane do dotrenowania}
+
+Przy wyborze modeli przeznaczonych do dotrenowania
+uwzględniono następujące kryteria:
+
+\begin{itemize}
+    \item wybór modeli należących do najnowszych generacji
+    dużych modeli językowych,
+    \item publiczną dostępność wag modelu,
+    \item możliwość dotrenowania metodami LoRA i QLoRA oraz FFT,
+    \item wymagania obliczeniowe i pamięciowe modeli
+    w odniesieniu do zasobów klastra Obeliks Instytutu
+    Informatyki oraz
+    infrastruktury PLGrid.
+\end{itemize}
+
+Wstępnie do eksperymentów wybrano modele Gemma 4 31B IT
+oraz Qwen3.8-27B. Oba modele wykorzystują gęstą
+architekturę i posiadają zbliżoną liczbę parametrów,
+co pozwoli na porównanie skuteczności dotrenowania
+modeli z dwóch różnych rodzin o podobnej skali.
+
+Wybór trzeciego modelu zostanie dokonany po przeprowadzeniu
+pierwszych eksperymentów z wyżej wymienionymi modelami,
+na podstawie rzeczywistego zapotrzebowania na pamięć GPU
+oraz czasu treningu. Uwzględniona zostanie również
+możliwość wykorzystania superkomputera Athena dostępnego
+w ramach infrastruktury PLGrid.
 
 
     \section{Przygotowanie danych}
