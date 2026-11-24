@@ -171,189 +171,415 @@ obliczeniowych wyposażonych w osiem kart NVIDIA A100
 40 GB na węzeł. Zasoby te będą wykorzystywane jako uzupełnienie
 infrastruktury uczelnianej.
 
-    \section{Przygotowanie danych}
-    Dane iSTS zawierają pary zdań i referencyjne anotacje
-dopasowań fragmentów. Trzy domeny obejmują nagłówki
-wiadomości, opisy obrazów oraz odpowiedzi studentów
-porównywane z odpowiedziami wzorcowymi. W dostarczonych
-materiałach dostępne są zbiory treningowe i testowe oraz
-referencyjne anotacje. Przygotowanie przykładów do
-dotrenowania nadzorowanego będzie polegało na określeniu
-wejścia obejmującego parę zdań, instrukcję systemową.
-Oczekiwana odpowiedź zostanie przygotowana na podstawie
-dostępnych anotacji.
+\section{Charakterystyka i przygotowanie danych}
 
-    \subsection{Typy etykiet}
-    Podstawowe typy etykiet to EQUI, OPPO, SPE1, SPE2, SIMI,
-REL i NOALI. Dodatkowe znaczniki FACT i POL opisują
-odpowiednio różnice w faktyczności oraz polaryzacji.
-Specyfikacja dopuszcza dopasowania wielu fragmentów do wielu
-fragmentów.
+W projekcie wykorzystamy zbiory danych udostępnione
+w ramach SemEval-2016 Task 2: Interpretable Semantic
+Textual Similarity (iSTS) \cite{semeval}.
 
-    \begin{itemize}
-        \setlength{\topsep}{3pt}
-        \item \textbf{EQUI} --- fragmenty są równoważne znaczeniowo w kontekście zdań.
-        \item \textbf{OPPO} --- znaczenia fragmentów są przeciwstawne.
-        \item \textbf{SPE1} --- fragment pierwszego zdania jest bardziej szczegółowy niż odpowiadający mu fragment drugiego.
-        \item \textbf{SPE2} --- fragment drugiego zdania jest bardziej szczegółowy niż odpowiadający mu fragment pierwszego.
-        \item \textbf{SIMI} --- fragmenty mają podobne znaczenie, ale relacja nie należy do powyższych typów.
-        \item \textbf{REL} --- fragmenty są powiązane znaczeniowo, lecz nie spełniają warunków relacji SIMI ani pozostałych wymienionych typów.
-        \item \textbf{NOALI} --- fragment nie ma odpowiednika w drugim zdaniu.
-    \end{itemize}
+\subsection{Opis zadania i formatu danych}
 
-    \subsection{Prompt i format odpowiedzi}
-    Prompt to instrukcja przekazywana modelowi. W wariancie
-zero-shot nie zawiera ona przykładów, a w wariantach one-shot
-i eight-shot zawiera odpowiednio jeden i osiem przykładów.
-W wariancie zero-shot JSON planujemy wykorzystać instrukcję
-systemową zapisaną w
-\path{prompts/system/zero-shot.json.txt}. Instrukcja
-określa typy relacji, skalę ocen i format odpowiedzi. Skrypt
-będzie przekazywał surową parę zdań w osobnej wiadomości
-użytkownika, a prompt zleci modelowi numerowanie tokenów
-rozdzielonych białymi znakami od 1 osobno dla każdego
-zdania.
+W ramach iSTS wyróżnia się dwa warianty zadania:
 
-    \begin{lstlisting}[basicstyle=\small\ttfamily,breaklines=true,breakatwhitespace=true,columns=fullflexible,keepspaces=true,frame=single]
-Perform Interpretable Semantic Textual Similarity (iSTS) for the supplied English sentence pair.
+\begin{itemize}
+    \item \textbf{Gold Chunks} -- model otrzymuje zdania
+    z referencyjnym podziałem na fragmenty (ang. chunks).
+    Zadanie polega na dopasowaniu fragmentów oraz
+    przypisaniu im typów relacji i ocen podobieństwa.
 
-Use these relation labels.
-- EQUI means the chunks are equivalent in context.
-- OPPO means their meanings are opposed in context.
-- SPE1 means the chunk in Sentence 1 is more specific.
-- SPE2 means the chunk in Sentence 2 is more specific.
-- SIMI means the meanings are similar without one of the relations above.
-- REL means the chunks are related without one of the relations above.
-- NOALI means the chunk has no counterpart in the other sentence.
+    \item \textbf{System Chunks} -- model otrzymuje
+    zdania bez podziału na fragmenty. Oprócz określenia
+    dopasowań, typów relacji i ocen podobieństwa musi
+    samodzielnie przeprowadzić segmentację zdań.
+\end{itemize}
 
-Use an integer score from 0 to 5. Use 5 for equivalent meanings,
-3 or 4 for very similar or closely related meanings, 1 or 2 for slightly
-similar or related meanings, and 0 for unrelated or unaligned chunks.
+W ramach projektu skupimy się na wariancie System Chunks.
 
-Segment each sentence into meaningful chunks, then align corresponding chunks.
+Dla każdej domeny udostępniono następujące pliki:
 
-Number the whitespace-separated tokens starting at 1 independently in each
-sentence. Use the original token order. List the tokens that participate in
-each alignment. For NOALI, use an empty array for the missing side and a
-score of 0.
+\begin{itemize}
+    \item \texttt{*.sent1.txt}, \texttt{*.sent2.txt} --
+    zdania wejściowe,
 
-Return a single JSON object with only an alignments array. Each row must
-contain source_indices, target_indices, label, and score. Use integer token
-indices. Return plain JSON without Markdown fences, comments, or explanation.
+    \item \texttt{*.sent1.chunk.txt},
+    \texttt{*.sent2.chunk.txt} --
+    zdania z referencyjnym podziałem na fragmenty,
 
+    \item \texttt{*.wa} -- referencyjne anotacje
+    dopasowań pomiędzy fragmentami zdań.
+\end{itemize}
+
+Format \texttt{.wa} zawiera identyfikator pary zdań,
+treść obu zdań, listy ponumerowanych słów oraz sekcję
+dopasowań (\texttt{alignment}). Każdy wiersz tej sekcji
+zawiera indeksy słów pierwszego i drugiego zdania,
+typ relacji semantycznej, ocenę podobieństwa oraz
+tekst dopasowanych fragmentów.
+
+Indeksowanie rozpoczyna się od 1 niezależnie dla
+każdego zdania. Indeks 0 oznacza brak odpowiadającego
+fragmentu po danej stronie dopasowania. Jedno dopasowanie
+może obejmować kilka fragmentów z każdego zdania.
+
+Poniżej przedstawiono przykładową anotację pochodzącą
+ze zbioru treningowego Images (para nr 2).
+
+\begin{lstlisting}[
+    basicstyle=\small\ttfamily,
+    breaklines=true,
+    columns=fullflexible,
+    keepspaces=true,
+    frame=single,
+    caption={Przykładowa anotacja w formacie .wa},
+    label={lst:wa_example}
+]
+<sentence id="2" status="">
+// A large boat in the water at the marina .
+// A large boat on the sea .
+<source>
+1 A :
+2 large :
+3 boat :
+4 in :
+5 the :
+6 water :
+7 at :
+8 the :
+9 marina :
+10 . :
+</source>
+<translation>
+1 A :
+2 large :
+3 boat :
+4 on :
+5 the :
+6 sea :
+7 . :
+</translation>
+<alignment>
+4 5 6 <==> 4 5 6 // SPE2 // 4 // in the water <==> on the sea
+7 8 9 <==> 0 // NOALI // NIL // at the marina <==> -not aligned-
+0 <==> 7 // NOALI // NIL // -not aligned- <==> .
+10 <==> 0 // NOALI // NIL // . <==> -not aligned-
+1 2 3 <==> 1 2 3 // EQUI // 5 // A large boat <==> A large boat
+</alignment>
+</sentence>
+\end{lstlisting}
+
+W powyższym przykładzie fragmenty \textit{A large boat}
+zostały uznane za równoważne znaczeniowo (EQUI),
+natomiast fragment \textit{on the sea} uznano za
+bardziej szczegółowy niż \textit{in the water} (SPE2).
+Fragment \textit{at the marina} nie posiada odpowiednika
+w drugim zdaniu (NOALI).
+
+\subsection{Typy relacji semantycznych}
+
+Podstawowe typy relacji semantycznych wykorzystywane
+w zadaniu iSTS przedstawiono w poniższej tabeli.
+
+\begin{table}[htbp]
+    \centering
+    \caption{Podstawowe typy relacji semantycznych w iSTS}
+    \begin{tabular}{lp{12cm}}
+        \toprule
+        Etykieta & Znaczenie \\
+        \midrule
+        EQUI & Fragmenty są równoważne znaczeniowo
+        w kontekście zdań. \\
+
+        OPPO & Znaczenia fragmentów są przeciwstawne. \\
+
+        SPE1 & Fragment pierwszego zdania jest bardziej
+        szczegółowy niż fragment drugiego zdania. \\
+
+        SPE2 & Fragment drugiego zdania jest bardziej
+        szczegółowy niż fragment pierwszego zdania. \\
+
+        SIMI & Fragmenty mają podobne znaczenie, ale
+        relacja nie należy do żadnego z powyższych typów. \\
+
+        REL & Fragmenty są powiązane znaczeniowo, lecz
+        nie spełniają warunków relacji SIMI ani
+        pozostałych wymienionych typów. \\
+
+        NOALI & Fragment nie posiada odpowiednika
+        w drugim zdaniu. \\
+        \bottomrule
+    \end{tabular}
+\end{table}
+
+Oprócz typu relacji dopasowanym fragmentom przypisywana
+jest ocena podobieństwa semantycznego:
+
+\begin{itemize}
+    \item 5 -- równoważność znaczeniowa,
+    \item 3--4 -- wysokie podobieństwo lub silne
+    powiązanie semantyczne,
+    \item 1--2 -- niewielkie podobieństwo lub słabe
+    powiązanie semantyczne,
+    \item 0 -- brak podobieństwa.
+\end{itemize}
+
+W przypadku fragmentów niedopasowanych w danych
+referencyjnych występuje również oznaczenie NIL.
+
+Specyfikacja iSTS 2016 uwzględnia także dodatkowe
+znaczniki FACT i POL, opisujące odpowiednio różnice
+w faktyczności i polaryzacji. W ramach projektu skupimy
+się przede wszystkim na podstawowych typach relacji,
+bez przeprowadzania odrębnej analizy skuteczności
+rozpoznawania tych znaczników. Zaimplementowany
+konwerter zachowuje je podczas przekształcania danych.
+
+\subsection{Charakterystyka zbiorów danych}
+
+Zbiory danych obejmują trzy domeny:
+
+\begin{itemize}
+    \item \textbf{Headlines} -- pary nagłówków wiadomości
+    pochodzących z różnych źródeł informacyjnych.
+
+    \item \textbf{Images} -- pary opisów obrazów
+    pochodzących z serwisu Flickr.
+
+    \item \textbf{Answers-students} -- odpowiedzi
+    studentów zestawione z odpowiedziami wzorcowymi
+    na pytania z zakresu podstaw elektryczności.
+\end{itemize}
+
+Dla każdej domeny dostępny jest osobny zbiór treningowy
+i testowy. Liczebności par zdań oraz odpowiadających
+im anotacji przedstawiono w tabeli
+\ref{tab:dataset_sizes}.
+
+\begin{table}[htbp]
+    \centering
+    \caption{Liczebności zbiorów danych}
+    \label{tab:dataset_sizes}
+    \begin{tabular}{lrrrr}
+        \toprule
+        & \multicolumn{2}{c}{Pary zdań}
+        & \multicolumn{2}{c}{Anotacje} \\
+        \cmidrule(lr){2-3}
+        \cmidrule(lr){4-5}
+        Domena & Train & Test & Train & Test \\
+        \midrule
+        Headlines        & 756  & 375  & 3979  & 2040 \\
+        Images           & 750  & 375  & 4805  & 2462 \\
+        Answers-students & 330  & 344  & 1848  & 1840 \\
+        \midrule
+        Łącznie          & 1836 & 1094 & 10632 & 6342 \\
+        \bottomrule
+    \end{tabular}
+\end{table}
+
+Przez anotację rozumiemy pojedynczy wiersz sekcji
+dopasowań w pliku \texttt{.wa}, opisujący relację
+pomiędzy fragmentami zdań lub brak dopasowania.
+Jednej parze zdań odpowiada zazwyczaj kilka anotacji.
+W domenie Headlines znacznik FACT występuje 29 razy
+w zbiorze treningowym, a POL cztery razy w treningowym
+i dwa razy w testowym.
+
+\subsection{Rozkład relacji semantycznych}
+
+W tabeli \ref{tab:label_distribution} przedstawiono
+liczebności poszczególnych typów relacji semantycznych
+w zbiorach treningowych. Anotacje zawierające dodatkowe
+znaczniki FACT i POL uwzględniono w liczebnościach
+odpowiadających im podstawowych typów relacji.
+
+\begin{table}[htbp]
+    \centering
+    \caption{Rozkład typów relacji w zbiorach treningowych}
+    \label{tab:label_distribution}
+    \begin{tabular}{lrrrrrrr}
+        \toprule
+        Domena & NOALI & EQUI & SIMI & SPE1
+        & SPE2 & REL & OPPO \\
+        \midrule
+        Headlines        & 1792 & 1323 & 324 & 200 & 193 & 128 & 19 \\
+        Images           & 2892 & 1029 & 340 & 245 & 229 & 67  & 3  \\
+        Answers-students & 930  & 595  & 73  & 61  & 74  & 76  & 39 \\
+        \midrule
+        Łącznie          & 5614 & 2947 & 737 & 506 & 496 & 271 & 61 \\
+        \bottomrule
+    \end{tabular}
+\end{table}
+
+Rozkład typów relacji jest silnie niezrównoważony.
+Relacje NOALI i EQUI stanowią odpowiednio 52,8\%
+oraz 27,7\% wszystkich anotacji treningowych,
+czyli łącznie około 80,5\%.
+
+Najrzadziej występującą relacją jest OPPO, stanowiąca
+jedynie około 0,6\% anotacji. W szczególności zbiór
+treningowy Images zawiera tylko trzy przykłady tej
+relacji.
+
+Niewielka liczba przykładów niektórych typów relacji
+może utrudnić ich rozpoznawanie przez dotrenowane
+modele. W analizie wyników, oprócz ogólnych miar F1,
+uwzględnimy zatem również skuteczność rozpoznawania
+poszczególnych typów relacji.
+
+\subsection{Przygotowanie danych do ewaluacji i dotrenowania}
+
+W poprzednim etapie projektu \cite{jacyna} w wariantach
+promptów wykorzystujących format iSTS modele generowały
+kompletną reprezentację \texttt{.wa}, zawierającą
+m.in. treść zdań wejściowych, listy ponumerowanych
+słów oraz tekst dopasowanych fragmentów.
+
+Informacje te są jednak dostępne już na wejściu
+modelu lub mogą zostać jednoznacznie odtworzone
+na podstawie indeksów słów. Ich ponowne generowanie
+nie dostarcza dodatkowej informacji potrzebnej
+do rozwiązania zadania iSTS, zwiększa natomiast
+długość odpowiedzi i wprowadza dodatkowe możliwości
+popełnienia błędów formatowania.
+
+Z tego względu zdecydowaliśmy się na opracowanie
+uproszczonej reprezentacji danych wyjściowych
+w formacie JSON. Model generuje wyłącznie informacje
+niezbędne do opisania dopasowań:
+
+\begin{itemize}
+    \item \texttt{source\_indices} -- indeksy słów
+    należących do fragmentu pierwszego zdania,
+
+    \item \texttt{target\_indices} -- indeksy słów
+    należących do fragmentu drugiego zdania,
+
+    \item \texttt{label} -- typ relacji semantycznej,
+
+    \item \texttt{score} -- ocena podobieństwa.
+\end{itemize}
+
+Poszczególne dopasowania przechowywane są w tablicy
+\texttt{alignments}. Zachowano indeksowanie słów od 1,
+zgodnie z oryginalnym formatem danych. Brak fragmentu
+po jednej ze stron dopasowania reprezentowany jest
+przez pustą tablicę indeksów, natomiast oznaczenie NIL
+zastąpiono wartością liczbową 0.
+
+Poniżej przedstawiono reprezentację JSON odpowiadającą
+anotacji z listingu \ref{lst:wa_example}.
+
+\begin{lstlisting}[
+    basicstyle=\small\ttfamily,
+    breaklines=true,
+    columns=fullflexible,
+    keepspaces=true,
+    frame=single,
+    caption={Anotacja w opracowanym formacie JSON},
+    label={lst:json_example}
+]
 {
   "alignments": [
     {
-      "source_indices": [1, 2],
-      "target_indices": [1],
-      "label": "SPE1",
+      "source_indices": [4, 5, 6],
+      "target_indices": [4, 5, 6],
+      "label": "SPE2",
       "score": 4
+    },
+    {
+      "source_indices": [7, 8, 9],
+      "target_indices": [],
+      "label": "NOALI",
+      "score": 0
+    },
+    {
+      "source_indices": [],
+      "target_indices": [7],
+      "label": "NOALI",
+      "score": 0
+    },
+    {
+      "source_indices": [10],
+      "target_indices": [],
+      "label": "NOALI",
+      "score": 0
+    },
+    {
+      "source_indices": [1, 2, 3],
+      "target_indices": [1, 2, 3],
+      "label": "EQUI",
+      "score": 5
     }
   ]
 }
-    \end{lstlisting}
+\end{lstlisting}
 
-    Odpowiedź JSON ma zawierać tablicę \texttt{alignments},
-a każda pozycja listy indeksów, etykietę i ocenę. Wybraliśmy
-JSON, ponieważ nazwane pola ułatwiają parsowanie i
-walidację. Pakiet \texttt{ists\_converter} zawiera konwersję
-w obie strony między JSON i formatem \texttt{.wa}, w tym
-mapowanie oceny NIL na 0 i odwrotnie dla niedopasowanych
-fragmentów. Konwerter pomija oryginalne komentarze anotacji
-i generuje je ponownie. Dla niedopasowanych fragmentów
-normalizuje zapis oceny 0 do NIL. Testy sprawdzają wybrane
-przypadki konwersji, bez potwierdzenia identyczności
-wszystkich plików bajt po bajcie.
+Wybór formatu JSON uzasadniają:
 
-    Walidator sprawdza strukturę pól, indeksy, dozwolone
-etykiety i zakres oceny. Dopuszcza niepełne pokrycie słów i
-nakładające się dopasowania oraz nie wymusza oceny 0 dla
-NOALI, choć wymaga jej prompt. Przejście walidacji nie
-potwierdza więc spełnienia wszystkich zasad zadania. Skrypt
-ewaluacyjny zapisuje odpowiedź, której nie udało się
-przekonwertować, i dla danej pary przekazuje do ewaluacji
-pustą listę dopasowań. Błąd żądania lub nieprawidłowa
-odpowiedź API mogą przerwać uruchomienie. Skrypt dopuszcza
-ręczne poprawki zapisanych odpowiedzi. \textbf{Do ustalenia
-pozostaje końcowy protokół obsługi błędnych odpowiedzi, w
-tym zasady ręcznych poprawek.}
+\begin{itemize}
+    \item eliminacja konieczności ponownego generowania
+    treści zdań oraz dopasowanych fragmentów,
 
-    Konwerter obsługuje opcjonalne znaczniki FACT i POL, ale
-powyższy prompt ich nie wymienia. \textbf{Do ustalenia
-pozostaje sposób ich uwzględnienia w instrukcji oraz
-zgodność przygotowania danych treningowych z wybranym
-formatem odpowiedzi.}
+    \item ograniczenie liczby elementów strukturalnych,
+    które model musi wygenerować,
 
-    \subsection{Charakterystyka zbiorów}
-    Liczebności poniżej uzyskano przez zliczenie par w
-lokalnych plikach zdań i zweryfikowano względem liczby
-bloków anotacji. Anotacja to wiersz opisujący dopasowanie
-fragmentów lub jego brak, a jedna para zdań może zawierać
-wiele anotacji.
+    \item jednoznaczne określenie znaczenia poszczególnych
+    pól za pomocą ich nazw,
 
-    \begin{center}
-        \begin{tabular}{lrrrr}
-            \toprule
-            Domena           & Pary train & Pary test & Anotacje train & Anotacje test \\
-            \midrule
-            Headlines        & 756        & 375       & 3979           & 2040          \\
-            Images           & 750        & 375       & 4805           & 2462          \\
-            Answers-students & 330        & 344       & 1848           & 1840          \\
-            \bottomrule
-        \end{tabular}
-    \end{center}
+    \item możliwość wykorzystania standardowych
+    mechanizmów parsowania i walidacji JSON,
 
-    \textit{Headlines} zawiera pary nagłówków wiadomości, \textit{images} --- podpisów obrazów Flickr, a \textit{answers-students} --- odpowiedzi studentów i odpowiedzi wzorcowych z dziedziny podstaw elektryczności. Znaczniki FACT i POL występują lokalnie w \textit{headlines}: odpowiednio 29 i 4 razy w train oraz 0 i 2 razy w test. Liczby dotyczą wierszy anotacji, a nie niezależnych par zdań.
+    \item możliwość automatycznego odtworzenia formatu
+    \texttt{.wa} na podstawie predykcji modelu oraz
+    oryginalnych zdań wejściowych.
+\end{itemize}
 
-    \subsection{Rozkład anotacji i jakość danych}
-    Tabela przedstawia liczbę wierszy anotacji dla każdego
-podstawowego typu relacji w dostarczonych danych
-treningowych. Liczby obejmują również wiersze z dodatkowymi
-znacznikami FACT i POL.
+Na potrzeby projektu zaimplementowano konwertery
+umożliwiające dwukierunkową konwersję pomiędzy formatami
+\texttt{.wa} i JSON. Implementacja znajduje się w pakiecie
+\texttt{ists\_converter}.
 
-    \begin{center}
-        \begin{tabular}{lrrrrrrr}
-            \toprule
-            Domena           & NOALI & EQUI & SIMI & SPE1 & SPE2 & REL & OPPO \\
-            \midrule
-            Headlines        & 1792  & 1323 & 324  & 200  & 193  & 128 & 19   \\
-            Images           & 2892  & 1029 & 340  & 245  & 229  & 67  & 3    \\
-            Answers-students & 930   & 595  & 73   & 61   & 74   & 76  & 39   \\
-            \bottomrule
-        \end{tabular}
-    \end{center}
+Konwersja z formatu \texttt{.wa} do JSON zostanie
+wykorzystana do przygotowania oczekiwanych odpowiedzi
+w przykładach treningowych. Konwersja w przeciwnym
+kierunku umożliwi ewaluację predykcji modeli za pomocą
+oryginalnych skryptów udostępnionych przez organizatorów
+SemEval, bez konieczności modyfikowania sposobu
+obliczania miar jakości.
 
-    Rozkłady są niezrównoważone: NOALI i EQUI występują
-najczęściej, a OPPO jest rzadkie, szczególnie w zbiorze
-\textit{images}. W danych testowych występuje odpowiednio
-13, 1 i 49 anotacji OPPO w domenach \textit{headlines},
-\textit{images} i \textit{answers-students}. Liczebności
-rzadkich relacji mogą utrudnić ocenę jakości dla
-poszczególnych typów. Średnia liczba wierszy anotacji na
-parę treningową wynosi odpowiednio 5,26, 6,41 i 5,60
-\textbf{TO BE VERIFIED}.
+Przyjęty format JSON będzie wykorzystywany zarówno
+podczas nadzorowanego dotrenowania modeli
+(Supervised Fine-Tuning), jak i podczas wyznaczania
+wyników referencyjnych tych samych modeli przed
+dotrenowaniem. Pozwoli to porównać wpływ dotrenowania
+na skuteczność rozwiązania zadania przy zachowaniu
+jednakowego formatu odpowiedzi.
 
-    W testowym \textit{answers-students} para o
-identyfikatorze 252 ma pustą sekcję dopasowań. W danych
-występują także różne zapisy oceny dla relacji NOALI, w tym
-NIL i 0. \textbf{Przed przygotowaniem przykładów należy
-sprawdzić interpretację tych przypadków w ewaluatorze i
-ustalić ich obsługę.} Dalsza analiza obejmie długości
-tokenizowanych wejść i oczekiwanych odpowiedzi oraz zgodność
-anotacji z wymaganym formatem.
+W eksperymentach porównawczych uwzględnimy również
+prompty i formaty odpowiedzi z poprzedniego etapu projektu.
+Prompty zero-shot, one-shot i eight-shot zawierają
+odpowiednio zero, jeden i osiem przykładów. Instrukcja
+dla wariantu zero-shot JSON znajduje się w pliku
+\path{prompts/system/zero-shot.json.txt}.
+Parę zdań skrypt przekazuje w osobnej wiadomości użytkownika.
 
-    Dostarczony podział obejmuje train i test. W obu
-zbiorach \textit{headlines} znaleziono cztery identyczne
-uporządkowane pary zdań w porównaniu bez normalizacji
-tekstu. \textbf{Do ustalenia pozostaje sposób obsługi tych
-par, przy zachowaniu oficjalnego zbioru testowego.}
-\textbf{Do ustalenia pozostają sposób wydzielenia zbioru
-walidacyjnego i jego proporcja.} Zliczenia par treningowych
-dla \textit{headlines} i \textit{answers-students} różnią
-się od odpowiednio 750 i 333 podanych w pracy Ścisla.
-\textbf{Przyczyna rozbieżności pozostaje niepewna i wymaga
-sprawdzenia.}
+\subsection{Podział danych}
 
+Oficjalne dane iSTS zawierają podział na zbiory
+treningowe i testowe. Ze zbioru treningowego wydzielimy
+dodatkowo zbiór walidacyjny, który posłuży do doboru
+hiperparametrów oraz wyboru checkpointów modeli.
+
+W trakcie analizy danych zidentyfikowano cztery
+identyczne pary zdań występujące jednocześnie
+w zbiorze treningowym i testowym domeny Headlines.
+W celu ograniczenia przecieku danych (ang. data leakage)
+planujemy usunięcie tych par ze zbioru treningowego
+przy zachowaniu oryginalnego zbioru testowego.
+
+Ten sam podział danych zostanie wykorzystany we
+wszystkich eksperymentach dotrenowania, niezależnie
+od wybranego modelu, metody treningowej oraz wartości
+ziarna losowości.
 
     \section{Dotrenowanie i walidacja odpowiedzi}
     Zastosujemy nadzorowane dotrenowanie, w którym model
