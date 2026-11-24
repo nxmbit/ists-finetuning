@@ -39,21 +39,21 @@ statystycznej.
 
 
     \section{Model i plan eksperymentów}
-    Planujemy eksperymenty z modelami Gemma 4 31B oraz
-GPT-6.1 SOL. Model SOL wykorzystamy do ewaluacji jako punkt
-odniesienia. \textbf{Do potwierdzenia pozostają dokładne
+    Planujemy eksperymenty z modelami Gemma 4 31B,
+Qwen3.8-27B, GPT-6.1 SOL oraz Opus 5.5. Modele SOL i Opus wykorzystamy
+do ewaluacji jako punkty odniesienia. \textbf{Do potwierdzenia pozostają dokładne
 warianty modeli, dostęp do GPU oraz możliwość uruchomienia i
-dotrenowania Gemmy.} Dla Gemmy porównamy wynik modelu
-bazowego z wynikami po dotrenowaniu metodami LoRA i QLoRA. W
+dotrenowania Gemmy i Qwena.} Dla Gemmy i Qwena porównamy wyniki modeli
+bazowych z wynikami po dotrenowaniu metodami LoRA i QLoRA. W
 eksperymentach wykorzystamy udostępniony kod projektu
 Jacyny.
 
-    Dla Gemmy i wariantu SysChunks planujemy pięć uruchomień
+    Dla każdego z modeli Gemma i Qwen w wariancie SysChunks planujemy pięć uruchomień
 dla każdej z trzech konfiguracji: modelu bazowego, LoRA i
-QLoRA, czyli łącznie 15 uruchomień na domenę. Dla baseline'u
+QLoRA, czyli łącznie 15 uruchomień na model i domenę. Dla baseline'u
 planujemy powtórzenie inferencji, a dla adapterów osobne
-treningi i ewaluacje. SOL będzie oceniany oddzielnie jako
-model referencyjny. \textbf{Do sprawdzenia pozostaje obsługa
+treningi i ewaluacje. SOL i Opus będą oceniane oddzielnie jako
+modele referencyjne. \textbf{Do sprawdzenia pozostaje obsługa
 seedów inferencji przez wybrany backend i jej wpływ na
 powtarzalność.} Zmienność baseline'u będzie zależała od
 ustawień generowania. W miarę dostępności zasobów rozważymy
