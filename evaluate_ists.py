@@ -46,7 +46,7 @@ from urllib.parse import urlsplit
 
 from openai import OpenAI, OpenAIError, omit
 from openai.types.chat import ChatCompletion
-from tqdm import tqdm
+from tqdm.auto import tqdm
 
 from ists_converter import SentenceContext, json_to_wa
 from ists_converter.jacyna import reply_to_wa
