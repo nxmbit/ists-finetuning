@@ -98,8 +98,8 @@ dużych modeli językowych (ang. frontier models):
 Celem tej części eksperymentów jest określenie skuteczności
 współczesnych modeli ogólnego przeznaczenia w zadaniu iSTS
 bez dodatkowego dotrenowania. Uzyskane wyniki będą stanowiły
-punkt odniesienia dla dotychcasowych wyników z projektu Jacyny? modeli dotrenowanych w dalszej
-części projektu.
+punkt odniesienia w porównaniu z wynikami projektu Jacyny
+oraz modeli dotrenowanych w dalszej części projektu.
 
 Do ewaluacji zostaną wykorzystane prompty zdefiniowane w poprzenim etapie projektu (Jacyny), dodatkowo na naszych dodatkowych promptach.
 
@@ -183,13 +183,34 @@ wejścia obejmującego parę zdań, instrukcję systemową.
 Oczekiwana odpowiedź zostanie przygotowana na podstawie
 dostępnych anotacji.
 
+    \subsection{Typy etykiet}
+    Podstawowe typy etykiet to EQUI, OPPO, SPE1, SPE2, SIMI,
+REL i NOALI. Dodatkowe znaczniki FACT i POL opisują
+odpowiednio różnice w faktyczności oraz polaryzacji.
+Specyfikacja dopuszcza dopasowania wielu fragmentów do wielu
+fragmentów.
+
+    \begin{itemize}
+        \setlength{\topsep}{3pt}
+        \item \textbf{EQUI} --- fragmenty są równoważne znaczeniowo w kontekście zdań.
+        \item \textbf{OPPO} --- znaczenia fragmentów są przeciwstawne.
+        \item \textbf{SPE1} --- fragment pierwszego zdania jest bardziej szczegółowy niż odpowiadający mu fragment drugiego.
+        \item \textbf{SPE2} --- fragment drugiego zdania jest bardziej szczegółowy niż odpowiadający mu fragment pierwszego.
+        \item \textbf{SIMI} --- fragmenty mają podobne znaczenie, ale relacja nie należy do powyższych typów.
+        \item \textbf{REL} --- fragmenty są powiązane znaczeniowo, lecz nie spełniają warunków relacji SIMI ani pozostałych wymienionych typów.
+        \item \textbf{NOALI} --- fragment nie ma odpowiednika w drugim zdaniu.
+    \end{itemize}
+
     \subsection{Prompt i format odpowiedzi}
-    W aktualnych testach wariant zero-shot JSON korzysta z
-poniższej instrukcji systemowej zapisanej w
+    Prompt to instrukcja przekazywana modelowi. W wariancie
+zero-shot nie zawiera ona przykładów, a w wariantach one-shot
+i eight-shot zawiera odpowiednio jeden i osiem przykładów.
+W wariancie zero-shot JSON planujemy wykorzystać instrukcję
+systemową zapisaną w
 \path{prompts/system/zero-shot.json.txt}. Instrukcja
 określa typy relacji, skalę ocen i format odpowiedzi. Skrypt
-przekazuje surową parę zdań w osobnej wiadomości
-użytkownika, a prompt zleca modelowi numerowanie tokenów
+będzie przekazywał surową parę zdań w osobnej wiadomości
+użytkownika, a prompt zleci modelowi numerowanie tokenów
 rozdzielonych białymi znakami od 1 osobno dla każdego
 zdania.
 
@@ -242,9 +263,7 @@ fragmentów. Konwerter pomija oryginalne komentarze anotacji
 i generuje je ponownie. Dla niedopasowanych fragmentów
 normalizuje zapis oceny 0 do NIL. Testy sprawdzają wybrane
 przypadki konwersji, bez potwierdzenia identyczności
-wszystkich plików bajt po bajcie. W próbnej ewaluacji
-podanej w notatkach odpowiedzi JSON były poprawne składniowo
-dla wszystkich 1094 par.
+wszystkich plików bajt po bajcie.
 
     Walidator sprawdza strukturę pól, indeksy, dozwolone
 etykiety i zakres oceny. Dopuszcza niepełne pokrycie słów i
@@ -265,24 +284,6 @@ pozostaje sposób ich uwzględnienia w instrukcji oraz
 zgodność przygotowania danych treningowych z wybranym
 formatem odpowiedzi.}
 
-    \subsection{Typy etykiet}
-    Podstawowe typy etykiet to EQUI, OPPO, SPE1, SPE2, SIMI,
-REL i NOALI. Dodatkowe znaczniki FACT i POL opisują
-odpowiednio różnice w faktyczności oraz polaryzacji.
-Specyfikacja dopuszcza dopasowania wielu fragmentów do wielu
-fragmentów.
-
-    \begin{itemize}
-        \setlength{\topsep}{3pt}
-        \item \textbf{EQUI} --- fragmenty są równoważne znaczeniowo w kontekście zdań.
-        \item \textbf{OPPO} --- znaczenia fragmentów są przeciwstawne.
-        \item \textbf{SPE1} --- fragment pierwszego zdania jest bardziej szczegółowy niż odpowiadający mu fragment drugiego.
-        \item \textbf{SPE2} --- fragment drugiego zdania jest bardziej szczegółowy niż odpowiadający mu fragment pierwszego.
-        \item \textbf{SIMI} --- fragmenty mają podobne znaczenie, ale relacja nie należy do powyższych typów.
-        \item \textbf{REL} --- fragmenty są powiązane znaczeniowo, lecz nie spełniają warunków relacji SIMI ani pozostałych wymienionych typów.
-        \item \textbf{NOALI} --- fragment nie ma odpowiednika w drugim zdaniu.
-    \end{itemize}
-
     \subsection{Charakterystyka zbiorów}
     Liczebności poniżej uzyskano przez zliczenie par w
 lokalnych plikach zdań i zweryfikowano względem liczby
@@ -302,7 +303,7 @@ wiele anotacji.
         \end{tabular}
     \end{center}
 
-    \textit{Headlines} zawiera pary nagłówków wiadomości, \textit{images} --- podpisów obrazów Flickr, a \textit{answers-students} --- odpowiedzi studentów i odpowiedzi wzorcowych z dziedziny podstaw elektryczności. W każdym zbiorze dominują anotacje NOALI i EQUI. Przykładowo w danych treningowych \textit{headlines} występują odpowiednio 1792 i 1323 takie anotacje, a w \textit{images} 2892 i 1029. Znaczniki FACT i POL występują lokalnie w \textit{headlines}: odpowiednio 29 i 4 razy w train oraz 0 i 2 razy w test. Liczby dotyczą wierszy anotacji, a nie niezależnych par zdań.
+    \textit{Headlines} zawiera pary nagłówków wiadomości, \textit{images} --- podpisów obrazów Flickr, a \textit{answers-students} --- odpowiedzi studentów i odpowiedzi wzorcowych z dziedziny podstaw elektryczności. Znaczniki FACT i POL występują lokalnie w \textit{headlines}: odpowiednio 29 i 4 razy w train oraz 0 i 2 razy w test. Liczby dotyczą wierszy anotacji, a nie niezależnych par zdań.
 
     \subsection{Rozkład anotacji i jakość danych}
     Tabela przedstawia liczbę wierszy anotacji dla każdego
@@ -377,10 +378,17 @@ raportowany.
     \section{Dane i ewaluacja}
 % Uzyjemy skryptwo distarczonych z datasetami, oraz promptów. Bedziemy testowac nasze modele z ich promptami do przetestowania baselinu, aby zobaczyc jak modele sobie radza
 
+    Miara F1 łączy precyzję i pełność dopasowań. W iSTS
+uwzględnia dopasowania tokenów we wszystkich ocenianych
+parach zdań. Przyjmuje wartości od 0 do 1, a wyższy wynik
+oznacza lepszą zgodność z anotacjami referencyjnymi.
+
     Skrypt \texttt{evaluate\_ists.py} wykorzystuje dwa
 dostarczone warianty ewaluatora F1. Raportuje F1
 dopasowania, F1 typu i F1 oceny z wariantu no penalty oraz
-F1 łączące typ i ocenę dla obu wariantów. Skrypt
+F1 łączące typ i ocenę dla obu wariantów. Wariant penalty
+łagodniej traktuje niektóre rozbieżności typów relacji niż
+wariant no penalty. Skrypt
 \texttt{wellformed.pl} służy do kontroli formatu. Notebook
 Colab uruchamia inferencję przez vLLM i skrypt ewaluacyjny;
 jego ustawienia demonstracyjne obejmują model Qwen2.5 1.5B
@@ -492,10 +500,9 @@ eight-shot.ists & 1094 & 0 & -- & 0 \\
 \end{center}
 
 Najwyższy wynik zbiorczy F1 typu i oceny uzyskał
-\texttt{eight-shot.ists}. W czterech wariantach JSON
-nie odnotowano odrzuconych ani błędnych składniowo
-odpowiedzi. W wariantach \texttt{zero-shot.ists}
-i \texttt{one-shot.ists} odrzucono po 63 odpowiedzi.
+\texttt{eight-shot.ists}. W domenie Answers różnica względem
+\texttt{zero-shot.ists} wyniosła 0,1637 w wariancie
+no penalty.
 
 \textbf{Do potwierdzenia pozostają ustawienia modelu,
 wariant segmentacji, sposób obliczenia wyniku zbiorczego
@@ -514,7 +521,7 @@ uruchomieniami.
 
     Przy porównywaniu eksperymentów planujemy podawać
 różnicę wyników wraz z analizą jej istotności statystycznej.
-Rozważamy także sparowany \textbf{?????????} bootstrap par
+Rozważamy także sparowany bootstrap par
 zdań testowych: w kolejnych próbach te same pary będą
 losowane ze zwracaniem dla obu porównywanych systemów, a
 zbiorcze F1 zostanie przeliczone dla każdej próby. Taka
@@ -522,11 +529,11 @@ analiza dotyczy zmienności związanej z doborem przykładów
 testowych. Oddzielnie trzeba uwzględnić zmienność między
 uruchomieniami treningu.
 
-    \textbf{Do ustalenia pozostają jednostka analizy, metoda uwzględnienia obu źródeł zmienności, próg istotności oraz sposób obsługi wielokrotnych porównań. - NOTE} Wyniki planujemy przedstawić wraz z wielkością zaobserwowanej różnicy i miarą niepewności.
+    \textbf{Do ustalenia pozostają jednostka analizy, metoda uwzględnienia obu źródeł zmienności, próg istotności oraz sposób obsługi wielokrotnych porównań.} Wyniki planujemy przedstawić wraz z wielkością zaobserwowanej różnicy i miarą niepewności.
 
 
     \section{Kwestie do ustalenia}
-    \textbf{Do ustalenia pozostają dostęp do GPU, dokładny wariant modelu, zakres pełnego dotrenowania, format danych treningowych i predykcji, sposób obsługi niepoprawnych odpowiedzi, metoda analizy statystycznej oraz protokół porównania z wynikami referencyjnymi.}
+    \textbf{Do ustalenia pozostają dokładny wariant modelu, zakres pełnego dotrenowania, format danych treningowych i predykcji, sposób obsługi niepoprawnych odpowiedzi, metoda analizy statystycznej oraz protokół porównania z wynikami referencyjnymi.}
 
     \begin{thebibliography}{9}
         \bibitem{semeval} SemEval 2016 Task 2, \url{https://alt.qcri.org/semeval2016/task2/}.
