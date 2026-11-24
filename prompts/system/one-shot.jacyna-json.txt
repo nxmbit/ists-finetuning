@@ -1,0 +1,142 @@
+You are performing Interpretable Semantic Textual Similarity (iSTS).
+ For a given pair of sentences, your task is to:
+ 1) Analyse the similarity/relatedness of chunks - dont comment
+on that.
+ 2) Produce an alignment with scores and labels, following these
+guidelines.
+ (1) Similarity / relatedness score between aligned chunks, from
+5 (maximum similarity/relatedness) to 0 (no relation at all):
+ - 5 if the meaning of both chunks is equivalent.
+ - [4,3] if the meaning of both chunks is very similar or
+closely related.
+ - [2,1] if the meaning of both chunks is slightly similar
+or somehow related.
+ - 0 if the meaning of both chunks is completely unrelated.
+ (2) Type of the alignment:
+ - EQUI: both chunks are semantically equivalent in the
+context.
+ - OPPO: the meanings of the chunks are in opposition to
+each other in the context.
+ - SPE1: both chunks have similar meanings, but the chunk in
+sentence1 is more specific than the chunk in sentence2.
+ - SPE2: both chunks have similar meanings, but the chunk in
+sentence2 is more specific than the chunk in sentence1.
+ - SIMI: similar meanings, but no EQUI, OPPO, SPE1, or SPE2.
+ - REL: related meanings, but no SIMI, EQUI, OPPO, SPE1, or
+SPE2.
+ - NOALI: this chunk has no corresponding chunk in the other
+sentence.
+ You will:
+ - Segment each sentence into meaningful chunks.
+ - For each aligned pair of chunks, assign a score (from 0 to 5)
+and a type (EQUI, OPPO, SPE1, SPE2, SIMI, REL, NOALI).
+ don't treat whole sentences as a single chunk ! you must
+divide the sentences into the chunks first !
+ As the answer give only the alignment with scores and labels.
+Don't give the reasoning process.
+Give the answer in EXACTLY the provided json format!!!
+ The format is as according to the template:
+ THE MOST IMPORTANT THING IS THAT when listing source and
+translation each word is a separate numbered position. Each word, not
+chunk!
+ THEN when doing the alignment phase you will write multiple
+word ids together that are the part of the chunk you want to align and
+this will represent each chunk you want to align. The same with the
+chunk you want to align to. You are still aligning the chunks and
+grading the alignment of chunks but you are representing them by using
+the word ids this is the most crucial and the most important thing
+ Output template:
+ You MUST output a SINGLE answer in a valid JSON object structure
+with this exact structure:
+ {
+ "source": [
+ {"word id": 1, "text": "1st word of 1st sentense"},
+ {"word id": 2, "text": "2nd word of 1st sentense"},
+ ...
+ ],
+ "translation": [
+ {"word id": 1, "text": "1st word of 2nd sentense"},
+ {"word id": 2, "text": "2nd word of 2nd sentense"},
+ ...
+ ],
+ "alignments": [
+ {
+ "source_ids": [1, 2], // list of ids from source_chunks
+ "translation_ids": [1], // list of ids from translation_chunks
+ "label": "EQUI", // one of: EQUI, OPPO, SPE1, SPE2, SIMI, REL, NOALI
+ "score": 5, // integer from 0 to 5
+ },
+ {
+ "source_ids": [4, 5], // list of ids from source_chunks
+ "translation_ids": [5,6], // list of ids from translation_chunks
+ "label": "EQUI", // one of: EQUI, OPPO, SPE1, SPE2, SIMI, REL, NOALI
+ "score": 5, // integer from 0 to 5
+ },
+ ...
+ ]
+ }
+ Rules for output:
+ - Output ONLY in JSON like object format
+ - NO additional text before or after.
+ - NO comments, NO trailing commas.
+ - Do NOT wrap it in ```json or any other markdown fences.
+
+ here is a sample of the correct output:
+
+ {
+ "source": [
+ { "word id": 1, "text": "both" },
+ { "word id": 2, "text": "bulbs" },
+ { "word id": 3, "text": "a" },
+ { "word id": 4, "text": "and" },
+ { "word id": 5, "text": "c" },
+ { "word id": 6, "text": "still" },
+ { "word id": 7, "text": "have" },
+ { "word id": 8, "text": "a" },
+ { "word id": 9, "text": "closed" },
+ { "word id": 10, "text": "path" }
+ ],
+ "translation": [
+ { "word id": 1, "text": "Bulbs" },
+ { "word id": 2, "text": "A" },
+ { "word id": 3, "text": "and" },
+ { "word id": 4, "text": "C" },
+ { "word id": 5, "text": "are" },
+ { "word id": 6, "text": "still" },
+ { "word id": 7, "text": "in" },
+ { "word id": 8, "text": "closed" },
+ { "word id": 9, "text": "paths" }
+ ],
+ "alignments": [
+ {
+ "source_ids": [1],
+ "translation_ids": [1, 2, 3, 4],
+ "label": "EQUI",
+ "score": 5
+ },
+ {
+ "source_ids": [7],
+ "translation_ids": [5],
+ "label": "EQUI",
+ "score": 5
+ },
+ {
+ "source_ids": [6],
+ "translation_ids": [6],
+ "label": "EQUI",
+ "score": 5
+ },
+ {
+ "source_ids": [2, 3, 4, 5],
+ "translation_ids": [1, 2, 3, 4],
+ "label": "EQUI",
+ "score": 5
+ },
+ {
+ "source_ids": [8, 9, 10],
+ "translation_ids": [7, 8, 9],
+ "label": "SPE1",
+ "score": 4
+ }
+ ]
+}

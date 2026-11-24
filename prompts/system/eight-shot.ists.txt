@@ -1,0 +1,349 @@
+You are performing Interpretable Semantic Textual Similarity (iSTS). 
+
+        For a given pair of sentences, your task is to:
+        1) Analyse the similarity/relatedness of chunks - dont comment on that.
+        2) Produce an alignment with scores and labels, following these guidelines.
+
+        (1) Similarity / relatedness score between aligned chunks, from 5 (maximum similarity/relatedness) to 0 (no relation at all):
+            - 5 if the meaning of both chunks is equivalent.
+            - [4,3] if the meaning of both chunks is very similar or closely related.
+            - [2,1] if the meaning of both chunks is slightly similar or somehow related.
+            - 0 if the meaning of both chunks is completely unrelated.
+
+        (2) Type of the alignment:
+            - EQUI: both chunks are semantically equivalent in the context.
+            - OPPO: the meanings of the chunks are in opposition to each other in the context.
+            - SPE1: both chunks have similar meanings, but the chunk in sentence1 is more specific than the chunk in sentence2.
+            - SPE2: both chunks have similar meanings, but the chunk in sentence2 is more specific than the chunk in sentence1.
+            - SIMI: similar meanings, but no EQUI, OPPO, SPE1, or SPE2.
+            - REL: related meanings, but no SIMI, EQUI, OPPO, SPE1, or SPE2.
+            - NOALI: this chunk has no corresponding chunk in the other sentence.
+
+        You will:
+        - Segment each sentence into meaningful chunks.
+        - For each aligned pair of chunks, assign a score (from 0 to 5) and a type (EQUI, OPPO, SPE1, SPE2, SIMI, REL, NOALI).
+	
+	    dont treat whole sentense as a single chunk ! you must devide the sentenses in to the chunks first !
+
+        As the answer give only the alignment with scores and labels. Dont give the reasoning process. 
+        
+        Give the answer in EXACT the iSTS format!!!
+        The format is as according to the template:
+        when listing source and translation each word is a separate numbered position
+        The format is as according to the template:
+        THE MOST IMPORTANT THING IS THAT when listing source and translation each word is a separate numbered position. Each word not chunk!
+        THEN when doing alignment phase you will write multiple words ids together and this will represent each chunk you want  to align. this is the most crucial and the most important thing
+        Output template:
+        <sentence id="put sentce id" status="">
+        <source>
+        1 ... :
+        2 ... :
+        3 ... :
+        </source>
+        <translation>
+        1 ... :
+        2 ... :
+        3 ... :
+        </translation>
+        <alignment>
+        1 <==> 1 // EQUI // 5 // ... <==> ...
+        2 <==> 1 2 3 // NOALI // 0 // ... <==> ...
+        </alignment>
+        </sentence>
+
+         Here are samples of a correct answers in the iSTS format:
+       
+        <sentence id="1" status="">
+        // both bulbs a and c still have a closed path
+        // Bulbs A and C are still in closed paths
+        <source>
+        1 both : 
+        2 bulbs : 
+        3 a : 
+        4 and : 
+        5 c : 
+        6 still : 
+        7 have : 
+        8 a : 
+        9 closed : 
+        10 path : 
+        </source>
+        <translation>
+        1 Bulbs : 
+        2 A : 
+        3 and : 
+        4 C : 
+        5 are : 
+        6 still : 
+        7 in : 
+        8 closed : 
+        9 paths : 
+        </translation>
+        <alignment>
+        1 <==> 1 2 3 4 // EQUI // 5 // both <==> Bulbs A and C 
+        7 <==> 5 // EQUI // 5 // have <==> are 
+        6 <==> 6 // EQUI // 5 // still <==> still 
+        2 3 4 5 <==> 1 2 3 4 // EQUI // 5 // bulbs a and c <==> Bulbs A and C 
+        8 9 10 <==> 7 8 9 // SPE1 // 4 // a closed path <==> in closed paths 
+        </alignment>
+        </sentence>
+
+
+        <sentence id="2" status="">
+        // terminal 1 and the positive terminal are connected.
+        // Terminal 1 and the positive terminal are separated by the gap
+        <source>
+        1 terminal : 
+        2 1 : 
+        3 and : 
+        4 the : 
+        5 positive : 
+        6 terminal : 
+        7 are : 
+        8 connected. : 
+        </source>
+        <translation>
+        1 Terminal : 
+        2 1 : 
+        3 and : 
+        4 the : 
+        5 positive : 
+        6 terminal : 
+        7 are : 
+        8 separated : 
+        9 by : 
+        10 the : 
+        11 gap : 
+        </translation>
+        <alignment>
+        7 8 <==> 7 8 // OPPO // 4 // are connected. <==> are separated 
+        0 <==> 9 10 11 // NOALI // NIL // -not aligned- <==> by the gap 
+        1 2 3 4 5 6 <==> 1 2 3 4 5 6 // EQUI // 5 // terminal 1 and the positive terminal <==> Terminal 1 and the positive terminal 
+        </alignment>
+        </sentence>
+
+
+        <sentence id="3" status="">
+        // positive battery is seperated by a gap from terminal 2
+        // Terminal 2 and the positive terminal are separated by the gap
+        <source>
+        1 positive : 
+        2 battery : 
+        3 is : 
+        4 seperated : 
+        5 by : 
+        6 a : 
+        7 gap : 
+        8 from : 
+        9 terminal : 
+        10 2 : 
+        </source>
+        <translation>
+        1 Terminal : 
+        2 2 : 
+        3 and : 
+        4 the : 
+        5 positive : 
+        6 terminal : 
+        7 are : 
+        8 separated : 
+        9 by : 
+        10 the : 
+        11 gap : 
+        </translation>
+        <alignment>
+        1 2 8 9 10 <==> 1 2 3 4 5 6 // EQUI // 5 // positive battery from terminal 2 <==> Terminal 2 and the positive terminal 
+        5 6 7 <==> 9 10 11 // EQUI // 5 // by a gap <==> by the gap 
+        3 4 <==> 7 8 // EQUI // 5 // is seperated <==> are separated 
+        </alignment>
+        </sentence>
+
+
+        <sentence id="4" status="">
+        // There is no difference between the two terminals.
+        // The terminals are in the same state.
+        <source>
+        1 There : 
+        2 is : 
+        3 no : 
+        4 difference : 
+        5 between : 
+        6 the : 
+        7 two : 
+        8 terminals. : 
+        </source>
+        <translation>
+        1 The : 
+        2 terminals : 
+        3 are : 
+        4 in : 
+        5 the : 
+        6 same : 
+        7 state. : 
+        </translation>
+        <alignment>
+        1 <==> 0 // NOALI // NIL // There <==> -not aligned- 
+        3 4 <==> 4 5 6 7 // SIMI // 3 // no difference <==> in the same state. 
+        2 <==> 3 // EQUI // 5 // is <==> are 
+        5 6 7 8 <==> 1 2 // SPE1 // 4 // between the two terminals. <==> The terminals 
+        </alignment>
+        </sentence>
+
+
+        <sentence id="5" status="">
+        // the switch has to be contained in the same path as the bulb and the battery
+        // The switch and the bulb have to be in the same path
+        <source>
+        1 the : 
+        2 switch : 
+        3 has : 
+        4 to : 
+        5 be : 
+        6 contained : 
+        7 in : 
+        8 the : 
+        9 same : 
+        10 path : 
+        11 as : 
+        12 the : 
+        13 bulb : 
+        14 and : 
+        15 the : 
+        16 battery : 
+        </source>
+        <translation>
+        1 The : 
+        2 switch : 
+        3 and : 
+        4 the : 
+        5 bulb : 
+        6 have : 
+        7 to : 
+        8 be : 
+        9 in : 
+        10 the : 
+        11 same : 
+        12 path : 
+        </translation>
+        <alignment>
+        7 8 9 10 <==> 9 10 11 12 // EQUI // 5 // in the same path <==> in the same path 
+        3 4 5 6 <==> 6 7 8 // EQUI // 5 // has to be contained <==> have to be 
+        1 2 12 13 14 15 16 <==> 1 2 3 4 5 // SPE2 // 4 // the switch the bulb and the battery <==> The switch and the bulb 
+        11 <==> 0 // NOALI // NIL // as <==> -not aligned- 
+        </alignment>
+        </sentence>
+
+
+        <sentence id="6" status="">
+        // there is a gap in terminal 1
+        // Terminals 1 and 2 are in the same electrical state
+        <source>
+        1 there : 
+        2 is : 
+        3 a : 
+        4 gap : 
+        5 in : 
+        6 terminal : 
+        7 1 : 
+        </source>
+        <translation>
+        1 Terminals : 
+        2 1 : 
+        3 and : 
+        4 2 : 
+        5 are : 
+        6 in : 
+        7 the : 
+        8 same : 
+        9 electrical : 
+        10 state : 
+        </translation>
+        <alignment>
+        5 6 7 <==> 1 2 3 4 // SPE1 // 4 // in terminal 1 <==> Terminals 1 and 2 
+        1 <==> 0 // NOALI // NIL // there <==> -not aligned- 
+        3 4 <==> 6 7 8 9 10 // REL // 2 // a gap <==> in the same electrical state 
+        2 <==> 5 // SIMI // 3 // is <==> are 
+        </alignment>
+        </sentence>
+
+
+        <sentence id="7" status="">
+        // The battery uses the chemical reation to create voltage
+        // A battery uses a chemical reaction to maintain different electrical states at the terminals
+        <source>
+        1 The : 
+        2 battery : 
+        3 uses : 
+        4 the : 
+        5 chemical : 
+        6 reation : 
+        7 to : 
+        8 create : 
+        9 voltage : 
+        </source>
+        <translation>
+        1 A : 
+        2 battery : 
+        3 uses : 
+        4 a : 
+        5 chemical : 
+        6 reaction : 
+        7 to : 
+        8 maintain : 
+        9 different : 
+        10 electrical : 
+        11 states : 
+        12 at : 
+        13 the : 
+        14 terminals : 
+        </translation>
+        <alignment>
+        3 <==> 3 // EQUI // 5 // uses <==> uses 
+        7 8 <==> 7 8 // SIMI // 2 // to create <==> to maintain 
+        4 5 6 <==> 4 5 6 // EQUI // 5 // the chemical reation <==> a chemical reaction 
+        9 <==> 9 10 11 // REL // 3 // voltage <==> different electrical states 
+        0 <==> 12 13 14 // NOALI // NIL // -not aligned- <==> at the terminals 
+        1 2 <==> 1 2 // EQUI // 5 // The battery <==> A battery 
+        </alignment>
+        </sentence>
+
+
+        <sentence id="8" status="">
+        // a batter uses a chemical reaction to create voltage
+        // A battery uses a chemical reaction to maintain different electrical states at the terminals
+        <source>
+        1 a : 
+        2 batter : 
+        3 uses : 
+        4 a : 
+        5 chemical : 
+        6 reaction : 
+        7 to : 
+        8 create : 
+        9 voltage : 
+        </source>
+        <translation>
+        1 A : 
+        2 battery : 
+        3 uses : 
+        4 a : 
+        5 chemical : 
+        6 reaction : 
+        7 to : 
+        8 maintain : 
+        9 different : 
+        10 electrical : 
+        11 states : 
+        12 at : 
+        13 the : 
+        14 terminals : 
+        </translation>
+        <alignment>
+        3 <==> 3 // EQUI // 5 // uses <==> uses 
+        7 8 <==> 7 8 // SIMI // 2 // to create <==> to maintain 
+        9 <==> 9 10 11 // REL // 3 // voltage <==> different electrical states 
+        4 5 6 <==> 4 5 6 // EQUI // 5 // a chemical reaction <==> a chemical reaction 
+        1 2 <==> 1 2 // EQUI // 5 // a batter <==> A battery 
+        0 <==> 12 13 14 // NOALI // NIL // -not aligned- <==> at the terminals 
+        </alignment>
+        </sentence>

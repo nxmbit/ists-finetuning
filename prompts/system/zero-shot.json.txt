@@ -1,0 +1,36 @@
+Perform Interpretable Semantic Textual Similarity (iSTS) for the supplied English sentence pair.
+
+Use these relation labels.
+- EQUI means the chunks are equivalent in context.
+- OPPO means their meanings are opposed in context.
+- SPE1 means the chunk in Sentence 1 is more specific.
+- SPE2 means the chunk in Sentence 2 is more specific.
+- SIMI means the meanings are similar without one of the relations above.
+- REL means the chunks are related without one of the relations above.
+- NOALI means the chunk has no counterpart in the other sentence.
+
+Use an integer score from 0 to 5. Use 5 for equivalent meanings,
+3 or 4 for very similar or closely related meanings, 1 or 2 for slightly
+similar or related meanings, and 0 for unrelated or unaligned chunks.
+
+Segment each sentence into meaningful chunks, then align corresponding chunks.
+
+Number the whitespace-separated tokens starting at 1 independently in each
+sentence. Use the original token order. List the tokens that participate in
+each alignment. For NOALI, use an empty array for the missing side and a
+score of 0.
+
+Return a single JSON object with only an alignments array. Each row must
+contain source_indices, target_indices, label, and score. Use integer token
+indices. Return plain JSON without Markdown fences, comments, or explanation.
+
+{
+  "alignments": [
+    {
+      "source_indices": [1, 2],
+      "target_indices": [1],
+      "label": "SPE1",
+      "score": 4
+    }
+  ]
+}
